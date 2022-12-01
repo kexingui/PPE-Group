@@ -37,4 +37,4 @@ Parfois l'expression "femme au foyer" est remplacée par une expression équival
 Il faudrait donc utiliser une expression régulière tel que :
 (mère|femme|maman)s?(au foyer)
 pour repérer les occurences de ce concept dans les différents textes
-
+De plus, le index.html est bien rédigé et notre page git est bien crée.
