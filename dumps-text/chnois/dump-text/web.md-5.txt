@@ -1,0 +1,450 @@
+     *
+
+   (BUTTON) Inscription
+   (BUTTON) Connexion
+   (BUTTON) Menu Grossesse, bébé, enfant, adolescent, famille
+   Nos magazines
+   à partir de 2,99€
+   Retrouvez nos guides thématiques pour une parentalité positive
+   j'achète au numéro
+   Gratuit
+   Consultez la version gratuite sur ordinateur, tablette ou smartphone
+   je lis en ligne
+   (BUTTON)
+   Recherche sur Magicmaman.com
+   (BUTTON)
+   ____________________ OK
+
+   Connectez-vous
+   (BUTTON)
+   Vous avez déjà un compte
+   ____________________
+   ____________________
+   (BUTTON) Mot de passe oublié
+   [ ] Se souvenir de moi
+   OK
+   Vous n'avez pas encore de compte
+   Je créé un compte pour recevoir mes newsletters et gérer mes données
+   personnelles.
+   ____________________
+   CRÉER MON COMPTE
+   ____________________
+   ____________________
+   ____________________
+   [ ] J'accepte la charte
+   [ ] Je souhaite recevoir des offres du site et ses partenaires
+   OK
+   Utiliser mon compte :
+   (BUTTON) Facebook
+
+     * MAM'ADVISOR
+     * TV
+     * Podcasts
+     * Conception
+     * Grossesse
+     * Prénoms
+     * Bébé
+          + Nouveau-né
+               o Le premier âge de bébé
+               o Le retour à la maison de bébé
+               o Bébé prématuré
+               o Bébés jumeaux
+          + Allaitement de bébé
+               o Allaitement maternel
+               o Allaitement mixte
+               o Tire-lait
+               o Sevrage de bébé
+          + Biberon
+               o Biberon de bébé
+               o Lait de bébé
+               o Chauffe-biberon
+               o Stérilisation du biberon
+          + Alimentation de bébé
+               o Alimentation de bébé mois par mois
+               o Allergies et intolérances alimentaires
+               o Alimentation équilibrée de bébé
+               o Diversification alimentaire de bébé
+               o Petits pots pour bébé
+               o Troubles alimentaires de bébé
+               o Recettes bébé
+               o Sécurité alimentaire
+          + Modes de garde bébé
+               o Trouver le bon mode de garde
+               o Assistante maternelle agréée
+               o Garde partagée
+               o Les crèches
+               o La nounou
+               o Baby-sitter
+               o Halte-garderie
+               o Jardin d'enfants
+               o Jeune fille au pair
+               o Calcul du coût mode de garde
+          + Aides, allocations et congés
+               o Congé maternité
+               o Congé paternité
+               o Congé parental
+          + Santé bébé
+               o Petits bobos et accidents domestiques
+               o Médicaments de bébé
+               o Pédiatre
+               o Soigner bébé
+               o Examens médicaux de bébé
+               o Urgence et premiers gestes de secours pour bébé
+          + Faire-part naissance bébé
+          + Maladies de bébé
+               o Autres infections
+               o Méningite
+               o Colique de bébé
+               o Constipation de bébé
+               o Diarrhée de bébé
+               o Reflux gastro-oesophagien
+               o Eczéma de bébé
+               o Fièvre, toux, rhume de bébé
+               o Bronchiolite de bébé
+               o Otite de bébé
+               o Gastro-entérite de bébé
+               o Grippe de bébé
+               o Varicelle de bébé
+               o Rougeole de bébé
+               o Autres maladies de bébé
+               o Autisme de bébé
+               o Handicap de bébé
+               o Angine de bébé
+               o Maladies de peau de bébé
+               o Pied-bot
+               o Maladies génétiques et maladies rares
+          + Allergies de bébé
+               o Asthme de bébé
+               o Allergies respiratoires de bébé
+               o Allergies alimentaires de bébé
+          + Prévention chez le bébé
+               o Vaccination de bébé
+               o Eté : prévention solaire
+               o Protéger bébé du froid
+               o Audition de bébé
+               o Yeux, Vue, Lunettes bébé
+          + Croissance de bébé
+               o Taille de bébé
+               o Poids de bébé
+               o Bébé grandit
+          + Dentition de bébé
+               o Dents de bébé
+               o Poussées dentaires de bébé
+               o Hygiène dentaire de bébé
+          + Langage de bébé
+               o Apprentissage du langage
+               o Bégaiement et troubles du langage
+               o Communiquer avec bébé
+          + Marche de bébé
+          + Sommeil de bébé
+               o Sommeil de bébé mois par mois
+               o Coucher bébé
+               o Endormir bébé
+               o Troubles du sommeil de bébé
+               o Sieste de bébé
+               o Cauchemars de bébé
+               o Sécurité pendant le sommeil de bébé
+          + Toilette de bébé
+               o Soins de bébé
+               o Bain de bébé
+               o Massage de bébé
+          + Eveil et développement bébé
+               o Développement de bébé
+               o Eveil de bébé
+               o Eveil musical de bébé
+               o Jouer avec bébé
+               o Activités de bébé
+               o Jouets pour bébé
+          + Psychologie de bébé
+               o Education de bébé
+               o Caractère de bébé
+          + Puériculture bébé
+               o Table à langer
+               o Sacs à langer
+               o Porte-bébé
+               o Poussettes
+               o Siège-auto
+               o Parc de bébé
+               o Ecoute-bébé, baby phone
+               o Mobile de bébé
+               o Biberons
+               o Transat de bébé
+               o Autre matériel de puériculture
+          + Etre maman
+               o Etre mère
+               o Post-partum
+               o Baby blues
+               o Reprendre le travail après bébé
+               o Femme au foyer
+               o Maigrir après bébé
+          + Etre papa
+               o Etre père
+               o Jeune papa
+               o Congé paternité
+          + Mode Bébé
+               o Mode bébé automne hiver
+               o Mode bébé printemps été
+          + Bébé mois par mois
+          + Couches et propreté de bébé
+               o Couches jetables, lavables
+               o Apprentissage de la propreté
+               o Change de bébé
+          + Sécurité de bébé
+               o Les gestes sécurité du quotidien
+               o Sécurité de Bébé à la maison
+               o Sécurité des jouets
+               o Sécurité du materiel de puériculture
+          + Calmer bébé
+               o Pleurs de bébé
+               o Sucettes
+               o Doudous
+          + Vacances avec bébé
+               o Vacances d’hiver avec bébé
+               o Vacances de Noël avec bébé
+               o Vacances de printemps avec bébé
+               o Vacances d’été avec bébé
+               o Les premières vacances de Bébé
+          + People
+               o Actualités People
+               o Bébés de stars
+               o Stars enceintes
+               o Papa people
+               o Maman célèbre
+               o Prénoms des enfants de stars
+               o Les régimes post-grossesse des stars
+               o Séries
+               o Vidéos people
+               o Bébé Cadum : les finalistes
+          + Baptême de bébé
+          + Journal de naissance
+          + Vidéos humour
+               o Vidéos buzz bébé
+               o Vidéos buzz enfant
+          + Chambre de bébé
+               o Aménager la chambre de bébé
+               o Décoration de la chambre de bébé
+               o Lit de bébé
+               o Nid d’ange, gigoteuse, turbulette
+          + Vidéos bébé
+               o Vidéos vaccinations et maladies de bébé
+               o Vidéos soigner bébé au quotidien
+               o Vidéos réagir en cas d'accident
+               o Vidéos allaitement
+               o Vidéos poids, diversification, conseils pour bien nourrir
+                 bébé
+               o Vidéos toilette de bébé
+               o Vidéos favoriser le sommeil de bébé
+               o Vidéos éveil de bébé
+               o Vidéos bébé au naturel
+          + Actu bébé
+          + Forum éveil, développement de bébé
+     * Enfant & ado
+     * École
+     * Femme
+     * Recettes
+     * Santé
+     * Écologie
+     * Guide d'achat
+     * Guide des maternités
+     * Actu
+     * Astrologie
+     * Beauté femme
+     * Boutique
+     * Déco & DIY
+     * Vie pratique
+     * Nos services
+     * Jeux concours
+     * Forum
+     * Newsletter
+     * Préparer Noël
+     * #bébésécurisé
+
+   Suivi bébé
+   Mam'Advisor
+   Journal de naissance
+   Podcast
+   Astro Bébé
+   Astrologie
+     * Magicmaman
+
+     Bébé
+
+     Etre maman
+
+     Femme au foyer
+
+Mère au foyer : un choix plus complexe qu'il ne parait
+
+   Par MagicMaman
+   Mère au foyer (BUTTON) Ajouter aux favoris (BUTTON) iStock
+   (BUTTON)
+   Partager
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   Envoyer par e-mail
+   (BUTTON)
+
+   Vous
+   De ____________________
+   Adresse e-mail ____________________
+
+   Vos destinataires (BUTTON) +
+   Adresse e-mail ____________________
+
+   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+   [ ] [ ] [ ] [ ] Je certifie ne pas envoyer d'e-mail indésirable
+   Envoyer
+   Il fut un temps où rester à la maison pour s'occuper de ses enfants
+   était le plus beau métier du monde. Aujourd'hui, être mère au foyer..
+   est bien plus difficile à assumer. Si certaines mamans vivent très bien
+   leur statut, d'autres au contraire, font face à une crise identitaire.
+   Comment assumer le regard des autres et les idées préconçues d'une
+   société qui a érigé la valeur travail au-dessus de tout ?
+
+   Elles ne sont pas très bien vues les mamans d’aujourd’hui qui ont
+   choisi de ne pas travailler et de se consacrer à leur foyer. « Mais,
+   n’as-tu pas peur de passer à côté de ta carrière ? », « Vous gagneriez
+   mieux votre vie avec deux salaires ! », « Tu ne t’ennuies pas chez toi
+   à rien faire ? », « Cela ne te gêne pas d’être dépendante de ton mari ?
+   »… Considérées comme des femmes soumises, voire aliénées à leurs
+   enfants, les mères au foyer ont parfois du mal à assumer et à
+   revendiquer leur choix… L’époque de nos grands-mères, non merci !
+
+Les mères au foyer d'aujourd'hui ne sont pas celles d'hier
+
+   En effet, être au foyer ne veut pas dire, puisqu’elles sont à la
+   maison, qu’elles ont un rôle de femme de ménage ou même de « bonne à
+   tout faire ».
+
+   La mère au foyer n'est pas censée connaître 25 comptines par coeur,
+   inventer des recettes de brioche ou apprendre à lire à des enfants de
+   deux ans et gérer toutes les tâches ménagères de la maison...
+
+Être mère au foyer, c’est quoi ?
+
+   C’est une femme qui n’exerce pas d’activité professionnelle et donc qui
+   n’est pas rémunérée. Cela peut être un choix de vie, une manière de
+   s’épanouir pleinement en tant que maman, mais toutes les mères au foyer
+   ne le sont pas forcément par choix. Et nombreuses sont celles qui
+   envisagent cette expérience comme une parenthèse leur permettant de
+   profiter pleinement de leurs enfants avant de reprendre une activité
+   professionnelle.
+   Vidéo du jour :
+
+   Toutes désespérées les mamans au foyer ? A l'heure où les femmes,
+   filles de leurs mères féministes, sont de plus en plus actives dans la
+   sphère professionnelle, il semble difficile de concevoir que certaines
+   font le choix - ou non - de rester dans le giron du foyer pour
+   s'occuper de leurs enfants. Faire intégrer qu'être mère au foyer ne
+   rime pas automatiquement avec femme dominée est un challenge qui se vit
+   au jour le jour pour nombre d'entre elles. Quelles sont les difficultés
+   rencontrées par ces mamans ? Comment sont-elles aujourd'hui considérées
+   par la société ? Quel regard portent-elles sur leur statut ? Autant de
+   questions qui ouvrent le débat sur l'état d'esprit de ces mamans qui
+   doivent souvent se justifier d'être ce qu'elles sont.
+   Découvrez notre dossier complet avec des témoignages de mamans au
+   foyer, des points de vue psy et de nombreux conseils pratiques.
+   Témoignages : "pourquoi je n’aime pas (ou plus !) être mère au foyer"
+   Être mère au foyer est un véritable privilège qui permet de profiter à
+   fond de ses enfants. Cependant, certains moments peuvent nous faire
+   regretter un mode de vie plus conventionnel… Nos lectrices se
+   racontent.
+   J'ai tout plaqué pour m'occuper de bébé : vos témoignages
+   Elles étaient autrefois l'image de la femme idéale, ces femmes ayant
+   mis de côté leur travail pour s'occuper de Bébé. Aujourd'hui on les
+   regarde de travers, les pensant rétrogrades. Un jugement hâtif que nos
+   témoignages mettent à mal…
+   Mère au foyer et adepte de la crèche, j'abuse ?
+   Il y a celles qui travaillent et culpabilisent car elles voient à peine
+   leur petit. Et celles sans impératifs professionnels qui n'osent pas
+   avouer qu'elles le font garder... et que c'est bon !
+   A quoi ressemble VRAIMENT le quotidien d'une mère au foyer ?
+   Agacée par tous les clichés qu’elle entend sur le quotidien d’une mère
+   au foyer, une jeune femme riposte et raconte ce à quoi sa vie de maman
+   ressemble vraiment. Des confessions aussi sincères que touchantes.
+   Moi, la working girl, je suis devenue mère au foyer !
+   Talons hauts, téléphone vissé à la main, agenda surchargé… Karine
+   s’épanouissait dans son métier d’attachée de presse. Jusqu’au jour où
+   elle est devenue maman. C’est alors que toute sa vie a changé.
+   Mère au foyer : dans l’air du temps ?
+   Emplois précaires, difficultés à concilier famille et boulot… face à un
+   monde du travail de plus en plus dur, la maison peut faire figure de
+   refuge pour de nombreuses mamans. Par ailleurs, éduquer ses enfants est
+   devenu un job à temps plein. Alors, mère au foyer, le retour ?
+   Témoignages : mères au foyer, elles ont décidé d'assumer !
+   Faire le choix de rester à la maison pour s'occuper de ses petits
+   implique de faire face aux jugements et critiques acerbes de
+   l'entourage. Pourtant, ces mamans-là ont décidé d'assumer leur
+   décision, loin des commentaires désobligeants et du regard de la
+   société. Découvrez leurs témoignages.
+   Mères au foyer : pourquoi est-ce si difficile à accepter ?
+   Si devenir mère au foyer suppose de mettre sa carrière au deuxième plan
+   pendant un petit moment, il faut également se préparer à affronter des
+   embûches faire accepter cette décision par son entourage et... la
+   société ! Pourquoi est-ce si difficile ? Nos deux expertes, Marlène
+   Schiappa, représentante du premier réseau de mères actives et la
+   psycho-clinicienne Yvonne Poncet-Bonissol apportent leurs éclairages.
+   5 idées pour les « mères au foyer »
+   Comment résoudre des problèmes que vous n’auriez peut-être pas
+   anticipés comme les attributions d'allocations, les salaires ou encore
+   les retraites ? Retour sur 5 point essentiels à connaître quand on est
+   mère au foyer.
+   Mère au foyer  : 10 conseils pour s'assumer
+   Celles qui choisissent de s’occuper de leurs enfants à temps plein
+   savent qu’il n’y a pas position sociale plus difficile à assumer. Voici
+   10 astuces pour tenir le coup malgré les regards interrogateurs et
+   assumer pleinement votre rôle de mère au foyer !
+   Partager
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+   Projet bébé ? Enceinte ? Déjà parents ? Inscrivez-vous à nos
+   newsletters
+
+   Toute l'actualité des futurs et jeunes parents
+   ____________________ Valider S'abonner
+
+   Le live du mercredi : le sommeil de Bébé
+
+   Derniers articles
+   Pink amène sa famille sur le tapis rouge, ses enfants Willow et Jameson
+   sont de vraies petites stars !
+   Shy'm dévoile de nouvelles images de son fils, dont elle est
+   complètement gaga !
+   Dépistage néonatal : sept maladies supplémentaires pourront être
+   dépistées dès janvier 2023, lesquelles ?
+
+   Plus d'Etre maman
+   Témoignage : « J’ai laissé mon fils de 13 ans quitter la maison pour
+   suivre son rêve de devenir footballeur »
+
+   Clarisse Agbégnénou : maman, son plus beau combat
+   Je suis tout le temps sur le qui-vive, et si je souffrais
+   d'hypervigilance maternelle ?
+   Les meilleurs livres d'éducation pour les parents
+
+   Plus de Femme au foyer
+   Témoignages : mères au foyer, elles ont décidé d'assumer !
+
+   Mères au foyer : pourquoi est-ce si difficile à accepter ?
+   5 idées pour les « mères au foyer »
+
+   Nos top articles
+   Les plus belles chansons qui évoquent la maternité et la paternitéMythe
+   de la mère parfaite : comment arrêter de se mettre la
+   pression ?Pourquoi j’ai décidé de n'avoir qu'un seul enfant : vos
+   témoignagesPériode crampon : au secours, il ne réclame que sa
+   maman !Deuxième enfant : les bonnes questions à se poser avant de se
+   lancerMaman épuisée : comment ne pas craquer ?
+
+   (BUTTON)
+   Gratuit
+
+   Je lis en ligne
+
+   Inscrivez-vous à la newsletter
+   ____________________ Valider
+
+     * Plan du site
+     * Mentions légales
+     * Cookies
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-57BMPX
