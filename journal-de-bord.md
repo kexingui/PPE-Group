@@ -38,3 +38,6 @@ Il faudrait donc utiliser une expression régulière tel que :
 (mère|femme|maman)s?(au foyer)
 pour repérer les occurences de ce concept dans les différents textes
 De plus, le index.html est bien rédigé et notre page git est bien crée.
+
+# 5 décembre 
+J'ai effectué un push de 50 urls en russe. 
