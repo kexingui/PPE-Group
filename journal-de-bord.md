@@ -41,3 +41,5 @@ De plus, le index.html est bien rédigé et notre page git est bien crée.
 
 # 5 décembre 
 J'ai effectué un push de 50 urls en russe. 
+# 7 décembre 
+La correction de configuration de git user name.
