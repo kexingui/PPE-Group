@@ -42,4 +42,9 @@ De plus, le index.html est bien rédigé et notre page git est bien crée.
 # 5 décembre 
 J'ai effectué un push de 50 urls en russe. 
 # 7 décembre 
-La correction de configuration de git user name.
+Aigerim :La correction de configuration de git user name.
+Kexin: De ma part, je rencontre grand problème de run out de contxt et faire le concordance ： Après que je run mon script, il y a des fichiers de context qui affichent, mais tous les fichiers sont vides.
+Après avoir demandé à mes camarades de classe, je me rends compte qu'il y avait un problème avec la définition  des variables dans mon script, et que les noms de fichiers dans le script ne correspondaient pas à mes noms de fichiers locaux. Pour moi le but des journée suivante est de règler ce problème.
+De plus, j‘ai trouvé l'exemple html de la désignation de site pour préparer l'organisation de notre page, et un bon exemple de scripte de tableau des étudiants ancient pour nous aider à avancer.
+
+
