@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-98c2e5cadbaab2449f6",applicationID:"720539872"};/*! For license information please see nr-loader-rum-1220.min.js.LICENSE.txt */
+!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.NRBA=e():t.NRBA=e()}(self,(function(){return function(){var t,e,n={9034:function(t,e,n){"use strict";var r=n(4168);e.Z=(0,r.ky)(16)},5973:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1])},4280:function(t,e,n){"use strict";n.d(e,{H:function(){return o}});var r=document.createElement("div");r.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e";var o,i=r.getElementsByTagName("div").length;o=4===i?6:3===i?7:2===i?8:1===i?9:0},5955:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=function(t,e){var n=this;return t&&"object"==typeof t?e&&"object"==typeof e?(Object.assign(this,e),void Object.entries(t).forEach((function(t){var e=t[0],r=t[1];n[e]=r}))):console.error("setting a Configurable requires a model to set its initial properties"):console.error("setting a Configurable requires an object as input")}},441:function(t,e,n){"use strict";n.d(e,{C:function(){return c},L:function(){return u}});var r=n(1424),o=n(5955),i={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function c(t){if(!t)throw new Error("All info objects require an agent identifier!");if(!a[t])throw new Error("Info for "+t+" was never set");return a[t]}function u(t,e){if(!t)throw new Error("All info objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"info")}},1476:function(t,e,n){"use strict";n.d(e,{Dg:function(){return c},Mt:function(){return u}});var r=n(1424),o=n(5955),i={privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0},metrics:{enabled:!0},page_action:{enabled:!0},page_view_event:{enabled:!0},page_view_timing:{enabled:!0},session_trace:{enabled:!0},spa:{enabled:!0}},a={};function c(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"config")}function u(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");var n=function(t){if(!t)throw new Error("All configuration objects require an agent identifier!");if(!a[t])throw new Error("Configuration for "+t+" was never set");return a[t]}(t);if(n){for(var r=e.split("."),o=0;o<r.length-1;o++)if("object"!=typeof(n=n[r[o]]))return;n=n[r[r.length-1]]}return n}},2085:function(t,e,n){"use strict";n.d(e,{Y:function(){return r}});var r=(0,n(1424).mF)().o},1220:function(t,e,n){"use strict";n.d(e,{O:function(){return w},s:function(){return x}});var r={};n.r(r),n.d(r,{agent:function(){return a},match:function(){return f},version:function(){return c}});var o=n(4280),i=n(6959),a=null,c=null;if(navigator.userAgent){var u=navigator.userAgent,s=u.match(/Version\/(\S+)\s+Safari/);s&&-1===u.indexOf("Chrome")&&-1===u.indexOf("Chromium")&&(a="Safari",c=s[1])}function f(t,e){if(!a)return!1;if(t!==a)return!1;if(!e)return!0;if(!c)return!1;for(var n=c.split("."),r=e.split("."),o=0;o<r.length;o++)if(r[o]!==n[o])return!1;return!0}var d=n(5955),l=n(1424),v=n(4168),p=window.sessionStorage,h="NRBA_SESSION_ID";var g=n(1476),y=window.XMLHttpRequest,m=y&&y.prototype,b={};function w(t){if(!t)throw new Error("All runtime objects require an agent identifier!");if(!b[t])throw new Error("Runtime for "+t+" was never set");return b[t]}function x(t,e){if(!t)throw new Error("All runtime objects require an agent identifier!");var n,a;b[t]=new d.I(e,(n=t,{customTransaction:void 0,disabled:!1,features:{},maxBytes:6===o.H?2e3:3e4,offset:(0,i.yf)(),onerror:void 0,origin:""+window.location,ptid:void 0,releaseIds:{},sessionId:!0===(0,g.Mt)(n,"privacy.cookies_enabled")?(null===(a=p.getItem(h))&&(a=(0,v.ky)(16),p.setItem(h,a)),a):"0",xhrWrappable:y&&m&&m.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:r})),(0,l.Qy)(t,b[t],"runtime")}},158:function(t,e,n){"use strict";n.d(e,{q:function(){return r}});var r=["1220","PROD"].filter((function(t){return t})).join(".")},3707:function(t,e,n){"use strict";n.d(e,{w:function(){return o}});var r={agentIdentifier:""},o=function(t){var e=this;if("object"!=typeof t)return console.error("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,r),Object.entries(t).forEach((function(t){var n=t[0],o=t[1];Object.keys(r).includes(n)&&(e.sharedContext[n]=o)}))}},1776:function(t,e,n){"use strict";n.d(e,{ee:function(){return r}});var r,o=n(1424),i=n(4217),a=n(357),c="nr@context",u=(0,o.fP)();function s(){}function f(){return new s}function d(){(r.backlog.api||r.backlog.feature)&&(r.aborted=!0,r.backlog={})}u.ee?r=u.ee:(r=function t(e,n){var o={},u={},l={},v={on:g,addEventListener:g,removeEventListener:y,emit:h,get:b,listeners:m,context:p,buffer:w,abort:d,aborted:!1,isBuffering:x,debugId:n,backlog:e&&e.backlog?e.backlog:{}};return v;function p(t){return t&&t instanceof s?t:t?(0,i.X)(t,c,f):f()}function h(t,n,o,i,a){if(!1!==a&&(a=!0),!r.aborted||i){e&&a&&e.emit(t,n,o);for(var c=p(o),s=m(t),f=s.length,d=0;d<f;d++)s[d].apply(c,n);var l=O()[u[t]];return l&&l.push([v,t,n,c]),c}}function g(t,e){o[t]=m(t).concat(e)}function y(t,e){var n=o[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return o[t]||[]}function b(e){return l[e]=l[e]||t(v,e)}function w(t,e){var n=O();v.aborted||(0,a.D)(t,(function(t,r){e=e||"feature",u[r]=e,e in n||(n[e]=[])}))}function x(t){return!!O()[u[t]]}function O(){return v.backlog}}(void 0,"globalEE"),u.ee=r)},7361:function(t,e,n){"use strict";n.d(e,{E:function(){return r},p:function(){return o}});var r=n(1776).ee.get("handle");function o(t,e,n,o,i){i?(i.buffer([t],o),i.emit(t,e,n)):(r.buffer([t],o),r.emit(t,e,n))}},3350:function(t,e,n){"use strict";n.d(e,{X:function(){return i}});var r=n(7361);i.on=a;var o=i.handlers={};function i(t,e,n,i){a(i||r.E,o,t,e,n)}function a(t,e,n,o,i){i||(i="feature"),t||(t=r.E);var a=e[i]=e[i]||{};(a[n]=a[n]||[]).push([t,o])}},4408:function(t,e,n){"use strict";n.d(e,{m:function(){return i}});var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(t){}function i(t){return r?{passive:!0,capture:!!t}:!!t}},4168:function(t,e,n){"use strict";function r(){var t=null,e=0,n=window.crypto||window.msCrypto;function r(){return t?15&t[e++]:16*Math.random()|0}n&&n.getRandomValues&&(t=n.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<i.length;c++)a+="x"===(o=i[c])?r().toString(16):"y"===o?(o=3&r()|8).toString(16):o;return a}function o(t){var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<t;i++)o.push(a().toString(16));return o.join("");function a(){return e?15&e[n++]:16*Math.random()|0}}n.d(e,{Rl:function(){return r},ky:function(){return o}})},6959:function(t,e,n){"use strict";n.d(e,{nb:function(){return u},os:function(){return s},yf:function(){return c},zO:function(){return a}});var r=n(2364),o=(new Date).getTime(),i=o;function a(){return r.G&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-i}function c(){return o}function u(t){i=t}function s(){return i}},2364:function(t,e,n){"use strict";n.d(e,{G:function(){return r}});var r=void 0!==window.performance&&window.performance.timing&&void 0!==window.performance.timing.navigationStart},1793:function(t,e,n){"use strict";function r(t){var e,n=0;for(e=0;e<t.length;e++)n+=(e+1)*t.charCodeAt(e);return Math.abs(n)}n.d(e,{v:function(){return s},s:function(){return u}});var o=n(6972),i=n(5973),a=n(6959),c=n(2364),u=!0;function s(t){var e=function(){if(i.I&&i.I<9)return;if(c.G)return u=!1,window.performance.timing.navigationStart}()||function(){for(var t=document.cookie.split(" "),e=0;e<t.length;e++)if(0===t[e].indexOf("NREUM=")){for(var n,o,i,a,c=t[e].substring("NREUM=".length).split("&"),u=0;u<c.length;u++)0===c[u].indexOf("s=")?i=c[u].substring(2):0===c[u].indexOf("p=")?";"===(o=c[u].substring(2)).charAt(o.length-1)&&(o=o.substr(0,o.length-1)):0===c[u].indexOf("r=")&&";"===(n=c[u].substring(2)).charAt(n.length-1)&&(n=n.substr(0,n.length-1));if(n){var s=r(document.referrer);(a=s==n)||(a=r(document.location.href)==n&&s==o)}if(a&&i){if((new Date).getTime()-i>6e4)return;return i}}}();e&&((0,o.B)(t,"starttime",e),(0,a.nb)(e))}},6972:function(t,e,n){"use strict";n.d(e,{B:function(){return i},L:function(){return a}});var r=n(6959),o={};function i(t,e,n){void 0===n&&(n=(0,r.zO)()+(0,r.os)()),o[t]=o[t]||{},o[t][e]=n}function a(t,e,n,r){var i,a,c=t.sharedContext.agentIdentifier,u=null==(i=o[c])?void 0:i[n],s=null==(a=o[c])?void 0:a[r];void 0!==u&&void 0!==s&&t.store("measures",e,{value:s-u})}},7299:function(t,e,n){"use strict";n.d(e,{T:function(){return a}});var r=window,o=r;function i(){return o}var a={isFileProtocol:function(){var t=i(),e=!(!t.location||!t.location.protocol||"file:"!==t.location.protocol);e&&(a.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},847:function(t,e,n){"use strict";n.d(e,{K:function(){return a}});var r=n(1220),o=n(1476),i=["ajax","jserrors","metrics","page_action","page_view_event","page_view_timing","session_trace","spa"];function a(t){var e={};return i.forEach((function(n){e[n]=function(t,e){return!0!==(0,r.O)(e).disabled&&!1!==(0,o.Mt)(e,t+".enabled")}(n,t)})),e}},5023:function(t,e,n){"use strict";n.d(e,{W:function(){return o}});var r=n(1776),o=function(t,e,n){void 0===n&&(n=[]),this.agentIdentifier=t,this.aggregator=e,this.ee=r.ee.get(t),this.externalFeatures=n}},4217:function(t,e,n){"use strict";n.d(e,{X:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(t){}return t[e]=o,o}},357:function(t,e,n){"use strict";n.d(e,{D:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}},603:function(t,e,n){"use strict";n.d(e,{$c:function(){return s},Ng:function(){return f},RR:function(){return u}});var r=n(1476),o=n(3707),i=n(7299);function a(t,e){return a=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},a(t,e)}var c={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"},u=function(t){var e,n;function r(e){return t.call(this,e)||this}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,a(e,n);var o=r.prototype;return o.shouldObfuscate=function(){return s(this.sharedContext.agentIdentifier).length>0},o.obfuscateString=function(t){if(!t||"string"!=typeof t)return t;for(var e=s(this.sharedContext.agentIdentifier),n=t,r=0;r<e.length;r++){var o=e[r].regex,i=e[r].replacement||"*";n=n.replace(o,i)}return n},r}(o.w);function s(t){var e=[],n=(0,r.Mt)(t,"obfuscate")||[];return e=e.concat(n),i.T.isFileProtocol()&&e.push(c),e}function f(t){for(var e=!1,n=!1,r=0;r<t.length;r++){"regex"in t[r]?"string"!=typeof t[r].regex&&t[r].regex.constructor!==RegExp&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),n=!0):(console&&console.warn&&console.warn('An obfuscation replacement rule was detected missing a "regex" value.'),n=!0);var o=t[r].replacement;o&&"string"!=typeof o&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),e=!0)}return!e&&!n}},1424:function(t,e,n){"use strict";n.d(e,{EZ:function(){return u},Qy:function(){return c},ce:function(){return o},fP:function(){return i},gG:function(){return s},mF:function(){return a}});var r=n(6959),o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function i(){return window.NREUM||(window.NREUM={}),void 0===window.newrelic&&(window.newrelic=window.NREUM),window.NREUM}function a(){var t=i();if(!t.o){var e=window,n=e.XMLHttpRequest;t.o={ST:setTimeout,SI:e.setImmediate,CT:clearTimeout,XHR:n,REQ:e.Request,EV:e.Event,PR:e.Promise,MO:e.MutationObserver,FETCH:e.fetch}}return t}function c(t,e,n){var o,a,c=i(),u=c.initializedAgents||{},s=u[t]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.zO)(),date:new Date}),c.initializedAgents=Object.assign({},u,((a={})[t]=Object.assign({},s,((o={})[n]=e,o)),a)),c}function u(t,e){i()[t]=e}function s(){var t,e;return t=i(),e=t.info||{},t.info=Object.assign({beacon:o.beacon,errorBeacon:o.errorBeacon},e),function(){var t=i(),e=t.init||{};t.init=Object.assign({},e)}(),a(),function(){var t=i(),e=t.loader_config||{};t.loader_config=Object.assign({},e)}(),i()}},8539:function(t){t.exports=function(t,e,n){e||(e=0),void 0===n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}}},r={};function o(t){var e=r[t];if(void 0!==e)return e.exports;var i=r[t]={exports:{}};return n[t](i,i.exports,o),i.exports}o.m=n,o.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return o.d(e,{a:e}),e},o.d=function(t,e){for(var n in e)o.o(e,n)&&!o.o(t,n)&&Object.defineProperty(t,n,{enumerable:!0,get:e[n]})},o.f={},o.e=function(t){return Promise.all(Object.keys(o.f).reduce((function(e,n){return o.f[n](t,e),e}),[]))},o.u=function(t){return t+"."+o.h().slice(0,8)+"-1220.js"},o.h=function(){return"2d6a2503b7f18a5b77dd"},o.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},t={},e="NRBA:",o.l=function(n,r,i,a){if(t[n])t[n].push(r);else{var c,u;if(void 0!==i)for(var s=document.getElementsByTagName("script"),f=0;f<s.length;f++){var d=s[f];if(d.getAttribute("src")==n||d.getAttribute("data-webpack")==e+i){c=d;break}}c||(u=!0,(c=document.createElement("script")).charset="utf-8",c.timeout=120,o.nc&&c.setAttribute("nonce",o.nc),c.setAttribute("data-webpack",e+i),c.src=n),t[n]=[r];var l=function(e,r){c.onerror=c.onload=null,clearTimeout(v);var o=t[n];if(delete t[n],c.parentNode&&c.parentNode.removeChild(c),o&&o.forEach((function(t){return t(r)})),e)return e(r)},v=setTimeout(l.bind(null,void 0,{type:"timeout",target:c}),12e4);c.onerror=l.bind(null,c.onerror),c.onload=l.bind(null,c.onload),u&&document.head.appendChild(c)}},o.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},o.p="https://js-agent.newrelic.com/",function(){var t={299:0,82:0};o.f.j=function(e,n){var r=o.o(t,e)?t[e]:void 0;if(0!==r)if(r)n.push(r[2]);else{var i=new Promise((function(n,o){r=t[e]=[n,o]}));n.push(r[2]=i);var a=o.p+o.u(e),c=new Error;o.l(a,(function(n){if(o.o(t,e)&&(0!==(r=t[e])&&(t[e]=void 0),r)){var i=n&&("load"===n.type?"missing":n.type),a=n&&n.target&&n.target.src;c.message="Loading chunk "+e+" failed.\n("+i+": "+a+")",c.name="ChunkLoadError",c.type=i,c.request=a,r[1](c)}}),"chunk-"+e,e)}};var e=function(e,n){var r,i,a=n[0],c=n[1],u=n[2],s=0;if(a.some((function(e){return 0!==t[e]}))){for(r in c)o.o(c,r)&&(o.m[r]=c[r]);if(u)u(o)}for(e&&e(n);s<a.length;s++)i=a[s],o.o(t,i)&&t[i]&&t[i][0](),t[i]=0},n=self.webpackChunkNRBA=self.webpackChunkNRBA||[];n.forEach(e.bind(null,0)),n.push=e.bind(null,n.push.bind(n))}();var i={};return function(){"use strict";o.r(i);var t=o(9034),e=o(4408),n=window,r=n.document;function a(t){"complete"===r.readyState&&t()}function c(t){a(t),r.addEventListener?n.addEventListener("load",t,(0,e.m)(!1)):n.attachEvent("onload",t)}function u(t){a(t),r.addEventListener?r.addEventListener("DOMContentLoaded",t,(0,e.m)(!1)):r.attachEvent("onreadystatechange",a)}var s=o(1776);function f(){f=function(){return t};var t={},e=Object.prototype,n=e.hasOwnProperty,r="function"==typeof Symbol?Symbol:{},o=r.iterator||"@@iterator",i=r.asyncIterator||"@@asyncIterator",a=r.toStringTag||"@@toStringTag";function c(t,e,n){return Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}),t[e]}try{c({},"")}catch(t){c=function(t,e,n){return t[e]=n}}function u(t,e,n,r){var o=e&&e.prototype instanceof l?e:l,i=Object.create(o.prototype),a=new j(r||[]);return i._invoke=function(t,e,n){var r="suspendedStart";return function(o,i){if("executing"===r)throw new Error("Generator is already running");if("completed"===r){if("throw"===o)throw i;return P()}for(n.method=o,n.arg=i;;){var a=n.delegate;if(a){var c=x(a,n);if(c){if(c===d)continue;return c}}if("next"===n.method)n.sent=n._sent=n.arg;else if("throw"===n.method){if("suspendedStart"===r)throw r="completed",n.arg;n.dispatchException(n.arg)}else"return"===n.method&&n.abrupt("return",n.arg);r="executing";var u=s(t,e,n);if("normal"===u.type){if(r=n.done?"completed":"suspendedYield",u.arg===d)continue;return{value:u.arg,done:n.done}}"throw"===u.type&&(r="completed",n.method="throw",n.arg=u.arg)}}}(t,n,a),i}function s(t,e,n){try{return{type:"normal",arg:t.call(e,n)}}catch(t){return{type:"throw",arg:t}}}t.wrap=u;var d={};function l(){}function v(){}function p(){}var h={};c(h,o,(function(){return this}));var g=Object.getPrototypeOf,y=g&&g(g(_([])));y&&y!==e&&n.call(y,o)&&(h=y);var m=p.prototype=l.prototype=Object.create(h);function b(t){["next","throw","return"].forEach((function(e){c(t,e,(function(t){return this._invoke(e,t)}))}))}function w(t,e){function r(o,i,a,c){var u=s(t[o],t,i);if("throw"!==u.type){var f=u.arg,d=f.value;return d&&"object"==typeof d&&n.call(d,"__await")?e.resolve(d.__await).then((function(t){r("next",t,a,c)}),(function(t){r("throw",t,a,c)})):e.resolve(d).then((function(t){f.value=t,a(f)}),(function(t){return r("throw",t,a,c)}))}c(u.arg)}var o;this._invoke=function(t,n){function i(){return new e((function(e,o){r(t,n,e,o)}))}return o=o?o.then(i,i):i()}}function x(t,e){var n=t.iterator[e.method];if(void 0===n){if(e.delegate=null,"throw"===e.method){if(t.iterator.return&&(e.method="return",e.arg=void 0,x(t,e),"throw"===e.method))return d;e.method="throw",e.arg=new TypeError("The iterator does not provide a 'throw' method")}return d}var r=s(n,t.iterator,e.arg);if("throw"===r.type)return e.method="throw",e.arg=r.arg,e.delegate=null,d;var o=r.arg;return o?o.done?(e[t.resultName]=o.value,e.next=t.nextLoc,"return"!==e.method&&(e.method="next",e.arg=void 0),e.delegate=null,d):o:(e.method="throw",e.arg=new TypeError("iterator result is not an object"),e.delegate=null,d)}function O(t){var e={tryLoc:t[0]};1 in t&&(e.catchLoc=t[1]),2 in t&&(e.finallyLoc=t[2],e.afterLoc=t[3]),this.tryEntries.push(e)}function E(t){var e=t.completion||{};e.type="normal",delete e.arg,t.completion=e}function j(t){this.tryEntries=[{tryLoc:"root"}],t.forEach(O,this),this.reset(!0)}function _(t){if(t){var e=t[o];if(e)return e.call(t);if("function"==typeof t.next)return t;if(!isNaN(t.length)){var r=-1,i=function e(){for(;++r<t.length;)if(n.call(t,r))return e.value=t[r],e.done=!1,e;return e.value=void 0,e.done=!0,e};return i.next=i}}return{next:P}}function P(){return{value:void 0,done:!0}}return v.prototype=p,c(m,"constructor",p),c(p,"constructor",v),v.displayName=c(p,a,"GeneratorFunction"),t.isGeneratorFunction=function(t){var e="function"==typeof t&&t.constructor;return!!e&&(e===v||"GeneratorFunction"===(e.displayName||e.name))},t.mark=function(t){return Object.setPrototypeOf?Object.setPrototypeOf(t,p):(t.__proto__=p,c(t,a,"GeneratorFunction")),t.prototype=Object.create(m),t},t.awrap=function(t){return{__await:t}},b(w.prototype),c(w.prototype,i,(function(){return this})),t.AsyncIterator=w,t.async=function(e,n,r,o,i){void 0===i&&(i=Promise);var a=new w(u(e,n,r,o),i);return t.isGeneratorFunction(n)?a:a.next().then((function(t){return t.done?t.value:a.next()}))},b(m),c(m,a,"Generator"),c(m,o,(function(){return this})),c(m,"toString",(function(){return"[object Generator]"})),t.keys=function(t){var e=[];for(var n in t)e.push(n);return e.reverse(),function n(){for(;e.length;){var r=e.pop();if(r in t)return n.value=r,n.done=!1,n}return n.done=!0,n}},t.values=_,j.prototype={constructor:j,reset:function(t){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(E),!t)for(var e in this)"t"===e.charAt(0)&&n.call(this,e)&&!isNaN(+e.slice(1))&&(this[e]=void 0)},stop:function(){this.done=!0;var t=this.tryEntries[0].completion;if("throw"===t.type)throw t.arg;return this.rval},dispatchException:function(t){if(this.done)throw t;var e=this;function r(n,r){return a.type="throw",a.arg=t,e.next=n,r&&(e.method="next",e.arg=void 0),!!r}for(var o=this.tryEntries.length-1;o>=0;--o){var i=this.tryEntries[o],a=i.completion;if("root"===i.tryLoc)return r("end");if(i.tryLoc<=this.prev){var c=n.call(i,"catchLoc"),u=n.call(i,"finallyLoc");if(c&&u){if(this.prev<i.catchLoc)return r(i.catchLoc,!0);if(this.prev<i.finallyLoc)return r(i.finallyLoc)}else if(c){if(this.prev<i.catchLoc)return r(i.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<i.finallyLoc)return r(i.finallyLoc)}}}},abrupt:function(t,e){for(var r=this.tryEntries.length-1;r>=0;--r){var o=this.tryEntries[r];if(o.tryLoc<=this.prev&&n.call(o,"finallyLoc")&&this.prev<o.finallyLoc){var i=o;break}}i&&("break"===t||"continue"===t)&&i.tryLoc<=e&&e<=i.finallyLoc&&(i=null);var a=i?i.completion:{};return a.type=t,a.arg=e,i?(this.method="next",this.next=i.finallyLoc,d):this.complete(a)},complete:function(t,e){if("throw"===t.type)throw t.arg;return"break"===t.type||"continue"===t.type?this.next=t.arg:"return"===t.type?(this.rval=this.arg=t.arg,this.method="return",this.next="end"):"normal"===t.type&&e&&(this.next=e),d},finish:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.finallyLoc===t)return this.complete(n.completion,n.afterLoc),E(n),d}},catch:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.tryLoc===t){var r=n.completion;if("throw"===r.type){var o=r.arg;E(n)}return o}}throw new Error("illegal catch attempt")},delegateYield:function(t,e,n){return this.delegate={iterator:_(t),resultName:e,nextLoc:n},"next"===this.method&&(this.arg=void 0),d}},t}function d(t,e,n,r,o,i,a){try{var c=t[i](a),u=c.value}catch(t){return void n(t)}c.done?e(u):Promise.resolve(u).then(r,o)}var l=0;function v(t){var e;(e=f().mark((function e(){var n,r;return f().wrap((function(e){for(;;)switch(e.prev=e.next){case 0:if(!l++){e.next=2;break}return e.abrupt("return");case 2:return e.prev=2,e.next=5,o.e(552).then(o.bind(o,5552));case 5:return n=e.sent,r=n.aggregator,e.next=9,r(t);case 9:e.next=15;break;case 11:e.prev=11,e.t0=e.catch(2),console.error("Failed to successfully load all aggregators. Aborting...\n",e.t0),s.ee.abort();case 15:case"end":return e.stop()}}),e,null,[[2,11]])})),function(){var t=this,n=arguments;return new Promise((function(r,o){var i=e.apply(t,n);function a(t){d(i,r,o,a,c,"next",t)}function c(t){d(i,r,o,a,c,"throw",t)}a(void 0)}))})()}var p=o(8539),h=o.n(p),g=o(1424),y=o(1220),m=o(441),b=o(7361),w=o(357),x=o(6959);var O=o(1476),E=o(5955),j={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},_={};var P=!1;var A=o(6972),k=o(1793),L=o(5023);function S(t,e){return S=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},S(t,e)}var T,C,I,R=function(t){var e,n;function r(e){var n;return n=t.call(this,e)||this,(0,k.v)(e),(0,A.B)(e,"firstbyte",(0,x.yf)()),c((function(){return n.measureWindowLoaded()})),u((function(){return n.measureDomContentLoaded()})),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,S(e,n);var o=r.prototype;return o.measureWindowLoaded=function(){var t=(0,x.zO)();(0,A.B)(this.agentIdentifier,"onload",t+(0,x.os)()),(0,b.p)("timing",["load",t],void 0,void 0,this.ee)},o.measureDomContentLoaded=function(){(0,A.B)(this.agentIdentifier,"domContent",(0,x.zO)()+(0,x.os)())},r}(L.W);void 0!==document.hidden?(T="hidden",C="visibilitychange",I="visibilityState"):void 0!==document.msHidden?(T="msHidden",C="msvisibilitychange"):void 0!==document.webkitHidden&&(T="webkitHidden",C="webkitvisibilitychange",I="webkitVisibilityState");var M=o(2085);function N(t,e){return N=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},N(t,e)}var D=function(t){var n,r;function o(n){var r,o;if((r=t.call(this,n)||this).pageHiddenTime="hidden"===document.visibilityState?-1:1/0,r.performanceObserver,r.lcpPerformanceObserver,r.clsPerformanceObserver,r.fiRecorded=!1,!r.isEnabled())return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(r);if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){r.performanceObserver=new PerformanceObserver((function(){var t;return(t=r).perfObserver.apply(t,arguments)}));try{r.performanceObserver.observe({entryTypes:["paint"]})}catch(t){}r.lcpPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).lcpObserver.apply(t,arguments)}));try{r.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(t){}r.clsPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).clsObserver.apply(t,arguments)}));try{r.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(t){}}if("addEventListener"in document){r.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((function(t){document.addEventListener(t,(function(){var t;return(t=r).captureInteraction.apply(t,arguments)}),(0,e.m)(!1))}))}return o=function(){var t;return(t=r).captureVisibilityChange.apply(t,arguments)},"addEventListener"in document&&C&&document.addEventListener(C,(function(){I&&document[I]?o(document[I]):document[T]?o("hidden"):o("visible")}),(0,e.m)(!1)),r}r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,N(n,r);var i=o.prototype;return i.isEnabled=function(){return!1!==(0,O.Mt)(this.agentIdentifier,"page_view_timing.enabled")},i.perfObserver=function(t,e){var n=this;t.getEntries().forEach((function(t){"first-paint"===t.name?(0,b.p)("timing",["fp",Math.floor(t.startTime)],void 0,void 0,n.ee):"first-contentful-paint"===t.name&&(0,b.p)("timing",["fcp",Math.floor(t.startTime)],void 0,void 0,n.ee)}))},i.lcpObserver=function(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(this.pageHiddenTime<r.startTime)return;var o=[r],i=this.addConnectionAttributes({});i&&o.push(i),(0,b.p)("lcp",o,void 0,void 0,this.ee)}},i.clsObserver=function(t){var e=this;t.getEntries().forEach((function(t){t.hadRecentInput||(0,b.p)("cls",[t],void 0,void 0,e.ee)}))},i.addConnectionAttributes=function(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t},i.captureInteraction=function(t){if(t instanceof M.Y.EV&&!this.fiRecorded){var e=Math.round(t.timeStamp),n={type:t.type};this.addConnectionAttributes(n),e<=(0,x.zO)()?n.fid=(0,x.zO)()-e:e>(0,x.os)()&&e<=Date.now()?(e-=(0,x.os)(),n.fid=(0,x.zO)()-e):e=(0,x.zO)(),this.fiRecorded=!0,(0,b.p)("timing",["fi",e,n],void 0,void 0,this.ee)}},i.captureVisibilityChange=function(t){"hidden"===t&&(this.pageHiddenTime=(0,x.zO)(),(0,b.p)("pageHide",[this.pageHiddenTime],void 0,void 0,this.ee))},o}(L.W),q=o(3350),B="React",z="Angular",G="AngularJS",H="Backbone",F="Ember",V="Vue",Z="Meteor",U="Zepto",X="Jquery";function Q(){var t=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var t=document.querySelectorAll("body > div"),e=0;e<t.length;e++)if(Object.keys(t[e]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(t){return!1}})()&&t.push(B),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(t){return!1}}()&&t.push(G),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(t){return!1}}()&&t.push(z),window.Backbone&&t.push(H),window.Ember&&t.push(F),window.Vue&&t.push(V),window.Meteor&&t.push(Z),window.Zepto&&t.push(U),window.jQuery&&t.push(X)}catch(t){}return t}var W=o(7299),K=o(603),Y=o(158);function J(t,e){return J=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},J(t,e)}var $=function(t){var e,n;function r(e){var n;return(n=t.call(this,e)||this).singleChecks(),(0,q.X)("record-supportability",(function(){var t;return(t=n).recordSupportability.apply(t,arguments)}),void 0,n.ee),(0,q.X)("record-custom",(function(){var t;return(t=n).recordCustom.apply(t,arguments)}),void 0,n.ee),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,J(e,n);var o=r.prototype;return o.recordSupportability=function(t,e){var n=["sm",t,{name:t},e];return(0,b.p)("storeMetric",n,null,void 0,this.ee),n},o.recordCustom=function(t,e){var n=["cm",t,{name:t},e];return(0,b.p)("storeEventMetrics",n,null,void 0,this.ee),n},o.singleChecks=function(){var t=this;this.recordSupportability("Generic/Version/"+Y.q+"/Detected"),u((function(){Q().forEach((function(e){t.recordSupportability("Framework/"+e+"/Detected")}))})),W.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),W.T.supportabilityMetricSent=!0);var e=(0,K.$c)(this.agentIdentifier);e.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),e.length>0&&!(0,K.Ng)(e)&&this.recordSupportability("Generic/Obfuscate/Invalid")},r}(L.W),tt=o(847);new Promise((function(e,n){if(P)e(P);else{var r=(0,g.gG)();try{(0,m.L)(t.Z,r.info),(0,O.Dg)(t.Z,r.init),function(t,e){if(!t)throw new Error("All loader-config objects require an agent identifier!");_[t]=new E.I(e,j),(0,g.Qy)(t,_[t],"loader_config")}(t.Z,r.loader_config),(0,y.s)(t.Z,{}),function(t){var e=(0,g.fP)(),n=s.ee.get(t),r=n.get("tracer"),o="api-",i="api-ixn-";function a(){}(0,w.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(t,n){e[n]=u(o,n,!0,"api")})),e.addPageAction=u(o,"addPageAction",!0),e.setCurrentRouteName=u(o,"routeName",!0),e.setPageViewName=function(e,n){if("string"==typeof e)return"/"!==e.charAt(0)&&(e="/"+e),(0,y.O)(t).customTransaction=(n||"http://custom.transaction")+e,u(o,"setPageViewName",!0,"api")()},e.setCustomAttribute=function(e,n){var r,i=(0,m.C)(t);return(0,m.L)(t,Object.assign({},i,{jsAttributes:Object.assign({},i.jsAttributes,(r={},r[e]=n,r))})),u(o,"setCustomAttribute",!0,"api")()},e.interaction=function(){return(new a).get()};var c=a.prototype={createTracer:function(t,e){var o={},i=this,a="function"==typeof e;return(0,b.p)("api-ixn-tracer",[(0,x.zO)(),t,o],i,void 0,n),function(){if(r.emit((a?"":"no-")+"fn-start",[(0,x.zO)(),i,a],o),a)try{return e.apply(this,arguments)}catch(t){throw r.emit("fn-err",[arguments,this,"string"==typeof t?new Error(t):t],o),t}finally{r.emit("fn-end",[(0,x.zO)()],o)}}}};function u(t,e,r,o){return function(){return(0,b.p)("record-supportability",["API/"+e+"/called"],void 0,void 0,n),(0,b.p)(t+e,[(0,x.zO)()].concat(h()(arguments)),r?null:this,o,n),r?void 0:this}}(0,w.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(t,e){c[e]=u(i,e)})),e.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),(0,b.p)("record-supportability",["API/noticeError/called"],void 0,void 0,n),(0,b.p)("err",[t,(0,x.zO)(),!1,e],void 0,void 0,n)}}(t.Z),e(P=!0)}catch(t){n(t)}}})).then((function(){var e,n,r,o=(0,tt.K)(t.Z);o.page_view_event&&new R(t.Z),o.page_view_timing&&new D(t.Z),o.metrics&&new $(t.Z),e="lite",n?setTimeout((function(){return v(e)}),r||1e3):c((function(){return v(e)}))}))}(),i}()}));</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" type="text/css" href="https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/css/gdpr.css?ver=2.7" />	
+	<script type="text/javascript" src="https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/js/gdpr.js?ver=2.6"></script>
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<meta name="google-site-verification" content="ZgFICIedNvVZl5pV9EfAUeenwta9vBY0Za_GgmV4zuw" /><meta property="og:site_name" content="Times of India Blog" /><title>Effects of technology on our life</title><meta property="article:published_time" content="November 20, 2021"><meta name="keywords" content="Tech blog, Taushif Patel blog, Author article blog" /><meta name="description" content="Since humanity has existed, it has always tried to improve its life. This is what it has done since it first created fire and the wheel centuries ago. Fast forward..." /><meta property="og:url" content="https://timesofindia.indiatimes.com/readersblog/author-article/effects-of-technology-on-our-life-39096/" /><meta property="og:title" content="Effects of technology on our life"/><meta property="og:description" content="Since humanity has existed, it has always tried to improve its life. This is what it has done since it first created fire and the wheel centuries ago. Fast forward..."/><meta property="og:image" content="https://static.toiimg.com/photo/75476733.cms"/><meta property="og:type" content="article"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/timesofindia.indiatimes.com\/readersblog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://timesofindia.indiatimes.com/readersblog/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/genericons/genericons.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='comment-css-css'  href='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/css/comments_new.css?ver=2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ps-css-css'  href='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/photoswipe/photoswipe.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ps-default-skin-css-css'  href='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/photoswipe/default-skin/default-skin.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/photoswipe/photoswipe.min.js?ver=1.0' id='ps-js-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/photoswipe/photoswipe-ui-default.min.js?ver=1.0' id='ps-ui-default-js-js'></script>
+<link rel="canonical" href="https://timesofindia.indiatimes.com/readersblog/author-article/effects-of-technology-on-our-life-39096/" />
+	<meta name="robots" content="index, follow" />
+			<meta property="fb:pages"content="26781952138" />
+		<link type="image/x-icon" href="https://timesofindia.indiatimes.com/icons/toifavicon.ico" rel="shortcut icon">
+	  
+	<script>
+		TimesGDPR.common.consentModule.gdprCallback(function(data) 
+		{
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+						ga('create', 'UA-198011-4', 'auto', {'allowLinker': true});
+			var userCookie = document.cookie.match(/(?:\s)?ssoid=(\w+);?/);
+			if(!!(userCookie)) {
+			ga('set', 'userId', userCookie[1]);
+			}  
+			ga('require', 'linker');
+			ga('linker:autoLink', ['timesofindia.com', 'gocricket.com'] );
+			 
+			if( TimesGDPR.common.consentModule.isEUuser() ){
+	    		ga('set', 'anonymizeIp', true);
+			} 
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+		});
+	</script>
+	<script type="text/javascript">
+		var $ = jQuery.noConflict();
+		var site_url = 'https://timesofindia.indiatimes.com/readersblog';
+		var curPage = '';
+		var pgname = '';
+		var _gaq = Object();
+		var isMobile = window.matchMedia("only screen and (max-width: 768px)");
+		var _ibeat_track ={};
+	</script>
+		<script type="text/javascript" src="https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/js/ctnver-2.js?ver=1.1"></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
+        <script type="text/javascript" src="https://jssocdn.indiatimes.com/crosswalk/jsso_crosswalk_legacy_0.5.3.min.js"></script>
+        
+</head>
+
+<body class="post-template-default single single-post postid-39096 single-format-standard group-blog masthead-fixed full-width singular toi_reader">
+	<script type="text/javascript" src="https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/js/ads.js?ver=1.0"></script>
+	<script type="text/javascript">
+		var blockedMsg='';
+		blockedMsg = '<h2>Thanks for visiting The Times of India </h2><p>You seem to have an Ad Blocker ON. Please turn it OFF in order to continue</p><div class="ad-blocker-btn"><a style="padding: 0px 30px;margin-bottom:28px;" href="https://timesofindia.indiatimes.com/readersblog/blocked" class="active ad-btn">how to turn ad blocker OFF</a></div><p style="text-align:center"><span class="refresh" style="cursor: pointer;color:#cc3333;" onclick="javascript:window.location.href=\'?u=108721859\';"><img width="16" style="vertical-align: middle;padding-right: 5px;" src="https://static.toiimg.com/photo/75433517.cms" />Refresh</span> If you already turned off the Ad Blocker</p>';
+		(function (document, window) {
+			var callbacks = [];
+
+			function addListener(event, fn) {
+				if (document.addEventListener) {
+					document.addEventListener(event, fn, false);
+				}
+				else if(document.attachEvent){
+					document.attachEvent(event, fn);
+				}
+			}
+
+			function removeListener(event, fn) {
+				if (document.removeEventListener) {
+					document.removeEventListener(event, fn);
+				}
+				else if(document.removeEvent){
+					document.removeEvent(event, fn);
+				}
+			}
+
+			function fireEvent(val){
+				callbacks.forEach(function(fn){
+					try{ // Try-catch to handle errors in user's code
+						fn(val);
+					}catch(e){
+						if(window.console && window.console.error){
+							window.console.error(e);
+						}
+					}
+				});
+			}
+
+			function detected() {
+				removeListener("scroll", detected);//Prevent multiple executions
+				fireEvent(true);
+			}
+
+			function not_detected() {
+				fireEvent(false);
+			}
+
+			if (!window.canRun) {
+				addListener("scroll", detected);
+			} else {
+				not_detected();
+			}
+
+			window.detector = function (cb) {
+				if (cb && typeof cb == "function") {
+					callbacks.push(cb);
+				}
+			}
+		}(document, window));
+
+
+		(function (document, window) {
+			var CONFIG = {
+				GA: {
+					CATEGORY: "Blocker",
+					ACTION_DETECTED: "detected"
+				}
+			};
+
+			function send() {
+				if (window.ga) {
+					ga('send', 'event', CONFIG.GA.CATEGORY, CONFIG.GA.ACTION_DETECTED);
+				}
+			}
+
+			window.detector(function (detected) {
+				if (detected === true) {
+					send();
+				}
+			});
+
+		}(document, window));
+		window.detector(function (detected) {
+			if (detected === true) {
+				$('#msgContent').html(blockedMsg);
+				$('.modal-content .cross,.as-social').hide();
+				$('body').addClass('successmsg');
+				//window.location = "/blocked";
+			}
+		});
+		
+	</script>
+<div style="display:none" class="" id="login-popup">
+	<button class="close-btn" type="button">+</button>
+	<div id="user-sign-in"></div>
+</div>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({appId: '117787264903013',oauth:true, status: true, cookie: true, xfbml: true});
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+    }
+    return "";
+}
+var _Tmpl_SCN_var = 'Tmpl_SCN';
+var _isPrime = 0;
+function showMobNav(divId, divClass){
+	$(divId).toggleClass(divClass);
+	
+	if(divClass=='navactive')
+	{
+		hamburgerSticky(divId,'headercon');
+	}
+}
+
+function hamburgerSticky(divId,divClass)
+{
+	$(divId).toggleClass(divClass);
+	$('.blog-header-bg').toggleClass(divClass);
+	$('.consent-popup').toggleClass('hide');
+	$('body').toggleClass('allscrollnone');
+	$('.greybackground').toggleClass('mob-nav-bg');
+
+}
+
+jQuery("body").on('click',function(e) {
+		if(jQuery(e.target).parents('#main-nav').length==0 && !jQuery(e.target).hasClass('mobnav')){
+		        if(jQuery('#main-nav').parent().hasClass('headercon')){
+		        	jQuery('.mobnav').eq(0).click();
+		        }
+		    }
+	});
+
+jQuery("body").on('touchstart',function(e) {
+		if(jQuery(e.target).parents('#main-nav').length==0 && !jQuery(e.target).hasClass('mobnav')){
+		        if(jQuery('#main-nav').parent().hasClass('headercon')){
+		        	jQuery('.mobnav').eq(0).click();
+		        }
+		    }
+	});
+
+
+
+</script>
+	<!-- header start  -->
+		<div class="container">
+			<div class="blog-header-bg pl-15 pr-15 clearfix">
+                            <a class="mobiletopnav1" href="javascript:showMobNav('#main-nav-container', 'navactive')">
+                                    <span class="main-sprite-svg1 mobnav"></span>
+                                </a>
+<!--				<a class="mobiletopnav" href="javascript:void(0);">
+					<span class="main-sprite-svg mobnav" onClick="javascipt:showMobNav('#main-nav-container', 'navactive');"></span>
+				</a>-->
+				<div class="blog-header-logo">
+					<a href="https://timesofindia.indiatimes.com/readersblog" class="txt">READERS’ BLOG</a>
+					<span class="by"> by </span><a class="main-sprite logo" href="https://timesofindia.indiatimes.com/readersblog"></a>
+				</div>
+				<div class="blog-profile-box web">
+					<div class="blog-profile">
+						<div class="user-info hide" data-plugin="user-isloggedin">
+							<span data-plugin="user-name"></span>
+							<ul>
+																<li class="logout"><a href="javascript:void(0);" data-plugin="user-logout" gaValues="Readers Blog,Register-Login,Logout" class="gaElement">logout</a></li>
+							</ul>
+						</div>
+						<div class="name-short hide" data-plugin="user-isloggedin" style="overflow:hidden;">
+							<span><img style="vertical-align:middle;" data-plugin="user-thumb" /></span>
+						</div>
+						<div class="user-info hide" data-plugin="user-notloggedin" style="width:223px;">
+							<a href="javascript:void(0);" gaValues="Readers Blog,Register-Login,Click" class="gaElement post-btn" data-plugin="user-login" style="font-size:16px; font-weight:500;">Register/Login</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="relative" id="main-nav-container">
+				<div class="greybackground"></div>
+				<nav id="main-nav">
+					<div class="blog-mob-navigation">
+						<div class="nav-header" data-plugin="user-isloggedin">
+							<div class="nav-img">
+								<a href="javascript:void(0);"><img data-plugin="user-thumb"></a>
+							</div>
+							<div class="nav-info">
+								<h4 data-plugin="user-name"></h4>
+								<p data-plugin="user-blog"></p>
+							</div>
+						</div>
+						<div class="nav-header" data-plugin="user-notloggedin">
+							<div class="nav-img">
+								<a href="javascript:void(0);"><img src="https://static.toiimg.com/photo/29251859.cms"></a>
+							</div>
+							<div class="nav-info">
+								<h4 data-plugin="user-login" gaValues="Readers Blog,Register-Login,Click" class="">Register/Login</h4>
+							</div>
+						</div>
+						<div class="mob-listing">
+							<ul>
+								<li class="hide" data-plugin="user-notloggedin"><a class="dropdown-heading" href="https://timesofindia.indiatimes.com/readersblog">readers’ blog</a></li>
+								<li class="hide" data-plugin="user-isloggedin">
+									<a href="https://timesofindia.indiatimes.com/readersblog" class="dropdown-heading">readers’ blog</a>
+									<div class="mob-arrow-container"><i class="arrow down up"></i></div>		
+									<div class="mob-dropdown">
+										<ul></ul>
+									</div>
+								</li>
+								<li><a class="gaElement" gaValues="Readers Blog,Business,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/business/" title="View all posts in Business">Business</a></li><li><a class="gaElement" gaValues="Readers Blog,India,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/india/" title="View all posts in India">India</a></li><li><a class="gaElement" gaValues="Readers Blog,Entertainment,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/entertainment/" title="View all posts in Entertainment">Entertainment</a></li><li><a class="gaElement" gaValues="Readers Blog,Environment,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/environment/" title="View all posts in Environment">Environment</a></li><li><a class="gaElement" gaValues="Readers Blog,Economy,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/economy/" title="View all posts in Economy">Economy</a></li><li><a class="gaElement" gaValues="Readers Blog,Lifestyle,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/lifestyle/" title="View all posts in Lifestyle">Lifestyle</a></li><li><a class="gaElement" gaValues="Readers Blog,Sports,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/sports/" title="View all posts in Sports">Sports</a></li><li><a class="gaElement" gaValues="Readers Blog,Politics,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/politics/" title="View all posts in Politics">Politics</a></li><li class="current"><a class="gaElement" gaValues="Readers Blog,Tech,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/tech/" title="View all posts in Tech">Tech</a></li>								<li class="home"><a href="https://toi.in">back to toi home</a></li>
+								<li class="log-out hide" data-plugin="user-isloggedin"><a href="javascript:void(0);" data-plugin="user-logout" gaValues="Readers Blog,Register-Login,Logout" class="gaElement">logout</a></li>								
+							</ul>
+						</div>
+					</div>
+					<ul class="visible-links blog-web-navigation"  id='main'>
+						<li class="toi"><a style="padding-left:0px;" href="https://toi.in">TOI</a></li>
+						<li class="sitehome"><a href="https://timesofindia.indiatimes.com/readersblog">READERS’ BLOG</a></li>
+						<li><a class="gaElement" gaValues="Readers Blog,Business,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/business/" title="View all posts in Business">Business</a></li><li><a class="gaElement" gaValues="Readers Blog,India,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/india/" title="View all posts in India">India</a></li><li><a class="gaElement" gaValues="Readers Blog,Entertainment,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/entertainment/" title="View all posts in Entertainment">Entertainment</a></li><li><a class="gaElement" gaValues="Readers Blog,Environment,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/environment/" title="View all posts in Environment">Environment</a></li><li><a class="gaElement" gaValues="Readers Blog,Economy,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/economy/" title="View all posts in Economy">Economy</a></li><li><a class="gaElement" gaValues="Readers Blog,Lifestyle,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/lifestyle/" title="View all posts in Lifestyle">Lifestyle</a></li><li><a class="gaElement" gaValues="Readers Blog,Sports,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/sports/" title="View all posts in Sports">Sports</a></li><li><a class="gaElement" gaValues="Readers Blog,Politics,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/politics/" title="View all posts in Politics">Politics</a></li><li class="current"><a class="gaElement" gaValues="Readers Blog,Tech,Click-Navigation" href="https://timesofindia.indiatimes.com/readersblog/tech/" title="View all posts in Tech">Tech</a></li>					   <li class="more" data-width="80" style="display: none;">
+				      	<a href="javascript:void(0)" style="font-size:16px; letter-spacing:1px;">&#8226;&#8226;&#8226;</a>
+				      	<ul class="dropdown-menu menu_999menu" role="menu"></ul>
+				      </li>
+					</ul>
+				</nav>
+				<span class="main-sprite-svg search hide"></span>
+			</div>
+			<!--Fab Icon start-->
+			<div class="mob-edit-box hide">
+				<a href="RBP_HOME_URL/addarticle/?u=a35ee61549255d8d5e9e2de2c80b593a"><span class="main-sprite mob-edit"></span></a>
+			</div>
+			<!--Fab Icon end-->
+			<div class="relative" id="breadcrumb">
+				<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+				<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://timesofindia.indiatimes.com/"><span itemprop="name">News</span></a><meta itemprop="position" content="1"></li> / <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://timesofindia.indiatimes.com/readersblog"><span itemprop="name">Readers’ Blog</span></a><meta itemprop="position" content="2"></li> / <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://timesofindia.indiatimes.com/readersblog/tech/"><span itemprop="name">Tech</span></a><meta itemprop="position" content="3"></li> / <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="javascript:void(0);" style="cursor:default;"><span itemprop="name">Effects of technology on our life</span></a><meta itemprop="position" content="4"></li>				</ol>
+			</div>
+			<script>
+				var _Tmpl_pg = 'articleshow';
+				var _SCN_pg = 'Tech';
+			</script>
+		</div>
+	<!-- header end -->
+<script type="text/javascript">
+  function calcWidth() {
+  var navwidth = 0;
+  var morewidth = $('#main .more').outerWidth(true);
+  $('#main > li:not(.more)').each(function() {
+      navwidth += $(this).outerWidth( true );
+  });
+  var availablespace = $('nav').outerWidth(true) - morewidth-40;
+  
+  if (navwidth > availablespace) {
+    var lastItem = $('#main > li:not(.more)').last();
+    lastItem.attr('data-width', lastItem.outerWidth(true));
+    lastItem.prependTo($('#main .more ul'));
+    calcWidth();
+  } else {
+    var firstMoreElement = $('#main li.more li').first();
+    if (navwidth + firstMoreElement.data('width') < availablespace) {
+      firstMoreElement.insertBefore($('#main .more'));
+    }
+  }
+  
+  if ($('.more li').length > 0) {
+    $('.more').css('display','inline-block');
+  } else {
+    $('.more').css('display','none');
+  }
+}
+$(document).on('ready',function(){
+  calcWidth();
+});
+
+</script>
+<script type="text/javascript">
+var facebookktitle, facebooksyn, facebooklink, fb_Img;
+</script>
+<div class="container" id="contentsWrapper">
+	<div class="blog-body-content aShow" data-articlemsid="39096" style="position:relative;flex-flow:wrap;">
+		<div data-articlepage-start="" style="width:100%;"></div>
+		<div class="blog-left">
+									<div class="article as-container">
+    <div class="as-head">
+		<span class="label"><a href="https://timesofindia.indiatimes.com/readersblog/tech/" rel="category tag">Tech</a></span>
+		<div class="as-heading"><h1>Effects of technology on our life</h1></div>
+		<div class="as-authorinfo">
+						<a href="https://timesofindia.indiatimes.com/readersblog/author-article/" title="Go to Author article"><img src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2021/10/5E09FC54-3594-45FD-853E-86E61AC1F5D2-scaled-30x40.jpeg" alt="Taushif Patel" /></a>
+			<span class="as-author-name"><a class="gaElement" gaValues="Readers Blog,Author-Name,Click-Taushif Patel-blog" href="https://timesofindia.indiatimes.com/readersblog/author-article/" title="Go to Author article">Taushif Patel</a> @<a href="https://timesofindia.indiatimes.com/readersblog/author-article/" title="Go to Author article"><span style="font-weight:600;font-style:italic;font-size: 14px;color: #000;line-height: 10px;">Author article</span></a>  <span class="datetime">Nov 20, 2021,  11:26  IST</span></span>
+		</div>
+	</div>
+	<div class="as-wrapper"><p>Since humanity has existed, it has always tried to improve its life. This is what it has done since it first created fire and the wheel centuries ago. Fast forward to modern times, and you can see how far we have come with the introduction of technology in our life. Even the technology introduced in the previous century has progressed so much. For example, cameras used to be bulky and reliable, and now they are so small that they are virtually undetectable in spy cameras. But how exactly has this technology affected our lives? Sure, the purpose of technology is to make life easier but has its effects all been positive? In this article, we will precisely see that.</p>
+<p>Positive Effects</p>
+<p>Improved Communication</p>
+<p>Communication is an essential aspect for people as it helps them interact with each other. In the old days, communication often required travel which could end up taking days or months. This was made a lot simpler with the telegram and eventually, with Graham Bell inventing the telephone. The telephone allowed people to communicate over vast distances.</p>
+<p>Fast forward to modern times, and now with modern information technologies and social media, it is possible to communicate with anyone in the world in various ways. Through broadband internet, you can talk through text or even voice call, eliminating the feeling of long-distance. With this new technology, people can work together from anywhere globally and even have long-distance relationships with their lovers. Additionally, international businesses and their branches can communicate with each other through conference calls. This has eliminated the need for long-distance commutes.</p>
+<p>Improved Information Access</p>
+<p>Not too long ago, to get detailed information about anything, you would have to go to a local library and sift through many books until you had enough information. With the internet, you can do this with a few clicks. There are so many information-focused websites like Wikipedia that allow you to get detailed information about any topic. Alongside websites like Google and YouTube, this has also helped improve learning and education. One can learn about any skill online without leaving their screens which have reduced the need for textbooks.</p>
+<p>The internet has also made access to information like map directions and locating numbers a lot easier. Physical maps and yellow pages are pretty much obsolete nowadays because you can access this information online. The internet also provides more accurate and real-time information with GPS to locate places a lot more easily.</p>
+<p>Negative Effects</p>
+<p>Privacy Concerns</p>
+<p>While the internet has brought a lot of convenience for its users, it has also made them a lot more vulnerable. Since everything is done online, many of our data is out in the open or under the possession of companies that try to profit from our data. If someone wrongly gets access to this information, it can leave us vulnerable to hackers and scammers. For example, someone could use our credit card details to buy equipment that could leave us with some hefty debt. This has made many people concerned about our privacy and has led to many questioning the tech giants about how they use our data. Sure, there are a lot of tools available out there that can help us protect from this, but even then, hackers continuously find new ways to access our data.</p>
+<p>Increased Pollution</p>
+<p>With each technological advancement made, more and more people have wanted to buy it, leading to increased demand. Increased demand means factories and mines have had increased work. This has increased the amount of greenhouse gases, toxic gases, and the waste being released into the atmosphere. This has led to increased pollution in cities, leading to chronic illness and congenital disabilities in children. Additionally, this has led to global warming that has been of increased concern to environmental scientists who repeatedly warn the world of its adverse effects.</p>
+<p>The bottom line</p>
+<p>On the one hand, technology has brought numerous benefits to humanity and has allowed us to develop as a race. On the other hand, it has brought several adverse effects that have harmed us at the core. Therefore, it isn&#8217;t easy to judge whether technology has overall harmed or benefited us. We leave it to you to decide. How do you think technology will impact us in the future?</p>
+    </div>
+    
+    
+	</div>
+<div class="as-social as-social-desktop sticky">
+	<ul>
+				<li class="desktop-social-sprite-svg as-fb"><a class="gaElement" gaValues="Readers Blog,Blog-Post,Share-Facebook-39096" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftimesofindia.indiatimes.com%2Freadersblog%2Fauthor-article%2Feffects-of-technology-on-our-life-39096%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"></a></li>
+		<li class="desktop-social-sprite-svg as-twit"><a class="gaElement" gaValues="Readers Blog,Blog-Post,Share-Twitter-39096" href="https://twitter.com/intent/tweet?text=Author%20article%20%3A%20Effects%20of%20technology%20on%20our%20life&url=https%3A%2F%2Ftimesofindia.indiatimes.com%2Freadersblog%2Fauthor-article%2Feffects-of-technology-on-our-life-39096%2F%26via%3DTOIOpinion"></a></li>
+				<!--<li class="desktop-social-sprite-svg as-gplus"><a href="http://plus.google.com/share?url=https://timesofindia.indiatimes.com/readersblog/author-article/effects-of-technology-on-our-life-39096/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"></a></li>-->
+		<li class="desktop-social-sprite-svg as-linkedin"><a class="gaElement" gaValues="Readers Blog,Blog-Post,Share-Linkedin-39096" href="https://www.linkedin.com/shareArticle?mini=true&url=https://timesofindia.indiatimes.com/readersblog/author-article/effects-of-technology-on-our-life-39096/&title=&summary=" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"></a></li>
+		<li class="desktop-social-sprite-svg as-comment"><a href="javascript:void(0);" class="d-s-comments"></a><span class="count" data-plugin="commentCount39096"></span></li>
+						
+	</ul>
+	</div>
+<script type="text/javascript">
+	_ibeat_track['id'] = "39096";
+
+	var facebookktitle_39096 ="Author article : Effects of technology on our life";
+	var facebooksyn_39096 = "Since humanity has existed, it has always tried to improve its life. This is what it has done since it first created fire and the wheel centuries ago. Fast forward...";
+	var facebooklink_39096 ="https://timesofindia.indiatimes.com/readersblog/author-article/effects-of-technology-on-our-life-39096/";
+	var fb_Img_39096 = "https://static.toiimg.com/photo/75476733.cms";
+</script>
+<script type="text/javascript">
+		var wapads_39096 = {
+			ATF_300_39096:{
+				id:'div-gpt-ad-1388666607987-0-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_ATF_HOM_BLG_300',
+				type:'ATF_300_39096',
+				size:[[300, 250], [300, 1050]],
+			},
+			ATF_728_39096:{
+				id:'div-gpt-ad-1388666607987-1-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_ATF_HOM_BLG_728',
+				type:'ATF_728_39096',
+				size:[[728, 90], [1003, 90]],
+			},
+			ATF_320_39096:{
+				id:'div-gpt-ad-1487152763237-0-39096',
+				name:'/7176/TOI_MWeb/TOI_MWEB_BLOG/TOI_Mweb_Blg_ATF',
+				type:'ATF_320_39096',
+				size:[[320, 50], [728, 90], [468, 60], [1003, 90]],
+				mlb:[[[1, 1], [320, 50]],[[480, 200], [468, 60]],[[768, 200], [[728, 90],[1003, 90]]]],
+			},
+			/*BLY_300_39096:{
+				id:'div-gpt-ad-1388666607987-2-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_BLY_HOM_BLG_300',
+				type:'BLY_300_39096',
+				size:[300, 250],
+			},*/
+			BTF_300_39096:{
+				id:'div-gpt-ad-1388666607987-3-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_BTF_HOM_BLG_300',
+				type:'BTF_300_39096',
+				size:[300, 250],
+			},
+			OP_Innov1_39096:{
+				id:'div-gpt-ad-1388666607987-0-oop1-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_OP_HOM_BLG_Innov1',
+				type:'OP_Innov1_39096',
+			},
+			OP_Inter_39096:{
+				id:'div-gpt-ad-1388666607987-0-oop2-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_OP_HOM_BLG_Inter',
+				type:'OP_Inter_39096',
+			},
+			OP_Pop_39096:{
+				id:'div-gpt-ad-1388666607987-0-oop3-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_OP_HOM_BLG_POP',
+				type:'OP_Pop_39096',
+			},
+			OP_Shosh_39096:{
+				id:'div-gpt-ad-1388666607987-0-oop4-39096',
+				name:'/7176/TOI/TOI_Home/TOI_Home_Blogs/TOI_ROS_OP_HOM_BLG_Shosh',
+				type:'OP_Shosh_39096',
+			}            
+		}
+	</script><!-- Comment section -->
+<div class="bottom-comments" data-msid="39096">			<div class="comment-box level1" data-id="2633405552">
+				<div class="user-thumbnail"><img class="userimg flL" src="https://static.toiimg.com/photo/29251859.cms" data-src="https://mytimes.indiatimes.com/image/thumb/0/default"></div>
+				<a href="http://mytimes.indiatimes.com/profile/803974763" class="name" target="_blank">Vartika Sharma</a>
+				<p class="short_comment">hello</p>
+				<div class="footbar clearfix">
+					<span data-action="comment-reply" class="cpointer cp-reply">Reply</span>
+					<span class="up cpointer" data-action="comment-agree" title="Up Vote"><i class="icon-uparrow"></i></span>
+					<span class="down cpointer" data-action="comment-disagree" title="Down Vote"><i class="icon-downarrow"></i></span>
+					<span class="cpointer flag_comment"> <span data-action="comment-offensive" title="Mark as offensive"></span></span>
+				</div>
+			</div>
+			</div>
+<div id="cs39096" class="comments slide-in" data-commentmsid="39096">
+
+    <div class="cmtbtn-wrapper">
+        <span class="hide" data-plugin="noComment39096" style="display: block; text-align: center; color: #aaaaaa; font-size: 14px; line-height: 24px; margin-left: 20px;">START A CONVERSATION</span>
+        <span class="cmtbtn view" data-plugin="show-comments">Read<span data-plugin="commentCount39096"></span></span>
+        <span class="cmtbtn view add" data-showtype="autofocus" data-plugin="show-comments"><span>Post a comment</span></span>
+    </div>
+
+<div data-comment-type="slider" class="comments-overlay" style="display: none;">
+<div style="width: 426px;right: -426px;" class="article _mCS_2 comment-section" id="comment-section-39096">
+    <span class="hide" data-plugin="facebook-loadjs"></span>
+    <div style="min-height:44px; position:relative;"><h2>All Comments (<span data-plugin="comment-count"></span>)
+    <span id="overlayClose" class="close close_comments hide">+</span>
+    </h2></div>
+            <div data-plugin="comment" data-index="-1" data-id="0" data-level="0" id="comment-holder">
+                <div class="comment-form2 full" data-plugin="comment-form">
+                        <div class="add-comment-section clearfix">
+                        <div class="user-thumbnail">
+                            <img src="https://static.toiimg.com/photo/29251859.cms" data-plugin="user-thumb"/>
+                        </div>
+                        <textarea rows="5" cols="40" data-plugin="comment-input" placeholder="Add your comment here"></textarea>
+                        <input type="submit" value="" class="submit" data-plugin="comment-post"/>
+                        <div class="error" data-plugin="comment-error"></div>
+                        <div class="comment-footer clearfix">
+                            <span class="char-count">Characters Remaining: <span data-plugin="comment-input-remaining" data-maxchar="3000">3000</span></span>
+                            <div class="social-post hide" data-plugin="user-isloggedin">
+                                <label class="fb">
+                                    <i class="icon-fb"></i>
+                                    <input type="checkbox" data-plugin="comment-facebook"/>
+                                    <span>Share on Facebook</span>
+                                </label>
+                                <label class="twitter">
+                                    <i class="icon-twitter"></i>
+                                    <input type="checkbox" data-plugin="comment-twitter"/>
+                                    <span>Share on Twitter</span>
+                                </label>
+                            </div>
+                            <div class="social-login clearfix">
+                                <div class="hide social-login-inner" data-plugin="user-notloggedin">
+                                    <span class="fb" data-plugin="comment-facebook-post"></span>
+                                    <span class="google" data-plugin="comment-google-post"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <a href="#" class="close" data-action="comment-close">+</a>
+                    </div>
+                </div>    
+            </div>
+
+            <!--/Comment-form -->
+            <div class="sortby clearfix" style="overflow:hidden;display: none; visibility:hidden;">
+                <span>Sort By:</span>
+                <select id="comment_sort">
+                        <option value="agree">Up Voted</option>
+                        <option value="">Newest</option>
+                        <option value="oldest">Oldest</option>
+                        <option value="discussed">Discussed</option>
+                        <option value="disagree">Down Voted</option>
+                </select>
+            </div>
+                        <div class="hide noComment">Be the first one to review.</div>
+                        <div class="comments-list hide" id="comments"></div>
+            <div class="comments-list hide" id="comments_oldest"></div>
+            <div class="comments-list hide" id="comments_recommended"></div>
+            <div class="comments-list hide" id="comments_discussed"></div>
+            <div class="comments-list" id="comments_agree" data-plugin="comments"></div>
+            <div class="comments-list hide" id="comments_disagree"></div>
+            <div data-plugin="comment-loading"><img src="https://static.toiimg.com/photo/29439462.cms"/></div>
+        </div>
+        <!-- /Comment section -->
+<a href="https://timesofindia.indiatimes.com/readersblog/author-article/effects-of-technology-on-our-life-39096/?comments=show" id="writeacomment-39096" class="writeacomment" style="display:none;">Add Comment <img alt="" src="https://m.timesofindia.com/photo/47010955.cms"></a>
+
+
+<script id="comment_tmpl" type="application/template">
+    <div class="comment-box level{{:level}} {{if id==-1}}highlight{{/if}}" id="cmt{{:id}}" data-plugin="comment" data-index="{{:index}}" data-id="{{:id}}" data-level="{{:level}}" data-user="{{:user.name}}" data-email="{{:user.email}}" data-userid="{{:user.id}}">
+            <div class="user-thumbnail">
+                {{if user.image}}
+                <img class="userimg flL" data-src="{{:user.image}}" src="https://static.toiimg.com/photo/11350517.cms"/>
+                {{else}}
+                <img class="userimg flL" data-src="https://static.toiimg.com/photo/29251859.cms" src="https://static.toiimg.com/photo/11350517.cms"/>
+                {{/if}}
+            </div>
+            <div class="info-bar clearfix">
+                <a href="http://mytimes.indiatimes.com/profile/{{:user.username || user.id}}" class="name" target="_blank">{{:user.name}}</a>
+                <div class="points_wrap">
+                {{if user.points}}
+                <span class="psR flL tooltip_wrap">
+                <span class="point {{:user.pointslevel.toLowerCase()}}" title="{{:user.points}} Points">{{:user.points}}</span>
+                <span class="tootipbox">
+                    <strong class="rem_point">{{:user.pointsNeeded}}</strong> more points needed to reach next level.
+                   <a href="http://timesofindia.indiatimes.com/abouttimesrewards.cms" class="more" target="_blank">Know more about Times Points</a>
+                </span>
+                </span>
+                {{/if}}
+                {{if user.badge}}
+                    
+                    <div class="badges clearfix">
+                        {{for user.badge}}
+                           {{if #index < 3}}
+                                <div class="badge" data-plugin="comment-user-badge" data-name="{{:name}}">
+                                    <img data-src="{{:image}}" title="{{:name}}"  src="https://static.toiimg.com/photo/11350517.cms">
+                                    <div class="popup_badge">
+                                       <div class="heading-block"><span class="level">Level {{:count}}</span><h4>{{:name}}</h4></div>
+                                       <div class="content clearfix">
+                                                <div class="cont_left" >
+                                                    <img src="{{:image}}" title="{{:name}}"  src="https://static.toiimg.com/photo/11350517.cms">
+                                                </div>
+                                                <div class="cont_right" >
+                                                    <p><b>{{:#parent.parent.parent.data.user.name}}</b> {{:levelDesc}}</p>
+                                                </div>
+                                           <div class="more-info">
+                                           <a href="http://timesofindia.indiatimes.com/abouttimesrewards.cms" class="more" target="_blank">Know more about Times Points</a>
+                                           </div>
+                                       </div>
+                                    </div>
+                                </div>
+                           {{/if}}
+                        {{/for}}
+                        <div class="more-btn">
+                            <div class="popup_badge">
+                               <div class="heading-block"><h4>Badges Earned</h4></div>
+                               <div class="content clearfix">
+                                    <!-- These are badges -->
+                                   {{for user.badge}}
+                                        <div class="section" data-plugin="comment-user-badge" data-name="{{:name}}">
+                                            <img src="{{:image}}" title="{{:name}}"  src="https://static.toiimg.com/photo/11350517.cms">
+                                            <span class="name">{{:name}}</span>
+                                            <span class="badgepoint">{{:count}}</span>
+                                        </div>
+                                    {{/for}}
+                                   <!-- / badges End here -->
+                                   <div class="more-info">
+                                   <a href="http://timesofindia.indiatimes.com/abouttimesrewards.cms" class="more" target="_blank">Know more about Times Points</a>
+                                   </div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                {{/if}}
+                </div>
+                {{if parentusername}}
+                <!-- <span class="divider">-</span> -->
+                <span class="metadata"><i class="icon-reply"></i> {{:parentusername}}</span>
+                <span class="divider">-</span>
+                {{/if}}
+                {{if user.location}}
+                <!-- <span class="divider">-</span> -->
+                <span class="metadata">{{:user.location}}</span>
+                <span class="divider">-</span>
+                {{/if}}
+                <span title="{{:abstime}}" class="metadata" data-plugin="dynamic-uptime" data-time="{{:time}}">Just Now</span>
+                {{if user.name}}
+                <span data-plugin="comment-user-follow_wrapper" class="dont_show" >
+                <span class="metadata follow" title="Follow {{:user.name}} {{:user.follower_text}}" data-plugin="comment-user-follow" ><span class="divider">-</span>Follow</span>
+                </span>
+
+                {{/if}}
+            </div>
+            <!--/Info bar -->
+            <p>{{:comment}}</p>
+            <!-- Footbar -->
+            {{if id!=-1}}
+            <div class="footbar clearfix">
+                {{if opinion && opinion[0] && opinion[1]}}
+                    <span class="up cpointer" data-action="comment-agree" title="Up Vote"><span data-plugin="comment-agree-count">{{:opinion[0].count}}</span> <i class="icon-uparrow"></i></span>
+                    <span class="down cpointer" data-action="comment-disagree" title="Down Vote"><span data-plugin="comment-disagree-count">{{:opinion[1].count}}</span> <i class="icon-downarrow"></i></span>
+                    <span class="divider">-</span>
+                {{/if}}
+                <span data-action="comment-reply" class="cpointer">Reply</span>
+                <span class="divider">-</span>
+
+                <span class="cpointer flag_comment">
+                    <span data-action="comment-offensive" title="Mark as offensive">Flag</span>
+                    <div class="popup_badge" data-plugin="offensive_popup">
+                        <div class="heading-block"><h4>Find this comment offensive?</h4></div>
+                        <div class="content clearfix">
+                            <span class="success-message">Your reason has been submitted to the Admin.</span>
+                            <span class="info-txt">Choose your reason below and click on the Submit button. This will alert our moderators to take action</span>
+                            <h6>Reason for reporting:</h6>
+                            <ul class="reasons" style="padding-left:1px;">
+							   <li><label for="reason_foul"><input type="radio" value="Foul language" name="radio1" id="reason_foul">Foul language</label></li>
+                               <li><label for="reson_defamatory"><input type="radio" value="Defamatory" name="radio1" id="reson_defamatory">Defamatory</label></li>
+                               <li><label for="reason_hatred"><input type="radio" value="Inciting hatred against a certain community" name="radio1" id="reason_hatred">Inciting hatred against a certain community</label></li>
+                               <li><label for="reason_spam"><input type="radio" value="Out of context/Spam" name="radio1" id="reason_spam">Out of context/Spam</label></li>
+                               <li><label for="reason_others"><input type="radio" value="Others" name="radio1" id="reason_others">Others</label></li>
+                               <li><textarea style="display:none" data-plugin="offensive_popup_reason" class="offensive_popup_reason"></textarea></li>
+                            </ul>
+                            <div data-plugin="comment-offensive-error" class="error"></div>
+                            <div class="buttons"><span class="button submit" data-action="offensive_popup_submit">Report this !</span> <span class="button close_popup" data-action="offensive_popup_close">Close</span></div>
+                        </div>
+                    </div>   
+                </span>
+                <span data-action="comment-offensive-already" title="Already marked as offensive" class="hide">Flagged</span>
+            </div>
+            <div class="error clearfix" data-plugin="comment-error-outer"></div>
+
+            <!--/Footbar -->
+            <!--<div class="comment-form reply hide" data-plugin="comment-reply-old">-->
+            <!--<div class="user-thumbnail">-->
+            <!--<img data-src="https://static.toiimg.com/photo/29251859.cms" alt="thumb" data-plugin="user-icon"  />-->
+            <!--</div>-->
+            <!--<textarea rows="5" cols="40" data-plugin="comment-input"></textarea>-->
+            <!--<div class="comment-footer clearfix">-->
+            <!--<span class="char-count">Characters Remaining: <span data-plugin="comment-input-remaining" data-maxchar="3000">3000</span></span>-->
+            <!--<input type="submit" value="SEND" class="submit" data-action="comment-post"/>-->
+            <!--</div>-->
+            <!--<a href="#" class="close" data-action="comment-close">+</a>-->
+            <!--</div>-->
+            {{/if}}
+        </div>        
+        </script>
+
+        <script id="badge_tmpl" type="application/template">
+        <div class="badge_new" style="position:absolute;left:-148px;background-color:#FFF;z-index:2;">
+            <div style="background:url(https://static.toiimg.com/photo/12353738.cms) top center no-repeat; width:320px; height:54px;">
+                <div class="full_cont"><div class="left_badge">
+                    <div class="textone_badge">Wordsmith</div>
+                </div>
+                    <div class="right_badge">
+                        <div class="texttwo_badge">Level 1</div>
+                    </div>
+                </div>
+            </div>
+            <div class="hoverblock_new">
+                <div class="cont_pad">
+                    <div class="full_cont">
+                        <div class="cont_left">
+                            <img style="cursor:auto" border="0" height="50" width="65" src="http://static.rewards.indiatimes.com/images/wordsmith.png" title="Wordsmith" ></div>
+                        <div class="cont_right"><div class="badgesyn_two">
+                            <p><b>monil shah</b>&nbsp;has posted 10 comments on Timesofindia.com to earn the <b>Wordsmith Level 1</b> badge.</p></div>
+                            <div class="badgesyn"></div></div><div></div></div><div class="divclear"></div>
+                    <div class="full_cont_one cont_mar"><div class="bordertop"><div class="leftthree_logged">
+                        <div onclick="moretimespoint();" class="linkone_badge">Know more about Times Points</div>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background:url(https://static.toiimg.com/photo/12353749.cms) no-repeat; width:320px; height:14px;"></div>
+        </div>
+        
+        </script>
+        
+        
+        
+</div>
+</div>
+<a href="https://timesofindia.indiatimes.com/readersblog/musingsbysarah/say-yes-to-yourself-39095/" rel="prev" class="hide">Say 'yes' to yourself</a>			
+																<script id="ctn_belowarticle_2_paid" type="text/x-jquery-tmpl">
+					<li class="clearfix">
+						<a class="ad_img" title="~name~" target="_blank" href="~url~" pg="ctn_belowarticle_2_paid#~pg-tag~">
+							<img src="~sImg~" data-src="~sImg~" pg="ctn_belowarticle_2_paid#~pg-tag~"/>
+							<span class="ad_heading">~name~</span>
+							<span class="ad_brand">~brandtext~</span>
+						</a>
+					</li>
+				</script>
+				<script id="ctn_belowarticle_2_organic" type="text/x-jquery-tmpl">
+					<li class="clearfix">
+						<a class="ad_img" title="~name~" target="_blank" href="~url~" pg="ctn_belowarticle_2_organic#~pg-tag~">
+							<img src="~sImg~" data-src="~sImg~" pg="ctn_belowarticle_2_organic#~pg-tag~"/>
+							<span class="ad_heading">~name~</span>
+						</a>
+					</li>
+				</script>
+				<script id="ctn_belowarticle_1_paid" type="text/x-jquery-tmpl">
+					<li>
+						<a target="_blank" pg="ctn_belowarticle_1_paid#~pg-tag~" href="~url~">~name~</a>
+						<div class="ad_brand">~brandtext~</div>
+					</li>
+				</script>
+				<script id="ctn_belowarticle_1_organic" type="text/x-jquery-tmpl">
+					<li>
+						<a target="_blank" pg="ctn_belowarticle_1_organic#~pg-tag~" href="~url~">~name~</a>
+					</li>
+				</script>
+		        								</div>
+				<div class="blog-right" >
+<div class="rightSideContainer" style="height: auto;">	
+		
+					<div class="mb-20 ads-m">
+			<div class="ATF_300_39096"></div>
+		</div>
+				
+				<div class="mb-20 right-widgets authors authorsWidgetSidebar">
+								<div class="right-author-box" style="border:none; padding-bottom:10px;">
+				<div class="without-image-cntr">
+					<span class="au-title">Taushif Patel</span>
+                                        					<h3 class="au-name" style="font-size:22px;">@<a title="Go to Author article" href="https://timesofindia.indiatimes.com/readersblog/author-article/">Author article</a></h3>
+                                                                                <p style="margin-top:10px; font-family:Georgia;">Indian Entrepreneur co founder of Target Media .  Businessman   &amp; DIgital Marketers with  creative writing as Hobbies . Author at Www.Timesapplaud.com</p>
+					<span class="blog-more-btn">
+						<a href="#">more</a>
+					</span>
+				</div>
+			</div>
+				
+			   
+			   
+			   
+			   
+			   
+									<div class="right-author-box" style="border:none; padding-top:0px;">
+				<ul class="postsbythisauthor">
+										<li>
+						<div class="list-inner-box">
+							<a class="gaElement" gaValues="Readers Blog,Popular-Blogger-Articles,Click-1-40047" href="https://timesofindia.indiatimes.com/readersblog/author-article/how-to-start-business-with-personal-saving-40047/">How to start business with personal saving</a>
+						</div>
+					</li>
+										<li>
+						<div class="list-inner-box">
+							<a class="gaElement" gaValues="Readers Blog,Popular-Blogger-Articles,Click-2-39052" href="https://timesofindia.indiatimes.com/readersblog/author-article/your-mindset-is-important-for-success-39052/">Your mindset is important for success</a>
+						</div>
+					</li>
+										<li>
+						<div class="list-inner-box">
+							<a class="gaElement" gaValues="Readers Blog,Popular-Blogger-Articles,Click-3-38683" href="https://timesofindia.indiatimes.com/readersblog/author-article/failure-gives-a-better-point-of-view-through-which-one-can-march-onto-success-38683/">Failure gives a better point of view through which one can march onto success</a>
+						</div>
+					</li>
+										<li>
+						<div class="list-inner-box">
+							<a class="gaElement" gaValues="Readers Blog,Popular-Blogger-Articles,Click-4-38327" href="https://timesofindia.indiatimes.com/readersblog/author-article/try-the-cookie-jar-way-if-you-dont-know-how-to-invest-with-little-money-2-38327/">Try the cookie jar way if you don’t know how to invest with little money</a>
+						</div>
+					</li>
+										<li>
+						<div class="list-inner-box">
+							<a class="gaElement" gaValues="Readers Blog,Popular-Blogger-Articles,Click-5-38164" href="https://timesofindia.indiatimes.com/readersblog/author-article/top-5-tips-to-become-an-entrepreneur-even-if-you-are-a-parent-38164/">Top 5 tips to become an entrepreneur even if you are a parent</a>
+						</div>
+					</li>
+									</ul>
+			</div>
+					</div>
+		
+		
+		
+		
+	   
+			   
+			   
+					<div class="mb-20 right-widgets discuss-section">
+		<h2>MOST DISCUSSED</h2>
+		<ul>
+						<li>
+				<div class="list-inner-box" style="padding-left: 45px;">
+					<h3><a href="https://timesofindia.indiatimes.com/readersblog/a-letter-to-the-younger-me/wife-mom-boss-48101/">“Wife. Mom. Boss.!”</a></h3>
+					<p><a href="https://timesofindia.indiatimes.com/readersblog/author/harshikapatil306/">Harshika Patil</a></p>
+					<span>December 17, 2022</span>
+				</div>
+			</li>
+						<li>
+				<div class="list-inner-box" style="padding-left: 45px;">
+					<h3><a href="https://timesofindia.indiatimes.com/readersblog/a-letter-to-the-younger-me/a-letter-to-the-younger-me-48081/">A letter to the younger me</a></h3>
+					<p><a href="https://timesofindia.indiatimes.com/readersblog/author/harshikapatil306/">Harshika Patil</a></p>
+					<span>December 16, 2022</span>
+				</div>
+			</li>
+						<li>
+				<div class="list-inner-box" style="padding-left: 45px;">
+					<h3><a href="https://timesofindia.indiatimes.com/readersblog/payal-motivation-blog/meditation-2-48119/">Meditation</a></h3>
+					<p><a href="https://timesofindia.indiatimes.com/readersblog/author/payalkeshwani267/">Payal Keshwani</a></p>
+					<span>December 17, 2022</span>
+				</div>
+			</li>
+					</ul>
+	</div>
+		
+	
+	   
+					   
+							<div class="mb-20 right-widgets discuss-section">
+		<h2>MOST read</h2>
+		<ul>
+						<li>
+				<div class="list-inner-box" style="padding-left: 45px;">
+					<h3><a href="https://timesofindia.indiatimes.com/readersblog/mycountrymyresponsibility/todays-time-is-paramount-19459/">Today’s time is paramount!</a></h3>
+					<p><a href="https://timesofindia.indiatimes.com/readersblog/author/vibhu495/">vibhu</a></p>
+					<span>May 13, 2020</span>
+				</div>
+			</li>
+						<li>
+				<div class="list-inner-box" style="padding-left: 45px;">
+					<h3><a href="https://timesofindia.indiatimes.com/readersblog/the-simple/the-colour-of-our-mind-22712/">The colour of our mind</a></h3>
+					<p><a href="https://timesofindia.indiatimes.com/readersblog/author/nishkeshav995/">Nish Keshav</a></p>
+					<span>July 5, 2020</span>
+				</div>
+			</li>
+					</ul>
+	</div>
+		
+	
+	
+	
+	
+            
+            <div class="mb-20 right-widgets join-authors">
+		<h2>Recently Joined Bloggers</h2>
+		<ul>
+									<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-1-Madhavik Agarwal-blog" href="https://timesofindia.indiatimes.com/readersblog/author/madhavikagarwal928/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/default-126-40x40.png" alt="Madhavik Agarwal" title="Madhavik Agarwal" /></span>Madhavik Agarwal</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-2-Gaana User-blog" href="https://timesofindia.indiatimes.com/readersblog/author/gaanauser567/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/default-125-40x40.png" alt="Gaana User" title="Gaana User" /></span>Gaana User</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-3-Ritika Gupta-blog" href="https://timesofindia.indiatimes.com/readersblog/author/ritikagupta092/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/IMG_20180705_150017-40x31.jpg" alt="Ritika Gupta" title="Ritika Gupta" /></span>Ritika Gupta</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-4-Rakesh Mishra-blog" href="https://timesofindia.indiatimes.com/readersblog/author/rakeshmishra560/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/IMG_20221220_105153-scaled-30x40.jpg" alt="Rakesh Mishra" title="Rakesh Mishra" /></span>Rakesh Mishra</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-5-Falak Fathima-blog" href="https://timesofindia.indiatimes.com/readersblog/author/falakfathima278/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/813008558-40x40.jpeg" alt="Falak Fathima" title="Falak Fathima" /></span>Falak Fathima</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-6-Shashikala Patil-blog" href="https://timesofindia.indiatimes.com/readersblog/author/shashikalapatil201/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/IMG_20210211_111150-rotated-18x40.jpg" alt="Shashikala Patil" title="Shashikala Patil" /></span>Shashikala Patil</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-7-Ravi Balaguragi-blog" href="https://timesofindia.indiatimes.com/readersblog/author/ravibalaguragi118/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/default-116-40x40.png" alt="Ravi Balaguragi" title="Ravi Balaguragi" /></span>Ravi Balaguragi</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-8-Ishmeet Kaur-blog" href="https://timesofindia.indiatimes.com/readersblog/author/ishmeetkaur810/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/Screenshot-385-31x40.png" alt="Ishmeet Kaur" title="Ishmeet Kaur" /></span>Ishmeet Kaur</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-9-Pramod Mehra-blog" href="https://timesofindia.indiatimes.com/readersblog/author/pramodmehra844/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/ambedkar-40x25.jpg" alt="Pramod Mehra" title="Pramod Mehra" /></span>Pramod Mehra</a>
+							</div>
+						</li>
+											<li>
+							<div class="authors-list">
+								<a class="gaElement" gaValues="Readers Blog,Top-Bloggers,Click-10-nikita mahajan-blog" href="https://timesofindia.indiatimes.com/readersblog/author/nikitamahajan681/"><span><img src="https://static.toiimg.com/photo/75476727.cms" data-src="https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/12/default-111-40x40.png" alt="nikita mahajan" title="nikita mahajan" /></span>nikita mahajan</a>
+							</div>
+						</li>
+							</ul>
+	</div>
+        	
+    
+    
+    
+	
+				</div>
+</div>
+	<div data-articlepage-end="" style="width:100%;"></div>
+	</div>
+</div> <!--container -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+	<!-- Background of PhotoSwipe. 
+		 It's a separate element as animating opacity is faster than rgba(). -->
+	<div class="pswp__bg"></div>
+
+	<!-- Slides wrapper with overflow:hidden. -->
+	<div class="pswp__scroll-wrap">
+
+		<!-- Container that holds slides. 
+			PhotoSwipe keeps only 3 of them in the DOM to save memory.
+			Don't modify these 3 pswp__item elements, data is added later on. -->
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+
+		<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+		<div class="pswp__ui pswp__ui--hidden">
+
+			<div class="pswp__top-bar">
+
+				<!--  Controls are self-explanatory. Order can be changed. -->
+
+				<div class="pswp__counter"></div>
+
+				<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+				<button class="pswp__button pswp__button--share" title="Share"></button>
+
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+				<!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+				<!-- element will get class pswp__preloader--active when preloader is running -->
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+					  <div class="pswp__preloader__cut">
+						<div class="pswp__preloader__donut"></div>
+					  </div>
+					</div>
+				</div>
+			</div>
+
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+			</button>
+
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+			</button>
+
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+	 
+	<!-- desktop footer start -->
+		<div class="container">
+			<footer id="footer">
+				<div class="wrapper">
+					<div class="row level1 clearfix">
+						<h2 class="footer-disclaimer-head">disclaimer</h2>
+						<p style="padding-bottom:20px; text-align:left; color:#fff;">Any opinions and views expressed on or through the above content/blogs are those of the designated authors/bloggers and do not necessarily represent views of Times Internet Limited ("Company"). Further, the Company does not make any warranty as to the correctness or reliability of such content.</p>
+					</div>
+					<div class="level2">
+						<div class="row clearfix">
+							<div class="column">
+								<div class="sociable">
+									<h2>Follow us on</h2>
+									<ul>
+										<li class="fb"><a target="_blank"  href="https://www.facebook.com/TimesofIndia"><i></i>facebook</a></li>
+										<li class="twitter"><a target="_blank"  href="https://twitter.com/timesofindia"><i></i>twitter</a></li>
+										<li class="rss"><a href="https://timesofindia.indiatimes.com/rss.cms"><i></i>rss feed</a></li>
+										<li class="youtube"><a  href="https://www.youtube.com/timesofindia" ><i></i>youtube</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="column">
+								<div class="download-apps">
+									<h2>download toi app</h2>
+									<ul>
+										<li class="android"><a  href="https://play.google.com/store/apps/details?id=com.toi.reader.activities&amp;utm_source=TOInewHP_TILwidget&amp;utm_medium=ABtest&amp;utm_campaign=TOInewHP"><i></i>android</a></li>
+										<li class="iphone"><a  href="https://itunes.apple.com/us/app/the-times-of-india/id427589329?utm_source=TOInewHP_TILwidget&amp;utm_medium=ABtest&amp;utm_campaign=TOInewHP"><i></i>iphone</a></li>
+										<li class="ipad"><a  href="https://itunes.apple.com/us/app/the-times-of-india-for-ipad/id427164653?utm_source=TOInewHP_TILwidget&amp;utm_medium=ABtest&amp;utm_campaign=TOInewHP" ><i></i>ipad</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="level3">
+					<div class="wrapper">
+						<a class="logo" href="#"></a>
+						<div class="links">
+							<ul>
+								<li><a target="_blank"  href="http://www.timesinternet.in">About us </a></li>
+								<li><a target="_blank"  href="https://www.ads.timesinternet.in/expresso/selfservice/loginSelfService.htm" >Create Your Own Ad </a></li>
+								<li><a target="_blank"  href="http://www.indiatimes.com/termsandcondition">Terms of Use and Grievance Redressal Policy </a></li>
+								<li><a id="privacypolicy" target="_blank"  href="http://www.indiatimes.com/privacypolicy">Privacy policy </a></li>
+								<li><a target="_blank" href="http://advertise.indiatimes.com/">Advertise with us </a></li>
+								<li><a href="https://timesofindia.indiatimes.com/rss.cms">RSS </a></li>
+								<li class="eu-hidden"><a href="/newsletterhome.cms">Newsletter </a></li>
+								<li class="eu-hidden"><a href="https://timesofindia.indiatimes.com/feedback.cms">Feedback </a></li>
+								<li class="eu-hidden"><a target="_blank"  href="http://epaper.timesofindia.com/">ePaper </a></li>
+								<li><a href="/sitemap.cms">Sitemap </a></li>
+								<li><a href="/archive.cms">Archives </a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="wrapper">
+					<p>Copyright &copy; 2022 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: <a href="http://timescontent.com/">Times Syndication Service</a></p>
+				</div>
+			</footer>
+		</div>
+	<!-- desktop footer end -->
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/jsrender.cms?ver=2.1' id='config-script-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/js/blogs_prime.js?ver=10.3' id='times-script-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/js/functions.js?ver=3.1' id='functions-script-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/js/as_new.js?ver=4.0' id='ashow-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-content/themes/blogstheme/js/defads.js?ver=3.9' id='defads-js'></script>
+<script type='text/javascript' src='https://timesofindia.indiatimes.com/readersblog/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
+<script type="text/javascript">
+	TimesGDPR.common.consentModule.gdprCallback(function(){
+               if(window._euuser){
+                //alert('EU');
+                enablegdpr();
+                //$('.cmtbtn-wrapper').hide();
+               }
+        })
+</script>
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+ lang: en_US
+</script>
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+function fireComscore(){
+
+var optoutCookie = getCookie("optout");
+var objComScore = { c1:"2", c2:"6036484"};
+TimesGDPR.common.consentModule.gdprCallback(function(data) {
+        if( TimesGDPR.common.consentModule.isEUuser() ){
+            objComScore["cs_ucfr"] = 0;
+        }
+  _comscore.push(objComScore);
+  (function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+  })();
+});
+}
+fireComscore();
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+<script>
+	(function(){
+		function pingIbeat() {
+			window._pg_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('async', 'true');
+			e.setAttribute('src',"https://agi-static.indiatimes.com/cms-common/ibeat.min.js");
+			document.body.appendChild(e);
+		}
+		
+		if (TimesGDPR && TimesGDPR.common.consentModule.gdprCallback){
+			TimesGDPR.common.consentModule.gdprCallback(function(dataObj){ //Block for EU users
+				if (dataObj.isEUuser){
+					_ibeat_track['sCookie'] = false;
+				}
+				pingIbeat();
+			});
+		}else{
+			_ibeat_track['sCookie'] = false;
+			pingIbeat();
+		}
+	})();
+</script>
+<script type="text/javascript">initGoogleAds(wapads_39096);</script>
+<script type="text/javascript">
+	var tilDmpWebSrc ='https://static.clmbtech.com/ase/2658/3/aa.js?ver=1.1';            
+      // GDPR & CCPA code
+                      (function(){
+				  function loadAaJs() {
+				    window._sf_endpt=(new Date()).getTime();
+				    var e = document.createElement('script');
+				    e.setAttribute('language', 'javascript');
+				    e.setAttribute('type', 'text/javascript');
+				    e.setAttribute('src',tilDmpWebSrc);
+				    document.body.appendChild(e);
+				  }
+				  
+				function checkUser(){
+    				     if (window.TimesGDPR  && TimesGDPR.common.consentModule.gdprCallback){
+                                TimesGDPR.common.consentModule.gdprCallback(function(dataObj){
+                                   if (dataObj.isEUuser){
+                                     if(!TimesGDPR.common.consentModule.didUserOptOut()){
+                                         loadAaJs();
+                                     }
+                                   }else{
+                                     loadAaJs();
+                                   }
+                                });
+                            }
+                        else{
+                           loadAaJs();
+                        }
+    	            }
+                        var oldonload = window.onload;
+                        var onloadFunc =  (typeof window.onload != 'function') ? checkUser : function() {  checkUser();oldonload(); };
+                        if (window.attachEvent) {window.attachEvent('onload', onloadFunc);}
+                        else if (window.addEventListener) {window.addEventListener('load', onloadFunc, false);}
+                        else {document.addEventListener('load', onloadFunc, false);}
+                        })();
+            
+            
+            
+//	if(typeof( tilDmpWebSrc ) != 'undefined' && !TimesGDPR.common.consentModule.isEUuser()){
+//	var tilDmpSrc = tilDmpWebSrc;
+//
+//	var tilDmpScriptTag = document.createElement('script');
+//	tilDmpScriptTag.setAttribute('src', tilDmpSrc);
+//	document.body.appendChild(tilDmpScriptTag);
+//	}
+function fireGAevents(eventCat, eventAct, eventLab)
+{
+	var ga = window.ga;
+	if( typeof ga == "undefined" ){
+	return;
+	}
+	eventLab = eventLab.replace('#currentURL#',window.location.href);
+
+	ga('send', {
+	hitType: 'event',
+	eventCategory: eventCat,
+	eventAction: eventAct,
+	eventLabel: eventLab
+	});
+}
+
+function bindGA(){
+	$('.gaElement').unbind('click');
+	$('.gaElement').on('click',function(){
+		var eventValues = $(this).attr('gaValues');
+		var eventValuesArr = eventValues.split(',');
+		var eventCat = eventValuesArr[0];
+		var eventAct = eventValuesArr[1];
+		var eventLab = eventValuesArr[2];
+		fireGAevents(eventCat, eventAct, eventLab);
+	});
+}
+
+
+
+$(document).ready(function() {
+	bindGA();
+       // getMostReadDataIbeat();
+});
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-98c2e5cadbaab2449f6","applicationID":"720539872","transactionName":"NQBaNUcCCBFSVxEMXwxKeQJBCgkMHEcMC1cOAA==","queueTime":0,"applicationTime":1237,"atts":"GUdZQw8YGx8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
