@@ -1,0 +1,126 @@
+./dumps-text/urls_fr-21.txt:    #Gazette des femmes » Mères au foyer 2.0 Flux des commentaires
+./dumps-text/urls_fr-21.txt-   alternate alternate alternate
+./dumps-text/urls_fr-21.txt-
+--
+./dumps-text/urls_fr-21.txt-   Aller directement au contenu
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:     * Page Facebook de la Gazette des femmes
+./dumps-text/urls_fr-21.txt:     * Page Instagram de la Gazette des femmes
+./dumps-text/urls_fr-21.txt:     * Fil Twitter de la Gazette de femmes
+./dumps-text/urls_fr-21.txt:     * Fil Twitter de la Gazette de femmes
+./dumps-text/urls_fr-21.txt:     * Page d'abonnement à l'infolettre de la Gazette de femmes
+./dumps-text/urls_fr-21.txt:     * Page d'abonnement à l'infolettre de la Gazette de femmes
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:   Logo de la Gazette des femmes
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:Gazette des femmes
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:   Logo de la Gazette des femmes
+./dumps-text/urls_fr-21.txt-   (BUTTON)
+./dumps-text/urls_fr-21.txt-
+--
+./dumps-text/urls_fr-21.txt-   l’Institut de la statistique du Québec, 78,7  % des mères avaient un
+./dumps-text/urls_fr-21.txt-   travail rémunéré en 2008. C’est donc dire qu’un peu plus de 20 % des
+./dumps-text/urls_fr-21.txt:   mères ne travaillent pas contre rémunération. Parmi elles, des femmes
+./dumps-text/urls_fr-21.txt-   jeunes, scolarisées et issues de la classe moyenne. En excluant les
+./dumps-text/urls_fr-21.txt:   femmes qui reçoivent une aide de dernier recours, on pourrait estimer
+./dumps-text/urls_fr-21.txt-   ce groupe à un peu plus de 17 %.
+./dumps-text/urls_fr-21.txt-
+--
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt-   Si la maternité n’était pas prise en considération dans les premières
+./dumps-text/urls_fr-21.txt:   années de lutte pour l’accès des femmes à l’emploi (on cherchait alors
+./dumps-text/urls_fr-21.txt-   à établir leur place dans tous les secteurs d’activité), le mouvement
+./dumps-text/urls_fr-21.txt-   féministe a depuis joué un rôle majeur dans l’instauration de
+--
+./dumps-text/urls_fr-21.txt-   le maintien en emploi des mères québécoises, assurant ainsi leur
+./dumps-text/urls_fr-21.txt-   autonomie financière, un levier essentiel pour l’atteinte de l’égalité
+./dumps-text/urls_fr-21.txt:   entre les femmes et les hommes. Car qui dit autonomie financière dit
+./dumps-text/urls_fr-21.txt-   aussi liberté de choisir, de partir et d’être maître de sa vie. Voilà
+./dumps-text/urls_fr-21.txt-   pourquoi la décision de ne pas travailler contre rémunération étonne.
+--
+./dumps-text/urls_fr-21.txt-   modèle de la mère au travail la norme absolue, nous ne nous sommes pas
+./dumps-text/urls_fr-21.txt-   attardées au fait que cette avenue ne convenait pas à toutes. Dans
+./dumps-text/urls_fr-21.txt:   l’équation « femme + travail = nécessité », nous n’avons pas tenu
+./dumps-text/urls_fr-21.txt-   compte de la variable « choix » — du moins pour celles qui en ont les
+./dumps-text/urls_fr-21.txt-   moyens. Et c’est précisément ce que les mères au foyer
+--
+./dumps-text/urls_fr-21.txt-   maîtrise, Mères au foyer de divers horizons culturels dans le Québec
+./dumps-text/urls_fr-21.txt-   des années 2000. Représentations en matière de choix, d’autonomie et de
+./dumps-text/urls_fr-21.txt:   bien-être, qui s’intéresse au sens que donnent 10 femmes scolarisées de
+./dumps-text/urls_fr-21.txt-   la région de Québec à leur choix de demeurer auprès de leurs enfants
+./dumps-text/urls_fr-21.txt-   pendant quelques années.
+--
+./dumps-text/urls_fr-21.txt-   heurts, à la réussite de ses vies familiale, personnelle et
+./dumps-text/urls_fr-21.txt-   professionnelle, ce choix reste-t-il compatible avec des valeurs
+./dumps-text/urls_fr-21.txt:   féministes? "« Les femmes à qui j’ai parlé dans le cadre de mon mémoire
+./dumps-text/urls_fr-21.txt-   sont majoritairement en faveur du féminisme et de l’égalité, rapporte
+./dumps-text/urls_fr-21.txt:   Mme Cloutier. Elles reconnaissent que la lutte des femmes a rendu tous
+./dumps-text/urls_fr-21.txt-   les choix possibles. C’est précisément pour cette raison qu’elles ne
+./dumps-text/urls_fr-21.txt-   comprennent pas pourquoi le leur n’est pas reconnu. »"
+./dumps-text/urls_fr-21.txt-   Photographie d’Annie Cloutier.
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:     « Les femmes à qui j’ai parlé reconnaissent que la lutte des femmes
+./dumps-text/urls_fr-21.txt-     a fait que tous les choix sont possibles. Pour cette raison, elles
+./dumps-text/urls_fr-21.txt-     ne comprennent pas pourquoi le leur n’est pas reconnu. »
+--
+./dumps-text/urls_fr-21.txt-   Annie Cloutier rappelle en effet que le monde du travail s’est
+./dumps-text/urls_fr-21.txt-   transformé depuis les premières luttes féministes. Normal, donc, que
+./dumps-text/urls_fr-21.txt:   l’approche qu’en ont les femmes ait elle aussi changé. "« Nos
+./dumps-text/urls_fr-21.txt-   existences ne sont plus formatées comme avant. Autrefois, on occupait
+./dumps-text/urls_fr-21.txt-   le même emploi de 17 à 60 ans. Aujourd’hui, il n’est pas rare d’avoir
+--
+./dumps-text/urls_fr-21.txt-   ressources collectives. On pourrait par exemple créer des milieux de
+./dumps-text/urls_fr-21.txt-   plus grande qualité dans les centres de la petite enfance, afin que les
+./dumps-text/urls_fr-21.txt:   femmes n’aient pas le sentiment d’abandonner leur enfant. Il faut aussi
+./dumps-text/urls_fr-21.txt-   améliorer les conditions d’emploi des parents. Pourquoi ne pas leur
+./dumps-text/urls_fr-21.txt-   donner la possibilité d’effectuer un retour progressif au travail? »"
+--
+./dumps-text/urls_fr-21.txt-   détentrice d’une maîtrise en microbiologie et immunologie. "« Le
+./dumps-text/urls_fr-21.txt-   travail est encore associé à “être comme un homme”. Mais travailler,
+./dumps-text/urls_fr-21.txt:   pour une femme, c’est plus complexe que ça. Il faudrait un monde du
+./dumps-text/urls_fr-21.txt:   travail mieux adapté aux femmes. J’aimerais que les mères qui restent
+./dumps-text/urls_fr-21.txt-   un temps à la maison soient soutenues, mais aussi qu’elles aient
+./dumps-text/urls_fr-21.txt-   d’autres choix que le boulot à temps plein ou l’arrêt total. Pour
+--
+./dumps-text/urls_fr-21.txt-   projettent pour la plupart de renouer avec le monde du travail une fois
+./dumps-text/urls_fr-21.txt-   tous leurs enfants assis sur un banc d’école —, Élisabeth Badinter,
+./dumps-text/urls_fr-21.txt:   femme de lettres et philosophe féministe française, met tout de même en
+./dumps-text/urls_fr-21.txt-   garde celles qu’elle nomme les filles et les petites-filles du
+./dumps-text/urls_fr-21.txt:   féminisme. Dans son livre Le conflit, la femme et la mère (Flammarion,
+./dumps-text/urls_fr-21.txt:   2010), elle s’inquiète de voir des jeunes femmes faire des études et
+./dumps-text/urls_fr-21.txt-   avoir des enfants sans réaliser l’insidieuse régression culturelle
+./dumps-text/urls_fr-21.txt:   qu’elles subissent. Force est d’admettre que si certaines femmes se
+./dumps-text/urls_fr-21.txt-   donnent le choix de travailler ou pas, elles sont rarement imitées par
+./dumps-text/urls_fr-21.txt-   les hommes. Badinter y voit un retour à la spécialisation des
+./dumps-text/urls_fr-21.txt:   rôles : les femmes se consacrent aux tâches domestiques et à
+./dumps-text/urls_fr-21.txt-   l’éducation des enfants, les hommes se chargent du revenu familial.
+./dumps-text/urls_fr-21.txt-   "« Il faut faire attention, car la sexualisation des tâches revient
+--
+./dumps-text/urls_fr-21.txt-   allaite longtemps, qui popote bio et qui lave les couches de bébé.
+./dumps-text/urls_fr-21.txt-   "« Je ne nie pas les problèmes de pollution causés par les couches
+./dumps-text/urls_fr-21.txt:   jetables, mais ces femmes devraient plaider pour qu’on produise des
+./dumps-text/urls_fr-21.txt-   couches biodégradables »", objecte Élisabeth Badinter en entrevue.
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:   Combattant l’apologie de la femme parfaite, elle soutient que, sous des
+./dumps-text/urls_fr-21.txt-   couverts écologiques, la quasi-obligation morale pour les mères
+./dumps-text/urls_fr-21.txt-   d’allaiter et d’être irréprochable à tous les égards s’inscrit dans la
+./dumps-text/urls_fr-21.txt:   mouvance conservatrice. "« Au-delà du problème des femmes, la société
+./dumps-text/urls_fr-21.txt-   actuelle est très régressive. On est dans des positions de repli. »"
+./dumps-text/urls_fr-21.txt-
+--
+./dumps-text/urls_fr-21.txt-   préjugés.
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:   Logo du Conseil du Statut de la Femme
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt-   Éditeur du magazine
+./dumps-text/urls_fr-21.txt:   Gazette des femmes
+./dumps-text/urls_fr-21.txt-   csf.gouv.qc.ca
+./dumps-text/urls_fr-21.txt:     * Page Facebook de la Gazette des femmes
+./dumps-text/urls_fr-21.txt:     * Page Instagram de la Gazette des femmes
+./dumps-text/urls_fr-21.txt:     * Fil Twitter de la Gazette de femmes
+./dumps-text/urls_fr-21.txt:     * Fil Twitter de la Gazette de femmes
+./dumps-text/urls_fr-21.txt:     * Page d'abonnement à l'infolettre de la Gazette de femmes
+./dumps-text/urls_fr-21.txt:     * Page d'abonnement à l'infolettre de la Gazette de femmes
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt-     * À propos

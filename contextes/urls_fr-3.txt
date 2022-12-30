@@ -1,0 +1,92 @@
+./dumps-text/urls_fr-3.txt-          + Reportages
+./dumps-text/urls_fr-3.txt-          + Décryptage
+./dumps-text/urls_fr-3.txt:          + Femmes engagées
+./dumps-text/urls_fr-3.txt-          + Marie Claire s'engage
+./dumps-text/urls_fr-3.txt:               o Violences faites aux femmes
+./dumps-text/urls_fr-3.txt-               o La Flamme Marie Claire
+./dumps-text/urls_fr-3.txt-               o Le Grand Forum
+./dumps-text/urls_fr-3.txt-               o Octobre Rose
+./dumps-text/urls_fr-3.txt-               o Women's Forum
+./dumps-text/urls_fr-3.txt:               o Egalité femmes hommes
+./dumps-text/urls_fr-3.txt-          + Impact Positif
+./dumps-text/urls_fr-3.txt-     * Bien-être et Forme
+--
+./dumps-text/urls_fr-3.txt-     Actualités société - archives 2013
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt:Les femmes au foyer sont de moins en moins nombreuses en France
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt-   Par Dounia Malki
+./dumps-text/urls_fr-3.txt:   Femmes au foyer : De moins en moins nombreuses en France (BUTTON)
+./dumps-text/urls_fr-3.txt-   Ajouter aux favoris (BUTTON) Getty Images
+./dumps-text/urls_fr-3.txt-   (BUTTON)
+--
+./dumps-text/urls_fr-3.txt-   [ ] [ ] [ ] [ ] Je certifie ne pas envoyer d'e-mail indésirable
+./dumps-text/urls_fr-3.txt-   Envoyer
+./dumps-text/urls_fr-3.txt:   Les femmes au foyer sont de moins en moins nombreuses en France. C’est
+./dumps-text/urls_fr-3.txt-   ce que révèle une étude menée par l’Insee (Institut national de la
+./dumps-text/urls_fr-3.txt-   statistique et des études économiques) et publiée vendredi. En 1991,
+./dumps-text/urls_fr-3.txt:   une femme sur trois était au foyer, contre seulement une sur cinq en
+./dumps-text/urls_fr-3.txt-   2011.
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt:   Femme au foyer, oui, mais plus pour des raisons personnelles
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt:   Si le nombre de femmes au foyer a diminué en France, « les motifs de
+./dumps-text/urls_fr-3.txt-   cessation d’activité ont sensiblement évolué », note l’Insee. En effet,
+./dumps-text/urls_fr-3.txt-   en 1991, ce sont les raisons personnelles qui primaient dans 59% des
+./dumps-text/urls_fr-3.txt:   cas. Or, en 2011, ces causes ne concernent plus que 21% des femmes au
+./dumps-text/urls_fr-3.txt:   foyer. Désormais, la conjoncture économique prime. 35% des femmes en
+./dumps-text/urls_fr-3.txt-   2011 ont invoqué « la fin d’un CDD » comme raison à leur inactivité,
+./dumps-text/urls_fr-3.txt-   alors qu’elles n’étaient que 10% à le faire en 1991. Par ailleurs, 11%
+./dumps-text/urls_fr-3.txt:   des femmes ont expliqué leur retrait de la vie active par un
+./dumps-text/urls_fr-3.txt-   licenciement économique, contre 4% en 1991.
+./dumps-text/urls_fr-3.txt-
+--
+./dumps-text/urls_fr-3.txt-   Selon l’Insee, la perte d’un emploi, le chômage, et la conjoncture
+./dumps-text/urls_fr-3.txt-   économique « moins favorable », causent un découragement chez certaines
+./dumps-text/urls_fr-3.txt:   femmes. Par la force des choses, ces dernières deviennent parfois
+./dumps-text/urls_fr-3.txt-   inactives. Néanmoins, l’institut a nuancé ce résultat en soulignant
+./dumps-text/urls_fr-3.txt-   qu’il « est parfois difficile de démêler l’effet de la situation sur le
+./dumps-text/urls_fr-3.txt-   marché du travail, des choix personnels ». En effet, la conjoncture
+./dumps-text/urls_fr-3.txt:   économique peut parfois conforter une femme dans son désir de se
+./dumps-text/urls_fr-3.txt-   consacrer uniquement à son foyer.
+./dumps-text/urls_fr-3.txt-
+--
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt-   Concilier vie familiale et vie professionnelle est un challenge pour la
+./dumps-text/urls_fr-3.txt:   plupart des femmes. Si certaines ont choisi entre les deux, d’autres,
+./dumps-text/urls_fr-3.txt-   en revanche, ont décidé de ne faire aucune concession. Elles ont donc
+./dumps-text/urls_fr-3.txt-   créé leur propre entreprise, afin de d’être leur propre patron. Plus de
+./dumps-text/urls_fr-3.txt-   liberté, moins de contraintes horaires, ce statut leur permet de
+./dumps-text/urls_fr-3.txt-   dégager du temps pour leur famille sans pour autant renoncer à leur vie
+./dumps-text/urls_fr-3.txt:   de femme active. L’association Mampreneurs se veut d’ailleurs l’écho de
+./dumps-text/urls_fr-3.txt:   ces femmes. « Etre une mampreneur, une maman chef d’entreprise, est
+./dumps-text/urls_fr-3.txt-   avant tout un état d'esprit. Actrices à part entière du monde
+./dumps-text/urls_fr-3.txt-   économique, nous avons fait le choix de nous mettre à notre compte ou
+--
+./dumps-text/urls_fr-3.txt-   peut-on lire sur le site de l’association.
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt:   Moins de femmes au foyer, mais toujours autant d’inégalités salariales
+./dumps-text/urls_fr-3.txt:   entre hommes et femmes
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt-   Dans son étude, l’Insee a également comparé le taux d’emplois des
+./dumps-text/urls_fr-3.txt:   hommes et des femmes. Si l’écart s’est resserré entre 2003 et 2011, il
+./dumps-text/urls_fr-3.txt-   demeure encore important. En effet, en 2011, 76% des hommes avaient un
+./dumps-text/urls_fr-3.txt:   emploi contre seulement 67% des femmes. Néanmoins, si on ne prend en
+./dumps-text/urls_fr-3.txt:   compte que les femmes travaillant à temps complet, l’écart se creuse
+./dumps-text/urls_fr-3.txt-   davantage. Ainsi, 74% des hommes travaillent à temps plein contre
+./dumps-text/urls_fr-3.txt:   seulement 59% des femmes. Il existe donc toujours autant d'inégalités
+./dumps-text/urls_fr-3.txt:   salariales entre hommes et femmes.
+./dumps-text/urls_fr-3.txt-   Partager
+./dumps-text/urls_fr-3.txt-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+--
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt-   Plus d'Actualités société - archives 2013
+./dumps-text/urls_fr-3.txt:   Pourquoi ces femmes journalistes iraniennes sont-elles assises par
+./dumps-text/urls_fr-3.txt-   terre ?
+./dumps-text/urls_fr-3.txt-
+--
+./dumps-text/urls_fr-3.txt-   du policierMétéo de Noël : une tempête prévue pour la nuit du
+./dumps-text/urls_fr-3.txt-   réveillonDans les Ehpad français, de nombreuses résidentes sont
+./dumps-text/urls_fr-3.txt:   victimes de viols, révèle "Mediapart"Rouen : une femme découvre qu'une
+./dumps-text/urls_fr-3.txt-   caméra cachée dans son Airbnb l'a filmée sous la doucheMeurtre de
+./dumps-text/urls_fr-3.txt-   Lola : la suspecte Dahbia B. jugée "narcissique psychopathique" mais

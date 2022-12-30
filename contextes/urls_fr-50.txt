@@ -1,0 +1,5 @@
+./dumps-text/urls_fr-50.txt-   Anabelle a terminé ses courses, mais ses missions de la journée sont
+./dumps-text/urls_fr-50.txt-   loin d’être terminées. Entre la cuisine, le repassage, ou encore le
+./dumps-text/urls_fr-50.txt:   ménage, le travail de cette femme au foyer est à temps plein, week-end
+./dumps-text/urls_fr-50.txt-   et jour férié compris.
+./dumps-text/urls_fr-50.txt-

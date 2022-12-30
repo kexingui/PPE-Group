@@ -1,0 +1,5 @@
+./dumps-text/urls_fr-20.txt-
+./dumps-text/urls_fr-20.txt-Une étude réalisée par un site spécialisé affirme que, si elles étaient
+./dumps-text/urls_fr-20.txt:payées aux prix du marché, les femmes au foyer toucheraient en moyenne cinq
+./dumps-text/urls_fr-20.txt-fois le Smic par mois
+./dumps-text/urls_fr-20.txt-
