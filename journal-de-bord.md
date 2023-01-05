@@ -46,5 +46,13 @@ Aigerim :La correction de configuration de git user name.
 Kexin: De ma part, je rencontre grand problème de run out de contxt et faire le concordance ： Après que je run mon script, il y a des fichiers de context qui affichent, mais tous les fichiers sont vides.
 Après avoir demandé à mes camarades de classe, je me rends compte qu'il y avait un problème avec la définition  des variables dans mon script, et que les noms de fichiers dans le script ne correspondaient pas à mes noms de fichiers locaux. Pour moi le but des journée suivante est de règler ce problème.
 De plus, j‘ai trouvé l'exemple html de la désignation de site pour préparer l'organisation de notre page, et un bon exemple de scripte de tableau des étudiants ancient pour nous aider à avancer.
-
-
+#10 décembre
+charlotte: lors de la recherche d'urls en français et avant de faire des analyses, je peux observer un changement de perception des femmes au foyer selon l'orientation politique du media (journaux de droite et religieux ont une opinion plutôt positive des femmes au foyer qu'ils mettent en valeur, tandis que les autres pointent les risques et les désavantages de cette situation
+#20 décembre
+charlotte: Abandon de certaines langues car difficulté à trouver assez de materiel sur le sujet dans les langues en question
+#22 décembre
+charlotte: test des tableaux avec les url en anglais, espagnol et français
+#23 décembre
+charlotte: ajout du tableau en espagnol
+#5 janvier
+charlotte: dernières modifications sur les tableaux en anglais, espagnol et français, nettoyage de certains dossiers (les fichiers inutiles sont retirés
