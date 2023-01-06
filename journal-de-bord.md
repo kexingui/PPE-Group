@@ -1,3 +1,36 @@
+##séance 1,2 3
+Au début de cours le prof nous présente le déroulement général de ce cours « projet encadré » et tous les matériaux et les outils que nous devrons utiliser. 
+Nous apprenions l’utilisation le shell, et les profs nous présentent le git. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # octobre
 Mot/expression choisi: "femme au foyer"
 On se concentre sur les articles de presse 
