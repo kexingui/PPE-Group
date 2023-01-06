@@ -1,0 +1,43 @@
+./dumps-text/urls_fr-47.txt-     * international
+./dumps-text/urls_fr-47.txt-
+./dumps-text/urls_fr-47.txt:Les Japonaises veulent être femme au foyer
+./dumps-text/urls_fr-47.txt-
+./dumps-text/urls_fr-47.txt:   Une enquête sur les jeunes Nippons montre que le schéma "femme à la
+./dumps-text/urls_fr-47.txt-   maison, homme à l'extérieur" reste assez fort.
+./dumps-text/urls_fr-47.txt:   Une enquête sur les jeunes Nippons montre que le schéma "femme à la
+./dumps-text/urls_fr-47.txt-   maison, homme à l'extérieur" reste assez fort. © REUTERS
+./dumps-text/urls_fr-47.txt-     *
+--
+./dumps-text/urls_fr-47.txt-
+./dumps-text/urls_fr-47.txt-   Rédaction Europe1.fr avec AFP 06h59, le 25 septembre 2013
+./dumps-text/urls_fr-47.txt:   Une enquête sur les jeunes Nippons montre que le schéma "femme à la
+./dumps-text/urls_fr-47.txt-   maison, homme à l'extérieur" reste assez fort.
+./dumps-text/urls_fr-47.txt-
+./dumps-text/urls_fr-47.txt-   Les clichés ont de beaux jours devant eux. A la question "voulez-vous
+./dumps-text/urls_fr-47.txt:   devenir femme au foyer?", une jeune Japonaise célibataire sur trois
+./dumps-text/urls_fr-47.txt-   répond : "je crois bien effet" ou "tant qu'à faire oui", selon une
+./dumps-text/urls_fr-47.txt-   étude du ministère de la santé. Cette vaste enquête sur l'état d'esprit
+./dumps-text/urls_fr-47.txt:   des jeunes Nippons montre que le schéma "femme à la maison, homme à
+./dumps-text/urls_fr-47.txt-   l'extérieur" reste assez fort, dans la gent féminine du moins. Quelque
+./dumps-text/urls_fr-47.txt:   34,2% des femmes non mariées de 15 à 39 ans veulent devenir "femmes au
+./dumps-text/urls_fr-47.txt-   foyer", 38% souhaitent autre chose et les autres ne savent pas a
+./dumps-text/urls_fr-47.txt-   priori.
+--
+./dumps-text/urls_fr-47.txt-   seulement un homme sur cinq souhaite que sa future épouse reste à la
+./dumps-text/urls_fr-47.txt-   maison, 50% ne sachant pas a priori et 30% préférant qu'elle travaille.
+./dumps-text/urls_fr-47.txt:   Si on demande aux hommes et aux femmes pourquoi ils préfèrent que
+./dumps-text/urls_fr-47.txt:   l'épouse restent à la maison, 61% répondent que "les femmes ont bien
+./dumps-text/urls_fr-47.txt-   d'autres choses à faire que travailler à l'extérieur, comme les tâches
+./dumps-text/urls_fr-47.txt-   domestiques et l'éducation des enfants", et 29% estiment que "le rôle
+--
+./dumps-text/urls_fr-47.txt-
+./dumps-text/urls_fr-47.txt-   Ensuite, pour 18% "le salaire du mari est censé suffire". Si les hommes
+./dumps-text/urls_fr-47.txt:   sont cependant plus enclins à voir leur femme occuper une fonction
+./dumps-text/urls_fr-47.txt-   professionnelle, c'est d'abord pour des questions économiques, les
+./dumps-text/urls_fr-47.txt-   émoluments du mari, surtout quand il est jeune salarié, n'étant plus
+--
+./dumps-text/urls_fr-47.txt-   décourageantes.
+./dumps-text/urls_fr-47.txt-
+./dumps-text/urls_fr-47.txt:   Des jeunes femmes découragées. Seules celles qui sont extrêmement
+./dumps-text/urls_fr-47.txt-   motivées parviennent à prendre des fonctions d'encadrement, mais elles
+./dumps-text/urls_fr-47.txt-   ont aussi tendance à quitter leur emploi lors de la naissance d'un

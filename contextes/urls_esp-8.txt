@@ -1,0 +1,34 @@
+./dumps-text/urls_esp-8.txt-   Hazte premium Hazte premium
+./dumps-text/urls_esp-8.txt-   sevilla Economía
+./dumps-text/urls_esp-8.txt:   Estas son las ayudas de la Seguridad Social que pueden pedir las amas
+./dumps-text/urls_esp-8.txt-   de casa de más de 45 años
+./dumps-text/urls_esp-8.txt-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+--
+./dumps-text/urls_esp-8.txt-   ABC de Sevilla Economía
+./dumps-text/urls_esp-8.txt-
+./dumps-text/urls_esp-8.txt:Estas son las ayudas de la Seguridad Social que pueden pedir las amas de casa
+./dumps-text/urls_esp-8.txt-de más de 45 años
+./dumps-text/urls_esp-8.txt-
+./dumps-text/urls_esp-8.txt:Además de una aportación económica, esta ayuda dispone de un programa
+./dumps-text/urls_esp-8.txt-específico de formación para favorecer la inserción al mercado laboral
+./dumps-text/urls_esp-8.txt-
+--
+./dumps-text/urls_esp-8.txt-   de prestaciones y subsidios dependiendo de las necesidades de los
+./dumps-text/urls_esp-8.txt-   ciudadanos que no tienen un respaldo económico. En este sentido, el de
+./dumps-text/urls_esp-8.txt:   las amas de casa ha sido históricamente un sector invisible ya que no
+./dumps-text/urls_esp-8.txt-   cotiza para la Seguridad Social, lo que se traduce en no tener derecho
+./dumps-text/urls_esp-8.txt-   a paro, ni a bajas remuneradas ni tampoco a una pensión de jubilación
+--
+./dumps-text/urls_esp-8.txt-   a personas mayores de 45 años que no tengan ingresos ni cobren una
+./dumps-text/urls_esp-8.txt-   prestación del SEPE o un subsidio de desempleo. Además de la aportación
+./dumps-text/urls_esp-8.txt:   económica, esta ayuda cuenta con un programa específico de inserción o
+./dumps-text/urls_esp-8.txt-   formación con el fin de facilitar la inserción al mercado laboral.
+./dumps-text/urls_esp-8.txt:   Estas son las ayudas de la Seguridad Social que pueden pedir las amas
+./dumps-text/urls_esp-8.txt-   de casa de más de 45 años
+./dumps-text/urls_esp-8.txt-   Valerio Merino
+--
+./dumps-text/urls_esp-8.txt-Ingreso Mínimo Vital
+./dumps-text/urls_esp-8.txt-
+./dumps-text/urls_esp-8.txt:   Otra opción que pueden tener las amas de casa es el Ingreso Mínimo
+./dumps-text/urls_esp-8.txt-   Vital, que es una prestación dirigida a prevenir el riesgo de pobreza y
+./dumps-text/urls_esp-8.txt-   exclusión social de las personas que viven solas o están integradas en

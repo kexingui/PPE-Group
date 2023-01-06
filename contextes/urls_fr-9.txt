@@ -1,0 +1,49 @@
+./dumps-text/urls_fr-9.txt-     * Société
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt:Femme au foyer : une situation davantage subie qu'il y a 20 ans
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt:   Selon une étude de l'Insee, les femmes décidant d'arrêter de travailler
+./dumps-text/urls_fr-9.txt-   pour rester à la maison le font moins pour des raisons personnelles que
+./dumps-text/urls_fr-9.txt-   professionnelles.
+--
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt-   Selon une étude de l’Insee publiée ce vendredi 30 août, la part des
+./dumps-text/urls_fr-9.txt:   femmes au foyer (parmi les femmes âgées de 20 à 59 ans) a fortement
+./dumps-text/urls_fr-9.txt-   diminué en vingt ans, de 3,5 millions à 2,1 millions en 2011. Selon une
+./dumps-text/urls_fr-9.txt:   étude de l’Insee publiée ce vendredi 30 août, la part des femmes au
+./dumps-text/urls_fr-9.txt:   foyer (parmi les femmes âgées de 20 à 59 ans) a fortement diminué en
+./dumps-text/urls_fr-9.txt-   vingt ans, de 3,5 millions à 2,1 millions en 2011. Selon une étude de
+./dumps-text/urls_fr-9.txt:   l’Insee publiée ce vendredi 30 août, la part des femmes au foyer (parmi
+./dumps-text/urls_fr-9.txt:   les femmes âgées de 20 à 59 ans) a fortement diminué en vingt ans, de
+./dumps-text/urls_fr-9.txt-   3,5 millions à 2,1 millions en 2011. AFP/DENIS CHARLET
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt:   En 1991, 59 % des femmes au foyer avançaient des "raisons personnelles"
+./dumps-text/urls_fr-9.txt-   à leur choix dʼavoir arrêté de travailler pour rester à la maison.
+./dumps-text/urls_fr-9.txt-   Elles ne sont plus que 21 % en 2011 et "la raison majoritaire est
+--
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt-   Le motif de fin de contrat à durée déterminée est invoqué par 35 % des
+./dumps-text/urls_fr-9.txt:   femmes, contre 10 % en 1991. 11 % des femmes expliquent aussi leur
+./dumps-text/urls_fr-9.txt-   retrait de la vie active par un licenciement économique (contre 4 % en
+./dumps-text/urls_fr-9.txt-   1991). Une variation qui nʼest pas due à lʼévolution de leur proportion
+--
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt-   Le passage par le chômage, la conjoncture économique "moins favorable"
+./dumps-text/urls_fr-9.txt:   fait que "certaines femmes peuvent se décourager : ne recherchant plus
+./dumps-text/urls_fr-9.txt-   véritablement dʼemploi, elles deviennent alors inactives", souligne
+./dumps-text/urls_fr-9.txt-   lʼInsee. Mais cʼest un "ressenti" et "il est parfois difficile de
+--
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt-   Les interruptions vont "souvent" de pair avec lʼarrivée dʼun enfant,
+./dumps-text/urls_fr-9.txt:   mais 43 % des femmes au foyer en 2011 nʼavaient pas (ou plus) dʼenfants
+./dumps-text/urls_fr-9.txt:   mineurs encore à la maison, relève encore lʼInsee. Une femme au foyer
+./dumps-text/urls_fr-9.txt:   est, selon la définition de lʼInsee, une femme de 20 à 59 ans, non
+./dumps-text/urls_fr-9.txt:   étudiante, vivant en couple et inactive. Les femmes vivant seules sont
+./dumps-text/urls_fr-9.txt-   exclues du champ.
+./dumps-text/urls_fr-9.txt-
+./dumps-text/urls_fr-9.txt-   LʼInstitut national de la statistique et des études économiques estime
+./dumps-text/urls_fr-9.txt:   à 2,1 millions le nombre de femmes au foyer en 2011, contre 3,5
+./dumps-text/urls_fr-9.txt:   millions en 1991. Soit une femme en couple sur 5 au lieu de 1 sur 3
+./dumps-text/urls_fr-9.txt:   vingt ans plus tôt.  En 2011, les femmes au foyer sont plus diplômées
+./dumps-text/urls_fr-9.txt-   quʼil y a vingt ans mais toujours moins que les mères en activité,
+./dumps-text/urls_fr-9.txt-   constate lʼétude.

@@ -1,0 +1,47 @@
+./dumps-text/urls_esp-31.txt-     * pasatiempos
+./dumps-text/urls_esp-31.txt-          + el tiempo play
+./dumps-text/urls_esp-31.txt:          + crucigrama
+./dumps-text/urls_esp-31.txt-          + sudoku
+./dumps-text/urls_esp-31.txt-          + señal en vivo
+--
+./dumps-text/urls_esp-31.txt-
+./dumps-text/urls_esp-31.txt-   Síguenos en:
+./dumps-text/urls_esp-31.txt:   logo-eltiempo ¿Cuánto vale un ama de casa?
+./dumps-text/urls_esp-31.txt-     * Suscríbete x $900 1er mes
+./dumps-text/urls_esp-31.txt-     * Iniciar sesión
+--
+./dumps-text/urls_esp-31.txt-     *
+./dumps-text/urls_esp-31.txt-
+./dumps-text/urls_esp-31.txt:¿Cuánto vale un ama de casa?
+./dumps-text/urls_esp-31.txt-
+./dumps-text/urls_esp-31.txt-   Excepto por algunos progresivos países del norte de Europa, el trabajo
+--
+./dumps-text/urls_esp-31.txt-     * Portada
+./dumps-text/urls_esp-31.txt-
+./dumps-text/urls_esp-31.txt:   Un ama de casa italiana probablemente reciba 6 años de cárcel por no
+./dumps-text/urls_esp-31.txt-   hacer bien sus labores domésticas. La mujer fue llevada a la corte por
+./dumps-text/urls_esp-31.txt-   el esposo, quien la acusa de “maltratar la familia” por no cocinar bien
+--
+./dumps-text/urls_esp-31.txt-   “natural”, una labor de amor para la cual no hay precio.
+./dumps-text/urls_esp-31.txt-
+./dumps-text/urls_esp-31.txt:   Con mayor frecuencia, cuando le preguntan “Qué hace?” a un ama de casa
+./dumps-text/urls_esp-31.txt-   o a los hijos, la respuesta es “nada” o “no trabaja”.
+./dumps-text/urls_esp-31.txt-
+--
+./dumps-text/urls_esp-31.txt-
+./dumps-text/urls_esp-31.txt-   El mismo estudio señala que en Estados Unidos, promediando variables,
+./dumps-text/urls_esp-31.txt:   el salario para madres y amas de casa por año seria 115.000 dólares.
+./dumps-text/urls_esp-31.txt-   Esta es una lista general de lo que le correspondería ganar por hora,
+./dumps-text/urls_esp-31.txt-   por algunas de sus labores: Como limpiadora, 10 dólares; como cocinera,
+--
+./dumps-text/urls_esp-31.txt-   Finlandia, Holanda y Canadá es algo que se denomina Ingreso Básico
+./dumps-text/urls_esp-31.txt-   Universal (UBI) bajo el cual se cobija la posibilidad de pago a las
+./dumps-text/urls_esp-31.txt:   amas de casa. Pero es una suma fija mensual que probablemente estaría
+./dumps-text/urls_esp-31.txt-   entre 500 y 800 euros. Ese tipo de propuestas desafortunadamente se
+./dumps-text/urls_esp-31.txt-   enredan en posiciones políticas tradicionales. Los derechistas las
+--
+./dumps-text/urls_esp-31.txt-   Lo que debería ir cambiando es la mentalidad de que esa labor de amor
+./dumps-text/urls_esp-31.txt-   no es cuantificable. Una campaña de publicidad en la Gran Bretaña en
+./dumps-text/urls_esp-31.txt:   favor de asignarles salario a las amas de casa público un aviso
+./dumps-text/urls_esp-31.txt-   solicitando candidatas que deben estar disponibles para trabajar 119
+./dumps-text/urls_esp-31.txt-   horas a la semana, aprender el trabajo por sí mismas, tener habilidades

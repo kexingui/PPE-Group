@@ -1,0 +1,43 @@
+./dumps-text/urls_esp-7.txt-   Hazte premium Hazte premium
+./dumps-text/urls_esp-7.txt-   abc Economía
+./dumps-text/urls_esp-7.txt:   Cuáles son las ayudas que pueden pedir las amas de casa
+./dumps-text/urls_esp-7.txt-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+./dumps-text/urls_esp-7.txt-   Compartir (BUTTON)
+--
+./dumps-text/urls_esp-7.txt-   ABC Economía
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt:Cuáles son las ayudas que pueden pedir las amas de casa
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt-Hay diferentes ayudas si no se llega a un ingreso mínimo, y también hay
+--
+./dumps-text/urls_esp-7.txt-El miniparo de 463 euros que tiene el SEPE
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt:   Las amas de casa podrán pedir ayudas al SEPE
+./dumps-text/urls_esp-7.txt:   Las amas de casa podrán pedir ayudas al SEPE Valerio Merino
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt-   ABC
+--
+./dumps-text/urls_esp-7.txt-   Suscribete
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt:   Las amas de casa son un colectivo que no cotiza a la Seguridad Social y
+./dumps-text/urls_esp-7.txt-   por lo tanto no pueden acceder a prestaciones como el paro . A pesar de
+./dumps-text/urls_esp-7.txt-   todo, existen una serie de ayudas para estas personas.
+--
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt-   Noticias relacionadas
+./dumps-text/urls_esp-7.txt:     * Estas son las ayudas económicas que pueden pedir las amas de casa
+./dumps-text/urls_esp-7.txt-     * Qué pensionistas recibirán la paguilla extra en enero de 2022
+./dumps-text/urls_esp-7.txt:     * Pensión de jubilación para amas de casa: estos son los requisitos
+./dumps-text/urls_esp-7.txt-       para solicitarla
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt-     * (BUTTON) Más temas:
+./dumps-text/urls_esp-7.txt-     * SEPE
+./dumps-text/urls_esp-7.txt:     * Amas de casa
+./dumps-text/urls_esp-7.txt-
+./dumps-text/urls_esp-7.txt-   (BUTTON)
+--
+./dumps-text/urls_esp-7.txt-     * Últimas noticias
+./dumps-text/urls_esp-7.txt-     * Loterías
+./dumps-text/urls_esp-7.txt:     * Programación TV
+./dumps-text/urls_esp-7.txt-     * Calendario laboral 2023
+./dumps-text/urls_esp-7.txt-     * Escuchar noticias del día

@@ -1,0 +1,63 @@
+./dumps-text/urls_fr-18.txt:   #À la Une de 20minutes.fr Les femmes au foyer italiennes, les plus
+./dumps-text/urls_fr-18.txt-   "désespérées" d'Europe
+./dumps-text/urls_fr-18.txt-
+--
+./dumps-text/urls_fr-18.txt-   Retour à l’accueil
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   Société Les femmes au foyer italiennes, les plus "désespérées" d'Europe
+./dumps-text/urls_fr-18.txt-     * Partager sur Messenger
+./dumps-text/urls_fr-18.txt-     * Partager sur Facebook
+--
+./dumps-text/urls_fr-18.txt-    2. Société
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:Les femmes au foyer italiennes, les plus "désespérées" d'Europe
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt-
+--
+./dumps-text/urls_fr-18.txt-     * (BUTTON) Sauvegarder l'article
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   Les femmes au foyer italiennes sont les plus "désespérées" d'Europe,
+./dumps-text/urls_fr-18.txt-   avec un taux d'insatisfaction très supérieur à leurs consoeurs
+./dumps-text/urls_fr-18.txt:   françaises ou allemandes, selon l'association Femmes et Qualité de la
+./dumps-text/urls_fr-18.txt-   vie qui a sondé plus de 4.000 Européennes.
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   Le taux de mécontentement des femmes au foyer italienne s'est établi à
+./dumps-text/urls_fr-18.txt-   76% en mars dernier, en hausse de 2,5 points sur un an, selon l'étude
+./dumps-text/urls_fr-18.txt-   qui pointe comme causes: la hausse du coût de la vie et une série de
+--
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt-   En matière d'insatisfaction, les Italiennes devancent largement les
+./dumps-text/urls_fr-18.txt:   femmes au foyer espagnoles où le taux est de 63%, suivies des
+./dumps-text/urls_fr-18.txt-   Françaises (57%), des Britanniques (51%) puis des Allemandes (47%).
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt-   Le premier motif de préoccupation des sondées est la crise économique
+./dumps-text/urls_fr-18.txt:   et la baisse du pouvoir d'achat, pour 46% des femmes interrogées. Mais
+./dumps-text/urls_fr-18.txt-   l'autre grande raison est l'absence d'aides sociales aux familles pour
+./dumps-text/urls_fr-18.txt-   24% de l'échantillon, le manque de crèches (23%) et de structures de
+./dumps-text/urls_fr-18.txt-   soin (21%) et la précarité de leur emploi souvent non déclaré (11%).
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   Les femmes sont tellement mécontentes de leur sort qu'une sur deux
+./dumps-text/urls_fr-18.txt-   affirme que si c'était à refaire, elle ne se marierait pas et deux sur
+./dumps-text/urls_fr-18.txt-   trois qu'elles n'auraient pas d'enfants.
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   En février, plus d'un million de femmes étaient descendues dans la rue
+./dumps-text/urls_fr-18.txt-   contre l'instrumentalisation du corps féminin mais aussi pour protester
+./dumps-text/urls_fr-18.txt-   contre un manque criant de crèches, d'allocations familiales et
+./dumps-text/urls_fr-18.txt-   d'emplois partiels.
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   En Italie où le taux de natalité est de 1,4 enfant par femme (l'un des
+./dumps-text/urls_fr-18.txt:   plus faibles d'Europe), seule une femme sur deux (59% dans l'UE)
+./dumps-text/urls_fr-18.txt-   travaille, bien qu'elles soient en moyenne plus diplômées que les
+./dumps-text/urls_fr-18.txt-   hommes.
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   Dans l'étude de l'association, dans 18% des cas, les femmes au foyer
+./dumps-text/urls_fr-18.txt-   italiennes se plaignent aussi que leur conjoint les laisse affronter
+./dumps-text/urls_fr-18.txt-   seules les problèmes familiaux.
+./dumps-text/urls_fr-18.txt-
+./dumps-text/urls_fr-18.txt:   Dans une telle situation, si elle en avait les moyens, une femme au
+./dumps-text/urls_fr-18.txt-   foyer italienne sur deux ne rêve que d'une chose: quitter l'Italie pour
+./dumps-text/urls_fr-18.txt-   aller vivre aux Maldives, à Hawaï et à l'île Maurice (pour 38% des cas)
+./dumps-text/urls_fr-18.txt-   et une forte proportion choisirait même un pays scandinave (14% le
+./dumps-text/urls_fr-18.txt:   Danemark, 9% la Suède, 8% la Norvège) où les femmes voient leur rôle
+./dumps-text/urls_fr-18.txt-   plus reconnu.
+./dumps-text/urls_fr-18.txt-

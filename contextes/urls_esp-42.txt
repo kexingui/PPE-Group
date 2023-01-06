@@ -1,0 +1,56 @@
+./dumps-text/urls_esp-42.txt-   REFRESH(600 sec):
+./dumps-text/urls_esp-42.txt:   https://www.20minutos.es/noticia/2077155/0/mujer-trabajadora-empleo/ama
+./dumps-text/urls_esp-42.txt-   s-casa-empresas/conciliacion-laboral/
+./dumps-text/urls_esp-42.txt-
+--
+./dumps-text/urls_esp-42.txt-   rusa en Zaporiyia causando 80 bajas
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt:El 94% de las amas de casa cree que las empresas no apoyan la conciliación
+./dumps-text/urls_esp-42.txt-laboral
+./dumps-text/urls_esp-42.txt-
+--
+./dumps-text/urls_esp-42.txt-     *
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt:     * La coyuntura económica ha elevado el número de amas de casa que
+./dumps-text/urls_esp-42.txt-       buscan un empleo fuera del hogar para aumentar los ingresos
+./dumps-text/urls_esp-42.txt-       familiares.
+--
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt-   Desde principios de 2008 la incorporación de la mujer al mercado
+./dumps-text/urls_esp-42.txt:   laboral en España se ha acelerado, pasando de 4,51 millones de amas de
+./dumps-text/urls_esp-42.txt-   casa dedicadas a las tareas domésticas en el hogar a los 3,55 millones
+./dumps-text/urls_esp-42.txt-   en el año 2013.
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt-   Las cifras pertenecen a un informe que la Fundación Konecta ha
+./dumps-text/urls_esp-42.txt:   elaborado a través de una encuesta realizada a mil amas de casa en toda
+./dumps-text/urls_esp-42.txt-   España entre los 35 y 59 años, con motivo del Día Internacional de la
+./dumps-text/urls_esp-42.txt-   Mujer Trabajadora, que se celebra este sábado 8 de marzo.
+--
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt-   La directora de Fundación Konecta, Graciela de la Morena, ha explicado
+./dumps-text/urls_esp-42.txt:   que la mayor parte de las amas de casa que están buscando empleo de
+./dumps-text/urls_esp-42.txt-   forma activa tienen una edad comprendida entre los 35 y los 49 años, ya
+./dumps-text/urls_esp-42.txt-   habían tenido un empleo fuera de casa anteriormente y por motivos
+./dumps-text/urls_esp-42.txt-   económicos han tenido que volver a buscarlo.
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt:   Casi la mitad de las amas de casa españolas, el 49%, aseguran que han
+./dumps-text/urls_esp-42.txt-   estado apartadas del mercado laboral de forma voluntaria.
+./dumps-text/urls_esp-42.txt-
+--
+./dumps-text/urls_esp-42.txt-¿Qué papel juega la tecnología para encontrar empleo?
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt:   Cerca del 30% de las amas de casa españolas asegura no tener formación
+./dumps-text/urls_esp-42.txt-   tecnológica, un dato destacado ya que más de 47% de las mujeres piensa
+./dumps-text/urls_esp-42.txt-   que el nivel de conocimiento tecnológico ayuda a la hora de encontrar
+--
+./dumps-text/urls_esp-42.txt-   Sin embargo, más de la mitad de las encuestadas afirman que no utilizan
+./dumps-text/urls_esp-42.txt-   Internet para la búsqueda de empleo debido a su falta de conocimientos.
+./dumps-text/urls_esp-42.txt:   Aunque el dato más llamativo radica en que casi el 30% considera que
+./dumps-text/urls_esp-42.txt-   Internet no es una vía eficaz en la búsqueda de empleo y plantean que
+./dumps-text/urls_esp-42.txt-   "es igual de efectivo que hacerlo por cualquier otro canal".
+--
+./dumps-text/urls_esp-42.txt-Más información sobre:
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt:     * Ama de casa
+./dumps-text/urls_esp-42.txt-
+./dumps-text/urls_esp-42.txt-Horóscopo

@@ -1,0 +1,55 @@
+./dumps-text/urls_fr-45.txt-               o Baby blues
+./dumps-text/urls_fr-45.txt-               o Reprendre le travail après bébé
+./dumps-text/urls_fr-45.txt:               o Femme au foyer
+./dumps-text/urls_fr-45.txt-               o Maigrir après bébé
+./dumps-text/urls_fr-45.txt-          + Etre papa
+--
+./dumps-text/urls_fr-45.txt-     * Enfant & ado
+./dumps-text/urls_fr-45.txt-     * École
+./dumps-text/urls_fr-45.txt:     * Femme
+./dumps-text/urls_fr-45.txt-     * Recettes
+./dumps-text/urls_fr-45.txt-     * Santé
+--
+./dumps-text/urls_fr-45.txt-     * Actu
+./dumps-text/urls_fr-45.txt-     * Astrologie
+./dumps-text/urls_fr-45.txt:     * Beauté femme
+./dumps-text/urls_fr-45.txt-     * Boutique
+./dumps-text/urls_fr-45.txt-     * Déco & DIY
+--
+./dumps-text/urls_fr-45.txt-     Etre maman
+./dumps-text/urls_fr-45.txt-
+./dumps-text/urls_fr-45.txt:     Femme au foyer
+./dumps-text/urls_fr-45.txt-
+./dumps-text/urls_fr-45.txt-A quoi ressemble VRAIMENT le quotidien d'une mère au foyer ?
+--
+./dumps-text/urls_fr-45.txt-   Envoyer
+./dumps-text/urls_fr-45.txt-   Agacée par tous les clichés qu’elle entend sur le quotidien d’une mère
+./dumps-text/urls_fr-45.txt:   au foyer, une jeune femme riposte et raconte ce à quoi sa vie de maman
+./dumps-text/urls_fr-45.txt-   ressemble vraiment. Des confessions aussi sincères que touchantes.
+./dumps-text/urls_fr-45.txt-
+--
+./dumps-text/urls_fr-45.txt-
+./dumps-text/urls_fr-45.txt-   Difficile pour elle, comme pour beaucoup d’autres mamans, de se trouver
+./dumps-text/urls_fr-45.txt:   un moment pour se faire belle et continuer à se sentir femme : « Quand
+./dumps-text/urls_fr-45.txt-   nous prenons la voiture avec mon mari, j’en profite pour prendre deux
+./dumps-text/urls_fr-45.txt-   minutes pour m’épiler les sourcils ».
+--
+./dumps-text/urls_fr-45.txt-   pour mes enfants. Mais au risque de te choquer, sache que mon mari ne
+./dumps-text/urls_fr-45.txt-   m’enferme pas dans la maison chaque jour. Je peux même sortir avec des
+./dumps-text/urls_fr-45.txt:   amis si l'occasion se présente. Sache que oui, je suis une femme au
+./dumps-text/urls_fr-45.txt-   foyer. Mais c’est moi qui l’ai choisi ».
+./dumps-text/urls_fr-45.txt-
+--
+./dumps-text/urls_fr-45.txt-   Pour aller plus loin...
+./dumps-text/urls_fr-45.txt-
+./dumps-text/urls_fr-45.txt:   - Découvrez notre article Femme au foyer : comment assumer son choix ?
+./dumps-text/urls_fr-45.txt-
+./dumps-text/urls_fr-45.txt:   - Réagissez à cet article sur notre forum Femmes
+./dumps-text/urls_fr-45.txt-   Lire aussi :
+./dumps-text/urls_fr-45.txt-   Etre mère au foyer n’est pas comme avoir un vrai travail (et c'est une
+--
+./dumps-text/urls_fr-45.txt-   belle-maman)
+./dumps-text/urls_fr-45.txt-
+./dumps-text/urls_fr-45.txt:   Plus de Femme au foyer
+./dumps-text/urls_fr-45.txt-   Mère au foyer : un choix plus complexe qu'il ne parait
+./dumps-text/urls_fr-45.txt-

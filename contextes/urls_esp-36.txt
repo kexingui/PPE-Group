@@ -1,0 +1,23 @@
+./dumps-text/urls_esp-36.txt-     * pasatiempos
+./dumps-text/urls_esp-36.txt-          + el tiempo play
+./dumps-text/urls_esp-36.txt:          + crucigrama
+./dumps-text/urls_esp-36.txt-          + sudoku
+./dumps-text/urls_esp-36.txt-          + señal en vivo
+--
+./dumps-text/urls_esp-36.txt-
+./dumps-text/urls_esp-36.txt-   Síguenos en:
+./dumps-text/urls_esp-36.txt:   logo-eltiempo Amas de casa, entre las que más aportan al piso de
+./dumps-text/urls_esp-36.txt-   protección social
+./dumps-text/urls_esp-36.txt-     * Suscríbete x $900 1er mes
+--
+./dumps-text/urls_esp-36.txt-   HÃ©ctor Fabio Zamora. El Tiempo
+./dumps-text/urls_esp-36.txt-
+./dumps-text/urls_esp-36.txt:Amas de casa, entre las que más aportan al piso de protección social
+./dumps-text/urls_esp-36.txt-
+./dumps-text/urls_esp-36.txt-   El piso de protección social arrancó en febrero de este año.
+--
+./dumps-text/urls_esp-36.txt-   El Ministerio de Trabajo indicó que 49 por ciento de los vinculados
+./dumps-text/urls_esp-36.txt-   reportaron su actividad económica. Destaca que la mayor proporción, el
+./dumps-text/urls_esp-36.txt:   17 por ciento, corresponde a los aportes voluntarios que hacen las amas
+./dumps-text/urls_esp-36.txt-   de casa.
+./dumps-text/urls_esp-36.txt-   Y es que a pesar de que las empleadas domésticas puedan llegar a

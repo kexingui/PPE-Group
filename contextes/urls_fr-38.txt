@@ -1,0 +1,17 @@
+./dumps-text/urls_fr-38.txt-          + Famille
+./dumps-text/urls_fr-38.txt-          + Dico juridique
+./dumps-text/urls_fr-38.txt:          + Prix PARENTS Beauté Femme
+./dumps-text/urls_fr-38.txt-          + Les mamans 6ter
+./dumps-text/urls_fr-38.txt-          + Bons plans pour les parents
+--
+./dumps-text/urls_fr-38.txt-
+./dumps-text/urls_fr-38.txt-   En réponse à son mari, cette maman d’un petit garçon de 2 ans a filmé
+./dumps-text/urls_fr-38.txt:   sa journée de femme au foyer.
+./dumps-text/urls_fr-38.txt-   le quotidien d'une mère au foyer
+./dumps-text/urls_fr-38.txt-   © Facebook
+--
+./dumps-text/urls_fr-38.txt-     * Comment donner le biberon
+./dumps-text/urls_fr-38.txt-     * Diversification alimentaire bébé
+./dumps-text/urls_fr-38.txt:     * Droits de la femme enceinte
+./dumps-text/urls_fr-38.txt-     * Lait bébé
+./dumps-text/urls_fr-38.txt-     * Les repas de bébé

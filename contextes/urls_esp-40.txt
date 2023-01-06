@@ -1,0 +1,34 @@
+./dumps-text/urls_esp-40.txt-   REFRESH(600 sec):
+./dumps-text/urls_esp-40.txt:   https://www.20minutos.es/noticia/1329360/0/amas-casa/trabajadoras-parti
+./dumps-text/urls_esp-40.txt-   da-doble/frente-crisis/
+./dumps-text/urls_esp-40.txt-
+--
+./dumps-text/urls_esp-40.txt-   hipersónicos Zircon
+./dumps-text/urls_esp-40.txt-
+./dumps-text/urls_esp-40.txt:Amas de casa, trabajadoras por partida doble frente a la crisis
+./dumps-text/urls_esp-40.txt-
+./dumps-text/urls_esp-40.txt-   20minutos  NOTICIA06.03.2012 - 11:08h
+--
+./dumps-text/urls_esp-40.txt-     *
+./dumps-text/urls_esp-40.txt-
+./dumps-text/urls_esp-40.txt:     * Medio millón de amas de casa se han incorporado al mercado laboral
+./dumps-text/urls_esp-40.txt-       desde 2008.
+./dumps-text/urls_esp-40.txt-     * El  papel de la mujer ha sido clave para salvaguardar la economía
+--
+./dumps-text/urls_esp-40.txt-Ocupadas a tiempo parcial
+./dumps-text/urls_esp-40.txt-
+./dumps-text/urls_esp-40.txt:   La principal incorporación de la mujer ha venido por parte de las amas
+./dumps-text/urls_esp-40.txt-   de casa, que han abandonado progresivamente las labores domésticas para
+./dumps-text/urls_esp-40.txt-   buscar otro empleo en el mercado laboral.
+--
+./dumps-text/urls_esp-40.txt-
+./dumps-text/urls_esp-40.txt-   Másde 100.000 lo hicieron en 2009, 170.000 en 2010 y este pasado año se
+./dumps-text/urls_esp-40.txt:   ha producido una nueva oleada de amas de casa que buscan trabajo fuera
+./dumps-text/urls_esp-40.txt-   del hogar: casi 200.000 mujeres del ámbito doméstico se han incorporado
+./dumps-text/urls_esp-40.txt-   al mercado laboral en 2011.
+--
+./dumps-text/urls_esp-40.txt-Más información sobre:
+./dumps-text/urls_esp-40.txt-
+./dumps-text/urls_esp-40.txt:     * Ama de casa
+./dumps-text/urls_esp-40.txt-
+./dumps-text/urls_esp-40.txt-Horóscopo

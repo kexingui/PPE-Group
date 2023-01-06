@@ -1,0 +1,27 @@
+./dumps-text/urls_esp-41.txt-   REFRESH(600 sec):
+./dumps-text/urls_esp-41.txt:   https://www.20minutos.es/noticia/440531/0/ama/casa/internet/
+./dumps-text/urls_esp-41.txt-
+./dumps-text/urls_esp-41.txt-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T7GD96G
+--
+./dumps-text/urls_esp-41.txt-     * EMPRESAS
+./dumps-text/urls_esp-41.txt-
+./dumps-text/urls_esp-41.txt:Las amas de casa dedican una de cada tres horas de tiempo libre a Internet
+./dumps-text/urls_esp-41.txt-
+./dumps-text/urls_esp-41.txt-   20minutos.es  NOTICIA04.01.2009 - 22:58h
+--
+./dumps-text/urls_esp-41.txt-   Internet, con su ordenador en el suelo.BOMBARDIER
+./dumps-text/urls_esp-41.txt-
+./dumps-text/urls_esp-41.txt:   Las amas de casa pasan un tercio de su tiempo libre en la Red, según un
+./dumps-text/urls_esp-41.txt-   estudio sobre hábitos en internet del que se hace eco el diario The
+./dumps-text/urls_esp-41.txt-   Guardian.
+./dumps-text/urls_esp-41.txt-
+./dumps-text/urls_esp-41.txt-   Según la encuesta, que recoge datos de 27.500 mujeres de 16 países, las
+./dumps-text/urls_esp-41.txt:   amas de casa pasan en internet un 29% de su tiempo libre, siendo
+./dumps-text/urls_esp-41.txt-   especialmente destacable el caso de las inglesas, que dedican una de
+./dumps-text/urls_esp-41.txt-   cada dos horas de su ocio a la Red.
+--
+./dumps-text/urls_esp-41.txt-
+./dumps-text/urls_esp-41.txt-     * Internet
+./dumps-text/urls_esp-41.txt:     * Ama de casa
+./dumps-text/urls_esp-41.txt-
+./dumps-text/urls_esp-41.txt-   Mostrar comentarios
