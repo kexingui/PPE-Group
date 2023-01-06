@@ -71,3 +71,19 @@ charlotte: test des tableaux avec les url en anglais, espagnol et français
 charlotte: ajout du tableau en espagnol
 #5 janvier
 charlotte: dernières modifications sur les tableaux en anglais, espagnol et français, nettoyage de certains dossiers (les fichiers inutiles sont retirés
+Kexin: De ma part, je finis le itrameur de anglais, français, et espagnol avec l'utilisation de site http://www.tal.univ-paris3.fr/trameur/iTrameur/. 
+problème rencontre :  sur itameur le pôle source doit toujours être un mot. Dans ce cas le mot en français «femme au foyer» et le mot en espagnol «ama de casa» ne pouvons d'être identifié parce que ce sont  les constructions de trois mots. Pendant le cours le prof me donner le conseil de remplacer  «femme au foyer» par «femme_au_foyer » pourque l'itrameur peut identifier le mot, mais quand je le effectuer  il y a encore le problème d'identifier le  pôle source. Ensuite j'essaie de mettre les mots ensemble en forme «femmeaufoyer» et «amadecasa», et cette fois ça marche sur itrameur. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
