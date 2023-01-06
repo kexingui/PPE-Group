@@ -1,0 +1,110 @@
+<html>
+   <head>
+       
+	<style>
+      body {
+        background-color: #D6F2F9;
+      }
+	   </style>
+	   <style>
+      .script {
+        margin-left: 100px;
+      }
+    </style>
+	   <center><img  width="70%" src="./images/script.png"  /></center>
+		</head>
+	
+<body>
+	<center><h2><br><br>Script de création de tableaux</h2></center>
+	<pre class="script">
+#!/usr/bin/env bash
+
+#===============================================================================
+# Ce programme prend deux arguments:
+# -le nom du fichier d'urls 
+# -le nom_du_tableau.html
+# le mot/l'expression régulière est à modifier dans le script 
+# exemple d'utilisation du script: bash tableau.sh urls_fr tableau_fr.html
+# ceci produira un tableau avec les urls, un dump html, un dump texte, le contexte, le nombre d'occurences et les concordances
+#===============================================================================
+
+fichier_urls=$1 # le fichier d'URL en entrée
+fichier_tableau=$2 # le fichier HTML en sortie
+
+if [[ $# -ne 2 ]]
+then
+	echo "Ce programme demande exactement deux arguments."
+	exit
+fi
+
+#mot/expression régulière dans la langue choisie
+mot="[Hh]ousewiv?f?es?" # à modifier | espagnol: "[Aa]mas? de casa" | français:"[Ff]emmes? au foyer"
+
+echo $fichier_urls;
+basename=$(basename -s .txt $fichier_urls)
+
+echo "&lt;html&gt;&lt;body&gt;" &gt; $fichier_tableau
+echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;dump html&lt;/th&gt;&lt;th&gt;dump text&lt;/th&gt;&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;&lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
+
+lineno=1;
+while read -r URL; do
+	echo -e "\tURL : $URL";
+	# la façon attendue, sans l'option -w de cURL
+	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
+	charset=$(curl -Ls $URL -D - -o "./aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+
+	# autre façon, avec l'option -w de cURL
+	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
+	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+
+	echo -e "\tcode : $code";
+
+	if [[ ! $charset ]]
+	then
+		echo -e "\tencodage non détecté, on prendra UTF-8 par défaut.";
+		charset="UTF-8";
+	else
+		echo -e "\tencodage : $charset";
+	fi
+
+	if [[ $code -eq 200 ]]
+	then
+		dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
+		if [[ $charset -ne "UTF-8" && -n "$dump" ]]
+		then
+			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
+		fi
+	else
+		echo -e "\tcode différent de 200 utilisation d'un dump vide"
+		dump=""
+		charset=""
+	fi
+  echo "$dump" > "./dumps-text/$basename-$lineno.txt"
+  echo "./dumps-text/$basename-$lineno.txt"
+  
+
+  # compte du nombre d'occurrences
+  NB_OCC=$(grep -E -o "$mot" ./dumps-text/$basename-$lineno.txt | wc -l)
+
+  # extraction des contextes
+
+  grep -E -A2 -B2 $mot ./dumps-text/$basename-$lineno.txt > ./contextes/$basename-$lineno.txt
+
+  # construction des concordance avec une commande externe
+
+  bash ./programmes/concordance.sh ./dumps-text/$basename-$lineno.txt "$mot" > ./concordances/$basename-$lineno.html
+
+	echo "&lt;tr&gt;&lt;td&gt;$lineno&lt;/td&gt;&lt;td&gt;$code&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;$URL\&quot;&gt;$URL&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$charset&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./aspirations/$basename-$lineno.html\&quot;&gt;html&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./dumps-text/$basename-$lineno.txt\&quot;&gt;text&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$NB_OCC&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./contextes/$basename-$lineno.txt\&quot;&gt;contextes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./concordances/$basename-$lineno.html\&quot;&gt;concordance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
+echo -e "\t--------------------------------"
+lineno=$((lineno+1));
+done &lt; $fichier_urls
+echo "&lt;/table&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
+</pre>
+	<h2>Script concordance</h2>
+	<p></p>
+	</body>
+</html>
