@@ -2,7 +2,12 @@
 Au début de cours le prof nous présente le déroulement général de ce cours « projet encadré » et tous les matériaux et les outils que nous devrons utiliser. 
 Nous apprenions l’utilisation le shell, et les profs nous présentent le git. 
 
-
+##séance 04-10 
+ 
+Nous devons comment la première étape de travailler sur notre projet selon la constitution d’un groupe de travail, sera de choisir le mot adéquat. Nous devrons ensuite lister au moins 50 URLs de sites par langue qui traitent du sujet et qui contiennent des occurrences du mot choisi.  
+ 
+Pour notre groupe nous avons eu de nombreuses discussions pour choisir le vocabulaire de l'étude. Au début nous sommes vraiment coincés dans le problème : est-ce que nous devons travailler seulement sur l'ambiguïté. Nous avons essayé d'étudier l'ambiguïté du même mot dans différentes langues, mais cela ne fonctionne pas très bien. 
+ Nous proposons certains termes ayant plus d'un sens : baguette, place...  et quelques mots avec un contexte culturel : gendarme, grève... quelques mots ayant un sens abstrait : élection, relation, oscillation... Mais nous n'avons pas réussi à nous décider sur le mot  
 
 
 
