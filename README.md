@@ -1,2 +1,4 @@
 # PPE-Group
-travaux de Aigerim, Charlotte, et Kexin
+travaux de Charlotte, et Kexin
+
+https://kexingui.github.io/PPE-Group/
