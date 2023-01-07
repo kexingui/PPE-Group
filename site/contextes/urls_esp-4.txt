@@ -1,0 +1,35 @@
+./dumps-text/urls_esp-4.txt-   Salud Mental
+./dumps-text/urls_esp-4.txt-
+./dumps-text/urls_esp-4.txt:A Julia Roberts le gusta ser ama de casa; esto es lo que se dice del trabajo
+./dumps-text/urls_esp-4.txt-doméstico
+./dumps-text/urls_esp-4.txt-
+--
+./dumps-text/urls_esp-4.txt-JULIA REVELA QUE LE GUSTA SER AMA DE CASA
+./dumps-text/urls_esp-4.txt-
+./dumps-text/urls_esp-4.txt:   Julia dice que se describe a ella misma como una ama de casa. Revela
+./dumps-text/urls_esp-4.txt-   que cuando no está trabajando ese es su trabajo de tiempo completo.
+./dumps-text/urls_esp-4.txt-
+--
+./dumps-text/urls_esp-4.txt-
+./dumps-text/urls_esp-4.txt-   Julia Robert, una vez reveló que le encanta cocinar para su familia.
+./dumps-text/urls_esp-4.txt:   Sobre la grabación de la película llamada 'Ticket to Paradise' y que
+./dumps-text/urls_esp-4.txt-   duró 62 días lejos de su familia, fue un poco complicado por estas
+./dumps-text/urls_esp-4.txt-   alejados de ellos.
+--
+./dumps-text/urls_esp-4.txt-   día y sin descanso.
+./dumps-text/urls_esp-4.txt-
+./dumps-text/urls_esp-4.txt:   Cuando se es ama de casa las mujeres pueden tener  menos control sobre
+./dumps-text/urls_esp-4.txt-   su ritmo de trabajo. La posibilidad de descanso y de desconexión es
+./dumps-text/urls_esp-4.txt-   menor y, en ocasiones, nula.
+--
+./dumps-text/urls_esp-4.txt-
+./dumps-text/urls_esp-4.txt-   En esta nota
+./dumps-text/urls_esp-4.txt:     * Ama de casa
+./dumps-text/urls_esp-4.txt-     * Julia Roberts
+./dumps-text/urls_esp-4.txt-
+--
+./dumps-text/urls_esp-4.txt-
+./dumps-text/urls_esp-4.txt-   [p?c1=2&c2=6906559&cv=2.0&cj=1]
+./dumps-text/urls_esp-4.txt:   https://3aevtdci2l.execute-api.us-west-2.amazonaws.com/ProdStage
+./dumps-text/urls_esp-4.txt-
+./dumps-text/urls_esp-4.txt-   [L211bmRvc2Fuby9jb250ZW5pZG9zLzIwMjIvMTAvMTAvbm90aWNpYV8wMDA5Lmh0bWw=]

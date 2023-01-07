@@ -1,0 +1,39 @@
+./dumps-text/urls_esp-11.txt-   REFRESH(600 sec):
+./dumps-text/urls_esp-11.txt-   https://www.lainformacion.com/economia-negocios-y-finanzas/pension-subs
+./dumps-text/urls_esp-11.txt:   idio-cobrar-ama-casa/2824844/
+./dumps-text/urls_esp-11.txt-
+./dumps-text/urls_esp-11.txt-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KWFVBGW
+--
+./dumps-text/urls_esp-11.txt-De pensiones no contributivas al Ingreso Mínimo Vital
+./dumps-text/urls_esp-11.txt-
+./dumps-text/urls_esp-11.txt:Las pensiones y subsidios que pueden cobrar amos y amas de casa en 2021
+./dumps-text/urls_esp-11.txt-
+./dumps-text/urls_esp-11.txt:   Si eres amo o ama de casa y no has cotizado a la Seguridad Social
+./dumps-text/urls_esp-11.txt-   también puedes cobrar pensiones y subsidios. Algunos suben su cuantía
+./dumps-text/urls_esp-11.txt-   tras la aprobación de los Presupuestos Generales del Estado.
+--
+./dumps-text/urls_esp-11.txt-   Diego Mariño   NOTICIA 29.12.2020 - 10:52h
+./dumps-text/urls_esp-11.txt-   Actualizado: 25.01.2021 - 13:14h
+./dumps-text/urls_esp-11.txt:   Los amos y amas de casa pueden cobrar subsidios y pensiones sin haber
+./dumps-text/urls_esp-11.txt-   cotizado a la seguridad social.
+./dumps-text/urls_esp-11.txt-
+--
+./dumps-text/urls_esp-11.txt-   Impuesto de Sociedades. Asimismo, otro tipo de ayudas económicas verán
+./dumps-text/urls_esp-11.txt-   aumentadas sus cuantías, entre ellas las pensiones no contributivas,
+./dumps-text/urls_esp-11.txt:   subsidio al que pueden tener acceso los amos y amas de casa a pesar de
+./dumps-text/urls_esp-11.txt-   no haber cotizado a la Seguridad Social.
+./dumps-text/urls_esp-11.txt-
+--
+./dumps-text/urls_esp-11.txt-   se incrementa si entre ellos hay padres o hijos.
+./dumps-text/urls_esp-11.txt-
+./dumps-text/urls_esp-11.txt:   Si se cumplen estos requisitos, un amo o ama de casa podrá cobrar una
+./dumps-text/urls_esp-11.txt-   pensión no contributiva mensual de hasta 402,72 euros en 2021, cuantía
+./dumps-text/urls_esp-11.txt-   que asciende del máximo de 395,60 euros que se cobraba en 2020.
+--
+./dumps-text/urls_esp-11.txt-Renta Activa de Inserción (RAI)
+./dumps-text/urls_esp-11.txt-
+./dumps-text/urls_esp-11.txt:   Si eres amo o ama de casa y todavía no se han cumplido los 65 años para
+./dumps-text/urls_esp-11.txt-   la jubilación, el Estado ponde a disposición una ayuda económica
+./dumps-text/urls_esp-11.txt:   llamada Renta Activa de Inserción (RAI), para aquellos mayores de 45
+./dumps-text/urls_esp-11.txt-   años que no tengan ingresos ni cobren una prestación del SEPE o un
+./dumps-text/urls_esp-11.txt-   subsidio por desempleo.

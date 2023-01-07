@@ -1,0 +1,57 @@
+./dumps-text/urls_fr-17.txt:   #À la Une de 20minutes.fr Les femmes au foyer de moins en moins
+./dumps-text/urls_fr-17.txt-   nombreuses
+./dumps-text/urls_fr-17.txt-
+--
+./dumps-text/urls_fr-17.txt-   Retour à l’accueil
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt:   Société Les femmes au foyer de moins en moins nombreuses
+./dumps-text/urls_fr-17.txt-     * Partager sur Messenger
+./dumps-text/urls_fr-17.txt-     * Partager sur Facebook
+--
+./dumps-text/urls_fr-17.txt-    2. Société
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt:Les femmes au foyer de moins en moins nombreuses
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt-
+--
+./dumps-text/urls_fr-17.txt-     * (BUTTON) Sauvegarder l'article
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt:   La France compte moins de 14% de femmes au foyer, selon une étude de
+./dumps-text/urls_fr-17.txt:   l'Insee portant sur les femmes actives, de 20 à 59 ans.
+./dumps-text/urls_fr-17.txt:   La France compte moins de 14% de femmes au foyer, selon une étude de
+./dumps-text/urls_fr-17.txt:   l'Insee portant sur les femmes actives, de 20 à 59 ans. —
+./dumps-text/urls_fr-17.txt-   CAIAIMAGES/REX FEATURES/AP/SIPA
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt:   Les «femmes au foyer» sont en perte de vitesse. Selon une étude de
+./dumps-text/urls_fr-17.txt:   l’Insee publiée ce vendredi, en 2011, sur les 15 millions de femmes
+./dumps-text/urls_fr-17.txt-   âgées de 20 à 59 ans, elles n’étaient plus que 2,1 millions soit 14% du
+./dumps-text/urls_fr-17.txt-   total. C’est 10 points de moins en vingt ans où elles étaient 3,5
+./dumps-text/urls_fr-17.txt-   millions.
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt:Des femmes de plus en plus actives
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt-   Première explication, la progression de l’activité féminine qui atteint
+./dumps-text/urls_fr-17.txt:   82% contre 73% en 1991. La seconde, c’est la diminution des femmes qui
+./dumps-text/urls_fr-17.txt:   vivent en couple. Leur part est passée de 77% pour les femmes âgées de
+./dumps-text/urls_fr-17.txt-   20 à 59 ans à 70% en 2011.
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt-   «Les comportements d’activité étant liés au niveau de formation, les
+./dumps-text/urls_fr-17.txt:   femmes au foyer sont, en moyenne, moins diplômées que les femmes
+./dumps-text/urls_fr-17.txt-   actives», souligne l’Insee. Ce qui ne les a pas empêchées pour 79%
+./dumps-text/urls_fr-17.txt-   d’entre elles d’avoir connu une expérience professionnelle par le passé
+./dumps-text/urls_fr-17.txt:   contre 71% en 1991. Mais si en 1991, 59% des femmes au foyer avaient
+./dumps-text/urls_fr-17.txt-   cessé leur activité professionnelle pour des raisons personnelles
+./dumps-text/urls_fr-17.txt-   notamment à l’arrivée d’un enfant, elles n’étaient plus que 21% en
+--
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt-   Signe de la précarisation du marché du travail, en vingt ans, les
+./dumps-text/urls_fr-17.txt:   femmes au foyer ont désormais le plus souvent occupé des contrats
+./dumps-text/urls_fr-17.txt-   courts «qui se soldent plus fréquemment qu’avant par un passage à
+./dumps-text/urls_fr-17.txt-   l’inactivité, éventuellement précédé d’une période de chômage.
+./dumps-text/urls_fr-17.txt:   Certaines femmes peuvent se décourager: ne recherchant plus
+./dumps-text/urls_fr-17.txt-   véritablement d’emploi, elles deviennent alors inactives», note Zohor
+./dumps-text/urls_fr-17.txt-   Djider, de la division Etudes sociales de l’Insee.
+./dumps-text/urls_fr-17.txt-
+./dumps-text/urls_fr-17.txt:   En 2011 comme en 1991, 20% des femmes au foyer n’ont jamais travaillé
+./dumps-text/urls_fr-17.txt-   par le passé. Il s’agit surtout de mères de famille nombreuse, moins
+./dumps-text/urls_fr-17.txt-   diplômées et souvent immigrés.

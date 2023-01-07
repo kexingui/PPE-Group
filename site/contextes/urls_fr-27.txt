@@ -1,0 +1,70 @@
+./dumps-text/urls_fr-27.txt-     Retraite
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt:     Retraite : à quelle pension a-t-on droit quand on a été femme au
+./dumps-text/urls_fr-27.txt-   foyer ?
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt:  Retraite : à quelle pension a-t-on droit quand on a été femme au foyer ?
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt-   Par Nantcy Leone, le 12/11/2021
+--
+./dumps-text/urls_fr-27.txt-   Si le chiffre est en constante baisse, les mères au foyer représentent
+./dumps-text/urls_fr-27.txt-   encore une composante importante de la population française. Elles
+./dumps-text/urls_fr-27.txt:   étaient 2,1 millions en 2011 selon l'Insee, soit 1 femme sur 5. Quelles
+./dumps-text/urls_fr-27.txt-   sont les conséquences pour leur retraite ? Le point sur les dispositifs
+./dumps-text/urls_fr-27.txt-   existants.
+./dumps-text/urls_fr-27.txt-   Sommaire
+./dumps-text/urls_fr-27.txt:     * 1 - Retraite : quelle pension pour les femmes au foyer n’ayant
+./dumps-text/urls_fr-27.txt-       jamais travaillé ?
+./dumps-text/urls_fr-27.txt:     * 2 - Retraite des femmes au foyer : comment s’affilier à l’AVPF ?
+./dumps-text/urls_fr-27.txt:     * 3 - Retraite des femmes au foyer : bénéficiez de l’AVPF dès 62 ans
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt-   Vous êtes mère au foyer et vous inquiétez pour votre future retraite ?
+./dumps-text/urls_fr-27.txt-   Certes, en étant inactive, votre future pension sera pénalisée, car
+./dumps-text/urls_fr-27.txt-   l’on ne peut que rarement acquérir de droits sans travailler. En 2011,
+./dumps-text/urls_fr-27.txt:   d’après l’Insee, 2,1 millions de femmes âgées de 20 à 59 ans étaient
+./dumps-text/urls_fr-27.txt:   dans ce cas, soit une femme sur cinq, contre une sur trois en 1991. Le
+./dumps-text/urls_fr-27.txt:   nombre diminue au fil des ans, mais les femmes au foyer représentent
+./dumps-text/urls_fr-27.txt-   toujours une part importante de la population française. Leurs droits
+./dumps-text/urls_fr-27.txt-   dépendront de leur situation personnelle.
+--
+./dumps-text/urls_fr-27.txt-   537,50 € en 2021", rappelle les experts.
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt:Retraite : quelle pension pour les femmes au foyer n’ayant jamais travaillé ?
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt-   L’acquisition de droits à la retraite est conditionnée par le versement
+--
+./dumps-text/urls_fr-27.txt-   il devrait être impossible de percevoir une pension si l’on n’a jamais
+./dumps-text/urls_fr-27.txt-   exercé d’activité professionnelle. Il existe cependant des dispositifs
+./dumps-text/urls_fr-27.txt:   permettant aux femmes au foyer qui n’ont jamais travaillé de toucher
+./dumps-text/urls_fr-27.txt-   une pension : il s’agit de l’AVPF, l’Assurance vieillesse des parents
+./dumps-text/urls_fr-27.txt-   au foyer.
+--
+./dumps-text/urls_fr-27.txt-   Comment l’obtenir ?
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt:Retraite des femmes au foyer : comment s’affilier à l’AVPF ?
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt:   Femmes au foyer, vous pouvez vous bénéficier de l'AVPF, sous conditions
+./dumps-text/urls_fr-27.txt-   de ressources, si vous avez eu des enfants, percevez certaines
+./dumps-text/urls_fr-27.txt-   prestations familiales de la Caisse des Allocations Familiales (Exemple
+--
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt-   La CAF (Caisse d’allocations familiales) peut néanmoins prendre en
+./dumps-text/urls_fr-27.txt:   charge le versement des cotisations pour la retraite d’une femme au
+./dumps-text/urls_fr-27.txt-   foyer, à condition de :
+./dumps-text/urls_fr-27.txt-     * de ne pas dépasser un certain plafond de ressources
+--
+./dumps-text/urls_fr-27.txt-   À partir de quel âge pourrait vous percevoir l’AVPF ?
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt:Retraite des femmes au foyer : bénéficiez de l’AVPF dès 62 ans
+./dumps-text/urls_fr-27.txt-
+./dumps-text/urls_fr-27.txt:   Les femmes au foyer bénéficiant de l’AVPF profitent du même régime de
+./dumps-text/urls_fr-27.txt-   retraite que celui des salariés, à savoir l’Assurance Retraite (CNAV).
+./dumps-text/urls_fr-27.txt-   Vous pouvez donc percevoir votre pension dès l'âge de 62 ans, soit à
+--
+./dumps-text/urls_fr-27.txt-   En sus de l'AVPF, l'ASPA (Allocation de solidarité́ aux personnes
+./dumps-text/urls_fr-27.txt-   âgées, anciennement le minimum vieillesse) peut aussi être versée, en
+./dumps-text/urls_fr-27.txt:   complément, aux femmes au foyer. Cette aide peut être octroyée à
+./dumps-text/urls_fr-27.txt-   partir de 65 ans, sous conditions de ressources.
+./dumps-text/urls_fr-27.txt:     * Retraite femme au foyer
+./dumps-text/urls_fr-27.txt-     * retraite mère au foyer
+./dumps-text/urls_fr-27.txt-     * AVPF

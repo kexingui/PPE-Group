@@ -1,0 +1,29 @@
+./dumps-text/urls_fr-3.txt-     * Parents
+./dumps-text/urls_fr-3.txt-     * Éducation
+./dumps-text/urls_fr-3.txt:     * Femmes
+./dumps-text/urls_fr-3.txt-     * LGBT+
+./dumps-text/urls_fr-3.txt-     * Psychologie
+--
+./dumps-text/urls_fr-3.txt-       j'y ai longuement réfléchi. Est-ce que moi aussi je la subis? Oui,
+./dumps-text/urls_fr-3.txt-       mais j'ai le temps de m'y consacrer, ce qui n'est pas le cas d'une
+./dumps-text/urls_fr-3.txt:       femme/maman qui travaille. Je considère ma journée comme une
+./dumps-text/urls_fr-3.txt-       journée de travail, sauf que je n'ai pas de chef et que j'organise
+./dumps-text/urls_fr-3.txt-       mon temps comme je peux/veux (et que je ne suis pas payée bien sûr
+--
+./dumps-text/urls_fr-3.txt-       non-stop. Il n'y a pas de journée off, pas de déjeuner sans
+./dumps-text/urls_fr-3.txt-       enfants, pas de moments de calme. Et puis, il y a cette fâcheuse
+./dumps-text/urls_fr-3.txt:       tendance à voir la femme au foyer comme une superwoman capable
+./dumps-text/urls_fr-3.txt-       d'absolument tout gérer (les journées enfants malades, c'est QUE
+./dumps-text/urls_fr-3.txt-       pour toi, oh joie!), où alors c'est nous qui n'arrivons pas à
+--
+./dumps-text/urls_fr-3.txt-       crispation. Et certes, la charge mentale est notre travail, mais il
+./dumps-text/urls_fr-3.txt-       ne faut tout de même pas que le conjoint se désinvestisse
+./dumps-text/urls_fr-3.txt:       complètement du foyer, parce que même une femme au foyer ne peut
+./dumps-text/urls_fr-3.txt-       pas tout gérer. Il faut le temps de trouver un équilibre: marcher
+./dumps-text/urls_fr-3.txt-       sur des oeufs (ou sur un fil suspendu au dessus du vide ahah)
+--
+./dumps-text/urls_fr-3.txt-       sorties.
+./dumps-text/urls_fr-3.txt-
+./dumps-text/urls_fr-3.txt:   La pire ennemi de la femme au foyer, c'est Bree Van de Kamp. Cela peut
+./dumps-text/urls_fr-3.txt-       sembler très bête, mais généralement lorsqu'une MAF est
+./dumps-text/urls_fr-3.txt-       représentée, elle place la barre tellement haute, un standard

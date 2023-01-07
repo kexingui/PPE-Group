@@ -1,0 +1,112 @@
+./dumps-text/urls_fr-2.txt-          + Reportages
+./dumps-text/urls_fr-2.txt-          + Décryptage
+./dumps-text/urls_fr-2.txt:          + Femmes engagées
+./dumps-text/urls_fr-2.txt-          + Marie Claire s'engage
+./dumps-text/urls_fr-2.txt:               o Violences faites aux femmes
+./dumps-text/urls_fr-2.txt-               o La Flamme Marie Claire
+./dumps-text/urls_fr-2.txt-               o Le Grand Forum
+./dumps-text/urls_fr-2.txt-               o Octobre Rose
+./dumps-text/urls_fr-2.txt-               o Women's Forum
+./dumps-text/urls_fr-2.txt:               o Egalité femmes hommes
+./dumps-text/urls_fr-2.txt-     * Bien-être et Forme
+./dumps-text/urls_fr-2.txt-     * Santé
+--
+./dumps-text/urls_fr-2.txt-     Actualités société - archives 2013
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt:Les femmes au foyer sont de moins en moins nombreuses en France
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt-   Par Dounia Malki
+./dumps-text/urls_fr-2.txt:   Femmes au foyer : De moins en moins nombreuses en France (BUTTON)
+./dumps-text/urls_fr-2.txt-   Ajouter aux favoris (BUTTON) Getty Images
+./dumps-text/urls_fr-2.txt-   (BUTTON)
+--
+./dumps-text/urls_fr-2.txt-   [ ] [ ] [ ] [ ] Je certifie ne pas envoyer d'e-mail indésirable
+./dumps-text/urls_fr-2.txt-   Envoyer
+./dumps-text/urls_fr-2.txt:   Les femmes au foyer sont de moins en moins nombreuses en France. C’est
+./dumps-text/urls_fr-2.txt-   ce que révèle une étude menée par l’Insee (Institut national de la
+./dumps-text/urls_fr-2.txt-   statistique et des études économiques) et publiée vendredi. En 1991,
+./dumps-text/urls_fr-2.txt:   une femme sur trois était au foyer, contre seulement une sur cinq en
+./dumps-text/urls_fr-2.txt-   2011.
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt:   Femme au foyer, oui, mais plus pour des raisons personnelles
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt:   Si le nombre de femmes au foyer a diminué en France, « les motifs de
+./dumps-text/urls_fr-2.txt-   cessation d’activité ont sensiblement évolué », note l’Insee. En effet,
+./dumps-text/urls_fr-2.txt-   en 1991, ce sont les raisons personnelles qui primaient dans 59% des
+./dumps-text/urls_fr-2.txt:   cas. Or, en 2011, ces causes ne concernent plus que 21% des femmes au
+./dumps-text/urls_fr-2.txt:   foyer. Désormais, la conjoncture économique prime. 35% des femmes en
+./dumps-text/urls_fr-2.txt-   2011 ont invoqué « la fin d’un CDD » comme raison à leur inactivité,
+./dumps-text/urls_fr-2.txt-   alors qu’elles n’étaient que 10% à le faire en 1991. Par ailleurs, 11%
+./dumps-text/urls_fr-2.txt:   des femmes ont expliqué leur retrait de la vie active par un
+./dumps-text/urls_fr-2.txt-   licenciement économique, contre 4% en 1991.
+./dumps-text/urls_fr-2.txt-
+--
+./dumps-text/urls_fr-2.txt-   Selon l’Insee, la perte d’un emploi, le chômage, et la conjoncture
+./dumps-text/urls_fr-2.txt-   économique « moins favorable », causent un découragement chez certaines
+./dumps-text/urls_fr-2.txt:   femmes. Par la force des choses, ces dernières deviennent parfois
+./dumps-text/urls_fr-2.txt-   inactives. Néanmoins, l’institut a nuancé ce résultat en soulignant
+./dumps-text/urls_fr-2.txt-   qu’il « est parfois difficile de démêler l’effet de la situation sur le
+./dumps-text/urls_fr-2.txt-   marché du travail, des choix personnels ». En effet, la conjoncture
+./dumps-text/urls_fr-2.txt:   économique peut parfois conforter une femme dans son désir de se
+./dumps-text/urls_fr-2.txt-   consacrer uniquement à son foyer.
+./dumps-text/urls_fr-2.txt-
+--
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt-   Concilier vie familiale et vie professionnelle est un challenge pour la
+./dumps-text/urls_fr-2.txt:   plupart des femmes. Si certaines ont choisi entre les deux, d’autres,
+./dumps-text/urls_fr-2.txt-   en revanche, ont décidé de ne faire aucune concession. Elles ont donc
+./dumps-text/urls_fr-2.txt-   créé leur propre entreprise, afin de d’être leur propre patron. Plus de
+./dumps-text/urls_fr-2.txt-   liberté, moins de contraintes horaires, ce statut leur permet de
+./dumps-text/urls_fr-2.txt-   dégager du temps pour leur famille sans pour autant renoncer à leur vie
+./dumps-text/urls_fr-2.txt:   de femme active. L’association Mampreneurs se veut d’ailleurs l’écho de
+./dumps-text/urls_fr-2.txt:   ces femmes. « Etre une mampreneur, une maman chef d’entreprise, est
+./dumps-text/urls_fr-2.txt-   avant tout un état d'esprit. Actrices à part entière du monde
+./dumps-text/urls_fr-2.txt-   économique, nous avons fait le choix de nous mettre à notre compte ou
+--
+./dumps-text/urls_fr-2.txt-   peut-on lire sur le site de l’association.
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt:   Moins de femmes au foyer, mais toujours autant d’inégalités salariales
+./dumps-text/urls_fr-2.txt:   entre hommes et femmes
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt-   Dans son étude, l’Insee a également comparé le taux d’emplois des
+./dumps-text/urls_fr-2.txt:   hommes et des femmes. Si l’écart s’est resserré entre 2003 et 2011, il
+./dumps-text/urls_fr-2.txt-   demeure encore important. En effet, en 2011, 76% des hommes avaient un
+./dumps-text/urls_fr-2.txt:   emploi contre seulement 67% des femmes. Néanmoins, si on ne prend en
+./dumps-text/urls_fr-2.txt:   compte que les femmes travaillant à temps complet, l’écart se creuse
+./dumps-text/urls_fr-2.txt-   davantage. Ainsi, 74% des hommes travaillent à temps plein contre
+./dumps-text/urls_fr-2.txt:   seulement 59% des femmes. Il existe donc toujours autant d'inégalités
+./dumps-text/urls_fr-2.txt:   salariales entre hommes et femmes.
+./dumps-text/urls_fr-2.txt-   Partager
+./dumps-text/urls_fr-2.txt-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+--
+./dumps-text/urls_fr-2.txt-   Les ex-adolescents de "Roméo et Juliette" portent plainte pour
+./dumps-text/urls_fr-2.txt-   exploitation sexuelle de mineurs
+./dumps-text/urls_fr-2.txt:   Benjamin Mendy accusé d'avoir filmé une femme à son insu pendant sa
+./dumps-text/urls_fr-2.txt-   libération conditionnelle
+./dumps-text/urls_fr-2.txt:   La Maison Veuve Clicquot, aux côtés des femmes entrepreneures depuis 50
+./dumps-text/urls_fr-2.txt-   ans
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt-   Plus d'Actu société
+./dumps-text/urls_fr-2.txt:   En Iran, la police contrôle désormais les voiles des femmes en voiture
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt-   Michel Aupetit, ancien archevêque de Paris, visé par une enquête pour
+--
+./dumps-text/urls_fr-2.txt-   Omar Sy victime d'un procès d'intention après ses propos sur la guerre
+./dumps-text/urls_fr-2.txt-   en Ukraine
+./dumps-text/urls_fr-2.txt:   Féminicides en 2022 : dans les Ardennes, Émilie, 23 ans, 146ème femme
+./dumps-text/urls_fr-2.txt-   tuée par son conjoint
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt-   Plus d'Actualités société - archives 2013
+./dumps-text/urls_fr-2.txt:   Pourquoi ces femmes journalistes iraniennes sont-elles assises par
+./dumps-text/urls_fr-2.txt-   terre ?
+./dumps-text/urls_fr-2.txt-
+--
+./dumps-text/urls_fr-2.txt-   pour l'enlèvement de sa fille CamilleComment Greta Thunberg a humilié
+./dumps-text/urls_fr-2.txt-   un influenceur misogyne accusé de trafic d’humains et de violEscort
+./dumps-text/urls_fr-2.txt:   boys : ils nous disent ce que veulent vraiment les femmes!Meurtre de
+./dumps-text/urls_fr-2.txt-   Lola : la suspecte Dahbia B. jugée "narcissique psychopathique" mais
+./dumps-text/urls_fr-2.txt-   responsableMeTooTéléRéalité : Illan Castronovo et Julien Bert visés par
+./dumps-text/urls_fr-2.txt-   deux plaintes pour violFéminicides en 2022 : dans les Ardennes, Émilie,
+./dumps-text/urls_fr-2.txt:   23 ans, 146ème femme tuée par son conjoint
+./dumps-text/urls_fr-2.txt-
+./dumps-text/urls_fr-2.txt-   (BUTTON)

@@ -1,0 +1,41 @@
+./dumps-text/urls_esp-32.txt-     * pasatiempos
+./dumps-text/urls_esp-32.txt-          + el tiempo play
+./dumps-text/urls_esp-32.txt:          + crucigrama
+./dumps-text/urls_esp-32.txt-          + sudoku
+./dumps-text/urls_esp-32.txt-          + señal en vivo
+--
+./dumps-text/urls_esp-32.txt-
+./dumps-text/urls_esp-32.txt-   Síguenos en:
+./dumps-text/urls_esp-32.txt:   logo-eltiempo Se dice 'el ama de casa', no 'la ama de casa'
+./dumps-text/urls_esp-32.txt-     * Suscríbete x $900 1er mes
+./dumps-text/urls_esp-32.txt-     * Iniciar sesión
+--
+./dumps-text/urls_esp-32.txt-     *
+./dumps-text/urls_esp-32.txt-
+./dumps-text/urls_esp-32.txt:Se dice 'el ama de casa', no 'la ama de casa'
+./dumps-text/urls_esp-32.txt-
+./dumps-text/urls_esp-32.txt-   Fernando Ávila, delegado de la Fundéu BBVA, da este y otros consejos de
+--
+./dumps-text/urls_esp-32.txt-
+./dumps-text/urls_esp-32.txt-   La revista  People en español  habla en alguna edición reciente de
+./dumps-text/urls_esp-32.txt:   Penélope Cruz y su papel de madre. La actriz dice "Soy la ama de casa
+./dumps-text/urls_esp-32.txt-   perfecta", frase usada en el título de la noticia. En el desarrollo de
+./dumps-text/urls_esp-32.txt-   la información, la revista incluye la siguiente expresión: "la actriz
+./dumps-text/urls_esp-32.txt:   se considera una ama de casa feliz".
+./dumps-text/urls_esp-32.txt-   Agrega el informe que Cruz no está embarazada, según su publicista.
+./dumps-text/urls_esp-32.txt-   Aquí tenemos materia suficiente para nuestra entrega de hoy.
+./dumps-text/urls_esp-32.txt-
+./dumps-text/urls_esp-32.txt:   El sustantivo pluriverbal ama de casa es femenino, lo que exige armar
+./dumps-text/urls_esp-32.txt:   frases con adjetivos femeninos, experta ama de casa, ama de casa
+./dumps-text/urls_esp-32.txt:   preparada, ama de casa encantadora, pero debe ir precedida de artículo
+./dumps-text/urls_esp-32.txt:   determinado singular masculino, para evitar la cacofonía, el ama de
+./dumps-text/urls_esp-32.txt:   casa (no la ama de casa). El plural va con artículo femenino, tanto con
+./dumps-text/urls_esp-32.txt:   artículo determinado, las amas de casa, como con artículo
+./dumps-text/urls_esp-32.txt:   indeterminado, unas amas de casa.
+./dumps-text/urls_esp-32.txt-
+./dumps-text/urls_esp-32.txt-   Para el artículo indeterminado singular y para los adjetivos algún y
+./dumps-text/urls_esp-32.txt:   ningún, el Diccionario panhispánico de dudas admite una ama de casa,
+./dumps-text/urls_esp-32.txt:   alguna ama de casa y ninguna ama de casa, pero recomienda la forma
+./dumps-text/urls_esp-32.txt:   culta tradicional, un ama de casa, algún ama de casa, ningún ama de
+./dumps-text/urls_esp-32.txt-   casa.
+./dumps-text/urls_esp-32.txt-

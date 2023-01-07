@@ -1,0 +1,39 @@
+./dumps-text/urls_fr-21.txt-          + Société
+./dumps-text/urls_fr-21.txt-               o Actus société
+./dumps-text/urls_fr-21.txt:               o Droits des femmes
+./dumps-text/urls_fr-21.txt-               o Libertés
+./dumps-text/urls_fr-21.txt-               o Planète
+--
+./dumps-text/urls_fr-21.txt-   cinq fois le SMIC.
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:   Si mère au foyer était une qualification reconnue, les femmes
+./dumps-text/urls_fr-21.txt-   gagneraient très bien leur vie. Le site Prontopro, portail de mise en
+./dumps-text/urls_fr-21.txt-   relation avec des professionnels de service à la personne, a estimé le
+--
+./dumps-text/urls_fr-21.txt-   de 96,43 € mensuel.
+./dumps-text/urls_fr-21.txt-   Lire aussi :
+./dumps-text/urls_fr-21.txt:   Voici ce que les inégalités femmes-hommes coûtent à la société
+./dumps-text/urls_fr-21.txt-   Vidéo du jour :
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt-Une rémunération équivalente au salaire d’un cadre supérieur
+./dumps-text/urls_fr-21.txt-
+./dumps-text/urls_fr-21.txt:   En raison de tout ce travail effectué, les femmes au foyer gagneraient
+./dumps-text/urls_fr-21.txt-   6 400 €. Un salaire moyen égal à cinq fois le SMIC, soit celui d’un
+./dumps-text/urls_fr-21.txt-   cadre supérieur ou d’un chef d’entreprise. Aux Etats-Unis, ce chiffre
+--
+./dumps-text/urls_fr-21.txt-   L’Insee avait tenté de faire ce calcul en 2010, arrivant cependant à un
+./dumps-text/urls_fr-21.txt-   résultat bien différent. En se basant sur les calculs d’heures de
+./dumps-text/urls_fr-21.txt:   tâches ménagères, l’Institut considérait qu’une femme en couple avec un
+./dumps-text/urls_fr-21.txt-   ou plusieurs enfants pourrait être rémunérée 1 327 euros par mois, en
+./dumps-text/urls_fr-21.txt:   se basant sur le SMIC horaire brut. En 2010, une femme vivant en couple
+./dumps-text/urls_fr-21.txt-   et mère d’un ou plusieurs enfants de moins de 25 ans, réalise en
+./dumps-text/urls_fr-21.txt-   moyenne 28 heures par semaine de tâches du périmètre dit « restreint »
+--
+./dumps-text/urls_fr-21.txt-   dans la même situation, le temps de travail domestique est en moyenne
+./dumps-text/urls_fr-21.txt-   de 18 heures (10 pour le périmètre restreint et 26 pour le périmètre
+./dumps-text/urls_fr-21.txt:   extensif). Une fois de plus, les inégalités femmes/hommes restent
+./dumps-text/urls_fr-21.txt-   frappantes.
+./dumps-text/urls_fr-21.txt-   Lire aussi :
+./dumps-text/urls_fr-21.txt:     * 5 chiffres qui montrent que l’égalité femmes-hommes n’est pas
+./dumps-text/urls_fr-21.txt-       encore là
+./dumps-text/urls_fr-21.txt-     * Inégalités salariales : le gouvernement annonce enfin les sanctions

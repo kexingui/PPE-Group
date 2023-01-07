@@ -1,0 +1,22 @@
+./dumps-text/urls_esp-38.txt-   REFRESH(600 sec):
+./dumps-text/urls_esp-38.txt:   https://www.20minutos.es/noticia/976901/0/empleo/amas/casa/
+./dumps-text/urls_esp-38.txt-
+./dumps-text/urls_esp-38.txt-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T7GD96G
+--
+./dumps-text/urls_esp-38.txt-   Zaporiyia causando 80 bajas
+./dumps-text/urls_esp-38.txt-
+./dumps-text/urls_esp-38.txt:170.000 amas de casa han dejado sus hogares para buscar empleo
+./dumps-text/urls_esp-38.txt-
+./dumps-text/urls_esp-38.txt-   A. L.NOTICIA03.03.2011 - 10:44h
+--
+./dumps-text/urls_esp-38.txt-   Una trabajadora en una planta. Una trabajadora en una planta.ARCHIVO
+./dumps-text/urls_esp-38.txt-
+./dumps-text/urls_esp-38.txt:   Cada vez son más las amas de casa que se ven obligadas por la crisis a
+./dumps-text/urls_esp-38.txt-   buscar un trabajo fuera del hogar. Sin en 2009 fueron 100.000, el año
+./dumps-text/urls_esp-38.txt-   pasado fueron más de 170.000 las mujeres que pasaron de computar como
+--
+./dumps-text/urls_esp-38.txt-Más información sobre:
+./dumps-text/urls_esp-38.txt-
+./dumps-text/urls_esp-38.txt:     * Ama de casa
+./dumps-text/urls_esp-38.txt-
+./dumps-text/urls_esp-38.txt-Horóscopo

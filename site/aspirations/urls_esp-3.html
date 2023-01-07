@@ -1,0 +1,2138 @@
+
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+<link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+
+<style amp-custom>
+		/*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{margin:0}
+article,aside,footer,header,nav,section{display:block}
+h1{font-size:2em;margin:.67em 0}
+figcaption,figure,main{display:block}
+figure{margin:1em 40px}
+hr{box-sizing:content-box;height:0;overflow:visible}
+pre{font-family:monospace,monospace;font-size:1em}
+a{background-color:transparent;-webkit-text-decoration-skip:objects}
+a:active,a:hover{outline-width:0}
+abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}
+b,strong{font-weight:inherit;font-weight:bolder}
+code,kbd,samp{font-family:monospace,monospace;font-size:1em}
+dfn{font-style:italic}
+mark{background-color:#ff0;color:#000}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sub{bottom:-.25em}
+sup{top:-.5em}
+audio,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+img{border-style:none}
+svg:not(:root){overflow:hidden}
+button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}
+button,input{overflow:visible}
+button,select{text-transform:none}
+[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}
+[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}
+[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}
+progress{display:inline-block;vertical-align:baseline}
+textarea{overflow:auto}
+[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}
+[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}
+[type=search]{-webkit-appearance:textfield;outline-offset:-2px}
+[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}
+::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
+details,menu{display:block}
+summary{display:list-item}
+canvas{display:inline-block}
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+/* ---------------------------- */
+
+/* UTILIDADES  =================== */
+
+
+
+
+
+
+
+.flex, .row-flex{display: flex; width: 100%; flex-wrap: wrap;}
+.row-flex{width: 100%;}
+.align-center{align-items: center;}
+.justify-sb{justify-content: space-between;}
+
+nav ul{list-style: none; padding: 0; margin: 0;}
+
+
+/* GENERICOS  =================== */
+
+a{color: #000;}
+p{margin:0 ;}
+
+body{
+   background: #fff;       
+   font-family: -apple-system, BlinkMacSystemFont, Segoe UI,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif;
+   min-width: 315px;
+   overflow-x: hidden;
+   color: #4a4a4a;   
+}
+
+.article-content--cuerpo ol,
+.article-content--cuerpo ul{
+  margin-left: 0;
+  padding-left: 1.4rem;
+}
+
+.article-content--cuerpo ol li,
+.article-content--cuerpo ul li{
+  padding-left: .3rem;
+  margin-bottom: .2rem;
+
+}
+
+/* LAYOUT =================== */
+
+
+.container,
+.main-container{
+  width: 100%;
+  max-width: 1170px;
+  margin-right: auto;
+  margin-left: auto;    
+}
+
+.container,
+.article-content--cuerpo{padding-left: 1rem; padding-right: 1rem;}
+
+.row{display: flex; width: 100%;}
+
+.col--main{flex: 1 75%; }
+.col--sidebar{flex: 0 0 336px; width:336px }
+
+@media screen and (min-width:768px){
+  .col--main{margin-right: 30px;}
+}
+
+.content-modulo .container{padding-top: 0; padding-bottom: 0;}
+
+
+.article-content--cuerpo .container{padding: 0;}
+
+
+
+
+/* Control de margenes =============== */
+
+/* banners */
+.bnn{margin-bottom: 1rem;}
+
+/* modulos */
+
+section.mod {
+  margin-bottom: 1rem;
+}
+
+
+
+
+
+h2, h3, h4{margin-top: 0; margin-bottom: 1rem; line-height: 1em;}
+
+.article-content--cuerpo > h2{font-size: 1.27em; margin-bottom: 1rem; }/* varios body */
+.marker{background-color: yellow; font-weight: 400; color: #000;}
+
+
+/* BODY ===================== */
+
+.main-container{padding-top: 2rem;}
+
+@media screen and (max-width:768px){
+  .main-container{padding-top: calc(60px + 1.7rem);}
+}
+
+.main-article--header .antetitulo{font-size: 1em; font-weight: 400;}
+.main-article--header .titulo{font-size: 2em; line-height: 1em; margin:0; margin-bottom: .5rem;}
+.main-article--header .bajada{font-size: 1em;line-height: 1.3em; font-weight: 500; margin-bottom: 1rem;}
+
+
+
+/* foto principal */
+
+.main-photo {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.35);  
+}
+
+
+.main-photo .epigrafe{font-size: .7em; line-height: 1.1em; position: absolute; bottom: 0; left: 0; width: 100%; padding: .5rem; background-color: rgba(0, 0, 0, 0.308); color: #fff; display: flex; align-items: center; justify-content: flex-start; flex-wrap: wrap;}
+.main-photo .epigrafe:empty{display: none;}
+.main-photo .epigrafe strong,
+.main-photo .epigrafe .desc{margin-right: 5px;}
+
+
+
+
+
+
+
+/* Nota cuerpo */
+
+
+.main-article--body{display: flex; flex-direction: column;}
+
+.article-content--cuerpo  {
+  line-height: 1.5rem;
+  letter-spacing: normal;
+}
+
+.article-content--cuerpo > p,
+.article-content--cuerpo > ul,
+.tags-cloud {margin-bottom: 1rem;}
+.tags-cloud .row {flex-wrap: wrap;}
+
+
+
+/* autor*/
+.article-content--autor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f3f3f3;
+    margin: 1rem 0; 
+    padding: .5rem 1rem;
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (min-width:320px) and (max-width:370px) {
+    .article-content--autor{padding-left: .7rem; padding-right: .7rem;}
+    .el-autor .foto-autor{display: none;}
+  }
+
+.el-autor {display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;}
+
+.foto-autor{overflow: hidden; border-radius: 50%; filter: grayscale(); width: 25px; height: 25px; margin-right: 10px;}
+.article-content--autor a{color: inherit; text-decoration: none;}
+.nombre-autor{font-size: .7em;}
+.nombre-autor .post-author-name{text-decoration: underline; font-weight: 600; }
+
+/* fecha*/
+.article-content--fecha{font-size: .7em; margin-left: auto;}
+.article-content--fecha .seccion,
+.article-content--fecha .fecha-time {color: #000; font-weight: 600;}
+@media screen and (max-width:455px){
+  .article-content--fecha .escrito,
+  .article-content--fecha .el  {    display: none;  }
+  .article-content--fecha .seccion::after { 
+    content: "\0020\00B7\0020";
+    }
+}
+
+
+
+/* banner */
+
+.content-banner{text-align: center; justify-content: center; margin-bottom: 1rem; /*background-color: rgba(0, 0, 0, 0.15);*/} 
+.main-article--body .content-banner{margin-left: -1rem; margin-right: -1rem;} 
+
+.main-article--body  amp-ima-video.content-banner{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+
+.tags-cloud + .content-banner{ margin-bottom: 0;}
+
+@media screen and (max-width:768px){
+  .main-article--header + .content-banner{margin-top: 0;}  
+}
+
+/* Modulo */
+
+.content-modulo{margin-bottom: 1rem;}
+/* Relacionadas  ~~~~~~~ */
+
+.titulo-section {color: #000; font-weight: 700; border-bottom: 2px solid #bbb; padding-bottom: .5rem; margin-bottom: .5rem; margin-top: 0;}
+
+.noticias_relacionadas_2{margin-bottom: 0;}
+.noticias_relacionadas_2 header {padding-bottom: 0;}
+
+.noticias_relacionadas_2.en-cuerpo {margin-bottom: 1rem;}
+
+
+
+ul.listado_relacionadas{padding: 0; margin: 0; list-style: none;}
+
+ul.listado_relacionadas li {
+  width: 100%;
+  padding: .5rem 0;
+}
+
+  ul.listado_relacionadas li a{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+ul.listado_relacionadas li a:hover{background-color: rgba(0, 0, 0, 0.02);}
+
+ul.listado_relacionadas .pic{flex: 1 150px;  max-width: 150px;}
+ul.listado_relacionadas .txt{flex: 1 ; padding-left: 1rem; margin-top: -1px; }
+ul.listado_relacionadas .antetitulo{font-style: normal; font-size: .8em; margin-top: 0; margin-bottom: .1rem; display: block; line-height: 1em;}
+ul.listado_relacionadas .title{margin: 0; font-weight: 700; font-size: 1.05em; line-height: 1.1em; }
+
+
+
+
+
+/* Foto en cuerpo ~~~~~~~ */
+
+.article-content--cuerpo  .imgcuerpo,
+.article-content--cuerpo figure.image,
+.article-content--cuerpo .image-align-left,
+.article-content--cuerpo .image-align-right
+{
+  width: 100%;
+  max-width: 100%;
+  padding: 0; 
+  margin: 0 auto;
+  max-width: 768px;
+  position: relative;
+
+}
+
+.article-content--cuerpo figure.image,
+.article-content--cuerpo .image-align-left,
+.article-content--cuerpo .image-align-right
+{
+  margin-bottom: 1rem;
+  /*border-bottom: solid 5px red;*/
+}
+
+/*
+.article-content--cuerpo .image-align-left,
+.article-content--cuerpo .image-align-right {
+    border-bottom: solid 5px fuchsia;
+}
+*/
+
+
+
+.article-content--cuerpo figure.image figcaption{
+  font-size: .7em; position: absolute; bottom: 0; left: 0; width: 100%; padding: .5rem; background-color: rgba(0, 0, 0, 0.308); color: #fff;line-height: 1em;
+}
+
+.article-content--cuerpo figure.image img{max-width: 768px;}
+
+
+
+
+.imgcuerpo {background-color: #000;}
+
+
+
+/* Quotes ~~~~~~~ */
+
+
+.article-content--cuerpo    blockquote{
+  background-color: #eff1f3; margin: 0; margin-bottom: 1rem; padding: 2rem; text-align: center; font-size: 1.2em; font-style: italic;
+  font-weight: 600; margin-left: auto; margin-right: auto;
+}
+
+.article-content--cuerpo    blockquote p{margin: 0;}
+
+
+/* Tags ~~~~~~~ */
+.tags-cloud{display: flex; flex-direction: column; flex-wrap: wrap; align-items: baseline;}
+.tags-cloud .label {
+  text-decoration: none;
+  font-size: .8em;
+  line-height: 1;
+  background-color: #f3f3f3;
+  padding: .5rem;
+  margin-right: .5rem;
+  margin-bottom: .5rem;
+  font-weight: 600;
+}
+
+.tags-cloud .label:hover{background-color: #eeecec;}
+
+
+
+
+
+
+/* SIDEBAR ===================== */
+
+.main-sidebar{  padding:2rem; width: 300px; position: relative;}
+.main-sidebar a{text-decoration: none; color: #000;}
+.main-sidebar nav a{padding: .3rem 0; display: flex;}
+.main-sidebar nav ul ul{padding-left: .5rem; font-size: .9em;}
+.main-sidebar nav > ul > li > a{font-weight: 500;}
+
+.close-sidebar{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center; justify-content: center;
+}
+
+.path-close{width: 50px; }
+
+
+
+/* ~~~ solo movil ~~~~ */
+
+
+@media screen and (max-width:768px){
+
+    .main-article--header {padding-left: 1rem; padding-right: 1rem;}
+
+    .article-content--cuerpo  {padding-left: 1rem; padding-right: 1rem;}
+
+    .main-container > .row{flex-direction: column;}
+
+    ul.listado_relacionadas .txt{padding-left: .7rem;}
+    ul.listado_relacionadas .antetitulo{font-size: .65em; margin-top: 0;}
+
+
+    .article-content--autor{margin-bottom: 0;}
+
+}
+
+
+
+
+/* loader ............ */
+.lds-dual-ring{display:inline-block;width:80px;height:80px}
+.lds-dual-ring:after{content:" ";display:block;width:64px;height:64px;margin:8px;border-radius:50%;border:6px solid #fff;border-color:#fff transparent;animation:lds-dual-ring 1.2s linear infinite}
+@keyframes lds-dual-ring {
+0%{transform:rotate(0deg)}
+100%{transform:rotate(360deg)}
+}
+
+
+/* Widgets en cuerpo */
+
+.article-content--cuerpo .widget[class^="widget"]{  
+  max-width: 550px;
+  margin: auto;
+}
+.article-content--cuerpo .widget[class^="widget"]::after{
+  content: " ";  
+  display: block;
+  width: 25%;
+  height: 3px;
+  background-color: #ccc;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.article-content--cuerpo .widget-instagram iframe{
+  border: solid 1px #dbdbdb;
+}
+
+.margen-top1{
+  margin-bottom: 60px;
+  margin-top:20px
+}
+
+
+/* banner sticky sidebar 
+@media screen and (min-width:768px){
+  
+  .col--sidebar .content-banner:last-child{
+    position: sticky;
+    top: 10px;
+  }
+
+}
+*/
+
+
+
+/* nuevo componente del 25/08/2021 - Compatir iconos */
+
+
+.share-group {
+  font-size: 11px;
+  background-color: #f0f0f0 ;
+  display: flex;  
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 77px;  
+  width: 100%;
+  z-index: 10;
+  padding:.7rem;
+  margin-bottom: 1rem;
+}
+.share-group .txt{font-style: italic;}
+.share-group amp-social-share{margin-left:10px; background-size: 16px; border-radius: 2px; width: 20px; height: 20px;}
+
+
+
+@media screen and (min-width:768px){
+
+  
+  .share-group {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    flex-wrap: wrap;
+    width: 150px;
+    border: solid 1px #dbdbdb;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: -3px 4px 3px -2px #00000024;
+}
+
+
+  .share-group .txt {width: 100%; text-align: center; margin-bottom: 7px;}
+  .share-group amp-social-share{width: 30px; height: 30px; background-size: 26px; margin: 0; margin-bottom: 5px;}
+  .share-group .share-icon--tw{margin-left: 7.5px; margin-right: 7.5px;}
+
+}
+
+
+/* botón siganos en google news */
+
+.btn-seguinos-gnews {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  line-height: 12px;
+  margin-bottom: 20px;
+  padding: 15px 0;
+  border-top: solid 1px #e5e5e5;
+  border-bottom: solid 1px #e5e5e5;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.btn-seguinos-gnews::before {
+  content: "Sí­ganos en";
+  margin-right: 5px;
+}
+
+.btn-seguinos-gnews a {
+  background-image: url(/a/plantillas/imgs/google-news.svg);
+  background-size: 83%;
+  border: solid 1px #dadada;
+  width: 72px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 2px;
+}
+
+.btn-seguinos-gnews a span {
+  display: none;
+}
+
+
+/* carousel */
+
+
+.main-article--body amp-carousel{margin-bottom: 1rem;}
+
+amp-carousel figure { margin: 0;}
+.theFigure {position: relative;   margin: 0;}
+.theCaption:empty {  display: none;}
+
+amp-carousel .theCaption,
+.galeriaSimple--foto .theCaption {
+  position        : absolute;
+  bottom          : 0;
+  left            : 0;
+  background-color: rgba(0, 0, 0, 0.801);
+  font-size       : .7em;
+  line-height     : 1.2em;
+  color           : rgba(255, 255, 255, 1);
+  padding         : 7px 12px;
+  width           : 100%;
+}
+
+
+.theCaption span{color: rgba(255, 255, 255, 0.6); margin-left: 5px;}
+.galeriaSimple--foto .theFigure{margin-bottom: 1rem;}
+
+
+
+
+/* archivos adjuntos */
+
+.archivos-adjuntos{margin-bottom: 1rem;}
+.archivos-adjuntos ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-left: -.5em;
+  margin-right: -.5em;
+}
+
+.archivos-adjuntos ul li {display: flex; margin: .5em; padding: 0;}
+
+.archivos-adjuntos ul li a {
+  font-size: .85em;
+  line-height: 1em;
+  text-decoration: none;
+  background-color: #eeecec;
+  /*padding: .45em .65em;*/
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  border: solid 1px #e1e0e0;
+}
+
+.archivos-adjuntos ul li a:hover {
+  border: solid 1px rgba(0, 0, 0, 0.075);
+  background-color: #efefef;
+  color: #000;
+}
+
+
+
+
+
+.archivos-adjuntos ul li a span.ico {
+  display: block;
+  width: 30px;
+  height: 100%;
+  background-color: #e1e1e1;
+  background-image: url(/a/plantillas/imgs/ico-gral/adjuntos-download-3.svg);
+  background-size: 16px;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-right: solid 1px #ffffff87;
+}
+
+
+
+.archivos-adjuntos ul li a span.txt {
+  padding: .7em;
+  box-shadow: inset 3px 0 5px -5px black;
+}
+
+.archivos-adjuntos ul li a[href*="pdf"] span.ico {
+  background-image: url(/a/plantillas/imgs/ico-gral/adjuntos-pdf.svg);
+  background-size: 19px;
+}
+
+
+.archivos-adjuntos ul li a:hover {
+  background-color: #f9f6e9;
+}
+
+.archivos-adjuntos ul li a[href*="pdf"]:hover {
+  background-color: #f9e9e9;
+}.mlist__section p,
+.mlist__section h5{margin:0;}
+
+.mlist__item{ display: flex; padding-bottom: .5rem; margin-bottom: .5rem; border-bottom: solid 1px #ccc;}
+.mlist__item a{text-decoration: none;}
+.mlist__photo-content{ flex-grow: 0; width: 80px; background-color: #ccc;}
+.mlist__txt-content{ flex-grow: 1; display: flex; }
+.mlist__txt-content a{padding-left: 1rem; display: flex;flex-direction: column; width: 100%;}
+
+
+.mlist__section .volanta {font-size: .7em; text-transform: uppercase;}
+.mlist__section .title{font-size: 1em; font-weight: 600;}
+
+/*footer de cada item */
+
+.mod .item-footer{font-size: .7em; margin-top: .5rem; line-height: 1em; display: flex; align-items: center; justify-content: flex-start; line-height: 1em;}
+
+
+
+/* modulo minuto a minuto */
+
+.mod.m-a-m .mlist__item{flex-direction: column;}
+
+/* RELACIONADAS  ============== */
+
+.nrel{width: 100%;}
+.nrel .link-url{text-decoration: none;}
+
+.nrel--group div[role="listitem"]{display: flex; flex-wrap: wrap; margin-left: 0; margin-right: 0;}
+
+.nrel--group div[role=listitem]{overflow: hidden; min-width: 100%;}
+
+.nrel--row {display: flex;flex-wrap: wrap;  margin-left: -15px;  margin-right: -15px;}
+
+.nrel--noticia {
+  flex: 0 33.333%;
+  width:  33.333%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 30px;
+}
+.nrel--link-img{flex: 1 30%;}
+.nrel--txt{flex: 1 70%; background-color: #f5f5f5; padding:15px; padding-bottom: 1.2rem; display: flex; flex-direction: column;}
+.nrel--link-titulo{text-decoration: none;}
+.nrel--link-titulo:hover{text-decoration: underline;}
+.nrel--titulo-noticia{margin-bottom: auto; font-size: 1.2em; line-height: 1.1em;}
+
+.nrel--seccion-link{text-decoration: underline;}
+
+.nrel--article-footer{font-size: .85em; line-height: 1em; margin-top: .5rem;}
+
+.nrel--foto.imagen-m{display: none;}
+
+
+.btn-mas-noticias {
+  text-decoration: none;
+  font-size: 1em;
+  line-height: 1;
+  background-color: #f3f3f3;
+  padding: .5rem;
+  margin-right: .5rem;
+  font-weight: 600;
+  max-width: fit-content;
+  cursor: pointer;
+}
+
+
+.nrel-autor{display: flex; justify-content: space-between; align-items: center; text-transform: uppercase; font-size: .7em;}
+.nrel .amp-social-share-system{
+    background-color: #d3d3d3;
+    border-radius: 50%;
+    background-size:10px ;
+}
+.nrel .amp-social-share-system:hover{
+    background-color: #868686;
+}
+
+
+@media screen and (max-width:768px){
+  
+  .nrel{padding-left: 1rem; padding-right: 1rem;}
+  .nrel--foto.imagen-m{display: block;}
+  .nrel--foto.imagen-d{display: none;}
+  
+  .nrel--group div[role=listitem]{flex-direction: column;}
+
+  .nrel--noticia {
+    flex: 1 100%;
+    width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;    
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    flex-direction: row;
+    border-bottom: solid 1px #eee;
+  }
+
+  .nrel--row{
+    flex-direction: column;    
+    max-width: 100%;
+  }
+
+  .nrel--txt{padding:0 .8rem; padding-right: 0; background-color: transparent; display: flex; flex-direction: column;}
+  .nrel--titulo-noticia{font-size: 1em; line-height: 1.05em; margin-bottom: 0;}
+  
+   .nrel-autor{margin-top: 0;}
+   .nrel--article-footer{margin-top: auto; margin-bottom: 0; }
+
+   .nrel .amp-social-share-system{margin-top: -2px; margin-bottom: -2px; margin-right: 0;}
+
+   .nrel--row--bnn .content-banner{margin-top: calc(1rem - 10px) ;}
+
+   .nrel-autor{margin-top: .5rem; }
+
+   .nrel{padding-left: 0; padding-right: 0;}
+   .nrel .mod__titulo{margin-left: 1rem; margin-right: 1rem;}
+   .nrel--row{margin-left: 0; margin-right: 0;}
+
+}
+
+
+
+
+
+/* modulos ocultos */
+
+@media screen and (min-width:768px){
+  .nrel--noticia{margin-top: 30px;}
+  .nrel--noticia:nth-child(1),
+  .nrel--noticia:nth-child(2),
+  .nrel--noticia:nth-child(3)  { margin-bottom: 0; margin-top: 0;}
+  .nrel--noticia.hidden-d {margin: 0;}
+
+  .nrel--txt{border: 1px solid #e4e4e4;}
+}
+
+
+
+
+
+/* agregado el 04-11-22 */
+
+@media screen and (max-width:768px){
+
+
+  article.video-relacionado{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+
+  article.video-relacionado .nrel--txt{
+    border: 1px solid #e4e4e4;
+    background-color: #f5f5f5;
+    padding: 15px 15px 1.2rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: -1px;
+  }
+
+}/* FOOTER ===================== */
+
+.site-footer{    
+    width: 100%;
+    background-color: #f8f9fa;   
+    text-align: center;   
+  }
+  .footer-zone-1{padding: 1rem; padding-bottom: 0;}
+  .footer-zone-2{padding: 1rem;}
+  .footer-zone-3{padding: 1rem;}
+  
+  .footer--main-logo-img{width: 150px; }
+  .footer--redes  {width: 100%; display: flex; justify-content: center;}
+  .footer--redes a {margin: 0 .5rem; opacity: .7;}
+  .footer--redes a:hover { opacity: 1;}
+  .footer--redes .ico {width: 20px; filter: invert(100); opacity: .7;}
+  
+  
+  .footer--nav{display: flex; flex-wrap: wrap; justify-content: center; font-size: .8em;}
+  
+  .footer--nav a{text-decoration: none; font-size: .9em; line-height: 1em; color: #000; text-transform: uppercase; padding:.7rem; }
+  
+  .site-footer small{font-size: .7em; line-height: 1en; display: flex; justify-content: center; align-items: center; flex-wrap: wrap;}
+  .site-footer small span.separa{border-left: solid 1px #818181; height: 5px; margin: 0 .5rem;}
+  
+  .footer-zone-3{ background-color: #eff1f3}
+  
+  .e80logo {width: 40px; height: 14px; filter: invert(1); margin-top: -5px; opacity: .6;}
+  .color-e80{fill: #575757 ;}
+  
+  @media screen and (max-width:768px){
+    .site-footer small {line-height: 1.5em;}
+    .site-footer small span.derechos{width: 100%;}
+    .site-footer small span.copy + .separa,
+    .site-footer small span.derechos + .separa  {display: none;}
+    .footer-link-e80 svg{margin-top: 5px;}
+  
+  }
+  
+  
+  
+  
+  
+  :root {
+    --rojo: #ca2328;
+    --azul: #18376b;
+    --azul-oscuro: #071835;
+}
+
+
+
+/* HEADER =====================================
+============================================= */
+
+.main-header { background: var(--rojo);  width: 100%; z-index: 999;
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%);
+} 
+
+.main-header a {color: #fff;} 
+.main-header a:hover {text-decoration: none;} 
+
+.button-toggle svg,
+.redes svg,
+.ico-search{fill: #fff;}
+
+.redes a,
+.redes{display: flex;align-items: center;}
+
+.redes  {list-style: none; margin: 0; padding: 0;}
+
+.redes  svg,
+.ico-search{width: auto; height: 18px; opacity: .7; transition: opacity ease-in-out .2s;}
+
+.redes a:hover svg,
+.ico-search:hover {opacity: 1;}
+
+
+
+.redes a {margin: 0 7.5px; }
+
+
+.btn-buscador{display: flex; margin-left: 7.5px;}
+
+/* Boton toggle */
+
+.button-toggle {background-color: transparent; border: none; display: flex; align-items: center; color: #fff; line-height: 1em; text-transform: uppercase; position: relative;}
+
+.button-toggle span {margin-left: 30px; font-size: .8em;}
+.button-toggle .toggle-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) scale(.8);
+  transform-origin: 0 50%;
+  left: 0;
+}
+
+
+/*original
+.main-logo--img{width: 500px;}
+*/
+
+/*12 años */
+.main-logo--img {  width: 600px;  margin-top: -10px;}
+
+
+
+
+
+
+@media screen and (max-width:768px){
+  
+  
+  .main-header .main-logo a{display: flex;}
+  /*.main-logo--img{width: 240px; margin-top: 0;}*/
+  /* .main-logo--img{width: 290px; margin-top: 0;} */
+  .main-header{position: fixed; top: 0;}
+  .button-toggle .toggle-icon{left: -30px;}
+  
+}
+
+/* 12 años */
+@media screen and (max-width:375px){
+
+  .main-logo--img{width: 230px;margin-top: -3px;}
+  .toggle-icon{margin-left: -5px; margin-right: 0;}
+}
+
+@media screen and (min-width:375px) and (max-width:768px){
+  .main-logo--img{width: 270px;margin-top: -2px;}
+}
+
+
+
+
+/* menu desktop */
+
+.ul-main a{text-decoration: none;}
+
+.nav-desktop .nav.ul-main{width: 100%;justify-content: center; line-height: 1em; }
+
+.nav-desktop .nav.ul-main > li {position: relative; border-right: solid 1px rgb(255 255 255 / 10%);}
+
+.nav-desktop .nav.ul-main > li:first-child,
+.nav-desktop .nav.ul-main > li.item-vertical--1{position: relative; border-left: solid 1px rgb(255 255 255 / 10%);}
+
+.nav-desktop .nav.ul-main  li.border-r{border-right: solid 1px rgb(255 255 255 / 10%);}
+
+
+
+.nav-desktop .nav.ul-main > li > a{color: rgba(255,255,255,.7); position: relative; text-transform: uppercase;}
+
+
+/*hover*/
+
+.nav-desktop .nav.ul-main > li { transition: background-color 500ms linear;}
+.nav-desktop .nav.ul-main > li:hover {background-color:var(--azul-oscuro);}
+.nav-desktop .nav.ul-main > li:hover > a {color: #fff;}
+
+
+
+.nav-desktop .nav.ul-main > li > a:hover{color: #fff; background-color: transparent;}
+
+
+
+.nav-ico-submenu{fill: rgba(255, 255, 255, 0.7);}
+.nav-desktop .nav.ul-main > li:hover .nav-ico-submenu {color: #fff;}
+
+
+.nav-subsec{ list-style: none; margin: 0; padding: 0;}
+
+
+
+.nav-desktop .ul-main{
+  list-style: none;
+  padding: 0; margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+.nav-desktop .ul-main > li {display: flex; align-items: center; padding: 7.5px 9px;}
+.nav-desktop .ul-main > li .nav-ico-submenu{margin-left: 10px;}
+
+
+.nav-desktop .ul-main > li > a {text-decoration: none; font-weight: 400; font-size: 14px;}
+
+
+
+.nav-desktop .nav-subsec{position: absolute; background-color: var(--azul-oscuro); top: 100%; left: 0; min-width: 100%; border-top: solid 2px #000;display: none; }
+.nav-desktop .nav-subsec li {border-bottom: solid 1px rgba(255, 255, 255, 0.1); display: block;}
+.nav-desktop .nav-subsec a{padding: .5em 1em; color: rgba(255, 255, 255, 0.6);font-size: .9em; display: block;}
+.nav-desktop .nav-subsec a:hover{color: rgba(255, 255, 255, 1);}
+
+.nav-desktop .ul-main > li:hover .nav-subsec {display: block;}
+
+
+
+
+/*activo*/
+.nav-desktop .nav.ul-main > li > a.activo{color: #fff; font-weight: 700;}
+.nav-desktop .nav.ul-main > li > a.activo::after{width: 100%;}
+
+/* logos verticales */
+.nav-desktop  img[class^="logo-"]{width: auto;height: 14px;}
+.nav-desktop img.logo-yosoytu{height: 19px;}
+.nav-desktop .nav.ul-main > li:hover a img{filter: brightness(1.2);}
+
+
+
+
+
+/* cuando no es portada, que no este el deco */
+body:not(.home) .nav-desktop .nav.ul-main > li > a.activo.inicio:after{ width: 0;} 
+
+.header-zone-1 .container { display: flex;    align-items: center; height: 60px;}
+.header-zone-1 .container .col {padding: 0;}  
+
+
+@media screen and (min-width:768px){          
+
+  .toggle-icon{margin-left: -27px;}
+  .header-zone-1 .container {height:130px; padding-left: 0; padding-right: 0;}        
+  
+  .header-zone-1 .container .col {display: flex;align-items: center;}      
+  
+  .header-zone-1 .container .col.toggle {width: 20%;}      
+  .header-zone-1 .container .col-logo {width: 60%;}      
+  .header-zone-1 .container .col-redes {width: 20%;}      
+  
+  
+  .header-zone-1 .container .col:nth-child(1) { justify-content: flex-start;}
+  .header-zone-1 .container .col:nth-child(2) { justify-content: center;}
+  .header-zone-1 .container .col:nth-child(3) { justify-content: flex-end;}
+  .main-header:not(.fixed){position: relative; z-index: 9999;}
+  .main-header.fixed{position: fixed; top: 0} 
+
+
+  .header-zone-1 .container .col-logo {display: flex; flex-direction: column; align-items: center;} 
+  .header-fecha {text-align: center; color: rgba(255, 255, 255, 0.6); font-size: 11px; line-height: 1em; display: flex; align-items: center; justify-content: center; font-style: italic; margin-bottom: 5px; width: 100%; max-width: 500px;}  
+ .header-fecha span{display: block; padding: 0 15px; } 
+ .header-fecha::after, .header-fecha::before {   content: "";      display: block;      height: 1px;      background-color: #ebebeb4f;     flex: 1 auto;  } 
+
+
+
+ img.main-logo--img.hidalgo{width: 660px;}
+ img.main-logo--img.guanajuato{width: 660px;}
+ img.main-logo--img.veracruz{width: 660px;}
+
+
+
+/* controlo items de menu de verticales */
+
+
+.nav-desktop li.item-vertical--1{margin-left: auto;}
+
+
+
+}
+
+
+
+
+.header-zone-2 { justify-content:center; align-items: center; background-color: var(--azul);} 
+
+
+
+
+
+/* HEADER VARIOS EN MOBILE----  */
+
+@media only screen and (max-width : 768px) { 
+  /* Al body, acl clickear toggle anulo el scroll Y (ver js)*/ 
+  .header-zone-1 .col.toggle{order: 2; margin-left: auto; margin-right: -15px;}
+  body.body-noscroll { overflow-y: hidden; }  
+
+  .header-fecha{display: none;}
+
+  img.main-logo--img.hidalgo{width: 300px;}
+  img.main-logo--img.guanajuato{width: 300px;}
+  img.main-logo--img.veracruz{width: 300px;}
+
+
+}
+
+
+
+
+
+
+
+/* TOGGLE ICON */
+
+
+.toggle-icon  {cursor: pointer; display: flex; align-items: center;}  
+.toggle-icon small  {color: #fff; margin-left: -15px; margin-top: 5px; font-size: 9px; text-transform: uppercase; transition: all ease; transition-duration:  .5s;}  
+.toggle-icon svg { transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1); width: 79px; height: auto;  } 
+.toggle-icon .active svg { transform: rotate(90deg); } 
+.toggle-icon path { transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1), stroke-dasharray 500ms cubic-bezier(0.4, 0, 0.2, 1), stroke-dashoffset 500ms cubic-bezier(0.4, 0, 0.2, 1); } 
+.toggle-icon path:nth-child(1) { transform-origin: 36% 40%; } 
+.toggle-icon path:nth-child(2) { stroke-dasharray: 29 299; } 
+.toggle-icon path:nth-child(3) { transform-origin: 35% 63%; } 
+.toggle-icon path:nth-child(4) { stroke-dasharray: 29 299; } 
+.toggle-icon path:nth-child(5) { transform-origin: 61% 52%; } 
+.toggle-icon path:nth-child(6) { transform-origin: 62% 52%; } 
+
+.toggle-icon[tabindex="-1"] svg {transform: scale(.7);} 
+.toggle-icon[tabindex="-1"] path:nth-child(1) { transform: translateX(9px) translateY(1px) rotate(45deg); } 
+.toggle-icon[tabindex="-1"] path:nth-child(2) { stroke-dasharray: 225 299; stroke-dashoffset: -72px; } 
+.toggle-icon[tabindex="-1"] path:nth-child(3) { transform: translateX(9px) translateY(1px) rotate(-45deg); } 
+.toggle-icon[tabindex="-1"] path:nth-child(4) { stroke-dasharray: 225 299; stroke-dashoffset: -72px; } 
+.toggle-icon[tabindex="-1"] path:nth-child(5) { transform: translateX(9px) translateY(1px) rotate(-45deg); } 
+.toggle-icon[tabindex="-1"] path:nth-child(6) { transform: translateX(9px) translateY(1px) rotate(45deg); } 
+.toggle-icon[tabindex="-1"] small  {opacity: 0; transform: translateX(20px);}  
+
+@media screen and (max-width:768px){
+    .toggle-icon  {margin-right: -8px; margin-top: -4px;}   
+}
+
+
+
+button.toggle-icon{
+  background-color: transparent;
+  border: none;
+}
+
+
+
+.main-header.la-cadera-de-eva{    background-color: #93278f;}
+.main-header.la-cadera-de-eva .header-zone-2{    background-color: #5c185e;}
+
+.side-menu[open] { display: flex; flex-direction: column; } 
+.sliding-menu {background: var(--azul-oscuro); } 
+.main-logo--sliding { width: 150px; } 
+
+.close-menu { cursor: pointer; } 
+.close-menu svg { fill: #fff; } 
+
+
+.sliding-menu { font-size : 16px; max-height : 100vh; overflow-y : auto; display : flex; flex-direction: column; } 
+.sliding-menu--body { margin-bottom: auto; } 
+
+.sliding-menu--body ul { padding : 0; margin : 0; font-size : 1em; line-height: 1em; display : flex; flex-direction: column; list-style : none; width: 100%; } 
+.sliding-menu--body ul.nav-subsec { font-size: .8em; } 
+.sliding-menu--body .navbar-nav>li { border-bottom: solid 1px rgba(255, 255, 255, 0.35); width: 100%; position: relative; border-bottom: solid 1px rgba(255, 255, 255, 0.35); } 
+.sliding-menu--body ul.nav-subsec > li { border-top: solid 1px rgba(255, 255, 255, 0.1); } 
+.sliding-menu--body .nav-ico-submenu { position: absolute; top: 18px; right: 20px; width: 12px; } 
+.sliding-menu--body .navbar-nav a { display: block; width: 100%; } 
+.sliding-menu--body .navbar-nav > li > a { padding: .7em 1em; } 
+.sliding-menu--body .nav-subsec > li > a { padding: .7em 1.6em; color: #9bb2d9; } 
+.sliding-menu--body .nav-subsec > li > a:hover {color: #fff;} 
+
+
+.sliding-menu--body .navbar-nav>li>a:hover { background-color: rgba(0, 0, 0, 0.116); } 
+.sliding-menu--body>ul>li { width: 100%; } 
+.sliding-menu--body a:hover { text-decoration: none; } 
+
+
+.sliding-menu--body img.logo-lsr{width: 140px;}
+.sliding-menu--body img.logo-sumedico{width: 133px;}
+
+
+.sliding-menu--footer { background-color: rgb(0 0 0 / 20%); display : flex; flex-direction : column; align-items : center; justify-content : center; color : #fff; text-align : center; padding : 20px; } 
+.sliding-menu--footer .redes { flex-wrap : wrap; justify-content: center; } 
+.sliding-menu--footer .redes a { margin : 0; padding: 10px; } 
+.sliding-menu--footer small { font-size : .6em; margin-top: 2rem; opacity : .7; } 
+
+
+
+.side-menu--logos .logo-yosoytu{width: 70px;}
+.side-menu--logos a img{opacity: .8;}
+.side-menu--logos a:hover img{opacity: 1; filter: brightness(1.1);} 
+
+
+.sliding-menu--body .navbar-nav>li>a { display: block; padding: 14px 20px; width: 100%; text-decoration: none; color: #fff; line-height: 1em; } 
+.sliding-menu--footer { background-color: rgb(0 0 0 / 20%); display: flex; flex-direction: column; align-items: center; justify-content: center; color: #fff; text-align: center; padding: 20px; margin-top: auto; } 
+.sliding-menu--footer .redes { flex-wrap: wrap; justify-content: center; } 
+.sliding-menu--footer small { font-size: .6em; margin-top: 10px; opacity: .7; } 
+
+
+
+
+
+@media screen and (max-width:768px){
+    .redes a { padding: 10px; margin: 0; } 
+    .sliding-menu {width: 100vw; max-width: none; height: calc(100vh - 60px); top: auto; bottom: 0;} 
+    .side-menu--logos a img{opacity: 1;}
+}
+@media screen and (min-width:768px){
+    .sliding-menu--header{padding: 20px;}
+    .close-menu { cursor: pointer; position: absolute; right: 16px;top: 23px;}    
+
+}
+
+
+/* scroll bar color */
+:root { --scrollbarBG: #071835; --thumbBG: #ca2328; } 
+.sliding-menu::-webkit-scrollbar { width: 11px; } 
+.sliding-menu { scrollbar-width: thin; scrollbar-color: var(--thumbBG) var(--scrollbarBG); } 
+.sliding-menu::-webkit-scrollbar-track { background: var(--scrollbarBG); } 
+.sliding-menu::-webkit-scrollbar-thumb { background-color: var(--thumbBG); border-radius : 6px; border : 3px solid var(--scrollbarBG); } /* ====================================================================== */
+/* CUERPO =============================================================== */
+/* ====================================================================== */
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/playfairdisplay/v28/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtM.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  
+
+
+.main-article--header .titulo{font-family: 'Playfair Display', serif; }
+
+
+
+.main-article--header .antetitulo { color: var(--rojo); font-weight: 500; } 
+
+.main-article--header .titulo {
+    color         : #000;
+    font-size     : 3.5em;
+    line-height   : 1.2em;
+    letter-spacing: -0.02em;
+    word-spacing  : -0.03em;
+    
+}
+
+.main-article--header .bajada { font-size: 1.5em; font-weight: 500; color: #000; } 
+
+
+@media screen and (max-width:768px){
+ .main-container {padding-top: calc(60px + 1rem);}
+ .main-article--header .bajada { font-size: 1.2em; } 
+ .main-article--header .titulo { font-size: 2.5em; line-height: 1em; } 
+ .share-group { top: 60px; } 
+ }
+
+.nrel-autor, 
+.mod-url-section,
+.article-content--fecha .seccion,
+.nombre-autor .post-author-name { color: var(--rojo)} 
+
+.mod-url-section { margin-right: auto;} 
+
+
+.article-content--autor { background-color: #fff; border-top: solid 1px rgb(0 0 0 / 14%); border-bottom: solid 1px rgb(0 0 0 / 14%); } 
+
+ul.listado_relacionadas .antetitulo,
+.mlist__section .volanta { color: var(--rojo); text-transform: uppercase; font-size: .7em; } 
+
+
+.article-content--cuerpo{color: #000;}
+
+.article-content--cuerpo .widget[class^=widget]:after { background-color: var(--azul); } 
+
+.article-content--cuerpo > p  a { color: var(--rojo); } 
+.article-content--cuerpo > p > a:hover { background-color: var(--azul); color: #fff; } 
+
+
+.article-content--cuerpo > h1{color: var(--azul); line-height: 1em;}
+.article-content--cuerpo > h2{font-size: 1.55em; margin-top: 1.3rem; font-weight: 700; color: var(--azul);}
+.article-content--cuerpo > h3{font-size: 1.45em; font-weight: 600; color: var(--azul);}
+
+.titulo-section { border-bottom: 0; padding-bottom: 0; margin-bottom: 1rem; } 
+
+
+.mod__titulo,
+.noticias_relacionadas_2 .titulo-section,
+.tags-cloud h3 {
+    color         : var(--azul);
+    font-weight   : 700;
+    text-transform: uppercase;
+    font-size     : .9em;
+    position      : relative;
+    margin-top    : 1rem;
+    padding-top   : .7rem;
+    border-top    : solid 2px var(--azul);
+}
+
+
+
+ul.listado_relacionadas li { border-bottom: solid 1px rgba(0, 0, 0, 0.15); } 
+
+
+.noticias_relacionadas_2.en-cuerpo { background-color: #e9e9e9; background-image: url(/a/plantillas/p/la-silla-rota/imgs/sutil1.png); padding: 2rem; border-radius: 3px; } 
+.noticias_relacionadas_2.en-cuerpo .titulo-section { border-top: 0; margin-top: 0; padding-top: 0; } 
+.noticias_relacionadas_2.en-cuerpo { position: relative; } 
+.noticias_relacionadas_2.en-cuerpo::before { content : ""; display : block; position : absolute; width : 0; height : 0; border-style: solid; border-width: 20px 20px 0px 0px; border-color: #fff #d7d7d7 transparent transparent; top : 0; left : 0; box-shadow : 0 2px 0px -1px rgb(28 28 28 / 25%); z-index: 10; } 
+/*.noticias_relacionadas_2.en-cuerpo::after { content : ""; display : block; position : absolute; width: calc(100% - 20px); height: 3px; background-color: #000; top: 0; right: 0; box-shadow: 0 2px rgba(0, 0, 0, 0.12); } */
+.noticias_relacionadas_2.en-cuerpo .listado_relacionadas li:last-child { margin-bottom: 0; border-bottom: 0; padding-bottom: 0; } 
+.noticias_relacionadas_2.en-cuerpo .listado_relacionadas a:hover {background-color: transparent;} 
+
+
+
+
+
+@media screen and (max-width:768px){
+ .noticias_relacionadas_2.en-cuerpo { padding: 1.7rem; } 
+ ul.listado_relacionadas .pic { max-width: 120px; } 
+ }
+
+
+.tags-cloud .label {background-color: #fff; border: solid 1px var(--rojo); color: var(--rojo); font-weight: 500;}
+.tags-cloud .label:hover { background-color:var(--azul); border: solid 1px var(--azul); color: #fff; } 
+
+.article-content--cuerpo blockquote {
+    background-color   : var(--azul);
+    background-blend-mode: multiply;
+    color              : #fff;
+    position           : relative;
+    background-image   : url(/a/plantillas/p/la-silla-rota/imgs/blockquote--bg.jpg);
+    background-repeat  : no-repeat;    
+    background-size    : cover;
+}
+
+
+.article-content--cuerpo blockquote::before { content: ""; display: block; position: absolute; width: 0; height: 0; border-style: solid; border-width: 30px 30px 0px 0px; border-color: #fff #6780ad transparent transparent; top: 0; left: 0; box-shadow: 1px 2px 1px #1c1c1c; } 
+.article-content--cuerpo blockquote p + .content-banner { margin-top: 1rem; } 
+
+
+.audio-relacionado{margin-bottom: 15px;}
+.bajada-audio{font-size: .8em;}
+
+
+
+.nrel--titulo-noticia{font-weight: 500;}
+
+
+@media screen and (max-width:768px){
+    .article-content--cuerpo p > img,
+    .article-content--cuerpo img.placeholder{max-width: 100%;}
+    
+}
+/* FOOTER =====================================
+============================================= */
+
+.main-footer .row { margin: 0 -15px; } 
+
+
+.main-footer [class*="col-"] { padding-left: 15px; padding-right: 15px; } 
+
+
+.main-footer { background-color: var(--azul-oscuro); color: #fff; border-top: solid 1px #000; font-size: 14px; } 
+
+.main-footer .container { padding-left: 0; padding-right: 0; } 
+
+.main-footer a { color: rgba(255, 255, 255, 0.6); text-decoration: none; } 
+.main-footer a:hover { color: #fff; text-decoration: none; } 
+.main-footer .footer-remate { border-top: solid 1px var(--blanco-transparente);line-height: 1.3em; } 
+
+
+.footer-minilinks { display: flex; flex-wrap: wrap; } 
+.footer-minilinks a { margin: 0 .5rem; font-size: .8em; } 
+
+.main-footer .redes a { opacity: .7; } 
+.main-footer .redes a:hover { opacity: 1; } 
+
+
+
+.footer-main-zone { border-bottom: solid 1px rgb(255 255 255 / 15%); } 
+.footer-main-zone .row-flex { justify-content: flex-start; } 
+
+
+.footer-main-zone,
+.footer-remate { padding-top: 30px; padding-bottom: 30px } 
+
+.main-footer .col-logos,
+.main-footer .col-minilinks { display: flex; flex-wrap: wrap; align-items: center; } 
+
+.main-footer .col-minilinks { margin-left: auto; } 
+
+.main-footer .col-logos a { display: flex; margin-right: 15px; } 
+
+
+.footer-main-logo { width: 150px; } 
+.footer-logo--yosoytu { width: 90px; } 
+.footer-logo--sumedico { width: 110px; margin-top: -6px; } 
+.footer-logo--alianza { width: 170px;} 
+
+.main-footer .col-logos a:hover .footer-logo--yosoytu,
+.main-footer .col-logos a:hover .footer-logo--sumedico,
+.main-footer .col-logos a:hover .footer-logo--alianza { filter: brightness(1.5); } 
+
+
+.main-footer small { font-weight: 100; } 
+
+.footer-remate [class*="col-"] { display: flex; align-items: center; } 
+.footer-remate .col-data { flex-direction: column; align-items: flex-start; margin-right: auto; } 
+.footer-remate .col-data .legales-2 { opacity: .75; } 
+
+.footer-logo--comscore { width: 100px; } 
+
+
+
+.col-e80 { margin-top: -5px; display: flex; align-items: center; } 
+.col-e80 small { font-style: italic; font-size: .6em; margin-top: 4.5px; margin-right: 2px; opacity: .5; margin-right: 3px; } 
+.col-e80 a { opacity: 0.5 } 
+.col-e80 a:hover { opacity: 1 } 
+.col-e80 a img { width: 40px; } 
+
+
+
+/* ==== ONLY MOVILFOOTERYOU... === */
+
+@media screen and (max-width: 768px) { 
+  
+ .footer-main-zone {
+    padding-bottom: 18px;
+ }
+
+ .main-footer .row { margin: 0; flex-direction: column; align-items: center; justify-content: center; } 
+
+ .footer-remate .row { display: grid; grid-template-rows: auto; grid-template-columns: 1fr 1fr; } 
+  .footer-remate .col-data { grid-row-start: 1; grid-column-start: 1;  grid-row-end: 2; grid-column-end: 3; text-align: center; margin-bottom: 30px; }
+ .footer-remate .col-comscore {grid-row-start: 2; grid-column-start: 1;  grid-row-end: 3; grid-column-end: 2; justify-content: flex-end; }
+ .footer-remate .col-e80 {grid-row-start: 2; grid-column-start: 2;  grid-row-end: 3; grid-column-end: 3; }
+ 
+
+
+ .footer-logo--yosoytu { width: 80px; } 
+ .footer-logo--sumedico { width: 90px; margin-top: -6px; } 
+ 
+
+
+ .main-footer .col-logos{margin-bottom: 15px; justify-content: center;}
+
+ .main-footer .col-logos a{margin: 5px; padding: 10px;}
+ .main-footer .col-logos a.hidden-m{display: none;}
+
+ .footer-minilinks { display: flex; flex-wrap: wrap; justify-content: center; } 
+ 
+ .footer-minilinks a { padding: .8em; margin: .3em; } 
+
+ .main-footer .container { padding-left: 15px; padding-right: 15px; } 
+ .footer-main-zone .row { flex-direction: column; align-items: center; } 
+ .footer-main-zone .redes { flex-wrap: wrap; } 
+ 
+.col-e80 small {margin-top: 2;}
+
+
+
+}
+
+		@media screen and (min-width:768px){
+		.hidden-d,
+		* .hidden-d,
+		*.hidden-d,
+		.hidden-d > * {display: none;}
+		}
+
+		@media screen and (max-width:768px){
+		.hidden-m,
+		* .hidden-m,
+		*.hidden-m,
+		.hidden-m > *  {display: none;}
+		}
+		
+
+	</style>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+<script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
+<script async custom-element="amp-lightbox-gallery" src="https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.js"></script>
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>
+<script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+<script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>
+<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>
+<title>Lo que debería ganar una ama de casa, si se les pagará por todo lo que hacen | La Silla Rota</title>
+<meta name="description" content="Las mujeres en México y en el mundo realizan la mayoría de las labores domésticas y de cuidado sin recibir un sueldo por ello" />
+<link rel="canonical" href="https://lasillarota.com/dinero/2022/3/8/lo-que-deberia-ganar-una-ama-de-casa-si-se-les-pagara-por-todo-lo-que-hacen-321569.html" />
+<meta property="og:site_name" content="La Silla Rota" />
+<meta property="og:image" content="https://lasillarota.com/u/fotografias/m/2022/3/8/f1280x720-312289_443964_5050.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta property="fb:app_id" content="282774390418810">
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://lasillarota.com/dinero/2022/3/8/lo-que-deberia-ganar-una-ama-de-casa-si-se-les-pagara-por-todo-lo-que-hacen-321569.html" />
+<meta property="og:title" content="Lo que debería ganar una ama de casa, si se les pagará por todo lo que hacen" />
+<meta property="og:description" content="Las mujeres en México y en el mundo realizan la mayoría de las labores domésticas y de cuidado sin recibir un sueldo por ello" />
+<meta property="og:locale" content="es_LA" />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="general" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Lo que debería ganar una ama de casa, si se les pagará por todo lo que hacen">
+<meta name="twitter:image" content="https://lasillarota.com/u/fotografias/m/2022/3/8/f1280x720-312289_443964_5050.jpg">
+<meta name="twitter:domain" content="https://lasillarota.com">
+<meta name="twitter:description" content="Las mujeres en México y en el mundo realizan la mayoría de las labores domésticas y de cuidado sin recibir un sueldo por ello">
+<script type="application/ld+json"> 
+{
+	"@context": "http://schema.org",
+	"@type": "NewsArticle",
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": "https://lasillarota.com/dinero/2022/3/8/lo-que-deberia-ganar-una-ama-de-casa-si-se-les-pagara-por-todo-lo-que-hacen-321569.html"
+	},
+	"headline": "Lo que debería ganar una ama de casa, si se les pagará por todo lo que hacen",
+    "image": [
+        "https://lasillarota.com/u/fotografias/m/2022/3/8/f1280x720-312289_443964_5050.jpg",
+        "https://lasillarota.com/u/fotografias/m/2022/3/8/f850x638-312289_389778_5050.jpg",
+        "https://lasillarota.com/u/fotografias/m/2022/3/8/f638x638-312289_370456_5050.jpg"
+    ],
+	"datePublished": "2022-3-8T12:9:00",
+	"dateModified": "2022-3-8T12:9:00",
+	"author": {
+		"@type": "Person",
+		"name": "",
+		"url": ""		
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "La Silla Rota",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://lasillarota.com/inc/amp/img/logo_amp.png",
+			"width": "220",
+			"height": "60"
+		}
+	},
+	"articleSection": "Dinero",
+	"description": "Las mujeres en México y en el mundo realizan la mayoría de las labores domésticas y de cuidado sin recibir un sueldo por ello"
+}
+</script>
+</head>
+<body class="seccion-id-23">
+<amp-analytics type="comscore">
+<script type="application/json">
+        {            
+            "vars": {
+                    "c2": "16333908"
+        },
+            "extraUrlParams": {
+                    "comscorekw": "amp"
+            }
+        }
+    </script>
+</amp-analytics>
+<amp-analytics type="taboola" id="taboola">
+<script type="application/json">
+                    {
+                        "vars": {
+                            "aid":"lasillarotaaccount-lasillarotaaccount"
+                        }
+                    }
+    </script>
+</amp-analytics>
+<amp-analytics config="https://1e32b3109a3889d6eb04-114932bc2bae9698d2e445432680b599.ssl.cf1.rackcdn.com/amp.json" style="width:1px;height:1px;">
+<script type="application/json"> 
+{ 
+"vars": { 
+"id": "2478", 
+"postid": "321569", 
+"pubdate": "2022-3-8T12:9:00", 
+"title": "Lo que debería ganar una ama de casa, si se les pagará por todo lo que hacen", 
+"authors": "", 
+"sections": "DINERO", 
+"tags": "" 
+}, 
+"middleware": "contentinsightvars" 
+} 
+</script>
+</amp-analytics>
+<amp-analytics type="googleanalytics" id="analytics1">
+<script type="application/json">
+{
+  "vars": {
+    "account": "UA-52467417-1"
+  },
+  "extraUrlParams": {"cd1" : "No es Noticia","cd2" : "Dinero","cd3": "${ampdocHost}","cd4" : "marzo2022","cd9" : "Sin Tema"},
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+<amp-analytics>
+<script type="application/json">
+{
+  "requests": {
+    "pageview": "https://lasillarota.com/include/includes/varios/lecturas.asp?u=USER_AGENT&r=DOCUMENT_REFERRER&desde=a&docid=321569&a=0&s=23&t=0&fn=2022/3/8 12:9:00"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+
+<header id="main-header" class="main-header   ">
+<div class="header-zone-1">
+<div class="container">
+<div class="col toggle">
+<button class="toggle-icon" id="btn-main-toggle" tabindex="0" on="tap:main-sidebar.open" title="Open sidebar">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 200 200">
+<g stroke-width="7" stroke-linecap="round"> 
+<path d="M72 82.286h28.75" fill="#fff" fill-rule="evenodd" stroke="#fff" />
+<path d="M100.75 103.714l72.482-.143c.043 39.398-32.284 71.434-72.16 71.434-39.878 0-72.204-32.036-72.204-71.554" fill="none" stroke="#fff" />
+<path d="M72 125.143h28.75" fill="#fff" fill-rule="evenodd" stroke="#fff" />
+<path d="M100.75 103.714l-71.908-.143c.026-39.638 32.352-71.674 72.23-71.674 39.876 0 72.203 32.036 72.203 71.554" fill="none" stroke="#fff" />
+<path d="M100.75 82.286h28.75" fill="#fff" fill-rule="evenodd" stroke="#fff" />
+<path d="M100.75 125.143h28.75" fill="#fff" fill-rule="evenodd" stroke="#fff" />
+</g>
+</svg>
+<small class="hidden-m">Menu</small>
+</button>
+</div>
+<div class="col col-logo">
+<div class="header-fecha">
+<span>
+Miércoles&nbsp;4 de enero de 2023
+</span>
+</div>
+<div class="main-logo">
+<a href="/"><img src="/a/plantillas/p/la-silla-rota/imgs/main-logo-12a.svg?v1" width="400" class="main-logo--img" alt="La Silla Rota"></a>
+</div>
+</div>
+<div class="col col-redes hidden-m">
+<ul class="redes">
+<li class="face-bg">
+<a href="https://www.facebook.com/LaSillaRota/" title="Facebook Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" /></svg>
+</a>
+</li>
+<li class="twit-bg"><a href="https://twitter.com/lasillarota" title="Twitter Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" /></svg>
+</a></li>
+<li class="yout-bg">
+<a href="https://www.youtube.com/channel/UCtm2lZ3grqPxl3K6fZ0l3mQ" title="YouTube Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></svg>
+</a>
+</li>
+<li class="inst-bg">
+<a href="https://www.instagram.com/lasillarotamx/" title="Instagram Lasillarota" rel="noopener" target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></svg>
+</a>
+</li>
+<li class="TikTok-bg">
+<a href="https://www.tiktok.com/@lasillarotamx" title="TikTok La Silla Rota" rel="noopener" target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" /></svg>
+</a>
+</li>
+<li class="tele-bg">
+<a href="https://t.me/LSRNoticias" title="Telegram Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z" /></svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="header-zone-2 f hidden-m">
+<div class="container nav-desktop">
+<ul class="nav navbar-nav ul-main">
+
+<li>
+<a href="/nacion/">Nación</a>
+</li>
+<li>
+<a href="/metropoli/">Metrópoli</a>
+</li>
+<li>
+<a href="/estados/">Estados</a>
+</li>
+<li>
+<a class="activo" href="/dinero/">Dinero</a>
+</li>
+<li>
+<a href="/mundo/">Mundo</a>
+</li>
+<li class="cont-subsec">
+<a href="/opinion/">Opinión
+</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/opinion/columnas/">Columnas</a></li>
+<li><a href="/opinion/lenguas-viperinas/">Lenguas Viperinas</a></li>
+<li><a href="/opinion/asi-veo-mexico/">Así veo México</a></li>
+<li><a href="/opinion/adelantos-editoriales/">Adelantos Editoriales</a></li>
+<li><a href="/opinion/confidencial/">Confidencial</a></li>
+</ul>
+</li>
+<li class="cont-subsec">
+<a href="/deportes/">Deportes
+</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/deportes/deporte/">+Deporte</a></li>
+<li><a href="/deportes/futbol-americano/">Futbol Americano</a></li>
+<li><a href="/deportes/box-lucha/">Box y Lucha</a></li>
+<li><a href="/deportes/motor/">Motor</a></li>
+<li><a href="/deportes/futbol-mx/">Futbol MX</a></li>
+<li><a href="/deportes/futbol-internacional/">Futbol Internacional</a></li>
+<li><a href="/deportes/seleccion-mx/">Selección MX</a></li>
+</ul>
+</li>
+<li>
+<a href="/la-cadera-de-eva/">La Cadera de Eva</a>
+</li>
+<li class="cont-subsec">
+<a href="#">Regionales</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/hidalgo/">Hidalgo</a></li>
+<li><a href="/guanajuato/">Guanajuato</a></li>
+<li><a href="/veracruz/">Veracruz</a></li>
+</ul>
+</li>
+<li class="item-vertical--1">
+<a href="https://yosoitu.lasillarota.com/" target="_blank" rel="noopener" title="YoSoiTu">
+<img src="/a/plantillas/p/la-silla-rota/imgs/footer-logo--yosoitu.svg" width="100" class="logo-yosoytu" alt="YoSoiTu">
+</a>
+</li>
+<li class="item-vertical--2">
+<a href="https://sumedico.lasillarota.com/" target="_blank" rel="noopener" title="Sumedico">
+<img src="/a/plantillas/p/la-silla-rota/imgs/otros-logos--sumedicocom.svg" width="100" class="logo-sumedico" alt="Sumedico">
+</a>
+</li>
+
+</ul>
+</div>
+</div>
+</header>
+<div class="main-header fixed hidden-m ">
+<div class="header-zone-2 f hidden-m">
+<div class="container nav-desktop">
+<ul class="nav navbar-nav ul-main">
+
+<li>
+<a href="/nacion/">Nación</a>
+</li>
+<li>
+<a href="/metropoli/">Metrópoli</a>
+</li>
+
+<li>
+<a href="/estados/">Estados</a>
+</li>
+<li>
+<a class="activo" href="/dinero/">Dinero</a>
+</li>
+<li>
+<a href="/mundo/">Mundo</a>
+</li>
+<li class="cont-subsec">
+<a href="/opinion/">Opinión
+</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/opinion/columnas/">Columnas</a></li>
+<li><a href="/opinion/lenguas-viperinas/">Lenguas Viperinas</a></li>
+<li><a href="/opinion/asi-veo-mexico/">Así veo México</a></li>
+<li><a href="/opinion/adelantos-editoriales/">Adelantos Editoriales</a></li>
+<li><a href="/opinion/confidencial/">Confidencial</a></li>
+</ul>
+</li>
+<li class="cont-subsec">
+<a href="/deportes/">Deportes
+</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/deportes/deporte/">+Deporte</a></li>
+<li><a href="/deportes/futbol-americano/">Futbol Americano</a></li>
+<li><a href="/deportes/box-lucha/">Box y Lucha</a></li>
+<li><a href="/deportes/motor/">Motor</a></li>
+<li><a href="/deportes/futbol-mx/">Futbol MX</a></li>
+<li><a href="/deportes/futbol-internacional/">Futbol Internacional</a></li>
+<li><a href="/deportes/seleccion-mx/">Selección MX</a></li>
+</ul>
+</li>
+<li>
+<a href="/la-cadera-de-eva/">La Cadera de Eva</a>
+</li>
+<li class="cont-subsec">
+<a href="#">Regionales</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/hidalgo/">Hidalgo</a></li>
+<li><a href="/guanajuato/">Guanajuato</a></li>
+<li><a href="/veracruz/">Veracruz</a></li>
+</ul>
+</li>
+<li class="item-vertical--1">
+<a href="https://yosoitu.lasillarota.com/" target="_blank" rel="noopener" title="YoSoiTu">
+<img src="/a/plantillas/p/la-silla-rota/imgs/footer-logo--yosoitu.svg" width="100" class="logo-yosoytu" alt="YoSoiTu">
+</a>
+</li>
+<li class="item-vertical--2">
+<a href="https://sumedico.lasillarota.com/" target="_blank" rel="noopener" title="Sumedico">
+<img src="/a/plantillas/p/la-silla-rota/imgs/otros-logos--sumedicocom.svg" width="100" class="logo-sumedico" alt="Sumedico">
+</a>
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+<amp-sidebar id="main-sidebar" class="side-menu sliding-menu" layout="nodisplay" side="left">
+<div class="sliding-menu--header hidden-m">
+
+<img src="/a/plantillas/p/la-silla-rota/imgs/main-logo.svg" alt="Main logo" class="main-logo--sliding" width="50">
+<div class="close-menu" role="button" on="tap:main-sidebar.toggle" tabindex="0">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512.001 512.001" style="enable-background:new 0 0 512.001 512.001;" xml:space="preserve" width="16" height="16">
+<g>
+<path class="close-sidebar--path" d="M284.286,256.002L506.143,34.144c7.811-7.811,7.811-20.475,0-28.285c-7.811-7.81-20.475-7.811-28.285,0L256,227.717
+					L34.143,5.859c-7.811-7.811-20.475-7.811-28.285,0c-7.81,7.811-7.811,20.475,0,28.285l221.857,221.857L5.858,477.859
+					c-7.811,7.811-7.811,20.475,0,28.285c3.905,3.905,9.024,5.857,14.143,5.857c5.119,0,10.237-1.952,14.143-5.857L256,284.287
+					l221.857,221.857c3.905,3.905,9.024,5.857,14.143,5.857s10.237-1.952,14.143-5.857c7.811-7.811,7.811-20.475,0-28.285
+					L284.286,256.002z"></path>
+</g>
+</svg>
+</div>
+</div>
+<div class="sliding-menu--body">
+<ul class="nav navbar-nav ul-main">
+
+<li>
+<a href="/nacion/">Nación</a>
+</li>
+<li>
+<a href="/metropoli/">Metrópoli</a>
+</li>
+<li>
+<a href="/estados/">Estados</a>
+</li>
+<li>
+<a class="activo" href="/dinero/">Dinero</a>
+</li>
+<li>
+<a href="/mundo/">Mundo</a>
+</li>
+<li class="cont-subsec">
+<a href="/opinion/">Opinión
+</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/opinion/columnas/">Columnas</a></li>
+<li><a href="/opinion/lenguas-viperinas/">Lenguas Viperinas</a></li>
+<li><a href="/opinion/asi-veo-mexico/">Así veo México</a></li>
+<li><a href="/opinion/adelantos-editoriales/">Adelantos Editoriales</a></li>
+<li><a href="/opinion/confidencial/">Confidencial</a></li>
+</ul>
+</li>
+<li class="cont-subsec">
+<a href="/deportes/">Deportes
+</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/deportes/deporte/">+Deporte</a></li>
+<li><a href="/deportes/futbol-americano/">Futbol Americano</a></li>
+<li><a href="/deportes/box-lucha/">Box y Lucha</a></li>
+<li><a href="/deportes/motor/">Motor</a></li>
+<li><a href="/deportes/futbol-mx/">Futbol MX</a></li>
+<li><a href="/deportes/futbol-internacional/">Futbol Internacional</a></li>
+<li><a href="/deportes/seleccion-mx/">Selección MX</a></li>
+</ul>
+</li>
+<li>
+<a href="/la-cadera-de-eva/">La Cadera de Eva</a>
+</li>
+<li class="cont-subsec">
+<a href="#">Regionales</a>
+<svg class="nav-ico-submenu svg-down" xmlns="http://www.w3.org/2000/svg" width="7px" viewBox="0 0 451.85 257.57"><path d="M203.55,248.3,9.27,54A31.64,31.64,0,0,1,54,9.27L225.93,181.18,397.83,9.27A31.64,31.64,0,0,1,442.58,54L248.29,248.31a31.64,31.64,0,0,1-44.74,0Z" /></svg></a>
+<ul class="nav-subsec">
+<li><a href="/hidalgo/">Hidalgo</a></li>
+<li><a href="/guanajuato/">Guanajuato</a></li>
+<li><a href="/veracruz/">Veracruz</a></li>
+</ul>
+</li>
+<li class="item-vertical--1">
+<a href="https://yosoitu.lasillarota.com/" target="_blank" rel="noopener" title="YoSoiTu">
+<img src="/a/plantillas/p/la-silla-rota/imgs/footer-logo--yosoitu.svg" width="100" class="logo-yosoytu" alt="YoSoiTu">
+</a>
+</li>
+<li class="item-vertical--2">
+<a href="https://sumedico.lasillarota.com/" target="_blank" rel="noopener" title="Sumedico">
+<img src="/a/plantillas/p/la-silla-rota/imgs/otros-logos--sumedicocom.svg" width="100" class="logo-sumedico" alt="Sumedico">
+</a>
+</li>
+
+</ul>
+</div>
+<div class="sliding-menu--footer">
+<ul class="redes">
+<li class="face-bg">
+<a href="https://www.facebook.com/LaSillaRota/" title="Facebook Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" /></svg>
+</a>
+</li>
+<li class="twit-bg"><a href="https://twitter.com/lasillarota" title="Twitter Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" /></svg>
+</a></li>
+<li class="yout-bg">
+<a href="https://www.youtube.com/channel/UCtm2lZ3grqPxl3K6fZ0l3mQ" title="YouTube Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></svg>
+</a>
+</li>
+<li class="inst-bg">
+<a href="https://www.instagram.com/lasillarotamx/" title="Instagram Lasillarota" rel="noopener" target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></svg>
+</a>
+</li>
+<li class="TikTok-bg">
+<a href="https://www.tiktok.com/@lasillarotamx" title="TikTok La Silla Rota" rel="noopener" target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" /></svg>
+</a>
+</li>
+<li class="tele-bg">
+<a href="https://t.me/LSRNoticias" title="Telegram Lasillarota" rel="noopener " target="_blank">
+<svg width="10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z" /></svg>
+</a>
+</li>
+</ul>
+<small>&#9400; 2023 Todos los derechos reservados. Grupo La Silla Rota. PUBLICACIONES COMUNITARIAS S.A. de C.V.</small>
+</div>
+</amp-sidebar>
+<div class="main-container">
+<div class="content-banner hidden-m"><amp-ad width=970 height=90 type="doubleclick" data-slot="/21680070727/inicio940" data-multi-size="728x90,940x90,940x500" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div>
+<div class="row">
+<div class="col--main">
+<section class="main-section">
+<article class="main-article">
+<header class="main-article--header">
+<strong class="antetitulo"></strong>
+<h1 class="titulo">Lo que debería ganar una ama de casa, si se les pagará por todo lo que hacen</h1>
+<h2 class="bajada">Las mujeres en México y en el mundo realizan la mayoría de las labores domésticas y de cuidado sin recibir un sueldo por ello</h2>
+</header>
+<div class="margen-top1">
+<div class="content-banner hidden-d"><amp-ad width=336 height=280 type="doubleclick" data-slot="/21680070727/amp_top(1)" data-multi-size="300x250,320x100,300x100,300x200" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div>
+</div>
+<div class="main-article--body">
+<figure class="main-photo">
+<amp-img width="960" height="540" media="(min-width: 426px)" layout="responsive" src="/u/fotografias/m/2022/3/8/f960x540-312289_386364_0.jpg" alt="" data-amp-auto-lightbox-disable></amp-img>
+<amp-img width="425" height="230" layout="responsive" media="(max-width: 426px)" src="/u/fotografias/m/2022/3/8/f425x230-312289_326271_0.jpg" alt="" data-amp-auto-lightbox-disable></amp-img>
+<figcaption class="epigrafe"></figcaption>
+</figure>
+<div class="article-content">
+<div class="article-content--autor">
+<div class="el-autor">
+<div class="nombre-autor">
+Por <span class="post-author-name change-utf" itemprop="name"></span>
+</div>
+</div>
+<div class="article-content--fecha">
+<span class="escrito">Escrito en </span>
+<span class="seccion">DINERO</span>
+<span class="el">el</span>
+<time class="fecha-time" itemprop="datePublished" datetime="2022-3-8T12:9:00">8/3/2022 &middot; 12:09 hs</time>
+</div>
+</div>
+<div class="share-group">
+<span class="txt">Comparta este artículo</span>
+<amp-social-share type="facebook" width="20" height="20" layout="responsive" class="share-icon--fb" data-param-app_id="282774390418810" data-param-url="https://lasillarota.com/dinero/2022/3/8/lo-que-deberia-ganar-una-ama-de-casa-si-se-les-pagara-por-todo-lo-que-hacen-321569.html">
+</amp-social-share>
+<amp-social-share type="twitter" width="20" height="20" layout="responsive" class="share-icon--tw" data-param-url="https://lasillarota.com/dinero/2022/3/8/lo-que-deberia-ganar-una-ama-de-casa-si-se-les-pagara-por-todo-lo-que-hacen-321569.html">
+</amp-social-share>
+<amp-social-share type="whatsapp" width="20" height="20" layout="responsive" class="share-icon--wa" data-param-url="https://lasillarota.com/dinero/2022/3/8/lo-que-deberia-ganar-una-ama-de-casa-si-se-les-pagara-por-todo-lo-que-hacen-321569.html">
+</amp-social-share>
+</div><div class="content-banner hidden-d"><amp-ad width=336 height=280 type="doubleclick" data-slot="/21680070727/amp_middle(1)" data-multi-size="300x250,320x100,300x100,300x200" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div>
+<div class="article-content--cuerpo">
+<p>Entre cocinar, limpiar, ir a buscar agua o leña o cuidar de las niñas, los niños y las personas mayores, las mujeres realizan al menos 2.5 veces más trabajo doméstico y de cuidado no remunerado que los hombres, de acuerdo con ONU Mujeres.</p>
+<p> </p>
+<p>Las amas de casa son el sector de la población que, a pesar de trabajar diario en jornadas de más de 8 horas, no recibe ninguna remuneración o prestaciones, de acuerdo al esfuerzo y labor que realizan.</p>
+<p>A pesar de cubrir jornadas de tiempo completo y sin descanso, las amas de casa son un sector invisibilizado de la población que no recibe una remuneración por su trabajo, aun cuando este se catalogue como de gran esfuerzo.</p>
+<p>Según datos del Instituto Nacional de Estadística y Geografía (INEGI), 74.8 % de las actividades del cuidado del hogar son realizadas por mujeres. Es decir, las mujeres son las principales cuidadoras de la casa, y quienes con mayor frecuencia realizan las actividades domésticas.</p>
+<p><img alt="" src="/images/2022/03/08/mujer-sentada-en-una-cocina-afee78fb.jpeg" class="placeholder" id="859153" style="width:750px;height:auto;"> </p>
+<h3>Trabajo no reconocido&nbsp;</h3>
+<p>Las mujeres en México y en el mundo realizan la mayoría de las labores domésticas y de cuidado sin recibir un sueldo por ello. En promedio, las mujeres mexicanas dedican 50 horas a la semana a tareas como limpiar, cocinar o cuidar a otros integrantes del hogar. Es decir, destinan 2.5 veces más tiempo a estas actividades que los hombres, la misma proporción a nivel global, de acuerdo con ONU Mujeres.</p>
+<p>
+<p>Las labores domésticas y de cuidado no tienen un precio asignado, pero sí tienen un valor económico. De acuerdo con el Inegi, en 2020, el trabajo no remunerado tuvo un valor de 6.4 billones de pesos equivalente al 90% del presupuesto de egresos de la Federación aprobado para este año, del cual las mujeres aportaron siete de cada 10 pesos. En 2020 hubo un aumento de 15% en el valor económico del trabajo no remunerado que realizaron las mujeres con respecto a 2019: el mayor incremento desde 2003 que se atribuye al impacto de la pandemia.
+<p>En promedio, ellas trabajan 94 horas a la semana, 20 horas más que el tiempo que destinan los hombres, considerando trabajo remunerado y no remunerado, así como la producción de bienes de autoconsumo.
+<p><img alt="" src="/images/2022/03/08/persona-preparando-comida-en-una-mesa-24ecea7d.jpeg" class="placeholder" id="859156" style="width:750px;height:auto;">
+<p>Las tareas no remuneradas tienen innegables beneficios sociales y económicos para el país, sin embargo, al ser invisibilizadas tienen un costo para quienes las realizan. Las mujeres son penalizadas al tener menos tiempo disponible para realizar un trabajo de tiempo completo con un sueldo competitivo, lo que pone en riesgo su autonomía económica, limita su acceso a una pensión y a los beneficios de la formalidad como servicios de salud.
+<p><br>
+<h3>Saca cuentas</h3>
+<p>El sueldo de las amas de casa, según el Inegi, debería ser de 82 mil 500 pesos al año. Es decir, de más de $7 mil 200 pesos al mes. Estos datos fueron obtenidos mediante el <a href="https://www.inegi.org.mx/app/simuladortnrh/">Simulador del Trabajo No Remunerado en Hogares</a> realizado por el Inegi, en donde se valúa de acuerdo a las horas invertidas y el esfuerzo requerido.
+<p>Esta cifra se trata además de un estimado base, pues su valor incrementa si se considera el cuidado de los hijos, la producción de bienes como alimentos y el mantenimiento de la casa.
+<p>
+<p>También muchas mujeres además de emplearse en otros sectores tienen que fungir una doble jornada pues al regresar de sus trabajos, tienen que continuar laborando en las actividades domésticas de la casa como el cuidado de los hijos, el apoyo escolar y la limpieza del hogar.
+<p>A su vez, la pandemia y el confinamiento han evidenciado las altas cargas laborales que viven las amas de casa, pues aunado al home office ahora deben apoyar con la educación de los hijos a distancia. Además de que las tareas de la casa han incrementado, señala el Inegi.
+<h3>Mal remunerados</h3>
+<p>De acuerdo con Rankia, éste podría ser el sueldo de una ama de casa, según sus actividades:
+<p><img alt="" src="/images/2022/03/08/tabla-captura-de-pantalla-2022-03-08-a-las-125710-fdb933d9.png" class="placeholder" id="859141" style="width:750px;height:auto;">
+<p>Dijo que, c<font style="font-size: 1rem;">onsiderando 6 actividades comunes diarias sumando un total de 17 horas de trabajo si estas no se hicieran simultáneamente, una ama de casa estaría ganando aproximadamente $1,260 quedando 7 horas para su descanso.</font>
+<p>De modo que anualmente estamos hablando que una ama de casa promedio percibiría ingresos por $423,360 pesos anuales. Esto sin considerar el trabajo en en domingo, días feriados y la ausencia de vacaciones.
+<p><img alt="" src="/images/2022/03/08/tabla-captura-de-pantalla-2022-03-08-a-las-125858-7a27ba8b.png" class="placeholder" id="859142" style="width:750px;height:auto;">
+<p><br>
+<p><br>
+<p><br>
+<p><br>
+
+</div>
+</div>
+</div>
+</article>
+<div class="btn-seguinos-gnews">
+<a href="https://news.google.com/publications/CAAqBwgKMKffiQswz_qbAw" title="Link a Google News" target="_blank" rel="noopener"><span>Google News</span></a>
+</div>
+</section>
+</div>
+<aside class="col--sidebar hidden-m">
+<div class="content-banner hidden-m"><amp-ad width=300 height=250 type="doubleclick" data-slot="/21680070727/derecha(1)" data-multi-size="336x280,300x600,300x400,300x200" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div><div class="content-banner hidden-m"><amp-ad width=300 height=250 type="doubleclick" data-slot="/21680070727/derecha(2)" data-multi-size="336x280,300x600,300x400,300x200" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div><div class="content-banner hidden-m"><amp-ad width=300 height=250 type="doubleclick" data-slot="/21680070727/derecha(3)" data-multi-size="336x280,300x600,300x400,300x200" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div>
+</aside>
+</div>
+<aside class="aside-section main-ampbottom">
+<div class="content-banner hidden-m"><amp-ad width=970 height=250 type="doubleclick" data-slot="/21680070727/pie940(1)" data-multi-size="970x90,728x90,940x90" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div><div class="content-banner hidden-d"><amp-ad width=336 height=280 type="doubleclick" data-slot="/21680070727/amp_bottom(1)" data-multi-size="300x250,320x100,300x100,300x200" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div> <div class="content-modulo">
+<section class="nrel amp-list mas_noticias_misma_seccion">
+<h3 class="mod__titulo">Más Noticias</h3>
+<div class="nrel--group">
+<amp-list src="/a/aps/noticias/dinamicos/ajax/amp-list.asp?page=1&ids=23&idm=1" noloading width="auto" height="350" binding="no" load-more="manual" load-more-bookmark="siguiente">
+<div placeholder class="nrel-placeholder">
+<div class="lds-dual-ring"></div>
+</div>
+<template type="amp-mustache">
+<div class="row">
+<div class="nrel--row">
+{{#noticias}}
+<div class="nrel--noticia">
+<a href="{{link-url}}" title="{{titulo-portada}}" class="nrel--link-img">
+
+{{#imagen-m}}
+<amp-img class="nrel--foto imagen-m" layout="responsive" alt="{{titulo-noticia}}" width="400" height="300" src="{{imagen-m}}"></amp-img>
+<amp-img class="nrel--foto imagen-d" layout="responsive" alt="{{titulo-noticia}}" width="400" height="225" src="{{imagen-d}}"></amp-img>
+{{/imagen-m}}
+</a>
+<div class="nrel--txt">
+<h4 class="nrel--titulo-noticia">
+<a class="nrel--link-titulo" href="{{link-url}}">{{titulo-noticia}}</a>
+</h4>
+<div class="nrel--article-footer">
+<small class="nrel-autor">
+{{#fecha-p}}
+<amp-timeago layout="responsive" width="160" height="21" datetime="{{fecha}}" locale="es" cutoff="259200">
+<span>{{fecha-p}} </span>
+</amp-timeago>
+{{/fecha-p}}
+<amp-social-share type="system" width="16" height="16" data-param-text="Compartir el artículo" data-param-url="{{link-url}}">
+</amp-social-share>
+</small>
+</div>
+</div>
+</div>
+{{/noticias}}
+</div>
+</template>
+<amp-list-load-more load-more-loading></amp-list-load-more>
+<amp-list-load-more load-more-end></amp-list-load-more>
+<amp-list-load-more load-more-failed></amp-list-load-more>
+<amp-list-load-more load-more-button>
+<div class="btn-mas-noticias">Mas Noticias</div>
+</amp-list-load-more>
+</amp-list>
+</div>
+</section>
+</div><div class="content-banner hidden-d"><amp-dailymotion data-videoid="x8cqn0j" autoplay=true layout="responsive" data-mute="true" width="380" height="270" data-param-syndication=1065461 data-param-playlist="x7g1kr">
+</amp-dailymotion>
+</div><div class="content-banner hidden-d"><amp-embed width=100 height=100 type=taboola layout=responsive data-publisher='lasillarotaaccount-network' data-mode='alternating-thumbnails-a-amp' data-placement='Below Article Thumbnails AMP' data-target_type='mix' data-article='auto' data-url=''>
+</amp-embed></div><div class="content-banner hidden-d"><amp-sticky-ad layout="nodisplay"> <amp-ad width=320 height=100 type="doubleclick" data-slot="/21680070727/sticky_movil" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad> </amp-sticky-ad></div><div class="content-banner hidden-d"><amp-ad width=336 height=280 type="doubleclick" data-slot="/21680070727/amp_footer" data-multi-size="300x250,320x100,300x100,300x200" data-multi-size-validation="false" json='{"targeting":{"sitio":["la-silla-rota"],"seccion":["dinero"], "autor":["No es Noticia"],"cfg_adx":["on"], "id_noticia":["n321569"], "temas":["Sin Tema"], "tema_oculto":[""]}}'> </amp-ad></div>
+</aside>
+</div>
+<footer id="main-footer" class="main-footer">
+<div class="footer-main-zone">
+<div class="container">
+<div class="row f">
+<div class="col-logos">
+<a href="/" title="Volver al inicio de La Silla Rota" class="hidden-m"><img src="/a/plantillas/p/la-silla-rota/imgs/main-logo.svg" width="100" alt="La Silla Rota" class="img-responsive footer-main-logo"></a>
+<a href="https://yosoitu.lasillarota.com/" target="_blank" rel="noopener" title="YoSoiTu"><img src="/a/plantillas/p/la-silla-rota/imgs/footer-logo--yosoitu.svg" width="100" class="img-responsive footer-logo--yosoytu" alt="YoSoiTu"></a>
+<a href="https://sumedico.lasillarota.com/" target="_blank" rel="noopener" title="Sumedico"><img src="/a/plantillas/p/la-silla-rota/imgs/footer-logo--sumedico.svg" width="100" class="img-responsive footer-logo--sumedico" alt="Sumedico"></a>
+<a href="https://alianzademediosmx.org/" target="_blank" rel="noopener" title="alianzademediosmx.org"><img src="/a/plantillas/p/la-silla-rota/imgs/footer-logo--alianza.png" width="200" class="img-responsive footer-logo--alianza" alt="alianzademediosmx.org"></a>
+</div>
+<div class="col-minilinks">
+<div class="footer-minilinks">
+<a href="/p/institucional/aviso-de-privacidad.html">Aviso de privacidad</a>
+<a href="/p/institucional/codigo-de-etica.html">Código de ética</a>
+<a href="/p/institucional/directorio.html">Directorio</a>
+<a href="/p/institucional/quienes-somos.html">Quiénes somos</a>
+<a href="/contacto/">Contáctanos</a>
+<a href="/p/institucional/anunciate.html">Anúnciate</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-remate">
+<div class="container">
+<div class="row f">
+<div class="col-data">
+<small class="legales">© 2023 Todos los derechos reservados. Grupo La Silla Rota. PUBLICACIONES COMUNITARIAS S.A. de C.V.</small>
+<small class="legales-2">De no existir previa autorización, queda expresamente prohibida la publicación, retransmisión, edición y cualquier otro uso de los contenidos.</small>
+</div>
+<div class="col-comscore">
+<a href="https://www.comscore.com/" target="_blank" rel="noopener" title="Comscore">
+<img src="/a/plantillas/p/la-silla-rota/imgs/footer-logo--comscore.svg" class="footer-logo--comscore" width="130" alt="Comscore">
+</a>
+</div>
+<div class="col-e80">
+<small class="desarrolladopor">Desarrollado por</small>
+<a href="http://www.editor80.com/" target="_blank" rel="noopener" title="Link Editor80">
+<img src="/a/plantillas/p/la-silla-rota/imgs/logo-editor80-b.svg" width="50" alt="Editor80">
+</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>

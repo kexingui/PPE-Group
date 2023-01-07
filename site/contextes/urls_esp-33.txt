@@ -1,0 +1,64 @@
+./dumps-text/urls_esp-33.txt-     * pasatiempos
+./dumps-text/urls_esp-33.txt-          + el tiempo play
+./dumps-text/urls_esp-33.txt:          + crucigrama
+./dumps-text/urls_esp-33.txt-          + sudoku
+./dumps-text/urls_esp-33.txt-          + señal en vivo
+--
+./dumps-text/urls_esp-33.txt-EL SALARIO DE LAS AMAS DE CASA
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt:   Nombre: María; Apellido: Velasco; Ocupación: Ama de Casa; Salario: ?
+./dumps-text/urls_esp-33.txt-   ...
+./dumps-text/urls_esp-33.txt-   Por: Fernando Quijano Especial para Portafolio 22 de julio 1996 , 12:00
+--
+./dumps-text/urls_esp-33.txt-   del mundo, nueve horas diarias durante todo el año, incluso cuando
+./dumps-text/urls_esp-33.txt-   todos están de vacaciones, y realizan innumerables actividades
+./dumps-text/urls_esp-33.txt:   diferentes, las amas de casa sigue en actividad, y a cambio no reciben
+./dumps-text/urls_esp-33.txt-   ninguna contraprestación monetaria.
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt-   Durante el día trabajan de cocineras, costureras, fontaneras,
+./dumps-text/urls_esp-33.txt-   enfermeras, en fin administradoras del hogar. En cualquier caso, parece
+./dumps-text/urls_esp-33.txt:   muy lógico que las asociaciones de amas de casa se quejen porque se las
+./dumps-text/urls_esp-33.txt-   denomina población inactiva y reclamen entre otras cosas su inclusión
+./dumps-text/urls_esp-33.txt-   en el PIB y un estatuto propio.
+--
+./dumps-text/urls_esp-33.txt-   hogar, ni tampoco por ellas mismas.
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt:   Un estudio de UNICEF concluye que el 77 por ciento de las amas de casa
+./dumps-text/urls_esp-33.txt-   no se cree merecedora de un sueldo (mejor dicho: no se toma en serio
+./dumps-text/urls_esp-33.txt-   esta posibilidad), y un 86 por ciento asegura que cuidar de los suyos
+--
+./dumps-text/urls_esp-33.txt-   es de que el Estado les hiciera llegar un sueldo).
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt:   De otro lado, las amas de casa carecen de los derechos sociales que
+./dumps-text/urls_esp-33.txt-   corresponden a cualquier trabajador como la pensión por jubilación
+./dumps-text/urls_esp-33.txt-   (sólo tienen derecho a ella las que han cotizado durante un mínimo de
+--
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt-   Ingresos...nulos En la mayoría de los países se considera que los
+./dumps-text/urls_esp-33.txt:   ingresos de las amas de casa son nulos y por ello no hay ningún tipo de
+./dumps-text/urls_esp-33.txt-   renta. Sólo la parte del sueldo de sus maridos que se destina al
+./dumps-text/urls_esp-33.txt-   mantenimiento del hogar.
+--
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt-   El nivel de ingresos no influye mucho en la intensidad ni en el horario
+./dumps-text/urls_esp-33.txt:   de trabajo de las amas de casa. De hecho, cada vez son menos las
+./dumps-text/urls_esp-33.txt-   mujeres que disponen en su hogar de una persona que les ayude, a cambio
+./dumps-text/urls_esp-33.txt-   de dinero.
+--
+./dumps-text/urls_esp-33.txt-   Muchas de las tareas las realizan prácticamente todos los días.
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt:   Por ejemplo, hacer camas, fregar, preparar comidas, servir la mesa,
+./dumps-text/urls_esp-33.txt-   asear a los niños, cuidar ancianos, etcétera.
+./dumps-text/urls_esp-33.txt-
+--
+./dumps-text/urls_esp-33.txt-   cabo con mucha periodicidad.
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt:   Mitad y mitad Para la Confederación Española de Organizaciones de Amas
+./dumps-text/urls_esp-33.txt-   de Casa, Consumidores y Usuarios, la mujer que decide ocuparse de sus
+./dumps-text/urls_esp-33.txt-   hijos debe tener claro que los ingresos que su marido lleve a casa no
+--
+./dumps-text/urls_esp-33.txt-   doméstico, aunque aquí se está hablando de otra cosa.
+./dumps-text/urls_esp-33.txt-
+./dumps-text/urls_esp-33.txt:   El sueldo para las amas de casa es una solicitud que plantea algunos
+./dumps-text/urls_esp-33.txt-   problemas de difícil solución. De dónde procederían estos fondos?
+./dumps-text/urls_esp-33.txt-   Quiénes tendrían acceso a él? Todas las mujeres recibirían el mismo

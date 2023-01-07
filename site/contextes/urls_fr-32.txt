@@ -1,0 +1,35 @@
+./dumps-text/urls_fr-32.txt-               o Baby blues
+./dumps-text/urls_fr-32.txt-               o Reprendre le travail après bébé
+./dumps-text/urls_fr-32.txt:               o Femme au foyer
+./dumps-text/urls_fr-32.txt-               o Maigrir après bébé
+./dumps-text/urls_fr-32.txt-          + Etre papa
+--
+./dumps-text/urls_fr-32.txt-     * Enfant & ado
+./dumps-text/urls_fr-32.txt-     * École
+./dumps-text/urls_fr-32.txt:     * Femme
+./dumps-text/urls_fr-32.txt-     * Recettes
+./dumps-text/urls_fr-32.txt-     * Santé
+--
+./dumps-text/urls_fr-32.txt-     * Actu
+./dumps-text/urls_fr-32.txt-     * Astrologie
+./dumps-text/urls_fr-32.txt:     * Beauté femme
+./dumps-text/urls_fr-32.txt-     * Boutique
+./dumps-text/urls_fr-32.txt-     * Déco & DIY
+--
+./dumps-text/urls_fr-32.txt-   choisir quel mode de garde sera le meilleur pour son tout petit. A une
+./dumps-text/urls_fr-32.txt-   époque, les mères au foyer étaient la voie "classique", mais les choses
+./dumps-text/urls_fr-32.txt:   ont désormais changé, et de plus en plus de femmes ne veulent plus
+./dumps-text/urls_fr-32.txt-   sacrifier leur carrière pour rester à la maison, d'autant qu'il existe
+./dumps-text/urls_fr-32.txt-   un certain nombre de modes de garde alternatifs : aide des
+--
+./dumps-text/urls_fr-32.txt-   Si son mari a bien compris qu'il ne pourrait pas lui imposer de quitter
+./dumps-text/urls_fr-32.txt-   son travail pour s'occuper de leur enfant à naître, cela ne l'a pas
+./dumps-text/urls_fr-32.txt:   empêché de faire des reproches à sa femme enceinte : "Il m'a dit que
+./dumps-text/urls_fr-32.txt-   j'étais une ******** de ne pas vouloir être mère au foyer jusqu'à ce
+./dumps-text/urls_fr-32.txt-   que notre fils ne commence l'école, et m'a reproché de ne pas vouloir
+--
+./dumps-text/urls_fr-32.txt-   pas être trouvé.
+./dumps-text/urls_fr-32.txt-   Lire aussi :
+./dumps-text/urls_fr-32.txt:     * Ce papa espionne sa femme, mère au foyer, avec des caméras de
+./dumps-text/urls_fr-32.txt-       surveillance
+./dumps-text/urls_fr-32.txt-     * Le mari de cette mère au foyer essaye de lui donner de l'argent de

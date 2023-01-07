@@ -1,0 +1,130 @@
+   #alternate
+
+   NOTICIAS SIN EN VIVOPROGRAMACIÓNEL INFORME
+
+   EN VIVO
+   ____________________ (BUTTON)
+   (BUTTON) Submit
+   Submit
+   Error: Could not favorite.
+   CLOSE
+   (BUTTON)
+
+   PortadaPaísSaludEntretenimientoTecnologíaDeportesWhatsappOpiniónVideos
+
+   ‹ Volver
+
+   NOTICIAS SIN EN VIVO
+   ____________________ (BUTTON)
+   (BUTTON) Submit
+   Submit
+   Error: Could not favorite.
+   CLOSE
+   (BUTTON)
+
+   ‹ Volver
+
+   {{#news}}
+
+   {{#image-url-240x135}} {{/image-url-240x135}}
+
+{{title}}
+
+   {{/news}}
+   Ver últimas noticias
+
+   Sigue a Noticias SIN
+   en Google News
+
+   EN VIVO
+   (BUTTON)
+
+   Últimas noticias
+
+Secciones
+
+   PaísProvinciasEconomíaPolíticaDeportes
+   SaludEntretenimientoTecnologíaViralesWhatsApp
+   MundoOpiniónVideosTránsito en vivo
+
+Videos
+
+   NOTICIAS SIN EN VIVOÚltimos videosProgramaciónProgramas
+
+El Despertador
+
+Noticias SINPrimera emisión
+
+Noticias SINEmisión estelar
+
+   Ver todos los programas
+
+   ____________________ (BUTTON)
+
+   Síguenos!
+
+   Quiénes somosContáctenosTrabaja con nosotrosDenunciasAnuncia con
+   nosotros
+
+   Noticias SIN|Videos
+
+Amas de casa se ven obligadas a reajustar presupuesto cena de Año Nuevo
+
+   Noticias SIN
+   Por Noticias SIN
+   29-12-2022 -  10:30 PM
+   Noticias SIN
+   Por Noticias SIN
+   29-12-2022 -  10:30 PM
+
+   Ante el alza en los productos básicos que se utilizan en la cena para
+   recibir el nuevo año, amas de casa comentan que se verán obligadas a
+   reajustar los componentes del menú tradicional para que no exceda sus
+   posibilidades económicas.
+
+   Miledys Silie, ama de casa de 60 años residente en los Frailes y quien
+   se sustenta de lo que le proveen sus hijos, indica que el platillo para
+   la cena de este fin de año será sancocho para evitar la compra de
+   varios insumos que son necesarios para la cena típica y sobrepasan sus
+   posibilidades monetarias.
+
+Más noticias de Videos
+
+   Ver todos
+
+   {{#news}}
+
+   {{#image-url-240x135}} {{/image-url-240x135}} {{^image-url-240x135}}
+   {{/image-url-240x135}} {{#video-icon}}
+   {{/video-icon}} {{#gallery-icon}}
+   {{/gallery-icon}} {{#audio-icon}}
+   {{/audio-icon}}
+   {{uppertitle}}
+
+{{title}}
+
+   {{#author_nicename}}
+   Por {{author_name}}
+   {{/author_nicename}}
+   {{#last-entry}}
+   Ver todos {{/last-entry}} {{/news}}
+   Cargar noticias
+
+Videos destacados
+
+   Ver todos
+
+   {{#news}}
+
+   {{#image-url-240x135}} {{/image-url-240x135}} {{^image-url-240x135}}
+   {{/image-url-240x135}}
+   {{uppertitle}}
+
+{{title}}
+
+   {{#author_nicename}}
+   Por {{author_name}}
+   {{/author_nicename}}
+   {{#last-entry}}
+   Ver todos {{/last-entry}} {{/news}}
+   Cargar noticias

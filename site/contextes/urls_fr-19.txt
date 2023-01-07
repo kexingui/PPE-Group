@@ -1,0 +1,85 @@
+./dumps-text/urls_fr-19.txt-     * Débats
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt:                  Européennes, diplômées et femmes au foyer
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt-Tribune
+--
+./dumps-text/urls_fr-19.txt-   Birgitta Ohlsson, ministre suédoise des affaires européennes
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt:   "Une hausse du nombre de femmes sur le marché du travail permettrait de
+./dumps-text/urls_fr-19.txt-   répondre aux défis européens en matière d'économie et de démographie",
+./dumps-text/urls_fr-19.txt-   affirme la ministre suédoise Birgitta Ohlsson.
+--
+./dumps-text/urls_fr-19.txt-     * (BUTTON) Partage désactivé Partage désactivé
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt:   Alors que 60 % des étudiants européens sont des femmes, leur taux
+./dumps-text/urls_fr-19.txt-   dʼemploi sur le marché du travail est toujours inférieur à celui des
+./dumps-text/urls_fr-19.txt-   hommes. Seulement un membre sur dix des conseils dʼadministration et 24
+./dumps-text/urls_fr-19.txt:   % des parlementaires sont des femmes. Dans les pays riches, le
+./dumps-text/urls_fr-19.txt:   différentiel salarial entre femmes et hommes est toujours de 18 %. Et
+./dumps-text/urls_fr-19.txt-   cela, bien que la main-dʼoeuvre féminine soit plus qualifiée que la
+./dumps-text/urls_fr-19.txt-   main-dʼoeuvre masculine.
+--
+./dumps-text/urls_fr-19.txt-   cerveaux européens. Aujourdʼhui, nous faisons face à un problème bien
+./dumps-text/urls_fr-19.txt-   plus complexe, celui que jʼappellerai "un cerveau, mais à quoi bon ?",
+./dumps-text/urls_fr-19.txt:   à savoir lʼémergence dʼune nouvelle génération de femmes diplômées de
+./dumps-text/urls_fr-19.txt-   lʼenseignement supérieur et dont les compétences ne sont pas mises à
+./dumps-text/urls_fr-19.txt-   profit. Un renforcement de lʼégalité des chances sʼimpose donc pour que
+--
+./dumps-text/urls_fr-19.txt-   Lʼun des volets les plus importants pour répondre aux défis européens
+./dumps-text/urls_fr-19.txt-   en matière dʼéconomie et de démographie passe par une hausse du nombre
+./dumps-text/urls_fr-19.txt:   de femmes sur le marché du travail. En Europe, 76 % des hommes, en
+./dumps-text/urls_fr-19.txt:   moyenne, sont présents sur le marché du travail tandis que les femmes
+./dumps-text/urls_fr-19.txt-   ne le sont quʼà hauteur de 62 %. Un rapport de recherche, publié par
+./dumps-text/urls_fr-19.txt:   lʼuniversité dʼUmeå (Suède), montre que, si les femmes étaient aussi
+./dumps-text/urls_fr-19.txt-   nombreuses que les hommes sur le marché du travail, le revenu national
+./dumps-text/urls_fr-19.txt-   brut de lʼUnion européenne pourrait augmenter de 27 %. Bien évidemment,
+./dumps-text/urls_fr-19.txt:   les femmes doivent être présentes sur le marché du travail dans leur
+./dumps-text/urls_fr-19.txt-   propre intérêt. Lʼégalité des chances a pour objectif dʼaccroître la
+./dumps-text/urls_fr-19.txt-   liberté de lʼindividu. Mais en ces temps de crise, il est profondément
+./dumps-text/urls_fr-19.txt-   regrettable de faire abstraction du fait que la plus grande ressource
+./dumps-text/urls_fr-19.txt-   dont lʼEurope dispose, qui est de surcroît en grande partie
+./dumps-text/urls_fr-19.txt:   inexploitée, ce sont justement les femmes.
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt-   Le dernier rapport mondial sur les disparités entre les sexes du Forum
+--
+./dumps-text/urls_fr-19.txt-   cerveau, mais à quoi bon" a également été reconnue par le Conseil
+./dumps-text/urls_fr-19.txt-   européen de juin 2010, lorsquʼil fut décidé, à lʼinitiative de la
+./dumps-text/urls_fr-19.txt:   Suède, que la parité hommes-femmes devra aussi être atteinte dʼici à
+./dumps-text/urls_fr-19.txt-   2020 pour le taux dʼemploi, à savoir un taux égal de 75 %.
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt:   Il est attristant de voir quʼen 2012, les femmes sont toujours obligées
+./dumps-text/urls_fr-19.txt-   de choisir entre famille et carrière. Même si la Suède a accompli bien
+./dumps-text/urls_fr-19.txt-   des progrès sur la voie de lʼégalité des chances, beaucoup de défis
+--
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt-   Dʼautre part, lʼassistance aux personnes âgées devrait être améliorée
+./dumps-text/urls_fr-19.txt:   et renforcée. Aujourdʼhui, il est fréquent que des femmes aient la
+./dumps-text/urls_fr-19.txt-   responsabilité de la prise en charge, bénévole, de leurs parents. Par
+./dumps-text/urls_fr-19.txt-   ailleurs, personne ne doit plus se sentir obligé dʼavoir des enfants
+--
+./dumps-text/urls_fr-19.txt-   des parents. Cela a eu pour effet dʼaccroître nettement le partage des
+./dumps-text/urls_fr-19.txt-   responsabilités dans les familles. Une réduction de lʼécart existant
+./dumps-text/urls_fr-19.txt:   entre femmes et hommes sur le marché du travail passe par un usage plus
+./dumps-text/urls_fr-19.txt-   paritaire de lʼallocation parentale.
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt-   Par ailleurs, lʼâge de la retraite devrait être sexuellement neutre. Il
+./dumps-text/urls_fr-19.txt:   est insoutenable de voir les hommes et les femmes partir à la retraite
+./dumps-text/urls_fr-19.txt-   à des âges différents. Lʼâge de la retraite nationale devrait être le
+./dumps-text/urls_fr-19.txt-   même pour tous.
+--
+./dumps-text/urls_fr-19.txt-   européens font encore usage de cette imposition, laquelle veut que ce
+./dumps-text/urls_fr-19.txt-   soit la famille, et non lʼindividu, qui soit imposée. Cela fait quʼil
+./dumps-text/urls_fr-19.txt:   est sans intérêt pour les femmes de travailler.
+./dumps-text/urls_fr-19.txt-
+./dumps-text/urls_fr-19.txt-   Si lʼaccroissement de lʼégalité des chances incombe en premier lieu aux
+./dumps-text/urls_fr-19.txt-   Etats, lʼUnion se doit dʼoeuvrer de manière active pour réduire lʼécart
+./dumps-text/urls_fr-19.txt:   existant entre les femmes et les hommes. Le bien-être à venir de
+./dumps-text/urls_fr-19.txt-   lʼEurope repose en grande partie sur le fait de mettre un terme au
+./dumps-text/urls_fr-19.txt-   sous-emploi des cerveaux féminins.
+--
+./dumps-text/urls_fr-19.txt-   non le plus grand musée du monde, il lui faut oeuvrer de manière
+./dumps-text/urls_fr-19.txt-   beaucoup plus ferme pour accroître lʼégalité. LʼUnion européenne ne
+./dumps-text/urls_fr-19.txt:   peut se payer le luxe dʼavoir les femmes au foyer les mieux formées du
+./dumps-text/urls_fr-19.txt-   monde.
+./dumps-text/urls_fr-19.txt-
