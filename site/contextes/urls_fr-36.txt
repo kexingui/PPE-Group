@@ -1,0 +1,19 @@
+./dumps-text/urls_fr-36.txt-   parlante qui évoque la charge de travail d’une mère au foyer sans
+./dumps-text/urls_fr-36.txt-   compter la charge mentale au quotidien.
+./dumps-text/urls_fr-36.txt:   Femme au foyer
+./dumps-text/urls_fr-36.txt-
+./dumps-text/urls_fr-36.txt:   Femme au foyer – Source : spm
+./dumps-text/urls_fr-36.txt-
+./dumps-text/urls_fr-36.txt-Une mère au foyer gagnerait 6400 euros nets par mois
+--
+./dumps-text/urls_fr-36.txt-   Une mère au foyer en plein ménage – Source : spm
+./dumps-text/urls_fr-36.txt-
+./dumps-text/urls_fr-36.txt:   Dans l’imaginaire collectif, les femmes au foyer sont réduites au
+./dumps-text/urls_fr-36.txt-   statut de mères qui s’occupent de leurs enfants sans la moindre
+./dumps-text/urls_fr-36.txt-   reconnaissance. Etre mère au foyer n’est pas de tout repos et
+--
+./dumps-text/urls_fr-36.txt-   l’Insee a un calcul qui lui permet d’évaluer une rémunération d’environ
+./dumps-text/urls_fr-36.txt-   1327 euros par mois. Selon une étude de 2010, l’organisme calcule pour
+./dumps-text/urls_fr-36.txt:   les femmes 28 heures de tâches domestiques par semaine, 34 heures de
+./dumps-text/urls_fr-36.txt-   courses, bricolage, jeux avec les enfants et 41 heures de trajets en
+./dumps-text/urls_fr-36.txt-   voiture ou soins d’un animal domestique. L’Insee calcule pour un homme

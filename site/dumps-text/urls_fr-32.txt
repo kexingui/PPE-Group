@@ -1,0 +1,418 @@
+     *
+
+   (BUTTON) Inscription
+   (BUTTON) Connexion
+   (BUTTON) Menu Grossesse, bébé, enfant, adolescent, famille
+   Nos magazines
+   à partir de 2,99€
+   Retrouvez nos guides thématiques pour une parentalité positive
+   j'achète au numéro
+   Gratuit
+   Consultez la version gratuite sur ordinateur, tablette ou smartphone
+   je lis en ligne
+   (BUTTON)
+   Recherche sur Magicmaman.com
+   (BUTTON)
+   ____________________ OK
+
+   Connectez-vous
+   (BUTTON)
+   Vous avez déjà un compte
+   ____________________
+   ____________________
+   (BUTTON) Mot de passe oublié
+   [ ] Se souvenir de moi
+   OK
+   Vous n'avez pas encore de compte
+   Je créé un compte pour recevoir mes newsletters et gérer mes données
+   personnelles.
+   ____________________
+   CRÉER MON COMPTE
+   ____________________
+   ____________________
+   ____________________
+   [ ] J'accepte la charte
+   [ ] Je souhaite recevoir des offres du site et ses partenaires
+   OK
+   Utiliser mon compte :
+   (BUTTON) Facebook
+
+     * MAM'ADVISOR
+     * Fêtes de Noël
+     * TV
+     * Podcasts
+     * Conception
+     * Grossesse
+     * Prénoms
+     * Bébé
+          + Nouveau-né
+               o Le premier âge de bébé
+               o Le retour à la maison de bébé
+               o Bébé prématuré
+               o Bébés jumeaux
+          + Allaitement de bébé
+               o Allaitement maternel
+               o Allaitement mixte
+               o Tire-lait
+               o Sevrage de bébé
+          + Biberon
+               o Biberon de bébé
+               o Lait de bébé
+               o Chauffe-biberon
+               o Stérilisation du biberon
+          + Alimentation de bébé
+               o Alimentation de bébé mois par mois
+               o Allergies et intolérances alimentaires
+               o Alimentation équilibrée de bébé
+               o Diversification alimentaire de bébé
+               o Petits pots pour bébé
+               o Troubles alimentaires de bébé
+               o Recettes bébé
+               o Sécurité alimentaire
+          + Modes de garde bébé
+               o Trouver le bon mode de garde
+               o Assistante maternelle agréée
+               o Garde partagée
+               o Les crèches
+               o La nounou
+               o Baby-sitter
+               o Halte-garderie
+               o Jardin d'enfants
+               o Jeune fille au pair
+               o Calcul du coût mode de garde
+          + Aides, allocations et congés
+               o Congé maternité
+               o Congé paternité
+               o Congé parental
+          + Santé bébé
+               o Petits bobos et accidents domestiques
+               o Médicaments de bébé
+               o Pédiatre
+               o Soigner bébé
+               o Examens médicaux de bébé
+               o Urgence et premiers gestes de secours pour bébé
+          + Faire-part naissance bébé
+          + Maladies de bébé
+               o Autres infections
+               o Méningite
+               o Colique de bébé
+               o Constipation de bébé
+               o Diarrhée de bébé
+               o Reflux gastro-oesophagien
+               o Eczéma de bébé
+               o Fièvre, toux, rhume de bébé
+               o Bronchiolite de bébé
+               o Otite de bébé
+               o Gastro-entérite de bébé
+               o Grippe de bébé
+               o Varicelle de bébé
+               o Rougeole de bébé
+               o Autres maladies de bébé
+               o Autisme de bébé
+               o Handicap de bébé
+               o Angine de bébé
+               o Maladies de peau de bébé
+               o Pied-bot
+               o Maladies génétiques et maladies rares
+          + Allergies de bébé
+               o Asthme de bébé
+               o Allergies respiratoires de bébé
+               o Allergies alimentaires de bébé
+          + Prévention chez le bébé
+               o Vaccination de bébé
+               o Eté : prévention solaire
+               o Protéger bébé du froid
+               o Audition de bébé
+               o Yeux, Vue, Lunettes bébé
+          + Croissance de bébé
+               o Taille de bébé
+               o Poids de bébé
+               o Bébé grandit
+          + Dentition de bébé
+               o Dents de bébé
+               o Poussées dentaires de bébé
+               o Hygiène dentaire de bébé
+          + Langage de bébé
+               o Apprentissage du langage
+               o Bégaiement et troubles du langage
+               o Communiquer avec bébé
+          + Marche de bébé
+          + Sommeil de bébé
+               o Sommeil de bébé mois par mois
+               o Coucher bébé
+               o Endormir bébé
+               o Troubles du sommeil de bébé
+               o Sieste de bébé
+               o Cauchemars de bébé
+               o Sécurité pendant le sommeil de bébé
+          + Toilette de bébé
+               o Soins de bébé
+               o Bain de bébé
+               o Massage de bébé
+          + Eveil et développement bébé
+               o Développement de bébé
+               o Eveil de bébé
+               o Eveil musical de bébé
+               o Jouer avec bébé
+               o Activités de bébé
+               o Jouets pour bébé
+          + Psychologie de bébé
+               o Education de bébé
+               o Caractère de bébé
+          + Puériculture bébé
+               o Table à langer
+               o Sacs à langer
+               o Porte-bébé
+               o Poussettes
+               o Siège-auto
+               o Parc de bébé
+               o Ecoute-bébé, baby phone
+               o Mobile de bébé
+               o Biberons
+               o Transat de bébé
+               o Autre matériel de puériculture
+          + Etre maman
+               o Etre mère
+               o Post-partum
+               o Baby blues
+               o Reprendre le travail après bébé
+               o Femme au foyer
+               o Maigrir après bébé
+          + Etre papa
+               o Etre père
+               o Jeune papa
+               o Congé paternité
+          + Mode Bébé
+               o Mode bébé automne hiver
+               o Mode bébé printemps été
+          + Bébé mois par mois
+          + Couches et propreté de bébé
+               o Couches jetables, lavables
+               o Apprentissage de la propreté
+               o Change de bébé
+          + Sécurité de bébé
+               o Les gestes sécurité du quotidien
+               o Sécurité de Bébé à la maison
+               o Sécurité des jouets
+               o Sécurité du materiel de puériculture
+          + Calmer bébé
+               o Pleurs de bébé
+               o Sucettes
+               o Doudous
+          + Vacances avec bébé
+               o Vacances d’hiver avec bébé
+               o Vacances de Noël avec bébé
+               o Vacances de printemps avec bébé
+               o Vacances d’été avec bébé
+               o Les premières vacances de Bébé
+          + People
+               o Actualités People
+               o Bébés de stars
+               o Stars enceintes
+               o Papa people
+               o Maman célèbre
+               o Prénoms des enfants de stars
+               o Les régimes post-grossesse des stars
+               o Séries
+               o Vidéos people
+               o Bébé Cadum : les finalistes
+          + Baptême de bébé
+          + Journal de naissance
+          + Vidéos humour
+               o Vidéos buzz bébé
+               o Vidéos buzz enfant
+          + Chambre de bébé
+               o Aménager la chambre de bébé
+               o Décoration de la chambre de bébé
+               o Lit de bébé
+               o Nid d’ange, gigoteuse, turbulette
+          + Vidéos bébé
+               o Vidéos vaccinations et maladies de bébé
+               o Vidéos soigner bébé au quotidien
+               o Vidéos réagir en cas d'accident
+               o Vidéos allaitement
+               o Vidéos poids, diversification, conseils pour bien nourrir
+                 bébé
+               o Vidéos toilette de bébé
+               o Vidéos favoriser le sommeil de bébé
+               o Vidéos éveil de bébé
+               o Vidéos bébé au naturel
+          + Actu bébé
+          + Forum éveil, développement de bébé
+     * Enfant & ado
+     * École
+     * Femme
+     * Recettes
+     * Santé
+     * Écologie
+     * Guide d'achat
+     * Guide des maternités
+     * Actu
+     * Astrologie
+     * Beauté femme
+     * Boutique
+     * Déco & DIY
+     * Vie pratique
+     * Nos services
+     * Jeux concours
+     * Forum
+     * Newsletter
+     * Podcast
+
+   Suivi bébé
+   Mam'Advisor
+   Journal de naissance
+   Podcast
+   Astro Bébé
+   Astrologie
+     * Magicmaman
+
+     Bébé
+
+     Actu bébé
+
+Elle refuse d'être mère au foyer, son mari lui reproche de ne pas vouloir
+s'occuper de leur bébé
+
+   Par Laetitia Reboulleau
+   Publié le 11/12/2022 à 10:17
+   Mère au foyer (BUTTON) Ajouter aux favoris (BUTTON) Getty Images
+   (BUTTON)
+   Partager
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   Envoyer par e-mail
+   (BUTTON)
+
+   Vous
+   De ____________________
+   Adresse e-mail ____________________
+
+   Vos destinataires (BUTTON) +
+   Adresse e-mail ____________________
+
+   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+   [ ] [ ] [ ] [ ] Je certifie ne pas envoyer d'e-mail indésirable
+   Envoyer
+   Pour certaines personnes, être parent au foyer est une évidence. Pour
+   d'autres, c'est hors de question. Une jeune maman tombe dans la seconde
+   catégorie, et espère pouvoir reprendre le travail après son congé
+   maternité. Mais son mari n'est pas du même avis...
+
+   Avoir un enfant, c'est prendre une liste de décisions, et notamment
+   choisir quel mode de garde sera le meilleur pour son tout petit. A une
+   époque, les mères au foyer étaient la voie "classique", mais les choses
+   ont désormais changé, et de plus en plus de femmes ne veulent plus
+   sacrifier leur carrière pour rester à la maison, d'autant qu'il existe
+   un certain nombre de modes de garde alternatifs : aide des
+   grands-parents, nounou, crèche, garderie... Seulement voilà, parfois,
+   certains parents n'ont pas du tout la même idée pour leur progéniture.
+
+Cette future maman ne veut pas être mère au foyer
+
+   Sur Reddit, une future maman explique être enceinte de 5 mois. Elle et
+   son époux sont ravis à l'idée d'avoir un petit garçon, et sont en train
+   de mettre en place toute la logistique autour de la naissance de leur
+   enfant, puisque tous les deux sont des entrepreneurs qui ont créé leur
+   propre entreprise, chacun la sienne. Le problème, c'est qu'ils ne font
+   pas vraiment confiance à une personne extérieure pour s'occuper de leur
+   bébé. "Nous sommes des personnes pour qui la sécurité compte beaucoup,
+   et nous n'avons pas confiance envers les gens que nous ne connaissons
+   pas", explique-t-elle. "Par ailleurs, les nounous sont difficiles à
+   trouver dans notre région, et comme nous avons des exigences
+   particulières en matière de sécurité, c'est encore pire."
+   Vidéo du jour :
+
+   Toutefois, pas question pour elle d'être mère au foyer : "J'ai été
+   claire avec mon mari : même si j'ai hâte de passer du temps avec notre
+   enfant, je compte reprendre le travail dès la fin de mon congé
+   maternité, et j'espère pouvoir travailler de nouveau à plein temps
+   quand il aura entre 8 et 10 mois. Seulement, mon mari pensait que je
+   resterais à la maison jusqu'à ce que notre fils rentre à la maternelle,
+   voire plus tard encore. Cela ne me convient pas, alors je lui ai dit
+   que je préférerais que nous commencions à chercher une nounou avant
+   même l'accouchement, pour que notre future employée puisse apprendre à
+   connaître le bébé dès sa naissance, et que tout soit prêt pour mon
+   retour au travail." Ce qui sera d'autant plus facile puisque la future
+   maman travaille à domicile, et pourra donc être présente en cas de
+   problème.
+
+Elle subit les reproches de son mari
+
+   Si son mari a bien compris qu'il ne pourrait pas lui imposer de quitter
+   son travail pour s'occuper de leur enfant à naître, cela ne l'a pas
+   empêché de faire des reproches à sa femme enceinte : "Il m'a dit que
+   j'étais une ******** de ne pas vouloir être mère au foyer jusqu'à ce
+   que notre fils ne commence l'école, et m'a reproché de ne pas vouloir
+   m'occuper de lui. Je lui ai répondu qu'il était un ******** d'attendre
+   ça de moi, alors qu'il sait que je ne pourrais pas supporter d'être
+   uniquement une maman. Cela me détruirait mentalement, mais je me sens
+   mal à l'idée de ne pas en être capable."
+
+   L'histoire a malgré tout une fin heureuse, puisque l'internaute raconte
+   que son mari "respecte sa décision et lui adresse son soutien, quoi
+   qu'il arrive". La preuve que certaines disputes de couple et certains
+   désaccords ne signifient pas forcément qu'un terrain d'entente ne peut
+   pas être trouvé.
+   Lire aussi :
+     * Ce papa espionne sa femme, mère au foyer, avec des caméras de
+       surveillance
+     * Le mari de cette mère au foyer essaye de lui donner de l'argent de
+       poche
+
+   Partager
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+   Projet bébé ? Enceinte ? Déjà parents ? Inscrivez-vous à nos
+   newsletters
+
+   Toute l'actualité des futurs et jeunes parents
+   ____________________ Valider S'abonner
+
+   Une maman raconte avec humour le quotidien d'une mère au foyer
+
+   Derniers articles
+   Sa belle-mère veut qu'elle arrête d'allaiter pour que son bébé puisse
+   dormir chez elle
+   Shy'm maman : complètement gaga de son fils, elle dévoile de nombreuses
+   photos exclusives de Tahoma
+   Comment bien utiliser son intuition ou sixième sens parental ?
+
+   Plus d'Actu bébé
+   Ils refusent du "sang de vaccinné" à leur bébé malade, et perdent
+   temporairement sa garde
+
+   Une maman qui nourrit son bébé "comme un poulet" s'attire les foudres
+   des internautes
+   6 conseils d'experts pour survivre à la journée après une nuit
+   compliquée à cause de Bébé
+   Rappels de produits : des petits pots et une grenouillère pour
+   nouveau-né vendus dans toute la France
+   Voici ce qui influence le plus les Français dans le choix du prénom
+   d'un bébé
+   Rappel produit : cette gigoteuse peut provoquer des arrêts
+   respiratoires
+   La grand-mère veut être payée pour garder son petit-enfant, la maman
+   refuse : qui est en tort ?
+
+   Nos top articles
+   En vacances chez elle, sa belle-mère lui interdit de sortir de la
+   maison avec son bébé sans son autorisationSon bébé a été échangé à la
+   maternité : "Je me battrai jusqu'au bout", confie la mamanCristiano
+   Ronaldo : ses 4 enfants sont les plus mignons des supporters !
+   (photos)Un bébé renvoyé des urgences avec du sirop, il décède quelques
+   heures plus tardFaut-il percer une cloque de brûlure ?Peut-on donner de
+   l'eau à un bébé de moins de 6 mois ?
+
+   (BUTTON)
+   Gratuit
+
+   Je lis en ligne
+
+   Inscrivez-vous à la newsletter
+   ____________________ Valider
+
+     * Plan du site
+     * Mentions légales
+     * Cookies
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-57BMPX

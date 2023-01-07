@@ -1,0 +1,52 @@
+./dumps-text/urls_esp-1.txt-   REFRESH(900 sec):
+./dumps-text/urls_esp-1.txt:   https://sevilla.abc.es/economia/opciones-cobrar-euros-paro-amas-casa-ma
+./dumps-text/urls_esp-1.txt-   yores-20221211173206-nts.html
+./dumps-text/urls_esp-1.txt-
+--
+./dumps-text/urls_esp-1.txt-   Hazte premium Hazte premium
+./dumps-text/urls_esp-1.txt-   sevilla Economía
+./dumps-text/urls_esp-1.txt:   Las opciones de cobrar 480 euros de paro para las amas de casa mayores
+./dumps-text/urls_esp-1.txt-   de 45 años
+./dumps-text/urls_esp-1.txt-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+--
+./dumps-text/urls_esp-1.txt-   ABC de Sevilla Economía
+./dumps-text/urls_esp-1.txt-
+./dumps-text/urls_esp-1.txt:Las opciones de cobrar 480 euros de paro para las amas de casa mayores de 45
+./dumps-text/urls_esp-1.txt-años
+./dumps-text/urls_esp-1.txt-
+--
+./dumps-text/urls_esp-1.txt-permisos para la crianza
+./dumps-text/urls_esp-1.txt-
+./dumps-text/urls_esp-1.txt:   Las opciones de cobrar 480 euros de paro para las amas de casa mayores
+./dumps-text/urls_esp-1.txt-   de 45 años
+./dumps-text/urls_esp-1.txt-   Adobe
+--
+./dumps-text/urls_esp-1.txt-   respaldo económico.
+./dumps-text/urls_esp-1.txt-
+./dumps-text/urls_esp-1.txt:   En este sentido, el colectivo de las amas de casa ha sido
+./dumps-text/urls_esp-1.txt-   históricamente un sector invisible ya que no cotiza para la Seguridad
+./dumps-text/urls_esp-1.txt-   Social, lo que se traduce en no tener derecho a paro, ni a bajas
+--
+./dumps-text/urls_esp-1.txt-La Renta Activa de Inserción (RAI)
+./dumps-text/urls_esp-1.txt-
+./dumps-text/urls_esp-1.txt:   Las opciones de cobrar 480 euros de paro para las amas de casa mayores
+./dumps-text/urls_esp-1.txt-   de 45 años
+./dumps-text/urls_esp-1.txt-
+--
+./dumps-text/urls_esp-1.txt-   a personas mayores de 45 años que no tengan ingresos ni cobren una
+./dumps-text/urls_esp-1.txt-   prestación del SEPE o un subsidio de desempleo. Además de la aportación
+./dumps-text/urls_esp-1.txt:   económica, esta ayuda cuenta con un programa específico de inserción o
+./dumps-text/urls_esp-1.txt-   formación con el fin de facilitar la inserción al mercado laboral.
+./dumps-text/urls_esp-1.txt-
+--
+./dumps-text/urls_esp-1.txt-Ayudas de la Seguridad Social para mayores de 45 años
+./dumps-text/urls_esp-1.txt-
+./dumps-text/urls_esp-1.txt:   Asimismo, las amas de casa también pueden solicitar el subsidio de
+./dumps-text/urls_esp-1.txt-   mayores de 45 años, que lo pueden obtener todas las personas
+./dumps-text/urls_esp-1.txt-   desempleadas que han terminado de cobrar el paro y tienen 45 años o
+--
+./dumps-text/urls_esp-1.txt-     * (BUTTON) Más temas:
+./dumps-text/urls_esp-1.txt-     * Informaciones
+./dumps-text/urls_esp-1.txt:     * Amas de casa
+./dumps-text/urls_esp-1.txt-     * Seguridad Social
+./dumps-text/urls_esp-1.txt-     * Subsidios

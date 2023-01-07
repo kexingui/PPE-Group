@@ -1,0 +1,109 @@
+./dumps-text/urls_fr-10.txt-   REFRESH(900 sec):
+./dumps-text/urls_fr-10.txt-   https://www.challenges.fr/economie/l-insee-dresse-le-portrait-robot-de-
+./dumps-text/urls_fr-10.txt:   la-femme-au-foyer-en-france_11008
+./dumps-text/urls_fr-10.txt-   #A la une
+./dumps-text/urls_fr-10.txt-
+--
+./dumps-text/urls_fr-10.txt-     * Patrimoine
+./dumps-text/urls_fr-10.txt-     * Luxe
+./dumps-text/urls_fr-10.txt:     * Femmes
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   ____________________
+--
+./dumps-text/urls_fr-10.txt-   Accueil
+./dumps-text/urls_fr-10.txt-   Entreprise Economie Politique Monde Médias Tech Auto Emploi Patrimoine
+./dumps-text/urls_fr-10.txt:   Luxe Femmes Classements Club entrepreneurs Services Fortunes Vie de
+./dumps-text/urls_fr-10.txt-   bureau Vidéos Green économie
+./dumps-text/urls_fr-10.txt-
+--
+./dumps-text/urls_fr-10.txt-          + Patrimoine
+./dumps-text/urls_fr-10.txt-          + Luxe
+./dumps-text/urls_fr-10.txt:          + Femmes
+./dumps-text/urls_fr-10.txt-          +
+./dumps-text/urls_fr-10.txt-          +
+--
+./dumps-text/urls_fr-10.txt-   Économie Thématique suivie Ne plus suivre
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:L'Insee dresse le portrait-robot de la femme au foyer en France
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   Par Challenges.fr le 30.08.2013 à 16h56, mis à jour le 30.08.2013 à
+./dumps-text/urls_fr-10.txt-   19h10 Lecture 4 min.
+./dumps-text/urls_fr-10.txt:   La France compte 2,1 millions de femmes au foyer contre 3,5 millions en
+./dumps-text/urls_fr-10.txt-   1991. 80% d'entre elles ont eu un emploi par le passé, indique
+./dumps-text/urls_fr-10.txt-   l'Insee.
+./dumps-text/urls_fr-10.txt-   1 réaction
+./dumps-text/urls_fr-10.txt:   300813 challenges femme au foyer Insee
+./dumps-text/urls_fr-10.txt-   (c) Sipa
+./dumps-text/urls_fr-10.txt-   1 réaction
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   Le premier motif invoqué par les femmes ayant cessé de travailler pour
+./dumps-text/urls_fr-10.txt-   rester à la maison est la fin dʼun contrat précaire alors quʼil y a 20
+./dumps-text/urls_fr-10.txt-   ans les raisons personnelles primaient, selon une étude de lʼInsee
+--
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   LʼInstitut national de la statistique et des études économiques estime
+./dumps-text/urls_fr-10.txt:   à 2,1 millions le nombre de femmes au foyer en 2011, contre 3,5
+./dumps-text/urls_fr-10.txt:   millions en 1991. Soit une femme en couple sur 5 au lieu dʼune sur 3
+./dumps-text/urls_fr-10.txt-   vingt ans plus tôt, sous lʼeffet de la montée de lʼemploi féminin.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   Une femme au foyer est, selon la définition de lʼInsee, une femme de 20
+./dumps-text/urls_fr-10.txt:   à 59 ans, non étudiante, vivant en couple et inactive. Les femmes
+./dumps-text/urls_fr-10.txt-   vivant seules sont exclues du champ.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   En 2011, les femmes au foyer sont plus diplômées quʼil y a vingt ans
+./dumps-text/urls_fr-10.txt:   mais toujours moins que les femmes en activité, constate lʼétude, qui
+./dumps-text/urls_fr-10.txt-   exploite les enquêtes Emploi menées chaque trimestre auprès dʼun
+./dumps-text/urls_fr-10.txt-   échantillon de 100.000 personnes.
+--
+./dumps-text/urls_fr-10.txt-   cessation dʼactivité ont sensiblement évolué", souligne lʼInstitut.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   En 1991, 59% des femmes avançaient des "raisons personnelles". Elles ne
+./dumps-text/urls_fr-10.txt-   sont plus que 21% en 2011 et "la raison majoritaire est devenue la fin
+./dumps-text/urls_fr-10.txt-   dʼun CDD".
+--
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   La fin de contrat à durée déterminée est le motif invoqué par 35% des
+./dumps-text/urls_fr-10.txt:   femmes, contre 10% en 1991. 11% des femmes imputent aussi leur retrait
+./dumps-text/urls_fr-10.txt-   de la vie active à un licenciement économique (contre 4% en 1991).
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   Le passage par le chômage, la conjoncture économique "moins favorable"
+./dumps-text/urls_fr-10.txt:   fait que "certaines femmes peuvent se décourager: ne recherchant plus
+./dumps-text/urls_fr-10.txt-   véritablement dʼemploi, elles deviennent alors inactives", dit lʼInsee.
+./dumps-text/urls_fr-10.txt-
+--
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   Les interruptions vont "souvent" de pair avec lʼarrivée dʼun enfant.
+./dumps-text/urls_fr-10.txt:   Les femmes au foyer sont dʼailleurs deux fois plus souvent mères de
+./dumps-text/urls_fr-10.txt:   familles nombreuses que les femmes actives en couples (23% ont trois
+./dumps-text/urls_fr-10.txt-   enfants contre 12%).
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   Toutefois, 43% des femmes au foyer nʼont pas (ou plus) dʼenfants
+./dumps-text/urls_fr-10.txt-   mineurs encore à la maison, relève lʼInsee.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   Le cinquième des femmes au foyer nʼayant jamais travaillé a un profil
+./dumps-text/urls_fr-10.txt-   un peu différent: moins diplômées que celles ayant travaillé ou les
+./dumps-text/urls_fr-10.txt:   femmes actives, elles sont immigrées une fois sur deux.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   Un taux dʼemploi entre les hommes et les femmes se ressert
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   La chute du nombre de femmes au foyer est liée à la montée du travail
+./dumps-text/urls_fr-10.txt-   féminin sur lequel lʼInsee apporte un nouvel éclairage, avec une
+./dumps-text/urls_fr-10.txt:   comparaison des taux dʼemploi entre hommes et femmes, également publiée
+./dumps-text/urls_fr-10.txt-   vendredi.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   Selon cette deuxième étude, cet écart sʼest resserré entre 2003 et 2011
+./dumps-text/urls_fr-10.txt:   mais il reste important. Ainsi, en 2011, 67% des femmes étaient en
+./dumps-text/urls_fr-10.txt:   emploi contre 76% des hommes. La proportion de femmes augmente dʼ1
+./dumps-text/urls_fr-10.txt-   point sur la période tandis que celle des hommes diminue de 3.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   Lʼécart grimpe de 9 à 15 points si lʼon tient compte du temps
+./dumps-text/urls_fr-10.txt-   travaillé. Recalculé en équivalent temps plein, le taux dʼemploi était
+./dumps-text/urls_fr-10.txt:   alors en 2011 de 59% pour les femmes contre 74% pour les hommes.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt-   Ce taux, explique lʼInsee, donne une vision plus complète de la
+./dumps-text/urls_fr-10.txt:   situation du marché du travail où 30% des femmes sont à temps partiel,
+./dumps-text/urls_fr-10.txt-   contre 6% des hommes seulement.
+./dumps-text/urls_fr-10.txt-
+./dumps-text/urls_fr-10.txt:   En équivalent temps plein, le taux dʼemploi des femmes âgées de 20 à 29
+./dumps-text/urls_fr-10.txt-   ans et sans diplôme tombe à 29%.
+./dumps-text/urls_fr-10.txt-

@@ -1,0 +1,37 @@
+./dumps-text/urls_esp-35.txt-     * pasatiempos
+./dumps-text/urls_esp-35.txt-          + el tiempo play
+./dumps-text/urls_esp-35.txt:          + crucigrama
+./dumps-text/urls_esp-35.txt-          + sudoku
+./dumps-text/urls_esp-35.txt-          + señal en vivo
+--
+./dumps-text/urls_esp-35.txt-
+./dumps-text/urls_esp-35.txt-   Síguenos en:
+./dumps-text/urls_esp-35.txt:   logo-eltiempo Ley daría beneficios a amas de casa
+./dumps-text/urls_esp-35.txt-     * Suscríbete x $900 1er mes
+./dumps-text/urls_esp-35.txt-     * Iniciar sesión
+--
+./dumps-text/urls_esp-35.txt-     *
+./dumps-text/urls_esp-35.txt-
+./dumps-text/urls_esp-35.txt:Ley daría beneficios a amas de casa
+./dumps-text/urls_esp-35.txt-
+./dumps-text/urls_esp-35.txt:   A las amas de casa les podría llegar este semestre el turno de la
+./dumps-text/urls_esp-35.txt-   reivindicación en el Congreso de la República. Después de años y años
+./dumps-text/urls_esp-35.txt-   de sacrificio, el Senado se apresta a discutir y aprobar una ley con un
+--
+./dumps-text/urls_esp-35.txt-   hasta los 5 años.
+./dumps-text/urls_esp-35.txt-
+./dumps-text/urls_esp-35.txt:   Las amas de casa que podrían beneficiarse con esta norma pertenecerían
+./dumps-text/urls_esp-35.txt-   a los estratos 1 y 2, aunque la senadora Ramírez dice que estaría
+./dumps-text/urls_esp-35.txt-   dispuesta a darse la pela por las del estrato 3. Si bien todas las
+--
+./dumps-text/urls_esp-35.txt-   deciden liquidar la sociedad conyugal.
+./dumps-text/urls_esp-35.txt-
+./dumps-text/urls_esp-35.txt:   La medida busca acabar con los casos en los que las amas de casa ven
+./dumps-text/urls_esp-35.txt-   cómo sus esposos pensionados deciden irse con otra mujer, que termina
+./dumps-text/urls_esp-35.txt-   siendo la beneficiaria de la pensión de sustitución.
+--
+./dumps-text/urls_esp-35.txt-   Para tratar de cambiar este escenario, el proyecto establece la
+./dumps-text/urls_esp-35.txt-   posibilidad de que los esposos o hijos, puedan hacer aportes a una
+./dumps-text/urls_esp-35.txt:   cuenta de ahorro pensional, que les permita a las amas de casa tener
+./dumps-text/urls_esp-35.txt-   una mesada en el futuro.
+./dumps-text/urls_esp-35.txt-
