@@ -1,0 +1,284 @@
+UTF-8 and Unicode
+
+   Unicode Transformation Format 8-bit is a variable-width encoding that
+   can represent every character in the Unicode character set. It was
+   designed for backward compatibility with ASCII and to avoid the
+   complications of endianness and byte order marks in UTF-16 and UTF-32.
+   ^[1]
+
+   UTF-8 encodes each Unicode character as a variable number of 1 to 4
+   octets, where the number of octets depends on the integer value
+   assigned to the Unicode character. It is an efficient encoding of
+   Unicode documents that use mostly US-ASCII characters because it
+   represents each character in the range U+0000 through U+007F as a
+   single octet.
+
+   UTF-8 is the default encoding for XML and since 2010 has become the
+   dominant character set on the Web.
+
+Standards
+
+     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
+       2003.
+     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
+          + In particular, see the informal description of UTF-8 in
+            sections 2.5 and 2.6, pages 30-32, and a much more formal
+            definition in sections 3.9 and 3.10, pages 77-81.
+
+Articles and background reading
+
+     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
+     * Forms of Unicode, an excellent overview by Mark Davis
+     * Wikipedia UTF-8 contains a good discussion of why five- and
+       six-octet sequences are now illegal UTF-8
+     * Unicode Transformation Formats [czyborra.com]
+     * The Absolute Minimum Every Software Developer Absolutely,
+       Positively Must Know About Unicode and Character Sets (No
+       Excuses!), an amusing and informative article by Joel Spolsky
+
+Character Sets
+
+   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
+   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
+
+   In a modern HTML 5 page, place this tag inside <head> ... </head>:
+<meta charset="UTF-8">
+
+   In an XML prolog, the encoding is typically specified as an attribute:
+<?xml version="1.0" encoding="UTF-8" ?>
+     __________________________________________________________________
+
+   Last modified: Wed Jan 5 12:57:21 PST 2022
+
+   #alternate alternate alternate alternate
+
+     * 百度首页
+
+   网页 新闻 贴吧 知道 网盘 图片 视频 地图 文库 百科
+   ____________________ (BUTTON) 进入词条 (BUTTON) 全站搜索 帮助
+     * 清除历史记录关闭
+
+   近期有不法分子冒充百度百科官方人员，以删除词条为由威胁并敲诈相关企业。在此严正声明：百度百科是免费编辑平台，绝不存在收费代编服务，请勿上当受骗
+   ！详情>>
+
+   首页
+          历史上的今天
+
+          百科冷知识
+
+          图解百科
+
+   秒懂百科
+          懂啦
+
+          秒懂本尊答
+
+          秒懂大师说
+
+          秒懂看瓦特
+
+          秒懂五千年
+
+          秒懂全视界
+
+   特色百科
+          数字博物馆
+
+          非遗百科
+
+          恐龙百科
+
+          多肉百科
+
+          艺术百科
+
+          科学百科
+
+   用户
+          蝌蚪团
+
+          热词团
+
+          百科校园
+
+          分类达人
+
+          百科任务
+
+          百科商城
+
+   知识专题
+
+   权威合作
+          合作模式
+
+          常见问题
+
+          联系方式
+
+   下载百科APP 个人中心
+
+   家庭主妇是一个多义词，请在下列义项上选择浏览（共2个义项）
+   展开 收起
+   添加义项
+     * ▪全职照顾家庭的妇女
+     * ▪2017年土耳其电影
+
+家庭主妇
+
+          播报 编辑 锁定 讨论 上传视频 特型编辑
+
+          全职照顾家庭的妇女
+
+   [miaodong-logo_a9c9666.svg]
+   收藏
+   查看我的收藏
+   0 有用+1 已投票
+   0
+     *
+     *
+     *
+     *
+
+   家庭主妇，
+   简称主妇，是已婚妇女从事的一种岗位，指全职照顾家庭、不外出工作的妇女。服务对象是家庭的成员，包括丈夫、儿女，与夫家成员同住的还要照顾夫家的成员
+   。如由男性（丈夫）在家负责这些工作，由妻子及其他家庭成员出外赚钱养家，则称为家庭主夫。
+
+   中文名
+          家庭主妇
+
+   外文名
+          Housewife
+
+   别    名
+          全职太太
+
+   简    称
+          主妇
+
+   概    念
+          照顾家庭做家务不外出工作妇女
+
+   相关法律
+          《婚姻法》
+
+   名词介绍
+   家庭主妇也叫全职太太，不工作，负责家庭的家务。由《婚姻法》保障主妇的权益，例如遗产分配权、离婚妇女权益等。
+   在欧美国家，家庭主妇享受相关社会福利待遇。在中国，家庭主妇也偏多。家庭主妇是指结婚后不再参加工作，而是整天为家庭奔波忙碌，没有直接经济来源的一
+   类女性。^ [1]
+   百度百科内容由网友共同编辑，如您发现自己的词条内容不准确或不完善，欢迎使用本人词条编辑服务（免费）参与修正。立即前往>>
+   词条图册
+   更多图册
+   分享你的世界
+   查看更多
+     *
+          + 一个93年家庭主妇的低欲望生活｜百家故事
+            本文章收录于百家号精品栏目#百家故事#中，本主题将聚集全平台的优质故事内容。读百家故事，品百味人生。
+            人物 鲲鹏计划获奖作者,《人物》杂志官方账号
+          + 不要去做这个职业，女人都承受不起
+            回到开头知乎网友的回答，家庭主妇“把自身置于危险之地”，不只在于巨大的投入被忽视、自身的价值被贬低。还因为家庭主妇的权益根本
+            得不到保障，没有社会保险可享用，也没有独立的经济实力做支撑。
+            看电影
+          + 一个家庭主妇的朋友圈：我为他炒了4000道菜。
+            “我是一名普通的家庭主妇。”无论在接受采访或者参加节目，栗原晴美的自我介绍永远都是这样一句简单的话。
+            视觉志
+          + 为什么不支持女生做家庭主妇
+            家庭主妇不是我想要的工作，做这种工作的我，也不是你想要的妻，而对婚姻的保鲜期和稳定性，也会大大缩减。
+            周冲的影像声色
+     *
+          + 你觉得女性应该做家庭主妇吗？
+            网友讨论起女性应不应该辞职在家带孩子的问题，引起热议，大家各执己见。很多女性在孩子出生后，没有人帮忙照顾，孩子又太小没法去幼
+            儿园，只能辞职做全职太太。但我觉得女性最好不要做家庭主妇，家庭主妇的贡献是最容易被忽略的，家人和另一半也多数不会体谅女人打理
+            家庭，反而觉
+            冬瓜冲鸭
+          + 印度版「深夜食堂」，竟然把我哭成狗
+            很意外，在那么多艳丽、浮夸的电影中，院长找到了一部平凡的印度片。首先，必须承认我是电影的名字给吸引到了。依娜很快就意识到，丈
+            夫并没有吃到自己做的饭菜。而依娜和费尔南德斯之间的这种误会，属于万里挑一的巧合。
+            吐槽电影院
+          + 家庭主妇和事业女强人,谁的婚姻更幸福?
+            家庭主妇面临的处境是怎么样的？ 事业女强难道就不能拥有幸福婚姻吗？ 请在评论区说出你的观点 A：家庭主妇 B：事业女强人
+            颖宝lmffff
+          + 女性辞职带孩子，这是一个正确的选择吗？
+            在现代这个社会，生活和工作上的压力越来越大。在职场上形形色色的勾心斗角，让每个在职场奋斗的人都身心俱疲，这就导致社会家庭分工
+            的进一步细化，许多职场女性在结婚怀孕后选择辞职做一名家庭主妇在家里去陪伴孩子的成长，也有人认为这么做会容易和社会脱节，那么，
+            女性辞职带孩子，这是一个正确的选择吗？
+            小鱼子酱
+     *
+          + 你怎样看待家庭主妇为家庭作出的贡献？
+            老妈就是一个地地道道的家庭主妇，没有工作，任务就是照顾一家人的日常起居。别看这看似简单的事情，其实特别复杂，而且很累，不信�
+            可以自己主动承担家里一天所有的家务劳动试试。家庭主妇为家里做出的贡献与在外打拼为家庭所做的贡献，没有高下之分，你认为呢？
+            军服大刀
+          + 家庭主妇也是一种风险职业
+            主妇是职业，风险也不小，选择请谨慎，从事了的话，就尽心尽力去做好。至于什么要保养、要漂亮、要开心，要优雅、要给私部美容、要有
+            自己的朋友圈……那是心灵鸡汤的事情。
+            周冲的影像声色
+          + 家庭主妇也是一种职业
+            因为主妇也是一种工作。但我不得不承认，
+            主妇也是一种职业。而且是工作时间最长、身心投入最大、职业风险最高、社会认可度最低的那种
+            。在日本的时候，看见许多姑娘，一结婚就辞职，在家专业相夫教子。
+            周冲的影像声色
+
+   参考资料
+
+          + 1    长平：家庭主妇劳动的价值真需要重估   ．凤凰网[引用日期2021-07-29]
+
+   家庭主妇 (BUTTON) 图集
+   家庭主妇的概述图（2张）
+   V百科往期回顾
+
+   词条统计
+
+          + 浏览次数：次
+          + 编辑次数：106次历史版本
+          + 最近更新： 蜗缘骑士 （2022-11-16）
+
+   为您推荐广告
+
+   新手上路
+          成长任务
+
+          编辑入门
+
+          编辑规则
+
+          本人编辑 new
+
+   我有疑问
+          内容质疑
+
+          在线客服
+
+          官方贴吧
+
+          意见反馈
+
+   投诉建议
+          举报不良信息
+
+          未通过词条申诉
+
+          投诉侵权信息
+
+          封禁查询与解封
+
+   ©2023 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号
+   [copy_rignt_24.png]
+
+   京公网安备11000002000001号
+
+   ____________________ (BUTTON) 进入词条
+     * 清除历史记录关闭
+
+   播报 编辑 讨论  收藏 赞
+   登录
+
+扫码下载百科APP
+
+领取50财富值奖励
+
+   分享到微信朋友圈
+   打开微信“扫一扫”即可将网页分享至朋友圈
+
+   选择朗读音色
+   00:00
+   00:00
