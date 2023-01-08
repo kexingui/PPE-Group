@@ -1,382 +1,282 @@
-     *
+   #alternate alternate
 
-   (BUTTON) Inscription
-   (BUTTON) Connexion
-   (BUTTON) Magazine féminin de mode et beauté
-   Je m'abonne
-
-   Jusqu'à
-   -50%
-
-   version
-
-   papier
-
-   version
-
-   numérique
-   Je m'abonne
-
-   Jusqu'à 50% de réduction
-
-   et de nombreux cadeaux
-
-   au choix
-   (BUTTON)
-   Recherche sur Marie Claire
-   (BUTTON)
-   ____________________ OK
-
-   Connectez-vous
-   (BUTTON)
-   Vous avez déjà un compte
+   [ ]
+   Rejoignez-nous sur les réseaux sociaux
+   [ ]
    ____________________
+   Société
+   Féminisme
+   LGBTQI
+   Environnement
+   Politique
+   Monde
+   People
+   Buzz
+   Culture
+   Cinéma
+   Spectacles
+   Séries
+   Médias
+   Livres
+   Musique
+   Job
+   Trouver un job
+   Carrière
+   Monter sa boîte
+   Parentalité
+   Grossesse
+   Bébé
+   Ados
+   Bien-être
+   Sexo
+   Couple
+   Psycho
+   Santé
+   Forme
+   Nutrition
+   Lifestyle
+   Mode
+   Beauté
+   Food
+   Déco
+   DIY
+   TF Originals
+   Interviews Girl Power
+   Portraits
+   Les Audacieuses
    ____________________
-   (BUTTON) Mot de passe oublié
-   [ ] Se souvenir de moi
-   OK
-   Vous n'avez pas encore de compte
-   Je créé un compte pour recevoir mes newsletters et gérer mes données
-   personnelles.
-   ____________________
-   CRÉER MON COMPTE
-   ____________________
-   ____________________
-   ____________________
-   [ ] J'accepte la charte
-   [ ] Je souhaite recevoir des offres du site et ses partenaires
-   OK
-   Utiliser mon compte :
-   (BUTTON) Facebook
 
-     * Mode
-     * Beauté
-     * Société
-          + Actu société
-          + Reportages
-          + Décryptage
-          + Femmes engagées
-          + Marie Claire s'engage
-               o Violences faites aux femmes
-               o La Flamme Marie Claire
-               o Le Grand Forum
-               o Octobre Rose
-               o Women's Forum
-               o Egalité femmes hommes
-     * Bien-être et Forme
-     * Santé
-     * Écologie
-     * Culture
-     * Lifestyle
-     * Psycho
-     * Amour et Sexualité
-     * Célébrités
-     * Prescription Beauté
-     * Fashion Our Future
-     * Respirations
-     * Think Tank
-     * MC@work
-     * Mariage
-     * Régions
-     * Marie Claire Enfants
-     * Marie Claire Maison
-     * Marie Claire Idées
-     * Cuisine et Vins de France
-     * Astro
-     * Jeux-concours
-     * Newsletter
-     * Boutique
-     * Codes promo
+Peut-on être féministe et mère au foyer ?
 
-     * Marie Claire
+   Publié le Vendredi 14 Septembre 2018
+   Léa Drouelle
+   Par Léa Drouelle Journaliste
+   Peut-on être féministe et mère au foyer ?
+   Peut-on être féministe et mère au foyer ?
+   "Peut-on être féministe et mère au foyer ?". A l'occasion de
+   l'Université d'été du féminisme qui s'est tenue cette semaine, Olga
+   Trostiansky, présidente du Laboratoire de l'égalité, nous expose
+   comment les notions de féminisme et de parentalité sont perçues dans
+   notre société.
+   À lire aussi
+   Peut-on porter du rouge à lèvres et être féministe ?
+   News essentielles
+   Peut-on porter du rouge à lèvres et être féministe ?
+   Féminisme, éducation des garçons... Les jolies leçons d'Amina Frühauf,
+   mère de Bilal Hassani
+   education
+   Féminisme, éducation des garçons... Les jolies leçons...
+   "Il faut changer la vision que l'on a de la mère" : le discours
+   féministe de Laetitia Casta
+   cinéma
+   "Il faut changer la vision que l'on a de la mère" : le...
 
-     Société
+   La seconde journée de la première édition de l'Université d'été du
+   féminisme s'est tenue ce vendredi 14 septembre à la Maison de la Radio.
+   Le matin, la première table ronde était consacrée au sujet "Peut-on
+   être féministe et mère au foyer ?", avec Leslie Sowascki de
+   Parolesdemaman.com, Muriel Ighmouracène de Coworkcrèche, et Olga
+   Trostiansky, présidente du Laboratoire de l'égalité.
 
-     Actu société
+   Quinze minutes de débat au cours desquelles les trois intervenantes ont
+   abordé les choix de vie des femmes, le combat féministe, le congé
+   parental, l'autonomie financière, la réinsertion professionnelle....
+   Nous avons demandé à Olga Trostiansky d'analyser les thématiques
+   abordées lors de cette table ronde et de nous livrer sa vision de la
+   mère au foyer au sein de la société.
 
-     Actualités société - archives 2010
+Terrafemina : Que pensez-vous de l'intitulé de la table ronde "Peut-on être
+féministe et mère au foyer" ?
 
-Désespérées, ces femmes au foyer?
+   Olga Trostiansky : "C'est un sujet que je trouve très intéressant. Ma
+   mère était féministe et mère au foyer. Je connais d'autres femmes dans
+   le même cas. Et il y a beaucoup de choses à dire là-dessus à commencer
+   par le fait, et c'est ce que nous évoquions ce matin, que "mère au
+   foyer" n'est pas un statut mais une tranche de vie, c'est souvent
+   temporaire. Une femme s'arrête de travailler un temps parce qu'elle
+   vient d'avoir un enfant, puis recommence à travailler quand elle le
+   peut.
 
-   Par Corine Goldberger
-   (BUTTON) Ajouter aux favoris (BUTTON) Corbis
-   (BUTTON)
-   Partager
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
-   Envoyer par e-mail
-   (BUTTON)
+   C'est un sujet d'autant plus intéressant qu'il contient beaucoup de
+   paradoxes. Par exemple, celui des femmes qui travaillent de chez elles
+   mais qui sont aussi maman. Ce n'est pas la définition exacte que l'on a
+   d'une femme au foyer, mais d'un autre côté on a des femmes qui veulent
+   à la fois passer du temps avec leur enfant et dont l'opportunité
+   professionnelle leur permet de travailler à domicile.
 
-   Vous
-   De ____________________
-   Adresse e-mail ____________________
+   Il y a aussi les femmes qui ne travaillent pas mais qui s'investissent
+   beaucoup à l'extérieur et dont on parle peu : dans les associations,
+   dans les écoles... Elles aussi sont importantes et on ne peut pas les
+   reléguer au simple statut de "mère au foyer".
 
-   Vos destinataires (BUTTON) +
-   Adresse e-mail ____________________
+Le féminisme est-il une question d'indépendance financière ?
 
-   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-   [ ] [ ] [ ] [ ] Je certifie ne pas envoyer d'e-mail indésirable
-   Envoyer
-   «Je fais carrière si je veux, quand je veux», tel pourrait être le
-   slogan de celles qui renoncent à un super job pour retourner à la
-   maison. Enquête sur le phénomène "Desperate Housewives".
+   O.T: Pour moi, c'est le b.a-ba. Je pense qu'au sein du couple, une
+   femme doit vraiment penser à son autonomie financière. Elle doit faire
+   la part des choses et réfléchir à ses choix de vie, à ce que le fait
+   d'arrêter de travailler va impliquer pour sa vie, pour sa liberté.
+   C'est vital pour les femmes qui sont victimes de violences de la part
+   de leur conjoint et sont prisonnières car sans autonomie financière,
+   mais c'est aussi très important pour toutes les autres, même celles qui
+   ne subissent pas de violences.
 
-Femmes au foyer: Introduction
+   C'est également important pour l'enfant, qui doit apprendre que pour
+   vivre librement, il faut travailler. Il faut qu'il le voit à travers
+   ses parents, et pas uniquement avec l'image du père. Il est essentiel
+   d'avoir toutes les cartes en main pour partir en cas de séparation. Ce
+   n'est pas parce qu'on reste à la maison qu'on n'existe pas.
 
-   Ringardes, les carriéristes délurées de «Sex and the City»? Les accros
-   des séries se passionnent pour la vie déprimante des quatre
-   banlieusardes chic de «Desperate Housewives», débarqué sur Canal+ après
-   avoir cartonné outre-Atlantique.
-    De nombreuses femmes au foyer se sont sans doute identifiées à Lynette
-   Scavo, l'une des ménagères un peu givrée de la série. Ex-redoutable
-   femme d'affaires, Lynette a, en effet, renoncé à ses ambitions
-   professionnelles (sous la pression de son mari) pour élever quatre
-   mômes odieux (surtout au supermarché). Pour tenir le coup, elle avale
-   en douce leurs médicaments pour les troubles de l'attention. Quand son
-   époux, inconscient de la crise qui couve, montre un projet publicitaire
-   à Lynette, celle-ci lâche, aigrie: «Ça me rappelle un monde que j'ai
-   quitté, un monde où c'est moi qui gagnais et dans lequel je ne peux pas
-   revenir...» Message subliminal : le plus beau métier du monde, celui de
-   mère au foyer? Tu parles d'une arnaque...
+   Heureusement, un grand nombre de femmes a aujourd'hui compris
+   l'importance d'avoir son propre compte en banque, de gérer sa vie
+   personnelle, sa réinsertion professionnelle, ses impôts, ses propres
+   apports financiers etc.
 
-   > Et vous qu'en pensez-vous? Donnez votre avis sur notre forum!
-   Vidéo du jour :
+     @TrostianskyOlga "le choix des femmes de ne pas travailler des
+     consquences financires trs importantes pour elles: en cas de
+     divorce, la retraite et en terme de patrimoine. " 2/2
+     pic.twitter.com/9DNitrniBf
+     — Aline Aubertin (@aubertinaline) 14 septembre 2018
 
-Femme au foyer: Une «fuite des cerveaux»
+Ce matin, vous avez parlé de parentalité partagée...
 
-   Une tendance qui se confirme
-   La carriériste qui file sa dem parce qu'elle préfère la croissance de
-   ses enfants à celle du chiffre d'affaires de sa boîte est dans l'air du
-   temps. Aux Etats-Unis, les magazines «Time» et «Newsweek» ont consacré
-   plusieurs dossiers à cette nouvelle tendance des femmes au foyer. Le
-   Bureau of Labor Statistics constate en effet que de plus en plus
-   d'Américaines diplômées rentrent à la maison. Du coup les sociologues
-   s'inquiètent carrément d'une «fuite des cerveaux», parmi les actives
-   appartenant aux 10 % les mieux rémunérées.
-   La folie maternelle
-   Les féministes tirent la sonnette d'alarme et dénoncent la «mommy
-   madness»(1), la folie maternelle. Symptôme: une recherche de perfection
-   éducative tous azimuts (petits plats diététiques, cours d'éveil
-   artistique ou mathématique, etc.) pour faciliter l'entrée des
-   tout-petits à leur première année de maternelle. On n'est jamais
-   préparé assez tôt à affronter un monde sans pitié. Le surinvestissement
-   dans sa progéniture passe évidemment par le sacrifice des ambitions
-   professionnelles des mères, minées, de toute façon, par la culpabilité
-   de ne jamais en faire assez.
-   Obsession type: «Les autres mères paraissent parfaites, pourquoi pas
-   moi?» La pression sociale sur les «moms» provoque des drames: des mères
-   au bout du rouleau en arriveraient à mutiler, voire à tuer, leurs
-   propres enfants.
+   O.T : Oui, et cela passe bien sûr par un congé paternité plus long. La
+   femme est chez elle avant et après l'accouchement, ce qui l'éloigne du
+   statut de la femme qui travaille. Je pense que cette notion est très
+   culturelle : elle peut être subie, comme c'était le cas de ma mère qui
+   a élevé 5 enfants, avec un père qui considérait que c'était normal que
+   la mère reste à la maison. Dans des grandes villes comme Paris, dire
+   qu'on est mère au foyer est plutôt mal vu, mais ça l'est moins dans les
+   autres villes de France.
 
-Mères au foyer diplômées
+   Aujourd'hui, les couples sont confrontés à des contraintes économiques,
+   celles de la crèche notamment : place difficile à obtenir, coût
+   élevé... Dans ce genre de situation c'est souvent, comme par hasard,
+   l'homme qui gagne un peu plus d'argent qui va continuer à travailler et
+   la femme qui va rester à la maison.
 
-   La France peut-elle être touchée par ce phénomène de femmes au foyer?
-   Pour le moment, on n'en est pas là. Les mères qui rentrent à la maison
-   ne sont pas en majorité des diplômées ou des boss, mais des ouvrières,
-   des employées, des vendeuses peu qualifiées, épuisées par les horaires
-   atypiques de la grande distribution et qui préfèrent toucher
-   l'allocation parentale d'éducation plutôt qu'un salaire vite grignoté
-   par les frais de nounou...
-   15 % de bac + 3 (et plus) chez les mères au foyer
-   Pourtant, le chiffre(2) est là, qui nargue les féministes: sur
-   l'ensemble des femmes ayant cessé de travailler et mères d'un enfant de
-   moins de 3 ans, 15 % ont bac+3 et plus. En tout, plus de la moitié des
-   mères au foyer ont au moins leur bachot. Ainsi, quarante ans après la
-   publication du «Deuxième Sexe» de Simone de Beauvoir, des avocates,
-   cadres sup, ingénieures, qui estiment qu'elles n'ont plus rien à
-   prouver côté études et carrière, congédient leur baby-sitter pour
-   donner elles-mêmes le biberon et mitonner de bons petits plats à leur
-   mari.
 
-Femme au foyer: Profiter de la vie
+     Parents au Foyer " Il y a videmment un paradoxe avec la notion du
+     travail par rapport un choix culturel, ce qui est important c'est la
+     rflexion sur l'autonomie et l'indpendance des Femmes, leurs revenus,
+     leurs retraites " @TrostianskyOlga #Feminisme2018
+     pic.twitter.com/xNt5CMTL2i
+     — Gender Busters (@genderbusters) 14 septembre 2018
 
-   Un privilège qu'elles s'autorisent
-   Pour Dominique Maison, les raisons habituellement invoquées - finir de
-   slalomer entre biberons et réunions, s'occuper elles-mêmes d'enfants
-   très désirés - font certes toujours recette. Et ne sont pas nouvelles:
-   «Je veux rentrer à la maison», écrivait, dès 1979, Christiane Collange.
-   Mais il y a de l'inédit: «Cesser de travailler va de pair avec un
-   hédonisme qui, par bien des aspects, s'apparente à une figure
-   "jusqu'au-boutiste" de l'individualisme contemporain. Ces mères ne
-   souhaitent pas seulement lever le pied et devenir femme au foyer, elles
-   veulent profiter de la vie.» Et elles le disent toutes, à la virgule
-   près, en se fichant pas mal du «féministement» correct: c'est un choix,
-   un luxe, un privilège qu'elles s'autorisent, grâce aux revenus
-   confortables du mari. On est loin des rêves d'indépendance financière
-   de la précédente génération... «En tout cas, ce n'est pas un bonheur
-   feint, elles exultent!» constate Dominique Maison. Enfin pas toutes:
-   lire les témoignages.
-   Etre maman, c'est fashion
-   Difficile de savoir si le retour à la maison des superwomen est un
-   phénomène en hausse ou un choix condamné à rester marginal. Quoi qu'il
-   en soit, elles sont dans l'ensemble bien représentatives de la «bébé
-   attitude» débusquée par Muriel Flis-Trèves(4), psychiatre et
-   psychanalyste: «Regardez les magazines people: ils regorgent de photos
-   de stars enceintes, qui exhibent leur ventre rond et racontent leur
-   grossesse. Pas un numéro sans actrices, chanteuses, princesses
-   épanouies en plein pouponnage qui nous servent toutes la même chanson:
-   "Mon plus beau rôle, c'est celui de maman." Bref, partout, le discours
-   ambiant, c'est: être maman, c'est fashion, un symbole de réussite
-   personnelle. Sans doute quand on est star et millionnaire. Plus
-   complexe quand on est ex-avocate à Pithiviers.
+L'éducation est-elle la solution pour parvenir à long terme à cette notion de
+parentalité partagée ?
 
-Femmes au foyer: Elles témoignent
+   O.T : C'est pour moi l'un des sujets prioritaires en France. J'espère
+   que Monsieur Macron et Madame Schiappa feront de l'égalité des genres
+   une grande cause nationale. Il faut qu'un programme d'éducation soit
+   enseigné de la crèche à l'université.
 
-   Caroline, 36 ans, quatre enfants, ex-responsable marketing.
-   Non, je ne pleure pas sur toutes ces années d'études (prépa, Ecole
-   supérieure de commerce de Paris) pour en arriver là. Grâce à elles,
-   j'ai démarré à un poste passionnant. Je me suis pressée comme un citron
-   pendant dix ans pour décrocher le poste de responsable marketing et
-   communication d'un grand groupe. Mais au quatrième enfant, en 2002,
-   j'ai tout arrêté: ça devenait ingérable. Mon mari, directeur marketing
-   dans une boîte d'informatique, gagne bien sa vie pour que nous
-   puissions nous le permettre. Bien sûr, j'ai pesé le pour et le contre:
-   au bout de dix ans dans la même entreprise, il est largement temps de
-   changer. Mais sauter le pas, ça signifiait refaire mes preuves dans un
-   autre univers.
-   Avec quatre enfants, nous ne pouvions pas être deux à mener une vie de
-   fou : il fallait que l'un de nous se sacrifie. Ça me paraît "naturel"
-   que ce soit la mère qui s'arrête. J'avais déjà une belle carrière
-   derrière moi, donc je ne me sentais pas frustrée professionnellement.
-   Je n'ai pas l'impression d'un retour en arrière: j'ai une femme de
-   ménage et je me suis payé le luxe d'entreprendre des études de philo.
-   Il me manquait depuis longtemps une dimension intellectuelle que j'ai
-   davantage ressentie en restant à la maison. Donc j'ai décidé de
-   préparer une licence de philo et de théologie en quatre ans.»
-   Juliette, 37 ans, des jumeaux de 6 ans, chef de production dans le
-   cinéma.
-   J'ai arrêté de bosser parce que j'étais épuisée. A la naissance des
-   jumeaux, que j'ai eu beaucoup de mal à avoir, j'étais à bout de
-   souffle. Et comme il n'est pas question dans ce genre de job de lever
-   le pied ou de prendre une année sabbatique, j'ai dit stop. Et à vrai
-   dire, pendant au moins un an, ça n'a été que du bonheur. Mon nouveau
-   rôle de mère me réjouissait. Les biberons, les sorties au parc, les
-   mamours, je découvrais et je savourais pleinement. Ce que j'aimais
-   moins, c'était la facette épouse de dermato à succès, disponible et
-   corvéable à merci. Désormais, toute ma créativité tournait autour de la
-   déco intérieure et des menus pour les invités...
-   « Quand ils sont entrés à la maternelle, j'ai littéralement pété les
-   plombs. Je me suis mise à piquer dans les magasins, jamais pour moi,
-   toujours pour les jumeaux. En plus, je m'étais remise à fumer des
-   joints, comme lorsque j'avais 18 ans. Et puis il y avait un symptôme
-   encore plus grave. Dès que j'accompagnais mon mari dans un dîner,
-   j'étais prise d'angoisses terribles »
-   J'ai commencé à me sentir mieux lorsque je me suis remise à écrire un
-   scénario. Peu à peu, j'ai repris le boulot, sans me laisser happer. Je
-   me suis séparée de mon mari, cette crise nous avait trop éloignés l'un
-   de l'autre. Doucement, j'ai retrouvé mon tempo, surtout le bonheur d'un
-   boulot créatif. Les enfants sont entrés au cours préparatoire, ils vont
-   bien, et en fait, je me sens plus disponible pour eux aujourd'hui, même
-   si je bosse à plein temps. Me priver de mon métier, c'était, en fait,
-   me priver d'une partie de moi-même.»
-   Lire aussi :
-   On a retrouvé les vraies "Desperate Housewives" !
-   Partager
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   Il y a plein de choses à faire : des ateliers où l'on instruit les
+   enfants sur l'égalité des genres, à la fois avec les parents et les
+   professeurs. J'insiste sur l'importance de respecter ce schéma
+   enfant-parent-prof. L'éducation se fait autant à la maison qu'�
+   l'école.
 
-   NEWSLETTER
+   Il ne s'agit pas forcément de censurer tous les livres qui représentent
+   des stéréoptypes genrés type "maman fait la cuisine pendant que papa
+   lit le journal" mais plutôt de questionner l'enfant après avoir lu le
+   livre avec lui. "Ça se passe comme ça aussi chez toi ?". "Ta maman
+   travaille ?". Toute cela pour lui faire comprendre que ces schémas ne
+   sont pas figés et non représentatifs de l'ensemble de la société.
 
-   Toute l'actu Marie Claire, directement dans votre boîte mail
-   ____________________ Valider S'abonner
+   Cela nécessite de la pédagogie, de la volonté, de la réflexion, du
+   partage et pas simplement l'avis isolé de quelques profs qui sont
+   d'accord ou non avec ces principes. Si on ne prend pas le temps
+   d'expliquer aux enfants, on tombe dans des schémas caricaturaux qui
+   consistent à dire qu'on cherche à individualiser les sexes. Il faut que
+   les personnes comprennent que l'objectif, c'est l'égalité, pas la
+   disparition des garçons et des filles."
+   Société
+   maternité
+   feminisme
+   inégalités
+   parents
+   sexisme
+   News essentielles
+   mère
+   Stéréotypes
+   Les dossiers
+   Dossier
+   Les nouveaux papas
+   Dossier
+   Bioéthique et recherche : questions et débats
+   Dossier
+   Les femmes et l'espace : un peu plus près des étoiles
+   L'essentiel du jour
+   series
+   Pourquoi l'annulation de "1899" pourrait être une erreur historique de
+   Netflix
+   Santé
+   "Tu te sens tellement vide" : Caroline Garcia se confie sur l'enfer de
+   la boulimie
+   series
+   L'une des meilleures séries des années 2000 débarque en intégralité sur
+   OCS
+   Société
+   "Notre parole doit être entendue" : Florence Porcel, première
+   accusatrice de PPDA, dénonce
+   series
+   "Un oeil indiscret", la nouvelle série érotique qui cartonne sur
+   Netflix
+   Buzz
+   Ça veut dire quoi ce "POV" qu'on voit sur les réseaux sociaux ?
+   Voir toutes les news
+   Sur le même thème
+   Peut-on être écolo sans sombrer dans la dépression ?
+   Peut-on être écolo sans sombrer dans la dépression ?
+   Comment être un vrai papa féministe ?
+   Comment être un vrai papa féministe ?
+   Au Bangladesh, elle mène une marche féministe jusqu'au foyer de son
+   futur mari
+   Au Bangladesh, elle mène une marche féministe jusqu'au foyer de son
+   futur mari
+   "Pourquoi forcer les enfants à être enceintes ?" : la vidéo choc des
+   mères texanes
+   "Pourquoi forcer les enfants à être enceintes ?" : la vidéo choc des
+   mères texanes
+   Cette femme transgenre se bat pour être reconnue comme la mère de sa
+   fille biologique
+   Cette femme transgenre se bat pour être reconnue comme la mère de sa
+   fille biologique
+   Terrafemina
+   Webedia
+     __________________________________________________________________
 
-   Dernières News
-   Les ex-adolescents de "Roméo et Juliette" portent plainte pour
-   exploitation sexuelle de mineurs
-   Benjamin Mendy accusé d'avoir filmé une femme à son insu pendant sa
-   libération conditionnelle
-   La Maison Veuve Clicquot, aux côtés des femmes entrepreneures depuis 50
-   ans
+   Suivez-nous
+     * Facebook
+     * Twitter
+     * Google+
+     * Pinterest
 
-   Plus d'Actu société
-   En Iran, la police contrôle désormais les voiles des femmes en voiture
-
-   Michel Aupetit, ancien archevêque de Paris, visé par une enquête pour
-   agressions sexuelles sur personne vulnérable
-   Omar Sy victime d'un procès d'intention après ses propos sur la guerre
-   en Ukraine
-   Féminicides en 2022 : dans les Ardennes, Émilie, 23 ans, 146ème femme
-   tuée par son conjoint
-
-   Plus d'Actualités société - archives 2010
-   Femme française, femme fatale ?
-
-   Métrosexuel, c'est trop?
-   La Tecktonik: le nouveau phénomène "danse" !
-   Ces jeunes filles qui séparent le sexe et les sentiments
-   Shoes addict: pourquoi il me les faut à tout prix !
-   Qui sont les nouvelles pauvres ?
-   Mère porteuse Inde: Des bébés made in India
-
-   Les avis des internautes
-   De anonyme
-   La femme qui ne se rend pas chez un employeur est mal vue par les
-   autres car elle suscite une jalousie non avouée. Les actives jouent les
-   femmes supérieures mais il n'en est rien. Elles courbent tous les jours
-   en silence sous des pressions diverses. Mais en société, les
-   professionnelles se plaisent à rabaisser les autres car elles ne sont
-   pas si heureuses et gagnantes qu'elles veulent bien le prétendre. Femme
-   au foyer ou femme salariée, rien n'est gratuit, dans les deux cas, cela
-   exige de sérieux efforts. Pour les unes, de la diplomatie familiale
-   pour les autres se montrer dure à la tâche dans un monde du travail qui
-   ne pardonne aucune lacune. Chacune son choix, vouloir tout et rêver
-   tenir la vie de sa voisine au foyer dans la main pour en faire une
-   autre n'est rien d'autre que de la frustration refoulée. Il faut avoir
-   confiance en soi et accepter le droit de vivre de toutes. La place que
-   ne prennent pas les unes va aux autres, chacune y trouve son compte, à
-   la fin. La guerre entre femmes, par jalousie , ce n'est pas cela le
-   renouveau de la société du futur. L'avenir laissera une grande place à
-   toutes celles qui pensent que les valeurs féminines du passé
-   constituent les racines d'un avenir équilibré pour le fonctionnement de
-   notre société de demain. Chacune sa place, selon ses priorités.
-   De anonyme
-   Si c'est pour finir ménagère autant pas faire d'études. Au Japon, les
-   femmes se marient et quittent tout, du fait que des parents se
-   demandent si l'éducation de leurs filles est nécessaire...
-   De anonyme
-   message adressé à la personne qui a laissé un commentaire avant moi :
-   - C'est toi qui as une vie de "merdeufs", esclave inconsciente du
-   capitalisme marchand. Ces femmes qui ont un haut niveau d'études et qui
-   préférent tout plaquer pour s'occuper de leurs enfants, celles-ci ont
-   compris que la soit disante lutte féministe des années 68 ne sert à
-   rien, ce n'est qu'une illusion, on les fait miroitier que c'est une
-   liberté, mais en faite tu passes de l'autorité de ton mari à celui du
-   patron, et encore le monde de travail est un monde de négritude, ce ne
-   sont que des esclaves qui travaillent toute la journée sous pression en
-   supportant les mauvaises humeurs insupportables des collègues et
-   hierarchies. Elles sont des femmes d'avant-gardistes, vous verrez
-   mesdames les féministes que avec le temps ce pourcentage de femmes qui
-   ont à marre du travail va augmenter fulguremment et malgré vos cris
-   d'esclavagistes, rien ni personne ne peut les contraindre, c'est la
-   vie, vous vouliez dénaturer les oeuvres de Dieu et le temps arrive ou
-   vous ne pourriez rien contre les valeurs pures de l'humanité, votre
-   cause est une cause intolérante et extrémiste, vous n'avez aucun coeur
-   pour les femmes qui privilégient l'amour mères-enfants, vous vouliez
-   les mettre sur les rings comme des boxeurs et les réduire à une sorte
-   de machine à fric, travailler jusqu'à en créver, mais c'est vous qui
-   avez perdu le combat, tant d'années de lutte pour une cause sans âme ne
-   peut pas gagner. Votre cause n'est pas la vertu
-   De anonyme
-   Quelle pauvre vie, ces merdeufs. Tant d'années de lutte pour voir qu'en
-   2008, certaines veulent encore vivre comme ça. Bonjour le Prozac !
-
-   Les plus populaires
-   #JauraisFaitCommeElle : vague de soutien envers Priscilla Majani, jugée
-   pour l'enlèvement de sa fille CamilleComment Greta Thunberg a humilié
-   un influenceur misogyne accusé de trafic d’humains et de violEscort
-   boys : ils nous disent ce que veulent vraiment les femmes!Meurtre de
-   Lola : la suspecte Dahbia B. jugée "narcissique psychopathique" mais
-   responsableMeTooTéléRéalité : Illan Castronovo et Julien Bert visés par
-   deux plaintes pour violFéminicides en 2022 : dans les Ardennes, Émilie,
-   23 ans, 146ème femme tuée par son conjoint
-
-   (BUTTON)
-
-   Je m'abonne
-
-   Inscrivez-vous à la newsletter
-   ____________________ Valider
-
-     * Plan du site
+   À propos
+     * Conditions Générales d'Utilisation
+     * Qui sommes-nous ?
+     * Politique de protection des données
      * Mentions légales
-     * Cookies
+     * Politique sur les cookies et autres traceurs
+     * Conditions Générales de l'offre payante Terrafemina.com
+     * Notifications
+     * Préférences cookies
+     * Stars
+     * Serie
+     * Compagnie
+     * Télé-réalité
+     * Emission
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PSKS9L
+   Un site du groupe webedia
+   750g
+   Académie du Goût
+   AlloCiné
+   DrGood!
+   FilmsActu
+   Purebreak
+   Purecharts
+   Puremedias
+   Purepeople
+   Pureshopping
+   Easyvoyage
+   Prescription Lab

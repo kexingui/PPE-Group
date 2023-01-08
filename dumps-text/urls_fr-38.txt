@@ -1,425 +1,308 @@
-   #Parents.fr - Bientôt ou déjà parents, on vous accompagne
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KJDT3TM
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P4R33C
-
-   (BUTTON) Menu
-   Bientôt ou déjà parents, on vous accompagne !
-     * Je m’abonne
+     *
      *
      *
 
-   (BUTTON) ____________________
-
-     * (BUTTON) Envie de bébé
-          + Toute la rubrique Envie de bébé
-          + Préparer la grossesse
-          + Ovulation
-          + Test de grossesse
-          + Infertilité
-          + Cycle menstruel
-          + PMA
-          + Psycho
-          + Forum
-     * (BUTTON) Grossesse
-          + Toute la rubrique Grossesse
-          + Suivi de grossesse
-          + Santé
-          + Alimentation et grossesse
-          + Congé maternité
-          + Congé parental
-          + Grossesse multiple
-          + Grossesse mois par mois
-          + Guide des maternités
-          + Forum enceinte
-     * (BUTTON) Accouchement
-          + Toute la rubrique Accouchement
-          + Guide des maternités
-          + Se préparer
-          + Accoucher
-          + Césarienne
-          + Péridurale
-          + Épisiotomie
-          + Psycho
-          + Suivi post-accouchement
-          + Forum accouchement
-     * (BUTTON) Bébé
-          + Toute la rubrique Bébé
-          + Alimentation
-          + Allaitement
-          + Diversification alimentaire
-          + Santé
-          + Prématuré
-          + Soins
-          + Sommeil de bébé
-          + Psycho
-          + Prix PARENTS Bien-être Bébé
-          + Parents tout en douceur
-     * (BUTTON) Enfant
-          + Toute la rubrique Enfant
-          + Psycho
-          + Éducation et vie sociale
-          + École
-          + Alimentation
-          + Culture et loisirs
-          + Hygiène dentaire
-          + Hyperactif
-          + Santé de l'enfant
-          + IMC enfant
-          + Médecines douces
-          + Les émotions de l’enfant
-     * (BUTTON) Mode de garde
-          + Toute la rubrique Mode de garde
-          + L'assistante maternelle
-          + La nounou
-          + Les crèches
-     * (BUTTON) Être parent
-          + Toute la rubrique Être parent
-          + Maman
-          + Papa
-          + Couple
-          + Famille
-          + Dico juridique
-          + Prix PARENTS Beauté Femme
-          + Les mamans 6ter
-          + Bons plans pour les parents
-          + Calcul IMC
-     * (BUTTON) Prénoms
-          + Toute la rubrique Prénoms
-          + Prénom de fille
-          + Prénom de garçon
-          + Prénoms par origine
-          + Idée de prénom
-          + Nos conseils prénoms
-          + Prénoms de fille par lettre
-          + Prénoms de garçon par lettre
-          + Forum prénoms
-     * (BUTTON) Astro
-          + Toute la rubrique astro
-          + Signes astrologiques
-          + Horoscope chinois
-          + Numérologie
-          + Ascendant
-          + Horoscope du jour
-          + Horoscope de la semaine
-          + Horoscope du mois
-     * (BUTTON) Bien s'équiper
-          + Toute la rubrique Bien s'équiper
-          + Prix PARENTS
-          + Palmarès Prix PARENTS 2022
-          + Palmarès Prix PARENTS 2021
-          + Conseils pour s'équiper
-          + Équipements pour bébé
-          + Équipements pour enfants
-          + Équipements pour maman
-          + Équipements de grossesse
-          + Astuces de PARENTS
-     * (BUTTON) Nos experts
-          + Toute la rubrique Experts
-          + Gynécologue
-          + Avocat
-          + Nutritionniste
-          + Psychologue
-          + Sexologue
-     * (BUTTON) Forum
-          + Tout le forum PARENTS
-          + Forum Je veux un bébé
-          + Forum Je suis enceinte
-          + Forum Bébé 0-3 ans
-          + Forum Enfant 3-10 ans
-          + Forum Ma famille
-          + Forum Je suis parent
-          + Forum Activités pour bébés et enfants
-     * (BUTTON) Actualités
-          + Toutes les actualités
-          + Envie de bébé
-          + Grossesse
-          + Accouchement
-          + Bébé
-          + Enfant
-          + Être parent
-     * (BUTTON) Vidéos
-          + Toutes les vidéos
-          + Vidéos Accouchement
-          + Vidéos Allaitement
-          + Vidéos Bébé
-          + Vidéos Enfanrt
-          + Vidéos Grossesse
-          + Vidéos Humour
-          + Vidéos Recettes bébé
-          + Vidéos Être parents
+   Fil info
+     * Grille
      * Podcasts
-     * Activités avec les Momes
+     * Actu
+     * Astro
+
+     * Assister à une émission
+     * Réagir à une émission
+     * Fréquences
+     * Quel est ce titre ?
+     * Newsletters
 
      *
      *
      *
      *
 
-     * Envie de bébé
-     * Grossesse
-     * Accouchement
-     * Bébé
-     * Enfant
-     * Être parent
+   Retour au menu
+   Actu
+     * Politique
+     * International
+     * Justice et faits divers
+     * Conso
+     * Food
+     * Bien-être
+     * Tech
+
+   Culture
+     * Arts Spectacles
+     * Ciné Séries
+     * Médias et people
+     * Musique
+     * Culture Générale
+
+   Sports
+     * Football
+     * Ligue 1 Uber Eats
+     * On refait les courses
+     * Autres sports
+
+   Retour au menu
+   Astro
+     * Horoscope quotidien
+     * Horoscope annuel
+     * Voyance
+
      *
-          + Astro
-          + Prénoms
-          + Vidéos
+     *
+     *
+
+     *
+     *
+          + Actu
+          + Grille
           + Podcasts
-          + Magazine
 
-   En ce moment :
-     * Astro bébé et maman
-     * Coronavirus France
-     * Palmarès Prix Parents 2022
-     * Application Grossesse
-     * Les émotions de l’enfant
-
-     * Accueil
-     * ...Actualités
-     * Actus être parent
-
-   19/12/2017
-
-Ils disent que vous ne faites rien de la journée : voici le quotidien d'une
-mère au foyer
-
-   En réponse à son mari, cette maman d’un petit garçon de 2 ans a filmé
-   sa journée de femme au foyer.
-   le quotidien d'une mère au foyer
-   © Facebook
-
-   Gemma Chalmers, 35 ans, en a eu assez d’entendre son mari se plaindre
-   que lui, travaille dur, pendant qu’elle, profite de ses journées auprès
-   de leur garçon. Un discours que bien des mères au foyer entendent
-   régulièrement. Elles ont tellement de la chance de rester à la maison
-   et de s’occuper de leur enfant… Tout ça pendant que Monsieur papote à
-   la machine à café et prend 1 heure 30 de pause déj’ pour aller au resto
-   avec ses collègues. Okay, peut-être que le quotidien de chacun est un
-   peu exagéré…
-
-   Il n’empêche que Gemma a décidé d’agir. Pour faire prendre conscience à
-   son mari que sa vie n’est pas faite que de jeux et de câlins-bisous,
-   cette maman d’un petit garçon de 2 ans a filmé sa journée. Au « Mirror
-   » elle explique : « Tout le week-end, mon charmant compagnon s'est
-   plaint du fait que je ne faisais rien de mes journées, alors j'ai
-   décidé de lui montrer une journée complète en vidéo. »
-
-   Entre le ménage, les lessives, le repas, l’emballage des cadeaux de
-   Noël, les activités de bébé, et son travail de manucure à domicile,
-   Gemma ne s’arrête jamais ! Sa journée débute à 9 h du matin et se
-   termine à 20 h 30. Tout juste prend-elle le temps de manger en vitesse
-   devant la télé pendant que son petit monstre fait la sieste. « Avant
-   même de commencer la vidéo, j'avais déjà dû nettoyer les bêtises de mon
-   fils, vidé le lave-vaisselle, servi un petit déjeuner et pris une
-   douche en vitesse », précise Gemma.
-
-   Depuis, sa vidéo est devenue virale. « Toutes les mères de mon
-   entourage ont montré cette vidéo à leur mari pour qu'ils arrêtent de se
-   plaindre », confie Gemma au Mirror. « Et les pères au foyer aussi m'ont
-   dit que c'était très proche de la réalité. » Espérons que son mari se
-   montre un peu plus compréhensif aujourd’hui…
-
-   IFRAME:
-   https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.faceb
-   ook.com%2FGemma.Chalmers82%2Fvideos%2F10212932844213974%2F&show_text=0&
-   width=560
-
-Votre horoscope par email
-
-   Merci pour votre inscription.
-   Une erreur technique est survenue, merci de réessayer ultérieurement
-   Fréquence *
-   [ ] Quotidien [ ] Hebdomadaire [ ] Mensuel
-   Ma date de naissance * ____________________
-   Date de naissance de mon enfant ____________________
-   Mon adresse email * ____________________
-   (BUTTON) Je m'inscris
-   * champs obligatoire
-   Les informations vous concernant sont destinées à l'envoi de votre
-   horoscope par newsletters. Elles sont conservées pendant une durée de
-   trois ans à compter du dernier contact. Ces informations pourront faire
-   l’objet d’une prise de décision automatisée visant à évaluer vos
-   préférences ou centres d’intérêts personnels. Conformément à la loi
-   française « Informatique et Libertés » n°78-17 du 6 janvier 1978
-   modifiée et au Règlement Européen 2016/679, vous pouvez demander à
-   accéder aux informations qui vous concernent, pour les faire rectifier,
-   modifier, ou supprimer, pour vous opposer à leur traitement par mail à
-   dpo@uni-medias.com ou par courrier à l'adresse suivante : Uni-médias, à
-   l'attention du DPO, 22 rue Letellier - 75015 - Paris, ou pour demander
-   leur portabilité, en écrivant par courrier à l'adresse suivante :
-   Uni-médias, à l'attention du DPO, 22 rue Letellier - 75015 - Paris ou
-   par mail à dpo@uni-medias.com. Vous pouvez également définir les
-   conditions d'utilisation, de conservation et de communication de vos
-   données à caractère personnel en cas de décès. Pour toute demande
-   relative à vos données personnelles, vous pouvez contacter le délégué à
-   la protection des données à l’adresse mail suivante :
-   dpo@uni-medias.com, ou introduire une réclamation auprès de la
-   Commission Nationale Informatique et Libertés.
-   nl astro
-   Mentions légalesMentions légalesFermer
-   A lire aussi
-     * Mots d’enfants : l’embarras d’une maman après que sa fille l’a
-       décrite nue
-     * Passer sa vie à interpréter, le quotidien d’Eglantine Eméyé, maman
-       d’un garçon autiste
-     * Familles nombreuses : Mélanie Gonzalez en conflit avec sa fille
-       Margot adolescente
-     * Serena Williams : elle avoue ne pas avoir ressenti de connexion
-       durant sa
-     * Fête des mères : les tendres messages des stars (photos)
-     * Le nouveau Parents est sorti !
-
-   Auteur :
-   Mathilde Saez
-   Mathilde Saez, Journaliste
-   Publié le 19 déc. 2017
-
-   Partager cet article
-     *
+     * (BUTTON) Écouter le direct
      *
      *
 
-   Les plus consultés
-     * Un papa refuse de signer l’acte de naissance de son enfant,
-       pourquoi ?
-       Actus être parent
-       Un papa refuse de signer l’acte de naissance de son enfant,
-       pourquoi ?
-     * Vacances de Noël : pourquoi la rentrée est-elle décalée au mardi ?
-       Actus être parent
-       Vacances de Noël : pourquoi la rentrée est-elle décalée au mardi ?
-     * Julien Doré papa : rare photo son petit garçon au style déjà bien
-       affirmé
-       Actus être parent
-       Julien Doré papa : rare photo son petit garçon au style déjà bien
-       affirmé
-     * Slimane, papa : qui est la mère de sa fille, Esmeralda ?
-       Actus être parent
-       Slimane, papa : qui est la mère de sa fille, Esmeralda ?
-     * Salaires : vers des augmentations record en 2023
-       Actus être parent
-       Salaires : vers des augmentations record en 2023
-     * Aide financière : comment obtenir le chèque énergie bois de la part
-       du gouvernement ?
-       Actus être parent
-       Aide financière : comment obtenir le chèque énergie bois de la part
-       du gouvernement ?
+    1. Accueil
+    2. Actu
+    3. Société
+    4. Charge mentale : un jeu-vidéo pour se mettre dans la peau d'une
+       femme au foyer
 
-En vidéo
+   1 min de lecture
 
-   Interview sans filtre : « Nous avons adopté trois enfants porteurs de
-   handicap », par Clotilde Noël
-   Interview sans filtre : « Nous avons adopté trois enfants porteurs de
-   handicap », par Clotilde Noël
+Charge mentale : un jeu-vidéo pour se mettre dans la peau d'une femme au
+foyer
 
-sur momes.parents
+Un studio de jeux-vidéo espagnol a édité "Behind Every Great One", un mini
+jeu pour expérimenter la charge mentale que subissent les femmes au foyer.
 
-   10 projets sur l'épiphanie en maternelle
-   10 projets sur l'épiphanie en maternelle
-
-   Suivez-nous
+   (BUTTON) "Behind Every Great One", un jeu-vidéo pour expérimenter le
+   surmenage domestique des femmes au foyer
+   "Behind Every Great One", un jeu-vidéo pour expérimenter le surmenage
+   domestique des femmes au foyer
+   Crédit : Deconstructeam
+   Arièle Bonte
+   Arièle Bonte
+   publié le 06/09/2018 à 13:55
      *
      *
      *
      *
 
-   Futurs ou jeunes parents ?
-   Inscrivez-vous aux newsletters Parents de votre choix
-     * Objectif bébé1 fois par semaine [ ] Je m'abonne
-     * Suivi de grossesse1 fois par semaine [ ] Je m'abonne
-     * Grossesse1 fois par semaine [ ] Je m'abonne
-     * Prénoms1 fois par semaine [ ] Je m'abonne
-     * Bébé 0-3 ans2 fois par semaine [ ] Je m'abonne
-     * Momes 3-12 ans1 fois par semaine [ ] Je m'abonne
-     * Actualités5 fois par semaine [ ] Je m'abonne
-     * Bons Plans2 fois par semaine [ ] Je m'abonne
-     * Offres exclusives de nos partenaires1 fois par semaine [ ] Je
-       m'abonne
-     * Astro parent et enfant
-       1 fois par jour
-       Je m'abonne
-     __________________________________________________________________
+   "Derrière chaque grand homme, se cache une femme". Cette expression
+   vous la connaissez bien et c'est à elle que fait référence le nom
+   de Behind Every Great One, un mini jeu-vidéo réalisé par le studio
+   espagnol Deconstructeam et disponible en téléchargement gratuit sur
+   Internet.
 
-   Renseignez votre email pour recevoir vos newsletters :
-   ____________________
+   L'objectif de ce dernier : démontrer l’absurdité d'une telle phrase qui
+   tente de rendre (maladroitement) gloire aux femmes qui opèrent, en
+   silence et dans l'ombre, derrière les grands hommes de ce monde. Une
+   manière de leur dire qu'elles sont à leur place dans le foyer et que
+   leur rôle, dans le couple, est de s'effacer au profit de la carrière de
+   leur époux.
 
-   Renseignez votre date d’accouchement prévue pour recevoir votre
-   newsletter suivi de grossesse personnalisé :
-   ____________________
+   Dans Behind Every Great One, jeu-vidéo repéré par 20 minutes, vous
+   incarnez Victorine, femme au foyer et épouse de Gabriel, un artiste
+   peintre. Cette dernière "n'a aucune passion" et passe donc ses journées
+   à satisfaire les besoins et envies de son artiste de mari, peut-on lire
+   sur le site. Pour toute récompense : Victorine reçoit les critiques et
+   les ordres de Gabriel, jamais content du travail qu'elle a accompli,
+   rapporte 20 minutes.
 
-   je m’inscris
+Un jeu triste et émouvant
 
-   Les informations vous concernant sont destinées à l'envoi des
-   newsletters afin de vous fournir ses services, des informations
-   personnalisées et des conseils pratiques. Elles sont conservées pendant
-   une durée de trois ans à compter du dernier contact. Ces informations
-   pourront faire l’objet d’une prise de décision automatisée visant à
-   évaluer vos préférences ou centres d’intérêts personnels. Conformément
-   à la loi française « Informatique et Libertés » n°78-17 du 6 janvier
-   1978 modifiée et au Règlement Européen 2016/679, vous pouvez demander à
-   accéder aux informations qui vous concernent, pour les faire rectifier,
-   modifier, ou supprimer, pour vous opposer à leur traitement par mail à
-   dpo@uni-medias.com ou par courrier à l'adresse suivante : Uni-médias, à
-   l'attention du DPO, 22 rue Letellier - 75015 - Paris, ou pour demander
-   leur portabilité, en écrivant par courrier à l'adresse suivante :
-   Uni-médias, à l'attention du DPO, 22 rue Letellier - 75015 - Paris ou
-   par mail à dpo@uni-medias.com. Vous pouvez également définir les
-   conditions d'utilisation, de conservation et de communication de vos
-   données à caractère personnel en cas de décès. Pour toute demande
-   relative à vos données personnelles, vous pouvez contacter le délégué à
-   la protection des données à l’adresse mail suivante :
-   dpo@uni-medias.com, ou introduire une réclamation auprès de la
-   Commission Nationale Informatique et Libertés.
-   Nos services
-     * Annuaire des prénoms
-     * Astrologie, Horoscope
-     * Horoscope Chinois
+   Petit à petit, cette "femme au foyer désespérée" sombre alors dans le
+   surmenage domestique, autrement appelé "charge mentale" et permet alors
+   aux joueurs et aux joueuses d'expérimenter, à leur manière, ce stress
+   que connaissent 8 femmes sur 10 en France, selon un sondage Ipsos pour
+   O2 Care Services. En témoignent les nombreux commentaires postés sur la
+   page du jeu-vidéo.
+   À lire aussi
+   Le Doodle de ce jeudi 1er décembre
+   internet
+   Google : qui est Jerry Lawson, l'inventeur mis à l'honneur dans le
+   Doodle du jour ?
+     *
+     *
 
-   Nos sujets
-     * Alimentation du bébé
-     * Bilan de fertilité
-     * Causes de l'infertilité
-     * Comment donner le biberon
-     * Diversification alimentaire bébé
-     * Droits de la femme enceinte
-     * Lait bébé
-     * Les repas de bébé
-     * Mode grossesse
-     * Médecines douces
-     * Acupuncture
-     * Homéopathie
-     * Osthéopathie
-     * Tests et quiz
-     * Traitements fertilité
-     * Troubles de la fertilité
-     * Vitamines et minéraux
-     * Coiffure enfant
-     * Dyslexie de l'enfant
-     * FIV - Fécondation In Vitro
-     * Insémination artificielle
-     * Mode enfant
-     * Stimulation ovarienne
-     * Poux
+   "Je pense que c'est un jeu brillant. J'ai légitimement ressenti les
+   pressions d'être une femme au foyer", "Un jeu intelligent et sensible",
+   "J'ai adoré le style artistique, l'atmosphère, l'ambiance, tellement
+   déprimant", "Ce jeu m'a fait pleurer", "un jeu triste et qui rend en
+   colère".
+   La rédaction vous recommande
+     * Muriel Tramis, la créatrice d'"Adibou", décorée de la Légion
+       d'honneur
+     * Jeux vidéo : 5 titres pour lutter contre les stéréotypes de genre
+     * Deux françaises créent un mini jeu-vidéo gratuit contre le sexisme
+     * Lara Croft, Samus, Chun-Li... Les 10 héroïnes emblématiques des
+       jeux vidéo
 
-   Sites du groupe :
+   À écouter aussi
+   journal switch
+   Le journal RTL
+   L'HISTOIRE QUI REVEILLE - Ce casque de réalité virtuelle tue le joueur
+   quand il perd la partie
+   11/11/2022 à 05:05 - 12m36s
+   (BUTTON)
+   jeux vidéo égalité hommes-femmes sexisme
 
-          + Mômes
-          + Santé Magazine
-          + Merci pour l'info
-          + Bottin Gourmand
-          + Régal
-          + Détente Jardin
-          + Maison Créative
-          + Détours en France
+   L’actualité par la rédaction de RTL dans votre boîte mail.
 
-     * Abonnement magazine
-     * Nous contacter
-     * Charte éditoriale
-     * Mentions légales
-     * Données personnelles et cookies
-     * CGU
-     * Désabonnement au magazine
-     * Plan du site
+   Grâce à votre compte RTL abonnez-vous à la newsletter RTL info pour
+   suivre toute l'actualité au quotidien
+   Je créé mon compte Se connecter
+   [ ]
+   S’abonner à la Newsletter RTL Info
+   (BUTTON) Lire la suite
+
+Commentaires
+
+   Afin d'assurer la sécurité et la qualité de ce site, nous vous
+   demandons de vous identifier pour laisser vos commentaires.
+   Cette inscription sera valable sur le site RTL.fr.
+   Se connecter Créer un compte
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Poster un commentaire
+
+Signaler un commentaire
+
+   Choisir le type d'abus (Facultatif)
+   [Atteinte à la vie privée____..]
+
+   Compléter votre signalement (Facultatif)
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   (BUTTON) Annuler
+   (BUTTON) Signaler
+   (BUTTON) Voir plus de commentaires
+   pub
+   Flash Actu
+   Kylian Mbappé
+
+Équipe de France : Mbappé recadre Le Graët après ses propos sur Zidane
+
+   RTL.fr - Sport
+   Kylian Mbappé au Parc des Princes le 11 octobre 2022
+   Brésil
+
+Assaut au Brésil : Lula condamne l'invasion de "vandales fascistes"
+
+   RTL.fr - Actu
+   L'ancien président brésilien Lula da Silva est directement visé dans
+   l'enquête sur le scandale de corruption de l'entreprise étatique
+   Petrobras.
+   trains
+
+Marne : le trafic ferroviaire interrompu après l'explosion d'une sucrerie
+
+   RTL.fr - Actu
+   Un train en gare (illustration)
+   livres
+
+Le romancier Russel Banks est mort à 82 ans
+
+   RTL.fr - Culture
+   Russel Banks est mort
+   pub
+   pub
+   pub
 
    (BUTTON)
+   (BUTTON)
+   En Direct
+   (BUTTON)
+   /
+   (BUTTON) (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+     * Faire une recherche dans replays
+     * [ ]
+       Lecture automatique en fin de programme
+
+   (BUTTON)
+   (BUTTON) Écouter le direct
+   (BUTTON) Voir la video
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+     * Grille
+     * Podcasts
+     * Actu
+     * Culture
+     * Sports
+
+     * Assister aux émissions
+     * Réagir à une émission
+     * Quel est ce titre ?
+     * Direct
+     * Fréquences
+     * Archives
+
+     * Contactez-nous & FAQ
+     * Mentions légales
+     * Charte de confidentialité
+     * Configuration des cookies
+     * Annonceurs
+     * Nous rejoindre
+
+     *
+     *
+     *
+     *
+
+Les applications
+
+   Disponible sur App Store
+   Disponible sur Play Store
+   Disponible sur Alexa
+
+     * Croq'Kilos
+     * CuisineAZ
+     * PasseportSanté
+     * M6météo
+     * Déco
+     * Turbo
+     * Groupe M6
+     * 6Play
+     * Croq'Kilos
+     * Fun Radio
+     * RTL2
+     * RTL Astro
+
+   (BUTTON) Fermer
+
+   Bienvenue sur RTL
+
+   Ne manquez rien de l'actualité en activant les notifications sur votre
+   navigateur
+
+   Cliquez sur “Autoriser” pour poursuivre votre navigation en recevant
+   des notifications. Vous recevrez ponctuellement sous forme de
+   notifciation des actualités RTL. Pour vous désabonner, modifier vos
+   préférences, rendez-vous à tout moment dans le centre de notification
+   de votre équipement.
+
+   (BUTTON) Fermer
+
+   Bienvenue sur RTL
+
+   Rejoignez la communauté RTL, RTL2 et Fun Radio pour profiter du
+   meilleur de la radio
+   Je crée mon compte

@@ -1,278 +1,418 @@
-   #alternate alternate
+     *
 
-   [ ]
-   Rejoignez-nous sur les réseaux sociaux
-   [ ]
+   (BUTTON) Inscription
+   (BUTTON) Connexion
+   (BUTTON) Menu Grossesse, bébé, enfant, adolescent, famille
+   Nos magazines
+   à partir de 2,99€
+   Retrouvez nos guides thématiques pour une parentalité positive
+   j'achète au numéro
+   Gratuit
+   Consultez la version gratuite sur ordinateur, tablette ou smartphone
+   je lis en ligne
+   (BUTTON)
+   Recherche sur Magicmaman.com
+   (BUTTON)
+   ____________________ OK
+
+   Connectez-vous
+   (BUTTON)
+   Vous avez déjà un compte
    ____________________
-   Société
-   Féminisme
-   LGBTQI
-   Environnement
-   Politique
-   Monde
-   People
-   Buzz
-   Culture
-   Cinéma
-   Spectacles
-   Séries
-   Médias
-   Livres
-   Musique
-   Job
-   Trouver un job
-   Carrière
-   Monter sa boîte
-   Parentalité
-   Grossesse
-   Bébé
-   Ados
-   Bien-être
-   Sexo
-   Couple
-   Psycho
-   Santé
-   Forme
-   Nutrition
-   Lifestyle
-   Mode
-   Beauté
-   Food
-   Déco
-   DIY
-   TF Originals
-   Interviews Girl Power
-   Portraits
-   Les Audacieuses
    ____________________
+   (BUTTON) Mot de passe oublié
+   [ ] Se souvenir de moi
+   OK
+   Vous n'avez pas encore de compte
+   Je créé un compte pour recevoir mes newsletters et gérer mes données
+   personnelles.
+   ____________________
+   CRÉER MON COMPTE
+   ____________________
+   ____________________
+   ____________________
+   [ ] J'accepte la charte
+   [ ] Je souhaite recevoir des offres du site et ses partenaires
+   OK
+   Utiliser mon compte :
+   (BUTTON) Facebook
 
-Peut-on être féministe et mère au foyer ?
+     * MAM'ADVISOR
+     * Fêtes de Noël
+     * TV
+     * Podcasts
+     * Conception
+     * Grossesse
+     * Prénoms
+     * Bébé
+          + Nouveau-né
+               o Le premier âge de bébé
+               o Le retour à la maison de bébé
+               o Bébé prématuré
+               o Bébés jumeaux
+          + Allaitement de bébé
+               o Allaitement maternel
+               o Allaitement mixte
+               o Tire-lait
+               o Sevrage de bébé
+          + Biberon
+               o Biberon de bébé
+               o Lait de bébé
+               o Chauffe-biberon
+               o Stérilisation du biberon
+          + Alimentation de bébé
+               o Alimentation de bébé mois par mois
+               o Allergies et intolérances alimentaires
+               o Alimentation équilibrée de bébé
+               o Diversification alimentaire de bébé
+               o Petits pots pour bébé
+               o Troubles alimentaires de bébé
+               o Recettes bébé
+               o Sécurité alimentaire
+          + Modes de garde bébé
+               o Trouver le bon mode de garde
+               o Assistante maternelle agréée
+               o Garde partagée
+               o Les crèches
+               o La nounou
+               o Baby-sitter
+               o Halte-garderie
+               o Jardin d'enfants
+               o Jeune fille au pair
+               o Calcul du coût mode de garde
+          + Aides, allocations et congés
+               o Congé maternité
+               o Congé paternité
+               o Congé parental
+          + Santé bébé
+               o Petits bobos et accidents domestiques
+               o Médicaments de bébé
+               o Pédiatre
+               o Soigner bébé
+               o Examens médicaux de bébé
+               o Urgence et premiers gestes de secours pour bébé
+          + Faire-part naissance bébé
+          + Maladies de bébé
+               o Autres infections
+               o Méningite
+               o Colique de bébé
+               o Constipation de bébé
+               o Diarrhée de bébé
+               o Reflux gastro-oesophagien
+               o Eczéma de bébé
+               o Fièvre, toux, rhume de bébé
+               o Bronchiolite de bébé
+               o Otite de bébé
+               o Gastro-entérite de bébé
+               o Grippe de bébé
+               o Varicelle de bébé
+               o Rougeole de bébé
+               o Autres maladies de bébé
+               o Autisme de bébé
+               o Handicap de bébé
+               o Angine de bébé
+               o Maladies de peau de bébé
+               o Pied-bot
+               o Maladies génétiques et maladies rares
+          + Allergies de bébé
+               o Asthme de bébé
+               o Allergies respiratoires de bébé
+               o Allergies alimentaires de bébé
+          + Prévention chez le bébé
+               o Vaccination de bébé
+               o Eté : prévention solaire
+               o Protéger bébé du froid
+               o Audition de bébé
+               o Yeux, Vue, Lunettes bébé
+          + Croissance de bébé
+               o Taille de bébé
+               o Poids de bébé
+               o Bébé grandit
+          + Dentition de bébé
+               o Dents de bébé
+               o Poussées dentaires de bébé
+               o Hygiène dentaire de bébé
+          + Langage de bébé
+               o Apprentissage du langage
+               o Bégaiement et troubles du langage
+               o Communiquer avec bébé
+          + Marche de bébé
+          + Sommeil de bébé
+               o Sommeil de bébé mois par mois
+               o Coucher bébé
+               o Endormir bébé
+               o Troubles du sommeil de bébé
+               o Sieste de bébé
+               o Cauchemars de bébé
+               o Sécurité pendant le sommeil de bébé
+          + Toilette de bébé
+               o Soins de bébé
+               o Bain de bébé
+               o Massage de bébé
+          + Eveil et développement bébé
+               o Développement de bébé
+               o Eveil de bébé
+               o Eveil musical de bébé
+               o Jouer avec bébé
+               o Activités de bébé
+               o Jouets pour bébé
+          + Psychologie de bébé
+               o Education de bébé
+               o Caractère de bébé
+          + Puériculture bébé
+               o Table à langer
+               o Sacs à langer
+               o Porte-bébé
+               o Poussettes
+               o Siège-auto
+               o Parc de bébé
+               o Ecoute-bébé, baby phone
+               o Mobile de bébé
+               o Biberons
+               o Transat de bébé
+               o Autre matériel de puériculture
+          + Etre maman
+               o Etre mère
+               o Post-partum
+               o Baby blues
+               o Reprendre le travail après bébé
+               o Femme au foyer
+               o Maigrir après bébé
+          + Etre papa
+               o Etre père
+               o Jeune papa
+               o Congé paternité
+          + Mode Bébé
+               o Mode bébé automne hiver
+               o Mode bébé printemps été
+          + Bébé mois par mois
+          + Couches et propreté de bébé
+               o Couches jetables, lavables
+               o Apprentissage de la propreté
+               o Change de bébé
+          + Sécurité de bébé
+               o Les gestes sécurité du quotidien
+               o Sécurité de Bébé à la maison
+               o Sécurité des jouets
+               o Sécurité du materiel de puériculture
+          + Calmer bébé
+               o Pleurs de bébé
+               o Sucettes
+               o Doudous
+          + Vacances avec bébé
+               o Vacances d’hiver avec bébé
+               o Vacances de Noël avec bébé
+               o Vacances de printemps avec bébé
+               o Vacances d’été avec bébé
+               o Les premières vacances de Bébé
+          + People
+               o Actualités People
+               o Bébés de stars
+               o Stars enceintes
+               o Papa people
+               o Maman célèbre
+               o Prénoms des enfants de stars
+               o Les régimes post-grossesse des stars
+               o Séries
+               o Vidéos people
+               o Bébé Cadum : les finalistes
+          + Baptême de bébé
+          + Journal de naissance
+          + Vidéos humour
+               o Vidéos buzz bébé
+               o Vidéos buzz enfant
+          + Chambre de bébé
+               o Aménager la chambre de bébé
+               o Décoration de la chambre de bébé
+               o Lit de bébé
+               o Nid d’ange, gigoteuse, turbulette
+          + Vidéos bébé
+               o Vidéos vaccinations et maladies de bébé
+               o Vidéos soigner bébé au quotidien
+               o Vidéos réagir en cas d'accident
+               o Vidéos allaitement
+               o Vidéos poids, diversification, conseils pour bien nourrir
+                 bébé
+               o Vidéos toilette de bébé
+               o Vidéos favoriser le sommeil de bébé
+               o Vidéos éveil de bébé
+               o Vidéos bébé au naturel
+          + Actu bébé
+          + Forum éveil, développement de bébé
+     * Enfant & ado
+     * École
+     * Femme
+     * Recettes
+     * Santé
+     * Écologie
+     * Guide d'achat
+     * Guide des maternités
+     * Actu
+     * Astrologie
+     * Beauté femme
+     * Boutique
+     * Déco & DIY
+     * Vie pratique
+     * Nos services
+     * Jeux concours
+     * Forum
+     * Newsletter
+     * Podcast
 
-   Publié le Vendredi 14 Septembre 2018
-   Léa Drouelle
-   Par Léa Drouelle Journaliste
-   Peut-on être féministe et mère au foyer ?
-   Peut-on être féministe et mère au foyer ?
-   "Peut-on être féministe et mère au foyer ?". A l'occasion de
-   l'Université d'été du féminisme qui s'est tenue cette semaine, Olga
-   Trostiansky, présidente du Laboratoire de l'égalité, nous expose
-   comment les notions de féminisme et de parentalité sont perçues dans
-   notre société.
-   À lire aussi
-   Peut-on porter du rouge à lèvres et être féministe ?
-   News essentielles
-   Peut-on porter du rouge à lèvres et être féministe ?
-   Féminisme, éducation des garçons... Les jolies leçons d'Amina Frühauf,
-   mère de Bilal Hassani
-   education
-   Féminisme, éducation des garçons... Les jolies leçons...
-   "Il faut changer la vision que l'on a de la mère" : le discours
-   féministe de Laetitia Casta
-   cinéma
-   "Il faut changer la vision que l'on a de la mère" : le...
+   Suivi bébé
+   Mam'Advisor
+   Journal de naissance
+   Podcast
+   Astro Bébé
+   Astrologie
+     * Magicmaman
 
-   La seconde journée de la première édition de l'Université d'été du
-   féminisme s'est tenue ce vendredi 14 septembre à la Maison de la Radio.
-   Le matin, la première table ronde était consacrée au sujet "Peut-on
-   être féministe et mère au foyer ?", avec Leslie Sowascki de
-   Parolesdemaman.com, Muriel Ighmouracène de Coworkcrèche, et Olga
-   Trostiansky, présidente du Laboratoire de l'égalité.
+     Bébé
 
-   Quinze minutes de débat au cours desquelles les trois intervenantes ont
-   abordé les choix de vie des femmes, le combat féministe, le congé
-   parental, l'autonomie financière, la réinsertion professionnelle....
-   Nous avons demandé à Olga Trostiansky d'analyser les thématiques
-   abordées lors de cette table ronde et de nous livrer sa vision de la
-   mère au foyer au sein de la société.
+     Actu bébé
 
-Terrafemina : Que pensez-vous de l'intitulé de la table ronde "Peut-on être
-féministe et mère au foyer" ?
+Elle refuse d'être mère au foyer, son mari lui reproche de ne pas vouloir
+s'occuper de leur bébé
 
-   Olga Trostiansky : "C'est un sujet que je trouve très intéressant. Ma
-   mère était féministe et mère au foyer. Je connais d'autres femmes dans
-   le même cas. Et il y a beaucoup de choses à dire là-dessus à commencer
-   par le fait, et c'est ce que nous évoquions ce matin, que "mère au
-   foyer" n'est pas un statut mais une tranche de vie, c'est souvent
-   temporaire. Une femme s'arrête de travailler un temps parce qu'elle
-   vient d'avoir un enfant, puis recommence à travailler quand elle le
-   peut.
+   Par Laetitia Reboulleau
+   Publié le 11/12/2022 à 10:17
+   Mère au foyer (BUTTON) Ajouter aux favoris (BUTTON) Getty Images
+   (BUTTON)
+   Partager
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   Envoyer par e-mail
+   (BUTTON)
 
-   C'est un sujet d'autant plus intéressant qu'il contient beaucoup de
-   paradoxes. Par exemple, celui des femmes qui travaillent de chez elles
-   mais qui sont aussi maman. Ce n'est pas la définition exacte que l'on a
-   d'une femme au foyer, mais d'un autre côté on a des femmes qui veulent
-   à la fois passer du temps avec leur enfant et dont l'opportunité
-   professionnelle leur permet de travailler à domicile.
+   Vous
+   De ____________________
+   Adresse e-mail ____________________
 
-   Il y a aussi les femmes qui ne travaillent pas mais qui s'investissent
-   beaucoup à l'extérieur et dont on parle peu : dans les associations,
-   dans les écoles... Elles aussi sont importantes et on ne peut pas les
-   reléguer au simple statut de "mère au foyer".
+   Vos destinataires (BUTTON) +
+   Adresse e-mail ____________________
 
-Le féminisme est-il une question d'indépendance financière ?
+   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+   [ ] [ ] [ ] [ ] Je certifie ne pas envoyer d'e-mail indésirable
+   Envoyer
+   Pour certaines personnes, être parent au foyer est une évidence. Pour
+   d'autres, c'est hors de question. Une jeune maman tombe dans la seconde
+   catégorie, et espère pouvoir reprendre le travail après son congé
+   maternité. Mais son mari n'est pas du même avis...
 
-   O.T: Pour moi, c'est le b.a-ba. Je pense qu'au sein du couple, une
-   femme doit vraiment penser à son autonomie financière. Elle doit faire
-   la part des choses et réfléchir à ses choix de vie, à ce que le fait
-   d'arrêter de travailler va impliquer pour sa vie, pour sa liberté.
-   C'est vital pour les femmes qui sont victimes de violences de la part
-   de leur conjoint et sont prisonnières car sans autonomie financière,
-   mais c'est aussi très important pour toutes les autres, même celles qui
-   ne subissent pas de violences.
+   Avoir un enfant, c'est prendre une liste de décisions, et notamment
+   choisir quel mode de garde sera le meilleur pour son tout petit. A une
+   époque, les mères au foyer étaient la voie "classique", mais les choses
+   ont désormais changé, et de plus en plus de femmes ne veulent plus
+   sacrifier leur carrière pour rester à la maison, d'autant qu'il existe
+   un certain nombre de modes de garde alternatifs : aide des
+   grands-parents, nounou, crèche, garderie... Seulement voilà, parfois,
+   certains parents n'ont pas du tout la même idée pour leur progéniture.
 
-   C'est également important pour l'enfant, qui doit apprendre que pour
-   vivre librement, il faut travailler. Il faut qu'il le voit à travers
-   ses parents, et pas uniquement avec l'image du père. Il est essentiel
-   d'avoir toutes les cartes en main pour partir en cas de séparation. Ce
-   n'est pas parce qu'on reste à la maison qu'on n'existe pas.
+Cette future maman ne veut pas être mère au foyer
 
-   Heureusement, un grand nombre de femmes a aujourd'hui compris
-   l'importance d'avoir son propre compte en banque, de gérer sa vie
-   personnelle, sa réinsertion professionnelle, ses impôts, ses propres
-   apports financiers etc.
+   Sur Reddit, une future maman explique être enceinte de 5 mois. Elle et
+   son époux sont ravis à l'idée d'avoir un petit garçon, et sont en train
+   de mettre en place toute la logistique autour de la naissance de leur
+   enfant, puisque tous les deux sont des entrepreneurs qui ont créé leur
+   propre entreprise, chacun la sienne. Le problème, c'est qu'ils ne font
+   pas vraiment confiance à une personne extérieure pour s'occuper de leur
+   bébé. "Nous sommes des personnes pour qui la sécurité compte beaucoup,
+   et nous n'avons pas confiance envers les gens que nous ne connaissons
+   pas", explique-t-elle. "Par ailleurs, les nounous sont difficiles �
+   trouver dans notre région, et comme nous avons des exigences
+   particulières en matière de sécurité, c'est encore pire."
+   Vidéo du jour :
 
-     @TrostianskyOlga "le choix des femmes de ne pas travailler des
-     consquences financires trs importantes pour elles: en cas de
-     divorce, la retraite et en terme de patrimoine. " 2/2
-     pic.twitter.com/9DNitrniBf
-     — Aline Aubertin (@aubertinaline) 14 septembre 2018
+   Toutefois, pas question pour elle d'être mère au foyer : "J'ai été
+   claire avec mon mari : même si j'ai hâte de passer du temps avec notre
+   enfant, je compte reprendre le travail dès la fin de mon congé
+   maternité, et j'espère pouvoir travailler de nouveau à plein temps
+   quand il aura entre 8 et 10 mois. Seulement, mon mari pensait que je
+   resterais à la maison jusqu'à ce que notre fils rentre à la maternelle,
+   voire plus tard encore. Cela ne me convient pas, alors je lui ai dit
+   que je préférerais que nous commencions à chercher une nounou avant
+   même l'accouchement, pour que notre future employée puisse apprendre �
+   connaître le bébé dès sa naissance, et que tout soit prêt pour mon
+   retour au travail." Ce qui sera d'autant plus facile puisque la future
+   maman travaille à domicile, et pourra donc être présente en cas de
+   problème.
 
-Ce matin, vous avez parlé de parentalité partagée...
+Elle subit les reproches de son mari
 
-   O.T : Oui, et cela passe bien sûr par un congé paternité plus long. La
-   femme est chez elle avant et après l'accouchement, ce qui l'éloigne du
-   statut de la femme qui travaille. Je pense que cette notion est très
-   culturelle : elle peut être subie, comme c'était le cas de ma mère qui
-   a élevé 5 enfants, avec un père qui considérait que c'était normal que
-   la mère reste à la maison. Dans des grandes villes comme Paris, dire
-   qu'on est mère au foyer est plutôt mal vu, mais ça l'est moins dans les
-   autres villes de France.
+   Si son mari a bien compris qu'il ne pourrait pas lui imposer de quitter
+   son travail pour s'occuper de leur enfant à naître, cela ne l'a pas
+   empêché de faire des reproches à sa femme enceinte : "Il m'a dit que
+   j'étais une ******** de ne pas vouloir être mère au foyer jusqu'à ce
+   que notre fils ne commence l'école, et m'a reproché de ne pas vouloir
+   m'occuper de lui. Je lui ai répondu qu'il était un ******** d'attendre
+   ça de moi, alors qu'il sait que je ne pourrais pas supporter d'être
+   uniquement une maman. Cela me détruirait mentalement, mais je me sens
+   mal à l'idée de ne pas en être capable."
 
-   Aujourd'hui, les couples sont confrontés à des contraintes économiques,
-   celles de la crèche notamment : place difficile à obtenir, coût
-   élevé... Dans ce genre de situation c'est souvent, comme par hasard,
-   l'homme qui gagne un peu plus d'argent qui va continuer à travailler et
-   la femme qui va rester à la maison.
+   L'histoire a malgré tout une fin heureuse, puisque l'internaute raconte
+   que son mari "respecte sa décision et lui adresse son soutien, quoi
+   qu'il arrive". La preuve que certaines disputes de couple et certains
+   désaccords ne signifient pas forcément qu'un terrain d'entente ne peut
+   pas être trouvé.
+   Lire aussi :
+     * Ce papa espionne sa femme, mère au foyer, avec des caméras de
+       surveillance
+     * Le mari de cette mère au foyer essaye de lui donner de l'argent de
+       poche
 
+   Partager
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
-     Parents au Foyer " Il y a videmment un paradoxe avec la notion du
-     travail par rapport un choix culturel, ce qui est important c'est la
-     rflexion sur l'autonomie et l'indpendance des Femmes, leurs revenus,
-     leurs retraites " @TrostianskyOlga #Feminisme2018
-     pic.twitter.com/xNt5CMTL2i
-     — Gender Busters (@genderbusters) 14 septembre 2018
+   Projet bébé ? Enceinte ? Déjà parents ? Inscrivez-vous à nos
+   newsletters
 
-L'éducation est-elle la solution pour parvenir à long terme à cette notion de
-parentalité partagée ?
+   Toute l'actualité des futurs et jeunes parents
+   ____________________ Valider S'abonner
 
-   O.T : C'est pour moi l'un des sujets prioritaires en France. J'espère
-   que Monsieur Macron et Madame Schiappa feront de l'égalité des genres
-   une grande cause nationale. Il faut qu'un programme d'éducation soit
-   enseigné de la crèche à l'université.
+   Une maman raconte avec humour le quotidien d'une mère au foyer
 
-   Il y a plein de choses à faire : des ateliers où l'on instruit les
-   enfants sur l'égalité des genres, à la fois avec les parents et les
-   professeurs. J'insiste sur l'importance de respecter ce schéma
-   enfant-parent-prof. L'éducation se fait autant à la maison qu'à
-   l'école.
+   Derniers articles
+   "Augustin n’a aucun handicap" : Céline Saffré (Familles nombreuses)
+   s'énerve à cause de remarques sur son bébé
+   Amandine Bourgeois (Nouvelle Star) est maman : elle dévoile le prénom
+   de son premier enfant
+   Jessie J annonce sa grossesse, un an après avoir fait une fausse couche
 
-   Il ne s'agit pas forcément de censurer tous les livres qui représentent
-   des stéréoptypes genrés type "maman fait la cuisine pendant que papa
-   lit le journal" mais plutôt de questionner l'enfant après avoir lu le
-   livre avec lui. "Ça se passe comme ça aussi chez toi ?". "Ta maman
-   travaille ?". Toute cela pour lui faire comprendre que ces schémas ne
-   sont pas figés et non représentatifs de l'ensemble de la société.
+   Plus d'Actu bébé
+   Ils refusent du "sang de vaccinné" à leur bébé malade, et perdent
+   temporairement sa garde
 
-   Cela nécessite de la pédagogie, de la volonté, de la réflexion, du
-   partage et pas simplement l'avis isolé de quelques profs qui sont
-   d'accord ou non avec ces principes. Si on ne prend pas le temps
-   d'expliquer aux enfants, on tombe dans des schémas caricaturaux qui
-   consistent à dire qu'on cherche à individualiser les sexes. Il faut que
-   les personnes comprennent que l'objectif, c'est l'égalité, pas la
-   disparition des garçons et des filles."
-   Société
-   maternité
-   feminisme
-   inégalités
-   parents
-   sexisme
-   News essentielles
-   mère
-   Stéréotypes
-   Les dossiers
-   Dossier
-   Les nouveaux papas
-   Dossier
-   Bioéthique et recherche : questions et débats
-   Dossier
-   Les femmes et l'espace : un peu plus près des étoiles
-   L'essentiel du jour
-   Buzz
-   Quels prénoms de bébé vont cartonner en 2023 ?
-   Culture
-   Barbie, sirène, Willy Wonka : nos 10 films les plus attendus de 2023
-   Société
-   Aux Etats-Unis, la vente de pilules abortives en pharmacie bientôt
-   autorisée ?
-   Buzz
-   "Mercredi" va-t-elle quitter Netflix ?
-   Société
-   En Iran, le contrôle du port du voile renforcé... par SMS
-   Buzz
-   Pour lutter contre le sexisme, la ville de Pantin devient... Pantine
-   Voir toutes les news
-   Sur le même thème
-   Peut-on être écolo sans sombrer dans la dépression ?
-   Peut-on être écolo sans sombrer dans la dépression ?
-   Comment être un vrai papa féministe ?
-   Comment être un vrai papa féministe ?
-   Au Bangladesh, elle mène une marche féministe jusqu'au foyer de son
-   futur mari
-   Au Bangladesh, elle mène une marche féministe jusqu'au foyer de son
-   futur mari
-   "Pourquoi forcer les enfants à être enceintes ?" : la vidéo choc des
-   mères texanes
-   "Pourquoi forcer les enfants à être enceintes ?" : la vidéo choc des
-   mères texanes
-   Cette femme transgenre se bat pour être reconnue comme la mère de sa
-   fille biologique
-   Cette femme transgenre se bat pour être reconnue comme la mère de sa
-   fille biologique
-   Terrafemina
-   Webedia
-     __________________________________________________________________
+   Une maman qui nourrit son bébé "comme un poulet" s'attire les foudres
+   des internautes
+   6 conseils d'experts pour survivre à la journée après une nuit
+   compliquée à cause de Bébé
+   Rappels de produits : des petits pots et une grenouillère pour
+   nouveau-né vendus dans toute la France
+   Voici ce qui influence le plus les Français dans le choix du prénom
+   d'un bébé
+   Rappel produit : cette gigoteuse peut provoquer des arrêts
+   respiratoires
+   La grand-mère veut être payée pour garder son petit-enfant, la maman
+   refuse : qui est en tort ?
 
-   Suivez-nous
-     * Facebook
-     * Twitter
-     * Google+
-     * Pinterest
+   Nos top articles
+   En vacances chez elle, sa belle-mère lui interdit de sortir de la
+   maison avec son bébé sans son autorisationCristiano Ronaldo : ses 4
+   enfants sont les plus mignons des supporters ! (photos)Faut-il percer
+   une cloque de brûlure ?Peut-on donner de l'eau à un bébé de moins de 6
+   mois ?Oeil injecté de sang, bleu à la tempe... Des parents portent
+   plainte contre une crèche People & BabyIl achète un pyjama à sa nièce,
+   les parents sont choqués par ce qu’ils découvrent dessus
 
-   À propos
-     * Conditions Générales d'Utilisation
-     * Qui sommes-nous ?
-     * Politique de protection des données
+   (BUTTON)
+   Gratuit
+
+   Je lis en ligne
+
+   Inscrivez-vous à la newsletter
+   ____________________ Valider
+
+     * Plan du site
      * Mentions légales
-     * Politique sur les cookies et autres traceurs
-     * Conditions Générales de l'offre payante Terrafemina.com
-     * Notifications
-     * Préférences cookies
-     * Stars
-     * Serie
-     * Compagnie
-     * Télé-réalité
-     * Emission
+     * Cookies
 
-   Un site du groupe webedia
-   750g
-   Académie du Goût
-   AlloCiné
-   DrGood!
-   FilmsActu
-   Purebreak
-   Purecharts
-   Puremedias
-   Purepeople
-   Pureshopping
-   Easyvoyage
-   Prescription Lab
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-57BMPX

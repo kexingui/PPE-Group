@@ -1,282 +1,324 @@
-    >
+   #Informelles » Flux Informelles » Flux des commentaires alternate
+   alternate alternate
 
-   (BUTTON)
+     * Équipe
+     * Contact
+     * Donner
 
-   Logo Neon
+     *
+     *
+     *
+     *
+     *
 
-   (BUTTON) Se connecter
-   (BUTTON) Gérer mon profil Mes notifications Mes articles sauvegardés
-   Mes sujets suivis (BUTTON) Déconnexion
+   Informelles Informelles Informelles Informelles Informelles Informelles
+   Informelles Informelles Informelles Informelles
+   ____________________
 
-     * Société & politique
-     * Santé & psycho
-     * Love
-     * Planète & environnement
-     * Familles & enfants
-     * Sexe
-     * Boire & manger
-     * Wtf & bonnes nouvelles
-     * Tech & web
-     * Culture & divertissement
-     * Podcasts
-     * Témoignages
-     * Enquêtes
-     * + de NEON
-          + Sexe
-          + Boire & manger
-          + Wtf & bonnes nouvelles
-          + Tech & web
-          + Culture & divertissement
-          + Podcasts
-          + Témoignages
+   Informelles Informelles Informelles Informelles Informelles Informelles
+   Informelles Informelles Informelles Informelles
+
+     * Votre contribution
+
+     * Home
+     * À LA UNE
+     * Femmes
+          + Entretiens
+          + Portraits
+          + Rôles modèles
+     * News
+          + Écologie
+          + Économie
+          + Entreprendre
+          + JO Tokyo 2020
+          + Monde
+          + Politique
+          + Sport
+          + Tech & médias
+     * Inspirations
+          + Art de vivre
+          + Culture
           + Enquêtes
+          + Films
+          + Idées
+          + Livres
+          + Sorties
+     * Carrière
+          + Coaching
+          + Engagement
+          + Finances
+          + Management
+          + Associations
+     * Équilibre
+          + Bien-être
+          + Parentalité
+          + Psycho
+          + Santé
+          + Sexo
+          + Vie pratique
 
-     * Podcasts
-     * Enquêtes
-     * Témoignages
+   ____________________
 
-   Publicité
-   SOCIÉTÉ ET POLITIQUE
+Au Japon, Cynthia Usui redonne espoir aux femmes au foyer
 
-Combien gagneraient les mères au foyer si elles étaient rémunérées ? Une
-étude a enfin la réponse
+Choisir entre maternité et activité, tel est le dilemme des femmes au Japon.
+En 2017, Cynthia Usui décide de partager son expérience. Celle d'une femme au
+foyer qui a réussi à retrouver du travail au Japon après avoir élevé sa
+fille. C'est un succès. A 63 ans, elle poursuit sa mission et tente de
+redonner espoir, via ses livres et ses séminaires, aux mères japonaises qui
+veulent suivre ses pas. Entretien exclusif.
 
-   famille
-   (BUTTON) Suivre ce sujet Sujet suivi !
-   Écrit par Joséphine de Rubercy | Le 22.11.2022 à 03h57 Modifié le
-   22.11.2022 à 16h19
+   Johann Fleuri 17 août 2022 À LA UNE, Entretiens, Femmes
 
-   Si les femmes au foyer pouvaient percevoir un salaire, de quel montant
-   serait-il ? Selon une étude, qui a pris en compte toutes les tâches que
-   ces dernières effectuent au quotidien, elles gagneraient l’équivalent
-   de cinq SMIC (et ce n’est pas très étonnant…).
-   Publicité
+Sommaire
 
-   Lorsque l’on est mère au foyer, on travaille parfois tout autant qu’une
-   personne en CDI… en dépassant (largement) les 35 h hebdomadaires et en
-   n’étant pas payé un seul centime. Pourtant, si ce statut était
-   officiellement reconnu comme une profession, les femmes seraient en
-   réalité bien plus payées que ce que l’on pense, au vu des nombreuses
-   tâches qu’elles effectuent quotidiennement. C’est le constat qu’a fait
-   le site Prontopro, un portail de mise en relation avec des
-   professionnel·les du service à la personne, après avoir pris en compte
-   toutes les obligations auxquelles sont soumises ces mères de famille, à
-   la maison comme à l’extérieur.
+     *
+          + Être femme active ou mère au foyer au Japon: le dilemme
+          + Cynthia Usui repart de zéro après sa maternité
+          + À la rescousse des mères célibataires japonaises
+          + Diversité et leadership féminin
 
-   Dans une étude relayée par Cosmopolitan, Prontopro a effectivement
-   calculé quel serait le salaire des femmes au foyer si leur travail
-   était rémunéré. Et le résultat parle de lui-même : entre les tâches
-   ménagères, les courses, le linge, les devoirs, le repassage, la cuisine
-   et les conduites des enfants, la charge de travail des mères
-   représenterait l’équivalent d’environ 6 400 € par mois. Pour arriver à
-   ce montant, les chercheurs ont calculé le coût de la facture si chacune
-   de ces tâches, selon le temps qu’elles demandent chaque mois, était
-   effectuée par le professionnel correspondant (et en prenant en compte
-   le partage de certaines d'entre elles avec le père).
-   Publicité
-   Publicité
+   A 63 ans, Cynthia Usui dirige la chaîne d’hôtels LOF à Tokyo. Après
+   avoir élevé sa fille, elle décide de reprendre un job. Ce parcours
+   inhabituel au Japon, elle le partage dans des livres à succès mais
+   aussi dans ses séminaires. Elle est aussi devenue une influenceuse
+   officielle de la plateforme LinkedIn. Elle veut ainsi redonner espoir
+   aux mères japonaises qui veulent suivre ses pas et leur fournir des
+   clés pour revenir sur le marché de l’emploi . Son crédo : s’adapter,
+   apprendre et rester ouverte à toutes les opportunités qui se
+   présentent. Interview exclusive avec Johann Fleury.
 
-Une rémunération équivalente à celle d'un·e dirigeant·e d'entreprise
+Être femme active ou mère au foyer au Japon: le dilemme
 
-   Ainsi, on retrouve par exemple dans le planning 14 heures par semaine
-   en tant que chauffeur privé, 3 heures par semaine en tant
-   qu’aide-ménagère, 2 heures par semaine en tant que professeur
-   particulier, etc. Des activités qui seraient rémunérées, si les mères
-   étaient payées au même titre que ces professionnels, respectivement
-   112,50 €, 96,43 € et 107,75 € par mois. Prontopro a fait le même calcul
-   avec les fonctions de personnal shopper, de chef cuisinier, de life
-   coach, de nutritionniste ou encore d’animateur. Au total, le salaire
-   mensuel équivaudrait donc à 6 400 €. Une rémunération représentant en
-   moyenne cinq fois le SMIC et qui serait donc égale à celle perçue par
-   les personnes occupant des postes de cadres supérieur·es, de
-   dirigeant·es d’entreprise ou bien de médecins spécialistes. De quoi
-   (enfin) faire taire les mauvaises langues affirmant que les mères de
-   famille "ne travaillent pas vraiment" (on vous voit).
+   Johann Fleuri : Vous êtes arrivée au Japon dans les années 80 : quel
+   était le contexte ?
 
-   À lire aussi ⋙ Les tâches domestiques nuiraient davantage à la santé
-   mentale des femmes salariées, selon une étude
-   ⋙ Charge mentale : Sandrine Rousseau propose de créer un délit de
-   non-partage des tâches domestiques
-   (BUTTON) Sauvegarder l'article Article sauvegardé !
-   Partager
-     * (BUTTON) Partager sur Facebook
-     * (BUTTON) Partager sur twitter
-     * (BUTTON) Partager sur Snapchat
-     * (BUTTON) Copier le lien Lien copié ! https://www.neonmag. Lien de
-       l'article
+   Cynthia Usui : Je suis Philippine et dans mon pays de naissance, les
+   femmes combinaient déjà travail et éducation des enfants. En arrivant
+   au Japon, j’ai découvert une autre réalité : celle des femmes qui
+   arrêtent de travailler pour élever leurs enfants. Je me suis mariée. Je
+   travaillais dans la pub, je gagnais bien ma vie. Mais quand j’ai eu ma
+   fille, j’ai pris la décision d’arrêter ma carrière pour l’élever.
 
-   argent
-   travail
-   femmes
-   salaire
-   Publicité
-   Publicité
+   Etait-ce un choix compliqué ?
 
-A LIRE AUSSI
+   CY : En 1985, c’était l’année où le Japon a entériné la loi pour
+   l’égalité de l’emploi : je prenais donc le contre-pied de ce qui
+   s’amorçait. Si l’on choisissait de poursuivre une carrière, on était
+   une mauvaise mère, mais si on restait à la maison pour ses enfants, on
+   n’était pas productives, pas utiles à la société. Quoique l’on décide,
+   ce n’était jamais bien : où est la diversité lorsque l’on juge les
+   femmes ainsi ?
 
-   Outbrain
+   Cynthia Usui Cynthia Usui
 
-NEON EN VIDÉO
+Cynthia Usui repart de zéro après sa maternité
 
-     * Titanic : Jack aurait-il vraiment pu survivre ? Une étude donne
-       enfin la réponse
-       Titanic : Jack aurait-il vraiment pu survivre ? Une étude donne
-       enfin la réponse
-       A-t-on raté la plus belle "happy ending" de tous les temps ? 🚢
-       CULTURE & DIVERTISSEMENT
-       22.12.2022
+   Et vous voulez reprendre une activité après un break de dix-sept ans?
 
-A LIRE AUSSI
+   CY : J’ai voulu reprendre le travail quand ma fille est entrée �
+   l’Université. Quand on a quitté un poste un an ou deux ans, on peut
+   rattraper son retard mais pas après un break de plus de 5 ans. Je
+   savais donc qu’il me faudrait repartir de zéro. J’aime apprendre de
+   nouvelles choses. C’est l’une de mes forces : je peux aller partout et
+   m’adapter n’importe où. Je suis rentrée au Japon en 2011 après
+   plusieurs années aux Etats-Unis et en Thaïlande.
 
-   Outbrain
+   J’avais 52 ans, personne ne voulait me donner ne serait-ce qu’un
+   entretien. J’ai pris ce que j’ai pu : j’ai travaillé à temps partiel en
+   tant que caissière en supermarchés. Puis j’ai découvert l’hôtellerie en
+   2013, au moment du boum du tourisme: soyons clair, j’ai choisi mon
+   emploi en fonction des opportunités pas de mes envies. Il faut aussi
+   accepter de commencer au bas de l’échelle pour faire ses preuves et
+   grimper les échelons plus vite.
 
-LES PLUS LUS
+   Pourtant le Japon fait face à une pénurie de main-d’œuvre ?
 
-     * 1
-       Tout savoir sur la méthode 50-20-30, une technique infaillible pour
-       faire des économies
-     * 2
-       Comment la répartie de Greta Thunberg a permis d'arrêter Andrew
-       Tate, influenceur d’extrême droite en cavale
-     * 3
-       La Grande Mosquée de Paris porte plainte contre Michel Houellebecq
-       pour "provocation à la haine contre les musulmans"
-     * 4
-       Le geste fort de ces Iraniennes pendant les championnats du monde
-       d’échecs
-     * 5
-       Pour protéger l'intégrité des enfants ukrainiens, la France
-       prolonge la suspension des procédures d’adoption
+   CY : Oui, il y a donc du travail pour tout le monde. Les personnes qui
+   participent à mes séminaires apprécient mon honnêteté, je les bouscule
+   dans leurs certitudes, je suis dure mais je dis la vérité. Beaucoup de
+   femmes veulent travailler en tant que fonctionnaires mais ces postes
+   n’existeront plus. Il faut aller là où le travail se trouve.
 
-JEUX & CONCOURS
+   La réponse à la pénurie de main d’oeuvre n’est pas dans l’immigration :
+   il faut d’abord augmenter les salaires et rendre les conditions de
+   travail plus attractives. Si la pénurie persiste, l’immigration est un
+   levier mais ce n’est pas le principal je pense.
 
-   challenges
-   MA DOSE DE NEON Je veux recevoir le meilleur de NEON chaque semaine
-   (sans spam)
+     “Au Japon, les plus jeunes n’ont pas envie de devenir leaders. Je
+     leur dis qu’elles ont tort. Je pensais comme elles à leur âge, puis
+     j’ai réalisé qu’à moins de devenir leader, je ne pouvais pas changer
+     grand-chose. Il faut d’abord prendre le pouvoir.”  Cynthia Usui,
+     dirigeante des hôtels LOF
 
-AUSSI SUR NEON
+Lire aussi
 
-     * Pourquoi les crottes des wombats sont-elles en forme de cubes ? On
-       a enfin la réponse !
-       Pourquoi les crottes des wombats sont-elles en forme de cubes ? On
-       a enfin la réponse !
-       Ces petits mammifères originaires d’Australie sont les seuls à
-       expulser des excréments de forme cubique....
-       PLANÈTE & ENVIRONNEMENT
-       08.02.2021
-     * Vous chantez faux ? Participez à cette étude scientifique rémunérée
-       !
-       Vous chantez faux ? Participez à cette étude scientifique rémunérée
-       !
-       Une équipe de chercheurs en neurosciences lyonnais recherche des
-       volontaires qui chantent faux pour une étude...
-       CULTURE & DIVERTISSEMENT
-       15.04.2021
-     * Briseuses de couple, marâtres, sorcières... pourquoi les
-       belles-mères sont-elles si mal vues ?
-       Briseuses de couple, marâtres, sorcières... pourquoi les
-       belles-mères sont-elles si mal vues ?
-       Elles endossent un rôle délicat et difficile : élever les enfants
-       de leur conjoint. A mi-chemin entre la...
-       SANTÉ & PSYCHO
-       22.12.2020
-       Publicité
-     * Des chercheurs "perdent" des portefeuilles : l'étude qui redonne
-       foi en l’humanité
-       Des chercheurs "perdent" des portefeuilles : l'étude qui redonne
-       foi en l’humanité
-       Des chercheurs ont laissé des portefeuilles dans des endroits
-       publics pour savoir s’ils allaient être retournés...
-       SOCIÉTÉ ET POLITIQUE
-       21.06.2019
-     * Et si vous gagniez de l’argent en faisant la queue ? Et si vous
-       gagniez de l’argent en faisant la queue ?
-       Le temps, c'est de l'argent
-       SOCIÉTÉ ET POLITIQUE
-       06.05.2022
-     * LinkedIn considère enfin le statut de parent au foyer comme un
-       travail à temps plein
-       LinkedIn considère enfin le statut de parent au foyer comme un
-       travail à temps plein
-       Un détail qui n’en est pas un pour les personnes concernées. Le
-       réseau social professionnel LinkedIn inclut...
-       TECH & WEB
-       13.04.2021
-       Publicité
-     * Pourquoi certaines personnes grandissent plus vite que d'autres ?
-       La science a enfin la réponse
-       Pourquoi certaines personnes grandissent plus vite que d'autres ?
-       La science a enfin la réponse
-       Selon une équipe de scientifiques britanniques, une partie du
-       cerveau serait à l’origine de ce phénomène...
-       SANTÉ & PSYCHO
-       08.11.2021
-     * Combien y a-t-il de filles sur cette photo ?
-       Combien y a-t-il de filles sur cette photo ?
-       C’est le retour de la robe bleue (ou blanche, on sait plus).
-       TECH & WEB
-       17.03.2016
-     * Combien de poils a-t-on ?
-       Combien de poils a-t-on ?
-       On fait le point sur cette question capitale à l’heure où les poils
-       reprennent du poil de la bête (eh oui...
-       SANTÉ & PSYCHO
-       16.02.2018
-       Publicité
-     * Tricher au Scrabble : comment (enfin) gagner face à mamie ?
-       Tricher au Scrabble : comment (enfin) gagner face à mamie ?
-       « 8 lettres : RIDICULE », hurle mémé en posant ses jetons, les yeux
-       injectés de sang plantés dans les vôtres....
-       SANTÉ & PSYCHO
-       22.10.2019
-     * PMA : Elles racontent sur Instagram leur parcours pour devenir mère
-       PMA : Elles racontent sur Instagram leur parcours pour devenir mère
-       Alors que des manifestants anti-PMA ont marché à Paris ce dimanche,
-       des femmes partagent la réalité de leur...
-       SOCIÉTÉ ET POLITIQUE
-       10.10.2019
-     * Vous voulez savoir combien de temps il vous reste à vivre ? Des
-       chercheurs ont la réponse
-       Vous voulez savoir combien de temps il vous reste à vivre ? Des
-       chercheurs ont la réponse
-       Un "atlas de la mortalité"
-       SANTÉ & PSYCHO
-       21.06.2022
-       Publicité
-     * Les femmes vivent-elles vraiment plus longtemps que les hommes ?
-       Pas si sûr, selon une étude
-       Les femmes vivent-elles vraiment plus longtemps que les hommes ?
-       Pas si sûr, selon une étude
-       Une remise en question des conceptions collectives
-       SANTÉ & PSYCHO
-       05.08.2022
-     * Combien de doigts a la personne qui en a le plus ?
-       Combien de doigts a la personne qui en a le plus ?
-       Même s’il n’y a pas de quoi rivaliser avec les mille-pattes…
-       SANTÉ & PSYCHO
-       01.02.2018
-     * Comment réussir à gagner 1 million d'euros ? La réponse de notre
-       expert (ou presque) Geoffroy Monde
-       Comment réussir à gagner 1 million d'euros ? La réponse de notre
-       expert (ou presque) Geoffroy Monde
-       Goeffroy Monde, l’expert des tutos en tous genres, vous livre une
-       méthode infaillible.
-       CULTURE & DIVERTISSEMENT
-       19.08.2020
+• Start-Up Lady Japan : lorsque les Japonaises se lancent dans
+l’entrepreneuriat
+• Startup de la semaine: avec Infostellar, Naomi Kurahara s’impose dans
+l’industrie spatiale
 
-   Publicité
+À la rescousse des mères célibataires japonaises
 
-     * Partager sur instagram
-     * Partager sur Facebook
-     * Partager sur Twitter
-     * Partager sur Snapchat
+   Vous aidez particulièrement les mères célibataires.
 
-     * CONDITIONS D’USAGE
-     * MENTIONS LÉGALES
-     * CHARTE POUR LA PROTECTION DES DONNÉES
-     * PUBLICITÉS
-     * PARAMETRER VOS COOKIES
-     * ÉQUIPE ÉDITORIALE
+   CY : Elles veulent être aidées et méritent de l’être. Mais un poste en
+   entreprise représente des contraintes et je pense que le gouvernement
+   doit prendre des responsabilités car toutes les entreprises n’ont pas
+   les capacités d’intégrer ces femmes qui doivent pouvoir s’absenter si
+   un enfant est malade, par exemple. Il y a encore tellement de femmes
+   qui tombent. Je veux les aider à se relever. Je suis plus intéressée
+   par venir en aide à ces femmes plutôt que d’essayer d’aller briser le
+   plafond de verre.
 
-   CPPAP : 0322 W 90268 © PRISMA MEDIA - GROUPE VIVENDI 2023 TOUS DROITS
-   RÉSERVÉS
+Diversité et leadership féminin
+
+   Selon vous, quelles solutions pour le leadership féminin japonais ?
+
+   CY : Le problème du leadership féminin japonais est qu’il n’y a pas
+   assez de diversité dans les profils. Elles travaillent comme les
+   hommes, elles donnent tout au travail et deviennent leaders ainsi :
+   elles n’ont donc qu’un point de vue. Au Japon, s’il y a une femme, on
+   considère qu’il y a diversité mais non, c’est juste une différence de
+   genre, ce n’est pas une expérience ou une opinion différente.
+
+   Aujourd’hui, il n’y a pas de diversité véritable et c’est pour ça que
+   c’est si long à changer. Au Japon, les plus jeunes n’ont pas envie de
+   devenir leaders. Je leur dis qu’elles ont tort. Je pensais comme elles
+   à leur âge, puis j’ai réalisé qu’à moins de devenir leader, je ne
+   pouvais pas changer grand-chose. Il faut d’abord prendre le pouvoir.
+
+   Hospitality Lecture Au Japon, Cynthia Usui redonne espoir aux femmes au
+   foyer Hospitality Lecture Au Japon, Cynthia Usui redonne espoir aux
+   femmes au foyer
+
+
+   Partager cette publication
+   Article précédentVues du monde : Burda-Furtwängler, la fin d’un power
+   couple à l’allemandeArticle suivantBetty Friedan au secours des
+   « desperate housewives » des années 1960
+   Tu pourrais aussi aimer
+
+   Women networking christina wocintechchat unsplash 10 associations pour
+   entreprendre au féminin Women networking christina wocintechchat
+   unsplash 10 associations pour entreprendre au féminin
+   10 associations pour entreprendre au féminin
+   11 novembre 2021
+
+   inegalités homme femme impots inegalités homme femme impots
+   Quotient conjugal: comment l’impôt sur le revenu augmente les
+   inégalités entre hommes et femmes?
+   19 avril 2022
+
+   ADELPA Founder RightLivelihood 2021 006 scr Vues du monde: un prix
+   Nobel alternatif et un TED women inspirants ADELPA Founder
+   RightLivelihood 2021 006 scr Vues du monde: un prix Nobel alternatif et
+   un TED women inspirants
+   Vues du monde: un prix Nobel alternatif et un TED women inspirants
+   6 décembre 2021
+
+   Au Japon, Kazuko Fukuda se bat contre le tabou de la contraception
+   1 juin 2022
+
+Informelles a besoin de vous!
+
+   A trois associés- Olivia Strigari, Yves Bougon et Mickaël Berret -  on
+   a réalisé un rêve un peu fou: créer un média économique indépendant
+   pour les femmes actives, pour avoir un impact sur l’égalité
+   femme-homme, pour briser le plafond de verre et l’isolement des femmes
+   managers, insuffler l’esprit de sororité parmi toutes celles qui
+   œuvrent au quotidien, pour les inspirer avec des portraits de leurs
+   paires, pour partager leurs expériences, leurs coups de gueule et de
+   tête, pour les accompagner pas à pas dans leur aventure. Celle d’être
+   une femme épanouie et libre.
+
+   Ce rêve est désormais en ligne, à un an de son lancement. Avec un
+   nouvel outil génial qui œuvre pour la presse indépendante: la
+   plateforme Jaimelinfo qui permet de faire des dons défiscalisés aux
+   médias qui vous tiennent à cœur. Alors si vous partagez notre démarche
+   et avez envie de contribuer à l’avancée de la parité, n’hésitez pas �
+   nous soutenir ! Votre don sera défiscalisé à 66% et, en plus, réduira
+   vos impôts!
+
+   Pour agir concrètement et faire que l’indépendance financière des
+   femmes soit une réalité et l’entrepreneuriat féminin facilité…
+
+Soutenez Informelles.media, la presse libre et indépendante pour
+l’empowerment féminin!
+Donate
+
+   Informelles Informelles Informelles Informelles
+     __________________________________________________________________
+
+     * MISSION
+     * CONTACT
+     * Mentions Légales
+     * Privacy Policy
+     * Cookie Policy
+
+     * Facebook
+     * Instagram
+     * LinkedIn
+     * Twitter
+     __________________________________________________________________
+     __________________________________________________________________
+
+   All right reserved
+
+   Woman2thetop © 2021
+
+     * Home
+     * À LA UNE
+     * Femmes
+          + Entretiens
+          + Portraits
+          + Rôles modèles
+     * News
+          + Écologie
+          + Économie
+          + Entreprendre
+          + JO Tokyo 2020
+          + Monde
+          + Politique
+          + Sport
+          + Tech & médias
+     * Inspirations
+          + Art de vivre
+          + Culture
+          + Enquêtes
+          + Films
+          + Idées
+          + Livres
+          + Sorties
+     * Carrière
+          + Coaching
+          + Engagement
+          + Finances
+          + Management
+          + Associations
+     * Équilibre
+          + Bien-être
+          + Parentalité
+          + Psycho
+          + Santé
+          + Sexo
+          + Vie pratique
+
+Sign In
+
+   ____________________
+
+   ____________________
+
+   [ ] Remember Me
+   Sign In
+   Lost Password
+
+Lost Password
+
+   Please enter your username or email address. You will receive a link to
+   create a new password via email.
+
+   ____________________
+   Reset Password
+   Sign In

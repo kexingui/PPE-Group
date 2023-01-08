@@ -1,113 +1,518 @@
-    En directProgrammes
-   (BUTTON)
-   (BUTTON)
-   En direct
-     * Programmes et podcasts
-     * Direct radio
-     * Grille des programmes
-     * Tous les animateurs
-     * Dossiers
+   #alternate
 
+   Aller au contenu
+
+   (BUTTON) Menu
+   Abonnez-vous 0,99€ le premier moisRechercher
+   Nouveau
+   Le Figaro Cuisine
+   5000 recettes exclusives
+
+   Rubriques et services du Figaro
+     * Guerre en Ukraine
      * Politique
-     * Société
-     * Économie
      * International
-     * Médias
-     * Culture
-     * Santé
+     * Société
+     * Vox
+     * Économie
      * Sport
+     * Culture
+     * Voyage
+     * Style
+     * Madame
+     * Vin
+
+   (BUTTON)
+
+   (BUTTON)
+
+   Rubriques et services du Figaro
+     * Le Figaro Live
+     * Le Figaro Magazine
+     * La Vérification
+     * Le Figaro Étudiant
      * Faits divers
+     * Santé
+     * Sciences
+     * Fig Data
+     * Tech et web
+     * Bourse
+     * Le Figaro Immobilier
      * Emploi
-     * Guide shopping
-     * Dossiers
+     * Art de vivre
+     * Automobile
+     * Langue française
+     * Golf
+     * Histoire
+     * TVMag
+     * Programme TV
+     * Maison et Jardin
+     * Le Figaroscope
+     * Carnet du jour
+     * Guide achat
+     * Services
+     * Billetterie
+     * Podcasts
+     * La question du jour
 
-     * Club Europe 1
-     * Newsletters
-     * Formulaire de contact
-     * Dossiers
+   Nos journaux et magazines
+     * Le Figaro
+     * Le Figaro Magazine
+     * Madame Figaro
+     * TV Magazine
 
-     * Accueil
-     * international
+   Les sites du Groupe Figaro
+     * Figaro Store
+     * TickeTac.com
+     * Le Particulier
+     * Météo Consult
+     * La chaîne météo
+     * Figaro Nautisme
+     * Les voyages F
+     * Cadremploi
+     * Keljob
+     * Insiders
+     * Immobilier
+     * Immoneuf
+     * Propriétés de France
+     * Achat Terrain
+     * Choose your boss
+     * Marco Vasco
+     * Maisons du voyage
 
-Les Japonaises veulent être femme au foyer
+   Se connecter (BUTTON) Mon compte
+     * Mon espace personnel
+     * Mes newsletters
+     * Mes commentaires
+     * S'abonner
+     * Aide et contact
+     * Se déconnecter
 
-   Une enquête sur les jeunes Nippons montre que le schéma "femme à la
-   maison, homme à l'extérieur" reste assez fort.
-   Une enquête sur les jeunes Nippons montre que le schéma "femme à la
-   maison, homme à l'extérieur" reste assez fort. © REUTERS
-     *
-     *
-     *
-     *
-     * Copié
+   Lire Madame en PDF en ligne Lire le magazine
+   Abonnez-vous 0,99€ le premier mois
 
-   Rédaction Europe1.fr avec AFP 06h59, le 25 septembre 2013
-   Une enquête sur les jeunes Nippons montre que le schéma "femme à la
-   maison, homme à l'extérieur" reste assez fort.
+     * MASTERCLASS
+     * (BUTTON) Style
+     * (BUTTON) Beauté & Bien-être
+     * (BUTTON) Prénoms
+     * (BUTTON) Société & Business
+     * (BUTTON) Art de vivre
+     * (BUTTON) Cuisine & recettes
+     * (BUTTON) Culture
+     * Le Petit Club
+     * (BUTTON) Podcasts
+     * (BUTTON) Astro
 
-   Les clichés ont de beaux jours devant eux. A la question "voulez-vous
-   devenir femme au foyer?", une jeune Japonaise célibataire sur trois
-   répond : "je crois bien effet" ou "tant qu'à faire oui", selon une
-   étude du ministère de la santé. Cette vaste enquête sur l'état d'esprit
-   des jeunes Nippons montre que le schéma "femme à la maison, homme à
-   l'extérieur" reste assez fort, dans la gent féminine du moins. Quelque
-   34,2% des femmes non mariées de 15 à 39 ans veulent devenir "femmes au
-   foyer", 38% souhaitent autre chose et les autres ne savent pas a
-   priori.
+     * Mode
+          + Actu mode
+          + Tendances mode
+          + Mode enfants
+     * Défilés
+          + Prêt-à-porter
+          + Haute couture
+          + Homme
+          + Croisières
+          + Tous les créateurs
+          + Toutes les saisons
+     * Bijoux et montres
+          + Tendances bijoux
+          + Agenda bijoux
+          + Shopping bijoux
+          + Coups de coeur bijoux
+          + Saga bijoux
+     * Mariage
+          + Tendances mariage
+          + Robes & tenues
+          + Bijoux & accessoires de mariage
 
-   30% des hommes préfèrent que leur épouse travaille. En revanche,
-   seulement un homme sur cinq souhaite que sa future épouse reste à la
-   maison, 50% ne sachant pas a priori et 30% préférant qu'elle travaille.
-   Si on demande aux hommes et aux femmes pourquoi ils préfèrent que
-   l'épouse restent à la maison, 61% répondent que "les femmes ont bien
-   d'autres choses à faire que travailler à l'extérieur, comme les tâches
-   domestiques et l'éducation des enfants", et 29% estiment que "le rôle
-   d'une épouse est de soutenir son mari pour qu'il puisse travailler
-   sérieusement".
+     * Beauté
+          + Maquillage et soins
+          + Cheveux
+          + Parfum
+          + Prix Beauté Stars
+     * Bien-être
+          + Forme et détente
+          + Nutrition
+     * Psycho
+          + Education
+     * Partenaire
+          + D’eau et de fleurs D’eau et de fleurs
 
-   Ensuite, pour 18% "le salaire du mari est censé suffire". Si les hommes
-   sont cependant plus enclins à voir leur femme occuper une fonction
-   professionnelle, c'est d'abord pour des questions économiques, les
-   émoluments du mari, surtout quand il est jeune salarié, n'étant plus
-   toujours jugés suffisants pour faire vivre une maisonnée. Les jeunes
-   filles pour leur part restent souvent persuadées que le travail à
-   l'extérieur n'est pas un lieu d'épanouissement, notamment parce que les
-   entreprises ont tendance à les cantonner à des tâches subalternes donc
-   décourageantes.
+     * Guide des prénoms
+          + Prénoms féminins
+          + Prénoms masculins
+     * Top des prénoms
+          + Prénoms fille 2023
+          + Prénoms garçons 2023
+     * Prénoms par origine et thématique
+          + Prénoms féminins originaux
+          + Prénoms masculins originaux
+          + Prénoms bretons
+          + Prénoms originaux
+          + Prénoms portugais
+          + Prénoms bibliques
+          + Prénoms arabes
+     * Compatibilité des prénoms
 
-   Des jeunes femmes découragées. Seules celles qui sont extrêmement
-   motivées parviennent à prendre des fonctions d'encadrement, mais elles
-   ont aussi tendance à quitter leur emploi lors de la naissance d'un
-   enfant et à abandonner alors l'idée de faire carrière, du fait de la
-   pression sociale sur les mères et du manque d'infrastructure d'accueil
-   des tout-petits. L'enquête, dont le résultat rejoint de précédents
-   travaux sur le même thème, a été effectuée fin mars auprès de 3.133
-   personnes de 15 à 39 ans.
+     * Société
+          + Actu société
+          + Portraits
+     * Slow
+     * Business
+          + Business with Attitude
+          + Actu business
+          + Coaching carrière
+          + Business détox
+          + Business style
+     * Partenaires
+          + Carnet de Rencontres
+          + Miroirs d'excellence Miroirs d'excellence
 
-   ﻿
+     * Déco & Design
+          + Actu déco & design
+          + Inspirations déco
+          + Design
+     * Évasion
+          + Idées voyages
+          + City guide
+          + Reportages
+          + Trophée Golf Madame Figaro
+     * Madame aime
+          + Les adresses incontournables
 
-     * Aide (FAQ)
-     * CGU
-     * Charte sur les données personnelles
-     * Politique cookies
-     * Gestion des cookies
-     * Mentions légales
-     * Charte déontologique
-     * Annonceurs
-     * Fréquences
-     * Archives sonores
-     * Guide shopping
+     * Cuisine
+          + Nouveau - L'application Le Figaro Cuisine
+          + Actu cuisine
+          + Tendances cuisine
+          + Rencontres
+          + Nos sélections de recettes
+     * Idées menu
+          + Recettes pour Halloween
+          + Apéro dînatoire : recettes de buffet et d'apéritif
+          + Recettes entre amis
+          + Recettes faciles et rapides en moins de 10 minites
+          + Idées de repas d'anniversaire
+          + Recettes à bases de légumes
+          + Idées de recettes pour la Saint-Valentin
+          + Recettes pour un soir d'été
+          + Recette de réveillon : idées de repas et menus de réveillon de
+            Noel et Nouvel An
+          + Recettes végétariennes faciles, rapides
+     * Recettes par types de plats
+          + Recettes de cocktails et boissons
+          + Recettes de brunch
+          + Idées entrées
+          + Salades : recettes fraîches et légères
+          + Idées plats
+          + Idées desserts
+          + Recettes de soupes et potages
+     * Recettes de chefs
+          + Recettes du chef Cyril Lignac
+          + Recettes du chef Hélène Darroze
+          + Recettes du chef Anne-Sophie Pic
+          + Recettes du chef Pierre Hermé
+          + Recettes du chef Thierry Marx
+          + Recettes du chef Alain Passard
+          + Recettes du chef Alain Ducasse
+          + Recette du chef Michel Guérard
+          + Recette de Julie Andrieu
+     * Recettes par ingrédient
+          + Recettes de lotte
+          + Recettes de pousse de soja
+          + Recette d'oursins
+          + Recettes de salsifi
+          + Recettes d'oignons nouveau
+          + Recettes de saumon fumé
+          + Recettes de pousses d'épinard
+          + Recettes de riz
+          + Recettes de coquilles Saint-Jacques
+          + Recettes de blanc de poulet
+          + Sélection des meilleurs produits
 
+     * Célébrités
+     * Soirées
+     * Séries
+     * Littérature
+          + Grand prix de l'Héroïne
+     * Art & expositions
+     * Musique
+     * Cinéma
+          + Festival de Cannes
+          + César 2022 : une folle envie de cinéma
+
+     * Vidéos
+          + Bande annonce
+          + Défilés
+          + MAD
+     * Podcasts
+          + Revue
+          + Désirs
+          + Happiness therapy
+          + Scandales
+
+     * Astro
+          + Horoscope du jour
+          + Horoscope chinois
+          + Horoscope de la semaine
+          + Horoscope du mois
+          + Horoscope de l'année
+          + Horoscope amoureux de l'année
+     * Compatibilité des prénoms
+
+    1. Accueil
+    2. Société
+
+"Femmes au foyer : une somme de petites choses insignifiantes ?"
+
+   Par Gaëlle Rolin
+   Publié le 27/09/2013 à 00:00, Mis à jour le 14/10/2015 à 18:17
+   Émmanuelle Devos et Helena Noguerra dans La Vie domestique Émmanuelle
+   Devos et Helena Noguerra dans La Vie domestique
+   Emmanuelle Devos et Helena Noguerra dans La Vie domestique, d'Isabelle
+   Czajka.
+
+   "La Vie domestique" dissèque la vie de quatre mères de famille dans une
+   banlieue huppée. On en parle avec sa réalisatrice, Isabelle Czajka
+
+   Dans La Vie domestique Isabelle Czajka filme quatre mères de famille
+   d'une banlieue huppée, tiraillées entre leur envie de se réaliser et ce
+   que la société attend d'elles. Une étude au scalpel des batailles
+   auxquelles sont confrontées les femmes d'aujourd'hui.
+
+   Lefigaro.fr/madame. - Quelles ont été vos influences à vous quand vous
+   avez décidé d'adapter Arlington Park, le roman de Rachel Cusk ?
+   Isabelle Czajka. - J'ai beaucoup lu Virginia Woolf, notamment Mrs.
+   Dalloway et La Promenade au phare, qui parle de ce travail diffus,
+   invisible, quotidien des femmes. À la fin d'une journée, quand on
+   demande à une femme au foyer ce qu'elle a fait, elle vous raconte une
+   somme de petites choses qui semblent insignifiantes, mais qui sont
+   essentielles au fonctionnement de la maison : elle a ramassé les
+   miettes, fait les lessives, fait les courses… Les hommes, eux, quand
+   ils rentrent du travail, donnent l'impression qu'ils ont sauvé le
+   monde !
+
+   Qui est le personnage de Juliette ?
+   C'est une femme élevée par des parents qui lui ont dit qu'elle avait
+   droit à tout. Elle a atteint la quarantaine et se rend compte que c'est
+   beaucoup plus compliqué que ça. Et que d'arrangements en compromis,
+   elle s'est retrouvée piégée.
+
+   Est-elle donc sa meilleure ennemie ?
+   Oui, elle se piège elle-même. Elle veut travailler, mais sans que cela
+   se remarque. Par exemple, elle tient à être à l'école pour la sortie de
+   ses enfants. Et c'est elle qui invite les gens à dîner… Les femmes se
+   sentent souvent obligées de faire beaucoup trop de choses.
+   On sent une mélancolie diffuse chez tous les autres personnages
+   féminins…
+   Elles ressentent de l'insatisfaction, de la désillusion. À l'image de
+   la mère de Juliette qui explique qu'elle a toujours attendu la
+   prochaine étape en pensant que ce serait mieux demain. Elles en sont
+   là, ces femmes : elles sont encore en train d'attendre. Elles veulent
+   un peu tout, mais n'ont rien totalement. Mais elles en sont moins
+   conscientes que Juliette, qui sent, elle, le sol se dérober sous ses
+   pieds.
+
+   (1) D'Isabelle Czajka, avec Emmanuelle Devos, Julie Ferrier, Natacha
+   Régnier… En salles le 2 octobre.
+
+"Les hommes n'osent pas parler de leur vie domestique"
+
+   Le rapport des héroïnes à la maternité est assez ambigu dans le film.
+   Qu'avez-vous voulu exprimer ?Que maternité ne rime pas forcément avec
+   félicité ?
+   Leur mode de vie fait qu'elle se retrouvent toute la journée en tête �
+   tête avec des enfants et c'est trop ! Ça ne suffit pas à une vie. Ce
+   n'est pas du désamour de leur famille, mais les enfants, c'est bien
+   plus joyeux quand c'est partagé.
+
+   Les personnages masculins sont particulièrement maladroits. Ont-ils
+   vraiment envie d'encourager leurs épouses pour qu'elles se réalisent,
+   ou sont-ils effrayés par la force qu'elles recèlent ?
+   Ils sont dans l'esquive, ils ne se rendent pas compte de tout ce qui se
+   trame. Quant au mari de Juliette, il fait preuve d'un peu de mauvaise
+   foi. Si on demande à la majorité des hommes aujourd'hui s'ils ont envie
+   que leur épouse travaille, ils vous diront "oui". Mais il n'empêche que
+   s'il faut s'arrêter pour les enfants, ce sera elle qui le fera.
+   Était-ce aussi une façon d'inciter les hommes à parler de leur vie
+   domestique ?
+   Pendant les avant-premières, il y a toujours un homme pour me dire
+   qu'il emmène ses enfants à l'école ! Les hommes n'osent pas parler de
+   leur vie domestique à eux. Ça leur est encore interdit par le rôle
+   social. Ils ressentent toujours une gêne de dire qu'ils quittent le
+   bureau pour aller chez le pédiatre. Or, sur le tournage, par exemple,
+   beaucoup d'hommes se sont confiés sur les problèmes qu'ils pouvaient
+   rencontrer à la maison ou au sein de la famille. Et cela leur faisait
+   du bien.
+   La réalisatrice de « La Vie domestique&nbsp;», Isabelle Czajka. La
+   réalisatrice de « La Vie domestique&nbsp;», Isabelle Czajka.
+   La réalisatrice de "La Vie domestique", Isabelle Czajka.Elles en sont
+   là, ces femmes : elles sont encore en train d'attendre
+
+   Sujets
+     * Cinéma
+     * droits des femmes
+     * Enfants
+     * Le mag
+     * Interview
+
+   À lire aussi
+
+La vidéo des vœux désastreux de la ministre de la Défense allemande
+
+   La vidéo des vœux désastreux de la ministre de la Défense allemande La
+   vidéo des vœux désastreux de la ministre de la Défense allemande
+
+   Dans une vidéo publiée sur son compte Instagram le soir du 31 décembre,
+   Christine Lambrecht a, quelque part, exprimé sa reconnaissance envers
+   la guerre qui fait rage en Ukraine...
+   Regarder la vidéo
+
+La patineuse russe Kamila Valieva fait sensation en reprenant la danse
+macabre de Mercredi Adams
+
+   La patineuse russe Kamila Valieva fait sensation en reprenant la danse
+   macabre de Mercredi Adams La patineuse russe Kamila Valieva fait
+   sensation en reprenant la danse macabre de Mercredi Adams
+
+   EN VIDÉO - La patineuse Kamila Valieva a impressionné le jury en
+   rejouant la célèbre chorégraphie de Mercredi Addams lors des
+   championnats russes de patinages artistiques.
+   Regarder la vidéo
+
+   Plus de services
+   Cuisine
+     * Recette d'oeuf à la coque
+     * Recette d'asperge vapeur
+     * Recette de pâte à crêpes
+     * Idées d'entrées rapides
+     * Idées de recettes d'anniversaire
+     * Recette de poule au pot
+     * Recette de pâtes aux truffes
+     * Recette des oeufs bénédicte
+     * Recette de sauce tomate maison
+     * Bien conserver ses restes alimentaires
+
+   Bien-être
+     * Comment perdre du ventre
+     * Rêver de perdre ses dents
+     * Les premiers effets du sport
+     * Les effets du sucre
+     * Mieux vivre son hypersensibilité
+     * Angoisse nocturne
+     * Gainage pour travailler ses abdos rapidement
+     * L'importance de la pensée positive
+     * Perdre du poids avec la corde à sauter
+     * Pourquoi avons nous des insomnies lorsque nous sommes épuisés ?
+
+   Prénoms
+     * Prénoms féminins
+     * Prénoms masculins
+     * Idées de prénoms originaux
+     * Prénoms féminins originaux
+     * Prénoms compatibles
+     * Prénoms arabes
+     * Prénoms portugais
+     * Prénoms grecs
+     * Prénoms bretons
+     * Prénoms médiévaux
+     * Prénoms masculins anglophones
+     * Prénoms d'origine latine
+
+   Société
+     * Femmes de pouvoir et hommes de l'ombre
+     * Questions pour tomber amoureux
+     * Formules de fin de mail
+     * Alcool et grossesse
+     * Les règles du savoir-vivre
+     * Comment ranger sa maison
+     * Comment plier ses vêtements
+     * La rupture amoureuse
+     * Madame Claude : un personnage mi-héroïne, mi-monstre
+     * La vérité sur les hôpitaux
+
+   Astro
+     * Horoscope du jour
+     * Horoscope quotidien du Cancer
+     * Horoscope quotidien des Poissons
+     * Horoscope quotidien du Lion
+     * Horoscope quotidien de la Balance
+     * Horoscope quotidien du Taureau
+     * Horoscope quotidien du Bélier
+     * Horoscope quotidien du Scorpion
+     * Horoscope quotidien des Gémeaux
+     * Horoscope quotidien du Capricorne
+     * Horoscope quotidien du Verseau
+     * Horoscope quotidien de la Vierge
+     * Horoscope quotidien du Sagittaire
+
+   Vous avez choisi de refuser les cookies
+   Et pourtant, la publicité personnalisée est un moyen de soutenir le
+   travail de notre rédaction qui s’engage à vous proposer chaque jour une
+   information de qualité. En acceptant les cookies, vous pourrez accéder
+   aux contenus et fonctionnalités gratuites que propose notre site.
+
+   À tout moment, vous pouvez modifier vos choix via le bouton “paramétrer
+   les cookies” en bas de page.
+   (BUTTON) Accepter les cookiesouRefuser et s'abonner
+
+   "Femmes au foyer : une somme de petites choses insignifiantes ?"
+   S'ABONNER
+   (BUTTON) Fermer
+   (BUTTON) Imprimer
+   Partager (BUTTON) 119
+
+   Partager via :
+     * Mail
      * Facebook
      * Twitter
-     * Instagram
-     * Youtube
-     * Snapchat
-     * Linkedin
-     * Flux RSS
+     * Pinterest
+     * WhatsApp
+     * (BUTTON) Copier
+     * Messenger
 
-   © 2023 Europe 1 Digital
+   S'abonner
 
-   IFRAME:
-   //redirect447.tagcommander.com/utils/noscript.php?id=5&mode=iframe&cont
-   ent_type=&content_id=&content_level1=&content_level2=&content_level3=
+   Nos liens utiles
+     * Business with attitude
+     * Le Petit Club
+     * Vidéos Madame
+
+   Madame Figaro
+   Le Kiosque
+
+   Madame Figaro
+   Lire ce numéro
+   Abonnement
+     * Découvrez toutes les offres
+       Les articles et recettes en illimité 0,99€ le premier mois sans
+       engagement
+     * Gérer votre abonnement
+     * Espace personnel
+
+   Applications mobiles
+     * Madame Figaro : Iphone | Android
+     * Le Figaro Cuisine : iPhone | Android
+
+   Nos newsletters
+   Inscrivez-vous aux newsletters
+   Suivez-nous sur :
+     * (BUTTON) Paramétrer les cookies
+     * Contacts
+     * Newsletters
+     * Charte
+     * Mentions légales
+     * CGU
+     * CGV
+     * Confidentialité
+     * Info cookies
+     * Annonceurs
+     * Espace partenaires
+     * Jour de France
+     * Madame Figaro Japon
+     * Madame Figaro Grèce
+     * Madame Figaro Chypre
+     * Woman Madame Figaro
+     * Madame Figaro Liban
+     * Madame Figaro Hong-Kong
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5ZC8C4Q

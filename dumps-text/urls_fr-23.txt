@@ -1,450 +1,309 @@
-    #alternate
+    >
 
-     * Le Point
-     * Montres
-     * Le Point Pop
-     * Auto
-     * Sports
-     * Phébé
-     * À découvrir
-     * Newsletters
-     * Abonnés
-     *
-     *
-     *
+   (BUTTON)
 
-   Couverture du Point N&deg; 2631.
+   Logo Neon
 
-   Boutique le Point
-   Crédit d'impôt Abonnement Numéro de la semaine Hors-séries Anciens
-   numéros
+   (BUTTON) Se connecter
+   (BUTTON) Gérer mon profil Mes notifications Mes articles sauvegardés
+   Mes sujets suivis (BUTTON) Déconnexion
 
-   Evenements
-   Futurapolis Santé Futurapolis Neuroplanète Les Forums du Point
+     * Société & politique
+     * Santé & psycho
+     * Love
+     * Planète & environnement
+     * Familles & enfants
+     * Sexe
+     * Boire & manger
+     * Wtf & bonnes nouvelles
+     * Tech & web
+     * Culture & divertissement
+     * Podcasts
+     * Témoignages
+     * Enquêtes
+     * + de NEON
+          + Sexe
+          + Boire & manger
+          + Wtf & bonnes nouvelles
+          + Tech & web
+          + Culture & divertissement
+          + Podcasts
+          + Témoignages
+          + Enquêtes
 
-   Jeux concours
-   Quiz
+     * Podcasts
+     * Enquêtes
+     * Témoignages
 
-   Partenaires
-   Immobilier de Luxe Cours de langues Bons d’achat Comparateur PER
-   Institut supercollectif
-
-   Menu Le Point Lifestyle Le Point Lifestyle
-   Couverture du Point N° 2631
-     * Politique
-     * International
-     * Économie
-     * Tech & Net
-     * Culture
-     * Débats
-     * Sciences
-     * Santé
-     * Style
-     * Afrique
-     * Événements
-     * Services
-
-   [2012128.png]
-
-     *
-     * Lifestyle
-
-Fabuleuses au foyer : "Et vous faites quoi dans la vie ?"
-
-   Enfants, couple, travail, maison… Chaque semaine, Hélène Bonhomme
-   partage ses impressions sur le quotidien des femmes et des mères
-   d'aujourd'hui.
-   Par Hélène Bonhomme
-   Helene Bonhomme, fondatrice du site Fabuleuses au foyer, est egalement
-   a l'origine du livre collaboratif illustre "Il y a une Fabuleuse dans
-   chaque foyer" (Premiere partie, 2015).
-   Hélène Bonhomme, fondatrice du site Fabuleuses au foyer, est également
-   à l'origine du livre collaboratif illustré "Il y a une Fabuleuse dans
-   chaque foyer" (Première partie, 2015). © DR
-   Publié le 23/01/2016 à 08h49 - Modifié le 30/01/2016 à 23h27
-     * copy url
-     * facebook
-     * twitter
-     * linkedin
-     * Google News
-     * mail
-     * partage
-     * imprimer
-
-   Temps de lecture : 3 min
-   Je m'abonne à 1€ le 1er mois
-
-   La dernière fois que cela m'est arrivé, je faisais la queue dans une
-   pharmacie bondée. Mes adorables jumeaux de 3 ans étaient occupés à
-   renverser délibérément un rayon entier de sprays à l'eau de mer. « Et
-   vous faites quoi dans la vie ? » Silence, comme si l'ensemble de la
-   clientèle s'était tu pour mieux entendre ma réponse. Panique au cœur de
-   mon cerveau.
-
-Que suis-je, au juste ?
-
-   Mère au foyer ? Ils vont tous penser que je ne fais rien de mes
-   journées. Entrepreneuse ? Ils vont tous penser que je ne m'occupe pas
-   assez de ma progéniture, et que c'est précisément la raison pour
-   laquelle elle est aussi mal élevée. Rédactrice free-lance ? Vrai, mais
-   incomplet, puisque je ne fais cela que 12 heures par semaine, et que le
-   reste de mes activités s'organisent autour d'une quête intrépide :
-   trouver de nouvelles aires de jeux (il faut les fatiguer avant qu'ils
-   nous fatiguent, sic). Blogueuse, alors ? Hum, ce n'est pas un loisir,
-   ça ? J'ai trouvé : « Mère de famille qui travaille à domicile ».
-   Mouais. Pas très convaincant. Alors, que suis-je, au juste ?
-
-   Pour ma grand-mère, je suis une femme au foyer.
-
-   Pour l'Insee, je suis détentrice d'une micro-entreprise.
-
-   Pour les sociologues, je suis une mampreneuse, entendez une maman qui,
-   pour mieux concilier vie pro et vie perso, a créé sa propre entreprise.
-
-   Pour le facteur, je suis, à part les retraités, l'une des rares
-   citoyennes de cette ville présente à son domicile pour signer un avis
-   de réception à 10 h 30 du matin.
-
-   Pour les publicitaires, je suis une ménagère de moins de cinquante ans.
-   Vous avez bien lu, « ménagère », point n'est besoin de commentaire.
-
-   Pour les marketeurs, je suis une digital mum. Une maman 3.0, smartphone
-   greffé au bout de la main droite. Réducteur, même si je confesse qu'une
-   cure de désintox ne ferait pas de mal à notre équilibre familial,
-   victime d'une forme de technophilie chronophage.
-
-   Pour mes clients, je suis une prestataire qui, puisque la maîtresse
-   était malade, a terminé la dernière vidéoconférence en présence d'un
-   blondinet affairé à renverser du jus de pomme sur l'ordinateur
-   familial.
-
-   Pour mon mari, je suis une femme qui veut tout gérer de front, même ses
-   émotions, ce qui parfois peut devenir éreintant.
-
-   Pour mes enfants, je suis la « maman » qui vient les chercher à l'école
-   et qui sait super bien dessiner les voitures de course. Et aussi, la «
-   maman » qui porte de jolis pantalons de velours où il est doux de
-   s'essuyer les mains, voire de se moucher le nez.
-
-Mille exigences, mille indulgences
-
-   « Et vous faites quoi dans la vie ? » Là, au milieu de cette pharmacie
-   bondée, j'aurais voulu ignorer les sueurs froides causées par la partie
-   de cache-cache improvisée de mes impertinents chérubins, et j'aurais
-   voulu avoir l'audace de répondre : « Fabuleuse ». C'est vrai. Je suis
-   loin d'être parfaite, mais voilà ce que je fais dans la vie : je jongle
-   entre mille exigences, je m'accorde mille indulgences, et contribue à
-   ma manière à bâtir la société de demain. « Fabuleuse », c'est peut-être
-   bien le statut qui pourrait résumer à lui seul mes mille vies ainsi que
-   celle de mes courageuses congénères. Qu'elles soient au foyer à 100 %
-   ou qu'elles concilient à leur manière leur vie de femme et leur vie de
-   mère, toutes les Fabuleuses devraient faire l'objet de notre
-   bienveillante gratitude. À bon entendeur.
-
-   En 2012, Hélène Bonhomme vit la naissance de ses jumeaux comme un
-   tsunami. Se sentant un peu désarmée face à cette vie de maman dont elle
-   avait pourtant rêvé, elle décide de partir à la recherche de contenus
-   pertinents sur l'art d'être une maman qui aime sa vie au XXIe siècle.
-   C'est ainsi que voient le jour le site Fabuleuses au foyer ainsi que le
-   livre collaboratif illustré Il y a une Fabuleuse dans chaque foyer
-   (Première partie, 2015).
-
-   Newsletter week-end
-
-   Chaque fin de semaine, suivez le guide du Point pour inspirer vos
-   week-ends (détente, luxe, évasion).
-   ____________________ (BUTTON) ok
-
-   Newsletter week-end
-
-   Vous pouvez consulter notre Politique de protection des données
-   personnelles.
-     * Lifestyle
-
-   Je m'abonne Tous les contenus du Point en illimité
-   Vous lisez actuellement : Fabuleuses au foyer : "Et vous faites quoi
-   dans la vie ?"
-
-     * copy url
-     * facebook
-     * twitter
-     * linkedin
-     * Google News
-     * mail
-     * partage
-     * imprimer
-
-     * (BUTTON)
-     *
-     *
-
-   Le batch cooking des grands chefs
-
-   Pour ce début d’année 2020, Le Point consacre un hors-série sur le
-   batch cooking. Ce nouveau concept venu des pays anglo-saxons consiste à
-   préparer un grand nombre d’ingrédients et de plats à l’avance le
-   week-end pour gagner du temps lors de vos dîners en semaine.
-   Je commande le hors-série (9,90€)
-
-   Signaler un contenu abusif
-   Merci de nous préciser le motif ^* :
-
-   Merci de renseigner la raison de votre alerte.
-
-   __________
-   __________
-   __________
-   __________
-   __________
-
-   Ce champ est obligatoire
-   Veuillez saisir le code de sécurité ci-dessous ^* :
-   ____________________
-
-   Ce champ est obligatoire
-
-   Code erroné
-   (BUTTON) Envoyer
-   (BUTTON) Annuler
-
-   9 Commentaires
-
-   Un avis, un commentaire ?
-
-   Ce service est réservé aux abonnés
-   Je m'abonne Déjà abonné ? Je m'identifie
-   Vous ne pouvez plus réagir aux articles suite à la soumission de
-   contributions ne répondant pas à la charte de modération du Point.
-   Je consulte la charte de modération Je contacte les services de
-   modération
-
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   0 / 2000
-   [X] M'alerter lors de la publication de ma réaction
-
-   Voir les conditions d'utilisation
-   (BUTTON) Je publie
-   Vous ne pouvez plus réagir aux articles suite à la soumission de
-   contributions ne répondant pas à la charte de modération du Point.
-   Je consulte la charte de modération Je contacte les services de
-   modération
-   Ajouter un pseudo
-
-   Vous devez renseigner un pseudo avant de pouvoir commenter un article.
-
-   Votre pseudo :
-   ____________________ Pseudo incorrect
-   Envoyer
-   Annuler
-   Par JGH-MFD le 06/02/2016 à 23:27
-
-   Je me demande comment j'ai fait il y a plus de 30 ans, avec trois
-   gosses à l'école et pas de garderie le soir ni le mercredi, un métier
-   prenant, des activités associatives, un mari souvent absent pour raison
-   professionnelle, et surtout, surtout, pas de réseaux sociaux où
-   m'épancher et raconter mes malheurs et mes exploits de maman fabuleuse
-   ! Heureusement, il y avait les copines qui étaient dans le même cas, et
-   une belle entraide, et peut-être aussi un peu moins d'esprit m'as-tu-vu
-   !
-   Signaler
-   Par JGH-MFD le 29/01/2016 à 23:19
-
-   Mais jamais au point de laisser mes gosses faire n'importe quoi dans
-   une pharmacie ou un supermarché !
-   Signaler
-   Par JGH-MFD le 29/01/2016 à 23:17
-
-   Je fais mon possible !
-   Signaler
-   [ ]
-
-   Le Point | Lifestyle
-
-   Consultez les articles de la rubrique Lifestyle, suivez les
-   informations en temps réel et accédez à nos analyses de l’actualité.
-
-   L’esprit de la Chine
-   Les derniers jours des dictateurs
-   Le chiffre de la semaine
-
-   Magazine
-
-   Expérience Le Point
-   La boutique
-   Abonnements
-   Applications mobiles
-   Nos partenaires
-   Nous sommes OJD
-   Les forums du Point
-
-   Liens utiles
-
-   FAQ
-   Politique de protection des données à caractère personnel
-   Gérer mes cookies
-   Crédit d'impôt
-   Cours de langues
-   Bons d'achat
-   Comparateur PER
-   Portail de la transparence
-   Tutoriel vidéo
    Publicité
-   Nous contacter
-   Plan du site
-   Mentions légales
-   CGU
-   CGV
-   Conditions générales d’un compte client
-   Charte de modération
-   Archives
-   Vous avez déjà un compte LePoint.fr ?
+   SOCIÉTÉ ET POLITIQUE
 
-   Votre e-mail :
-   ____________________
-   Votre mot de passe :
-   ____________________
+Journée mondiale du travail invisible : les femmes encore et toujours en
+première ligne
 
-   * Champs obligatoires
-   Vous n'avez pas encore de compte ?
+   famille
+   (BUTTON) Suivre ce sujet Sujet suivi !
 
-   Avec un compte LePoint.fr :
-     * Gérez vos inscriptions aux newsletters d’information généraliste et
-       thématiques
-     * Archivez vos contenus favoris pour les lire ultérieurement
-     * Bénéficiez d’une exposition publicitaire modérée
-     * Et accédez à d’autres services exclusifs (jeux-concours,
-       événements…)
+   LE TRAVAIL INVISIBLE DES FEMMES AU QUOTIDIEN. CRÉDITS : SHUTTERSTOCK
+   Écrit par Margaux Chauvineau | Le 06.04.2021 à 07h13 Modifié le
+   08.04.2021 à 11h52
 
-   Vous êtes abonné au magazine dans sa version papier ?
+   Aujourd’hui, mardi 6 avril, est célébrée la journée mondiale du travail
+   invisible. On ne parle pas du travail de l’ombre en tant que tel, mais
+   d’un travail non rémunéré généralement fait à la maison par les femmes.
+   Publicité
 
-   Créez un compte afin d'accéder à la version numérique du magazine et à
-   l'intégralité des contenus du Point inclus dans votre offre.
-   Pour ce faire, renseignez
-   votre numéro d’abonné dans les paramètres de création de compte.
-   Mot de passe oublié ?
-   Connectez-vous
+   Être femme au foyer, c’est un travail ? Pour certains, oui et en plus,
+   il n’est pas payé. Le travail invisible, mis en avant chaque année le
+   premier mardi du mois d’avril, ce sont des femmes, des hommes, des
+   proches qui font un travail non rémunéré au sein du foyer familial,
+   dans une entreprise qui ne leur appartient pas directement, auprès
+   d’une personne handicapée ou invalide… Ce travail n’est donc pas pris
+   en compte dans le PIB, les richesses d’un pays puisqu’il ne rapporte
+   rien. Ce sont toutes ces tâches qui peuvent paraître normales, car
+   quotidiennes et faisant partie du « jeu » de la vie, mais qui pourtant
+   épuisent continuellement ceux et celles qui les font.
 
-   Vous avez un compte Facebook ?
-   Connectez-vous plus rapidement
-   Je me connecte avec Facebook
-   Créez votre compte
+   Pas de surprise, généralement les travailleurs de l’invisible sont des
+   travailleuses. Des mères au foyer, des stagiaires, des bénévoles, des
+   conjointes travaillant dans l’entreprise du mari, des femmes qui
+   prennent soin d’un proche en situation de handicap, malade ou
+   dépendant. Une étude de l’Insee datant de 2014 parue en 2018 faite en
+   Corse explique que pour 9 910 femmes au foyer, il n’y a que 200 hommes
+   qui le sont. Alors ces chiffres ne représentent pas la France entière,
+   mais l’Insee a fait une autre étude en 2011 : une femme en couple sur 3
+   était au foyer en 1991 pour une femme sur cinq en 2011. Une certaine
+   diminution.
+   Publicité
+   Publicité
 
-   Vous avez un compte Facebook ?
-   Créez votre compte plus rapidement
-   Je crée un compte avec Facebook
-   Connectez-vous Créez votre compte
-   Mot de passe oublié ?
+   Double dose de travail
 
-   Veuillez saisir l'adresse mail qui a servi à créer votre compte
-   LePoint.fr
-   ____________________
-   Envoyer
+   Le problème de ce travail invisible est qu’il s’ajoute le plus souvent
+   à un autre bien rémunéré. Comme l’explique Stéphanie Vallée, présidente
+   de l’R des centres de femmes du Québec, « on se prive d’une partie de
+   la population qui ne s’implique pas socialement, bénévolement ou
+   politiquement, parce qu’elle s’occupe de ses jeunes enfants ou de ses
+   parents vieillissants ». Chaque année, le site américain Salary évalue
+   combien devrait gagner une mère au foyer américaine si cela était
+   considéré comme un « vrai » boulot : en 2019, une mère devrait gagner
+   environ 12 555 euros par mois pour tout le travail qu’elle fait. Le
+   calcul est fait en fonction de tous les rôles que la femme prend en
+   tant que mère : taxi, nourrice, femme de ménage, jardinière,
+   psychologue… Un vrai couteau suisse.
+   Le graphique fait par Salary montrant l’évolution du salaire fictif que
+   devrait gagner la mère au foyer aux Etats-Unis
+   Publicité
 
-   (BUTTON) ____________________
+   Une différence de traitement entre le père et la mère
 
-   Couverture du Point N&deg; 2631.
-   Lire
-     * Abonnez-vous
-     * Achetez ce numéro
-     * A la une
-     * En continu
-     * Mes favoris
-     * Tous les univers du point
-          + Le point
-          + Le point montres
-          + Le point automobile
-          + Le point vin
-          + Le point pop
-          + Le point afrique
-          + Phébé
-     * Dossiers du Point
-     * Réussir sa reconversion
-     * En tête-à-tech
-     * Classement hôpitaux 2021
-     * Tous les dossiers
-     * Dossiers Le Point Stories
-     * Le joaillier de l’équilibre
-     * L’éclat du temps
-     * Quand le témoignage enrichit l’Histoire
-     * Le prix Point par Points
-     * Fabrication d'un single malt
-     * Mon investissement responsable
-     * Portraits d'entrepreneurs
-     * Le Point Stories
-     * Toutes les rubriques
-     * Édition abonnés
-     * En vidéo
-     * Événements
-     * Politique
-     * Philippe Tesson
-     * Michèle Cotta
-     * International
-     * Europe
-     * Afrique
-     * Economie
-     * Médias
-     * Immobilier
-     * Grandes écoles
-     * Débats
-     * Editos et chroniques
-     * Les invités du Point
-     * Société
-     * Faits divers
-     * Justice
-     * Carnets de justice
-     * Insolite
-     * Education
-     * Sciences et technos
-     * Tech & Net
-     * Astronomie
-     * Environnement
-     * Futurapolis
-     * Santé
-     * Palmarès des hôpitaux
-     * Kinésithérapie
-     * Culture
-     * Le Point Pop
-     * Livres
-     * Cinéma
-     * Séries TV
-     * Musique
-     * People
-     * Arts
-     * Histoire
-     * Lifestyle
-     * Gastronomie
-     * Vin
-     * Montres
-     * Automobile
-     * Tourisme
-     * Mode & Design
-     * Villes / Régions
-     * Sport
-     * JO Tokyo
-     * Football
-     * Sport Auto
-     * Golf
-     * SERVICES PARTENAIRES
-     * Le Point Services
-     * Cours de langues
-     * Bons d’achat
-     * Comparateur PER
-     * Immobilier de luxe
-     * Institut supercollectif
+   Cette charge de travail n’est généralement pas demandée de la même
+   manière pour le père (si l’on considère un couple hétérosexuel) et
+   s’accompagne généralement de son amie, la charge mentale. À partir du
+   moment où l’on doit féliciter quelqu’un parce qu’il ou elle a passé
+   l’aspirateur, fait la cuisine ou débarrassé le lave-vaisselle, il y a
+   un problème. Dans un communiqué de l’Afeas (Association féminine
+   d’éducation et d’action sociale au Québec), elles poussent un coup de
+   gueule : « Lorsque la conjointe passe l’aspirateur, le conjoint ne dit
+   pas merci. Lorsque la conjointe passe le balai, le conjoint dit merci.
+   Pourquoi ? Parce que la poussière a un sexe : elle est féminine ! La
+   poussière appartient aux femmes, c’est bien connu, de même que le
+   lavage, le repassage, les courses, l’organisation des repas, etc. »
 
-   Ajouter aux favoris
+   Bien sûr, les mentalités changent. Les hommes s’impliquent beaucoup
+   plus dans les tâches ménagères, mais faire plus ne veut pas dire faire
+   autant et c’est là où c’est embêtant. C’est sans compter les autres
+   proches comme les grands-parents qui sont sollicités à tout-va par les
+   parents. Ainsi, cette journée mondiale du travail invisible permet de
+   mettre en lumière, ne serait-ce qu’une journée, la situation de ces
+   personnes de l’ombre.
+   (BUTTON) Sauvegarder l'article Article sauvegardé !
+   Partager
+     * (BUTTON) Partager sur Facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur Snapchat
+     * (BUTTON) Copier le lien Lien copié !https://www.neonmag._ Lien de
+       l'article
 
-   Cet article a été ajouté dans vos favoris.
+   féminin
+   féminisme
+   société
+   Publicité
+   Publicité
 
-   Vous avez refusé les cookies
+A LIRE AUSSI
 
-   Pour soutenir Le Point acceptez la publicité personnalisée.
-   (BUTTON) J'accepte les cookies
+   Outbrain
 
-   Déja abonné ? Je m'identifie
+NEON EN VIDÉO
 
-   XiTi
+     * Travail : les femmes peu qualifiées en première ligne face aux
+       horaires décalés
+       Travail : les femmes peu qualifiées en première ligne face aux
+       horaires décalés
+       Au détriment de leur santé
+       SOCIÉTÉ ET POLITIQUE
+       28.04.2022
+
+A LIRE AUSSI
+
+   Outbrain
+
+LES PLUS LUS
+
+     * 1
+       Affaire Andrew Tate : l'influenceur aurait déjà été arrêté pour
+       viol en 2015, mais jamais inquiété
+     * 2
+       Qu'est-ce que la méthode Loverboy, le comportement toxique et
+       dangereux qui a fait le succès d'Andrew Tate ?
+     * 3
+       "Ça transforme les viols en sous-crimes" : les crimes sexuels ne
+       sont désormais plus jugés en cour d'assises
+     * 4
+       L’Académie des César renonce à mettre en avant les personnes
+       accusées de violences (mais pas à les récompenser)
+     * 5
+       Préservatifs gratuits pour les moins de 26 ans : voici tous les
+       détails de ce nouveau dispositif
+
+JEUX & CONCOURS
+
+   challenges
+   MA DOSE DE NEON Je veux recevoir le meilleur de NEON chaque semaine
+   (sans spam)
+
+AUSSI SUR NEON
+
+     * Détresse psy et précarité étudiante : là encore, les jeunes femmes
+       en première ligne
+       Détresse psy et précarité étudiante : là encore, les jeunes femmes
+       en première ligne
+       La crise sanitaire accentue les inégalités dans de nombreux
+       domaines. Les plus jeunes adultes ne sont pas...
+       SOCIÉTÉ ET POLITIQUE
+       27.04.2021
+     * 90% de la population mondiale a encore des préjugés sur les femmes
+       90% de la population mondiale a encore des préjugés sur les femmes
+       A l’approche de la Journée internationale de lutte pour les droits
+       des femmes, le Programme des Nations Unies...
+       SOCIÉTÉ ET POLITIQUE
+       06.03.2020
+     * Au rythme actuel, il faut encore 257 ans pour supprimer les
+       inégalités hommes-femmes au travail, alerte le Forum économique
+       mondial
+       Au rythme actuel, il faut encore 257 ans pour supprimer les
+       inégalités hommes-femmes au travail, alerte le Forum économique
+       mondial
+       Le Forum économique mondial (WEF) vient de publier son rapport
+       annuel sur la parité dans le monde. Même si...
+       SOCIÉTÉ ET POLITIQUE
+       18.12.2019
+       Publicité
+     * Journée mondiale contre le travail des enfants : 6 pays où les
+       enfants sont exploités
+       Journée mondiale contre le travail des enfants : 6 pays où les
+       enfants sont exploités
+       À l’occasion de la journée Mondiale contre le travail des enfants,
+       l’ONG Plan International dévoile un chiffre...
+       SOCIÉTÉ ET POLITIQUE
+       13.06.2018
+     * Journée mondiale du Chat : C'est aujourd'hui !
+       Journée mondiale du Chat : C'est aujourd'hui !
+       En ce vendredi 8 août, célébrons nos matous puisque c’est la
+       Journée mondiale du Chat (World Cat Day ou International...
+       PLANÈTE & ENVIRONNEMENT
+       08.08.2014
+     * 19 novembre, Journée mondiale des toilettes !
+       19 novembre, Journée mondiale des toilettes !
+       En ce mercredi 19 novembre 2014, Journée mondiale des toilettes,
+       voici un florilège de chiffres hallucinants...
+       SANTÉ & PSYCHO
+       19.11.2014
+       Publicité
+     * C'est la journée mondiale du topless, et c'est un combat important
+       C'est la journée mondiale du topless, et c'est un combat important
+       Le 26 août, c’est la journée mondiale du topless. Derrière cette
+       date, l’objectif de désexualiser la poitrine...
+       SOCIÉTÉ ET POLITIQUE
+       26.08.2019
+     * Journée mondiale des TDS : "Nous ne pouvons envisager le féminisme
+       sans les putes"
+       Journée mondiale des TDS : "Nous ne pouvons envisager le féminisme
+       sans les putes"
+       Prostitution et féminisme, deux concepts loin d'être
+       irréconciliables
+       SOCIÉTÉ ET POLITIQUE
+       02.06.2021
+     * Chômage, enfants, salaires... les inégalités homme-femme au travail
+       toujours importantes en Europe
+       Chômage, enfants, salaires... les inégalités homme-femme au travail
+       toujours importantes en Europe
+       Le travail est un bon baromètre de l’évolution de la société,
+       notamment sur la question des inégalités entre...
+       SOCIÉTÉ ET POLITIQUE
+       05.10.2018
+       Publicité
+     * VIH : une adolescente contaminée toutes les 3 minutes, les femmes
+       en première ligne
+       VIH : une adolescente contaminée toutes les 3 minutes, les femmes
+       en première ligne
+       En 2017, trente adolescents contractaient le VIH chaque heure dans
+       le monde. Deux tiers d’entre eux sont...
+       SANTÉ & PSYCHO
+       26.07.2018
+     * Journée mondiale du droit à l'IVG : le nombre d’avortements en
+       baisse chez les jeunes femmes (mais stable chez les autres)
+       Journée mondiale du droit à l'IVG : le nombre d’avortements en
+       baisse chez les jeunes femmes (mais stable chez les autres)
+       Chez les mineures en particulier
+       SOCIÉTÉ ET POLITIQUE
+       28.09.2022
+     * Journée mondiale de l'hygiène menstruelle : arrêtons de parler
+       "d'hygiène", déjà ! Journée mondiale de l'hygiène menstruelle :
+       arrêtons de parler "d'hygiène", déjà !
+       Non, les règles ne sont pas sales
+       SANTÉ & PSYCHO
+       28.05.2021
+       Publicité
+     * Journée mondiale du Nutella : ce que vous ne saviez pas sur le
+       géant à la noisette
+       Journée mondiale du Nutella : ce que vous ne saviez pas sur le
+       géant à la noisette
+       Cette année, la plus célèbre (et controversée) des pâtes à tartiner
+       fête ses 56 ans. L’occasion de revenir...
+       BOIRE & MANGER
+       05.02.2021
+     * En 2018, les femmes "en première ligne du combat pour la défense
+       des droits humains", selon Amnesty International
+       En 2018, les femmes "en première ligne du combat pour la défense
+       des droits humains", selon Amnesty International
+       Dans son rapport annuel, Amnesty International rend hommage aux
+       luttes des femmes contre « les politiques...
+       SOCIÉTÉ ET POLITIQUE
+       10.12.2018
+     * En classe ou sur la ligne d'arrivée, ça fait quoi d'être toujours
+       dernier ?
+       En classe ou sur la ligne d'arrivée, ça fait quoi d'être toujours
+       dernier ?
+       A l’école, en sport, au boulot, en soirée… Quelle que soit la
+       discipline, on a tous un jour fini dans les...
+       SOCIÉTÉ ET POLITIQUE
+       08.02.2018
+
+   Publicité
+
+     * Partager sur instagram
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Snapchat
+
+     * CONDITIONS D’USAGE
+     * MENTIONS LÉGALES
+     * CHARTE POUR LA PROTECTION DES DONNÉES
+     * PUBLICITÉS
+     * PARAMETRER VOS COOKIES
+     * ÉQUIPE ÉDITORIALE
+
+   CPPAP : 0322 W 90268 © PRISMA MEDIA - GROUPE VIVENDI 2023 TOUS DROITS
+   RÉSERVÉS
