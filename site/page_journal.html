@@ -1,5 +1,6 @@
 <html>
-<head>
+	<head>
+	<meta charset="UTF-8" />
 	<style>
 		
   /* Style menu*/
@@ -151,6 +152,19 @@ les modifications d&#39;images ont &eacute;t&eacute; faites avec <a href="https:
 <p><span style="font-size:16px">Pendant le cours, le prof m&#39;a donn&eacute; le conseil de remplacer &quot;femme au foyer&quot; par &quot;femme_au_foyer&quot; pour qu&#39;itrameur puisse identifier le mot.</span></p>
 
 <p><span style="font-size:16px">Cependant quand j&#39;ai effectu&eacute; cette modification, il y avait encore un probl&egrave;me d&#39;identification du p&ocirc;le source. J&#39;ai ensuite essay&eacute; de mettre les mots ensemble sous la forme &quot;femmeaufoyer&quot; et &quot;amadecasa&quot;, et cette fois &ccedil;a a march&eacute; sur itrameur.</span></p>
+<p><span style="font-size:16px">Mais quand je re v&eacute;rifie le cooccurrents, je trouve que il y a des mots outils qu&rsquo;il nous n&rsquo;int&eacute;resse pas : comme &laquo;le&raquo; &laquo;la&raquo; &laquo;une&raquo; &laquo;l&rsquo;&raquo; en fran&ccedil;ais ; &laquo;the&raquo;&laquo;or&raquo;&laquo;of&raquo; &laquo;A&raquo; en anglais ， apr&egrave;s que je consulte Internet, je comprends qu&rsquo;il faut effacer le stopword, cela est un &eacute;tape de traiter le corpus dans le NLP.<br />
+&nbsp;<br />
+<strong>06/01</strong><br />
+&nbsp;Kexin:<br />
+&nbsp;Afin d&#39;&eacute;liminer les mots vides, j&#39;utilise le programme python nltk. j&#39;installe le stop liste de nltk, cela fonnction pour anglais, beaucoup de mots vides sont &eacute;limin&eacute;s.<br />
+&nbsp;Mais pour fran&ccedil;ais et espagnol, nitk n&#39;est pas tr&egrave;s efficace, il reste beaucoup de mot d&eacute;sagr&eacute;able. Dans ce cas je trouve les autres liste de stopwords sur Internet mais ils ne fonctionnent non plus.<br />
+&nbsp;Pour le corpus chinois, il faut d&#39;abord faire la segmention et puis &eacute;liminer les mots vide. j&#39;ai essay&eacute; le script thulac donn&eacute; par prof, mais ce script il me donne un text un peu bizzar, les mots sont separ&eacute; mais il y a des &quot;/&quot;ajout&eacute; entre les mots s&eacute;par&eacute;s.<br />
+&nbsp;Pour r&eacute;glerce probl&agrave;me, je chercher sur Internet et je trouve jieba pour segmentation et enlev&eacute; les stopwords en chinois.</span></p>
+
+<p><span style="font-size:16px"><strong>08/01</strong><br />
+Kexin:<br />
+Probl&egrave;me de tableau.<br />
+Quand je v&eacute;rifiais le tableux sur notre page de site je trouve que en fait il y a des probl&egrave;me d&rsquo;affichage dans le contexte d&rsquo;espagnol et fran&ccedil;ais: Le contenu du texte s&#39;affiche sur la page, mais &agrave; l&#39;extr&ecirc;me gauche de la page, il y a des caract&egrave;re d&eacute;sagr&eacute;able comme /dumps-text/cordances/. Donc le probl&egrave;me qu&#39;on a rencontr&eacute; dans itrameur c&#39;est &agrave; cause du corpus total origine de context.</span></p>
 	</div>
 	
 	</body>
