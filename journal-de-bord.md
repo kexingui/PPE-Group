@@ -84,7 +84,30 @@ Après avoir testé à la fois dumps-text et contextes, j'ai constaté que le co
  
  Mais quand je re vérifie le cooccurrents, je trouve que il y a des mots outils qu’il nous n’intéresse pas : comme «le» «la» «une» «l’» en français ; «the»«or»«of» «A» en anglais ， après que je consulte Internet, je comprends qu’il faut effacer le stopword, cela est un étape de traiter le corpus dans le NLP.
  
- # 6 janvier
+# 6 janvier
+ Kexin: 
+ Afin d'éliminer les mots vides, j'utilise le programme python nltk. j'installe le stop liste de nltk, cela fonnction pour anglais, beaucoup de mots vides sont éliminés. 
+ Mais pour français et espagnol, nitk n'est pas très efficace, il reste beaucoup de mot désagréable. Dans ce cas je trouve les autres liste de stopwords sur Internet mais ils ne fonctionnent non plus. 
+ Pour le corpus chinois, il faut d'abord faire la segmention et puis éliminer les mots vide. j'ai essayé le script thulac donné par prof, mais ce script il me donne un text un peu bizzar, les mots sont separé mais il y a des "/"ajouté entre les mots séparés.
+ Pour réglerce problàme, je chercher sur Internet et je trouve jieba pour segmentation et enlevé les stopwords en chinois. 
+
+# 8 janvier 
+Kexin: 
+Problème de tableau. 
+Quand je vérifiais le tableux sur notre page de site je trouve que en fait il y a des problème d’affichage dans le contexte d’espagnol et français: Le contenu du texte s'affiche sur la page, mais à l'extrême gauche de la page, il y a des caractère désagréable comme /dumps-text/cordances/. Donc le problème qu'on a rencontré dans itrameur c'est à cause du corpus total origine de context. 
+
+Cela est à cause de egrep. 
+En fait egrep n’est pas très efface  quand il cherche les mots avec espace, ici c’est le cas de « femme au foyer» et « ama de casa ». Cela est pour quoi notre script fonctionne pour trouver le mot anglais et chinois,  mais il y a le problème pour français et espagnol. 
+ Pour règler ce problème, il faut qu’on déclarer le mot après grep: 
+En français : 
+NB_OCC=$(grep -E -o "[Ff]emmes? au foyer" ./dumps-text/$basename-$lineno.txt | wc -l)
+grep -E -A2 -B2 "[Ff]emmes? au foyer" ./dumps-text/$basename-$lineno.txt > ./contextes/$basename-$lineno.txt
+En espagnol : 
+NB_OCC=$(grep -E -o "[Aa]mas? de casa" ./dumps-text/$basename-$lineno.txt | wc -l)
+grep -E -A2 -B2 "[Aa]mas? de casa" ./dumps-text/$basename-$lineno.txt > ./contextes/$basename-$lineno.txt
+
+Après ce changement, les contextes fonctionnent bien. 
+
 
 
 
