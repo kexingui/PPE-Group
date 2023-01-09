@@ -38,7 +38,6 @@ Le but d'aujoud'hui
 -concordance ajouter une fiche concordance.sh
 
 # 1 décembre
-charlotte: 
 Après avoir réuni les 50 URLs en français et sans analyse (juste en parcourant les articles) je remarque les choses suivantes:
 La plupart des articles français semblent relever surtout des aspects negatifs liés au fait d'être femme au foyer (fatigue, manque de reconnaissance, mort professionnelle, précarité/dépendance au conjoint) 
 
@@ -50,29 +49,20 @@ Il faudrait donc utiliser une expression régulière tel que :
 pour repérer les occurences de ce concept dans les différents textes
 De plus, le index.html est bien rédigé et notre page git est bien crée.
 
-Kexin : 
- Pour moi je rencontre prblème dans mon tableau. 
-
-
-
-
-
-
-
 # 5 décembre 
 Aigrim a effectué un push de 50 urls en russe. 
 # 7 décembre 
 Aigerim :La correction de configuration de git user name.
 Kexin: De ma part, je rencontre grand problème de run out de contxt et faire le concordance ： Après que je run mon script, il y a des fichiers de context qui affichent, mais tous les fichiers sont vides.
 Après avoir demandé à mes camarades de classe, je me rends compte qu'il y avait un problème avec la définition  des variables dans mon script, et que les noms de fichiers dans le script ne correspondaient pas à mes noms de fichiers locaux. Pour moi le but des journée suivante est de règler ce problème.
-De plus, j‘ai trouvé l'exemple html de la désignation de site pour préparer l'organisation de notre page, et un bon exemple de scripte de tableau des étudiants ancient pour nous aider à avancer.
+Dans mon tableux chinois la concordance n'affiche pas, il me donne seument '"Contexte gauche"	"Cible" et	"Contexte droit". Cette problème me bloque. 
 
 #10 décembre
 charlotte: lors de la recherche d'urls en français et avant de faire des analyses, je peux observer un changement de perception des femmes au foyer selon l'orientation politique du media (journaux de droite et religieux ont une opinion plutôt positive des femmes au foyer qu'ils mettent en valeur, tandis que les autres pointent les risques et les désavantages de cette situation
 
 #20 décembre
 charlotte: Abandon de certaines langues car difficulté à trouver assez de materiel sur le sujet dans les langues en question
-Kexin : Une membre de notre groupe décide de quitter notre peojet, dans ca cas on décide d'ajouter l'anglais et l'espagnol dans notre traviller. Charlotte s'occupe de trouver les urls d'espagol et moi je prépare les 50 urls d'anglais. J'ai essayé à exercuter le tableau, la pluspart des urls marche, mais il y a certain urls qui ne marche pas, donc il y a beaucoup de chose à ranger. 
+Kexin : Une membre de notre groupe décide de quitter notre peojet, dans ca cas on décide d'ajouter l'anglais et l'espagnol dans notre traviller. Charlotte s'occupe de trouver les urls d'espagol et moi je prépare les 50 urls d'anglais. J'ai essayé à exercuter le tableau anglais, la pluspart des urls marche, mais il y a certain urls qui ne marche pas, donc il y a beaucoup de chose à ranger. 
 
 #22 décembre
 charlotte: test des tableaux avec les url en anglais, espagnol et français
@@ -80,8 +70,24 @@ charlotte: test des tableaux avec les url en anglais, espagnol et français
 charlotte: ajout du tableau en espagnol
 #5 janvier
 charlotte: dernières modifications sur les tableaux en anglais, espagnol et français, nettoyage de certains dossiers (les fichiers inutiles sont retirés
-Kexin: De ma part, je finis le itrameur de anglais, français, et espagnol avec l'utilisation de site http://www.tal.univ-paris3.fr/trameur/iTrameur/. 
-problème rencontre :  sur itameur le pôle source doit toujours être un mot. Dans ce cas le mot en français «femme au foyer» et le mot en espagnol «ama de casa» ne pouvons d'être identifié parce que ce sont  les constructions de trois mots. Pendant le cours le prof me donner le conseil de remplacer  «femme au foyer» par «femme_au_foyer » pourque l'itrameur peut identifier le mot, mais quand je le effectuer  il y a encore le problème d'identifier le  pôle source. Ensuite j'essaie de mettre les mots ensemble en forme «femmeaufoyer» et «amadecasa», et cette fois ça marche sur itrameur. 
+Kexin: De ma part, je fais le itrameur de anglais, français, et espagnol avec l'utilisation de site http://www.tal.univ-paris3.fr/trameur/iTrameur/. 
+
+problème rencontre : 
+
+D'abord, le script itrameur ne march pas bien sur mon Mac,  il présent erreur: 
+RE error: illegal byte sequence
+pour regler ce problème je consulte Internet et la solution trouvées : il faut ajouter  LC_CTYPE=C  devant sed pour Mac.
+après le script marche bien et produit le corpus totale.
+Après avoir testé à la fois dumps-text et contextes, j'ai constaté que le corpus produit par contextes était de meilleure qualité, j'ai donc choisi de continuer à utiliser le texte généré par contextes.
+
+ Ensuite, sur itameur le pôle source doit toujours être un mot. Dans ce cas le mot en français «femme au foyer» et le mot en espagnol «ama de casa» ne pouvons d'être identifié parce que ce sont  les constructions de trois mots. Pendant le cours le prof me donner le conseil de remplacer  «femme au foyer» par «femme_au_foyer » pourque l'itrameur peut identifier le mot, mais quand je le effectuer  il y a encore le problème d'identifier le  pôle source. Ensuite j'essaie de mettre les mots ensemble en forme «femmeaufoyer» et «amadecasa», et cette fois ça marche sur itrameur. 
+ 
+ Mais quand je re vérifie le cooccurrents, je trouve que il y a des mots outils qu’il nous n’intéresse pas : comme «le» «la» «une» «l’» en français ; «the»«or»«of» «A» en anglais ， après que je consulte Internet, je comprends qu’il faut effacer le stopword, cela est un étape de traiter le corpus dans le NLP.
+ 
+ # 6 janvier
+
+
+
 
 
 
