@@ -13,23 +13,22 @@ Pour notre groupe nous avons eu de nombreuses discussions pour choisir le vocabu
 # 12 octobre
 Nous nous sommes mises d'accord sur quel mot nous allions étudier :« femme au foyer ». Dans notre groupe nous décidions à étudier en trois langues : Charlotte fait la partie de français, Kexin fait la partie de chinois et Aigerim fait la partie de russe ou kazakh.  
 Mot/expression choisi: "femme au foyer"
-On se concentre sur les articles de presse 
-langues envisagées: français, mandarin, kazakh ou russe
+On va se concentre sur les articles de presse, et article sur Internet.  
+langues envisagées: français, mandarin, kazakh ou russe. 
 Le but est de comprendre comment sont perçues les femmes au foyer et comment cette perception varie d'une culture à l'autre
 
-# 15 novembre 
-On reste sur des articles récents (2015-2022)
+# 15 octobre
+pour le corpus, on reste sur des articles récents (2015-2022). 
 
 # 25 novembre.
 
 Nous reprenons le travail de groupe sur le sujet de femme au foyer.
 
 # 30 novembre
-
+Kexin: 
 Nous avons bien organisé tous les branches necessaires pour notre projet. Charlotte a bien transmis les 50 urls françaises.
-De ma part, je transmis les urls chinois,aspirations chinois, dumps chinois; ensuite je mis mon tableau, etje remplis un peu l’histoire de notre choix de mot.
-Mais je rencontre un peu difféculté de compléter mon urls, j'ai seulement 20 maintnant, parce que c'est difficle de trouver les articles de presse officiels, de toute façon je vais élargir
-champe de rechere, ou nous allons accpter aussi des article pas officiel sur Internet.
+De ma part, je transmis les urls chinois,aspirations chinois, dumps chinois; ensuite je mis mon tableau, et je remplis un peu l’histoire de notre choix de mot.
+Mais je rencontre un peu difféculté de compléter mon urls, j'ai seulement 20 maintnant, parce que c'est difficle de trouver les articles de presse officiels, de toute façon je vais élargir le champe de rechere, ou nous allons accpter aussi des article pas officiel sur Internet.
 
 notre étape suivante
 Le but d'aujoud'hui
@@ -39,6 +38,7 @@ Le but d'aujoud'hui
 -concordance ajouter une fiche concordance.sh
 
 # 1 décembre
+charlotte: 
 Après avoir réuni les 50 URLs en français et sans analyse (juste en parcourant les articles) je remarque les choses suivantes:
 La plupart des articles français semblent relever surtout des aspects negatifs liés au fait d'être femme au foyer (fatigue, manque de reconnaissance, mort professionnelle, précarité/dépendance au conjoint) 
 
@@ -49,6 +49,15 @@ Il faudrait donc utiliser une expression régulière tel que :
 (mère|femme|maman)s?(au foyer)
 pour repérer les occurences de ce concept dans les différents textes
 De plus, le index.html est bien rédigé et notre page git est bien crée.
+
+Kexin : 
+ Pour moi je rencontre prblème dans mon tableau. 
+
+
+
+
+
+
 
 # 5 décembre 
 Aigrim a effectué un push de 50 urls en russe. 
@@ -63,7 +72,7 @@ charlotte: lors de la recherche d'urls en français et avant de faire des analys
 
 #20 décembre
 charlotte: Abandon de certaines langues car difficulté à trouver assez de materiel sur le sujet dans les langues en question
-Kexin : Une membre de notre groupe décide de quitter notre peojet, dans ca cas on décide d'ajouter l'anglais et l'espagnol dans notre traviller. Charlotte s'occupe de trouver les urls d'espagol et moi je prépare les 50 urls d'anglais. 
+Kexin : Une membre de notre groupe décide de quitter notre peojet, dans ca cas on décide d'ajouter l'anglais et l'espagnol dans notre traviller. Charlotte s'occupe de trouver les urls d'espagol et moi je prépare les 50 urls d'anglais. J'ai essayé à exercuter le tableau, la pluspart des urls marche, mais il y a certain urls qui ne marche pas, donc il y a beaucoup de chose à ranger. 
 
 #22 décembre
 charlotte: test des tableaux avec les url en anglais, espagnol et français
