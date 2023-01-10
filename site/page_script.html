@@ -1,4 +1,4 @@
-<html>
+﻿<html>
    <head>
 	
   <style>
@@ -28,11 +28,7 @@
         background-color: #D6F2F9;
       }
 	   </style>
-	   <style>
-      .script {
-        margin-left: 100px;
-      }
-    </style>
+	
 	   <center><img  width="70%" src="../images/script.png" style="max-width: 50%;" /></center>
 		</head>
 <body>
@@ -47,95 +43,150 @@
 </nav>
 
 	<center><h2><br><br>Script de création de tableaux</h2></center>
-	<pre class="script">
-#!/usr/bin/env bash
+	<div style="border: 10px solid #456C94; box-shadow: 0 0 10px #333333;">
+	<div style="max-width: 80%;">
+ <p>
+<p>#!/usr/bin/env bash</p>
 
-#===============================================================================
-# Ce programme prend deux arguments:
-# -le nom du fichier d'urls 
-# -le nom_du_tableau.html
-# le mot/l'expression régulière est à modifier dans le script 
-# exemple d'utilisation du script: bash tableau.sh urls_fr tableau_fr.html
-# ceci produira un tableau avec les urls, un dump html, un dump texte, le contexte, le nombre d'occurences et les concordances
-#===============================================================================
+<p>#===============================================================================<br />
+# Ce programme prend deux arguments:<br />
+# -le nom du fichier d&#39;urls<br />
+# -le nom_du_tableau.html<br />
+# le mot/l&#39;expression r&eacute;guli&egrave;re est &agrave; modifier dans le script<br />
+# exemple d&#39;utilisation du script: bash tableau.sh urls_fr tableau_fr.html<br />
+# ceci produira un tableau avec les urls, un dump html, un dump texte, le contexte, le nombre d&#39;occurences et les concordances<br />
+#===============================================================================</p>
 
-fichier_urls=$1 # le fichier d'URL en entrée
-fichier_tableau=$2 # le fichier HTML en sortie
+<p>fichier_urls=$1 # le fichier d&#39;URL en entr&eacute;e<br />
+fichier_tableau=$2 # le fichier HTML en sortie</p>
 
-if [[ $# -ne 2 ]]
-then
-	echo "Ce programme demande exactement deux arguments."
-	exit
-fi
+<p>if [[ $# -ne 2 ]]<br />
+then<br />
+&nbsp;&nbsp; &nbsp;echo &quot;Ce programme demande exactement deux arguments.&quot;<br />
+&nbsp;&nbsp; &nbsp;exit<br />
+fi</p>
 
-#mot/expression régulière dans la langue choisie
-mot="[Hh]ousewiv?f?es?" # à modifier | espagnol: "[Aa]mas? de casa" | français:"[Ff]emmes? au foyer"
+<p>mot=&quot;mot&quot; # &agrave; modifier espagnol: "[Aa]mas? de casa" | français:"[Ff]emmes? au foyer" | anglais "[Hh]ousewiv?f?es?"</p>
 
-echo $fichier_urls;
-basename=$(basename -s .txt $fichier_urls)
+<p>echo $fichier_urls;<br />
+basename=$(basename -s .txt $fichier_urls)</p>
 
-echo "&lt;html&gt;&lt;body&gt;" &gt; $fichier_tableau
-echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;dump html&lt;/th&gt;&lt;th&gt;dump text&lt;/th&gt;&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;&lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
+<p>echo &quot;&lt;html&gt;&lt;body&gt;&quot; &gt; $fichier_tableau<br />
+echo &quot;&lt;h2&gt;Tableau $basename :&lt;/h2&gt;&quot; &gt;&gt; $fichier_tableau<br />
+echo &quot;&lt;br/&gt;&quot; &gt;&gt; $fichier_tableau<br />
+echo &quot;&lt;table&gt;&quot; &gt;&gt; $fichier_tableau<br />
+echo &quot;&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;dump html&lt;/th&gt;&lt;th&gt;dump text&lt;/th&gt;&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;&lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;&quot; &gt;&gt; $fichier_tableau</p>
 
-lineno=1;
-while read -r URL; do
-	echo -e "\tURL : $URL";
-	# la façon attendue, sans l'option -w de cURL
-	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
-	charset=$(curl -Ls $URL -D - -o "./aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+<p>lineno=1;<br />
+while read -r URL; do<br />
+&nbsp;&nbsp; &nbsp;echo -e &quot;\tURL : $URL&quot;;<br />
+&nbsp;&nbsp; &nbsp;# la fa&ccedil;on attendue, sans l&#39;option -w de cURL<br />
+&nbsp;&nbsp; &nbsp;code=$(curl -ILs $URL | grep -e &quot;^HTTP/&quot; | grep -Eo &quot;[0-9]{3}&quot; | tail -n 1)<br />
+&nbsp;&nbsp; &nbsp;charset=$(curl -Ls $URL -D - -o &quot;./aspirations/$basename-$lineno.html&quot; | grep -Eo &quot;charset=(\w|-)+&quot; | cut -d= -f2)</p>
 
-	# autre façon, avec l'option -w de cURL
-	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
-	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+<p>&nbsp;&nbsp; &nbsp;# autre fa&ccedil;on, avec l&#39;option -w de cURL<br />
+&nbsp;&nbsp; &nbsp;# code=$(curl -Ls -o /dev/null -w &quot;%{http_code}&quot; $URL)<br />
+&nbsp;&nbsp; &nbsp;# charset=$(curl -ILs -o /dev/null -w &quot;%{content_type}&quot; $URL | grep -Eo &quot;charset=(\w|-)+&quot; | cut -d= -f2)</p>
 
-	echo -e "\tcode : $code";
+<p>&nbsp;&nbsp; &nbsp;echo -e &quot;\tcode : $code&quot;;</p>
 
-	if [[ ! $charset ]]
-	then
-		echo -e "\tencodage non détecté, on prendra UTF-8 par défaut.";
-		charset="UTF-8";
-	else
-		echo -e "\tencodage : $charset";
-	fi
+<p>&nbsp;&nbsp; &nbsp;if [[ ! $charset ]]<br />
+&nbsp;&nbsp; &nbsp;then<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;echo -e &quot;\tencodage non d&eacute;tect&eacute;, on prendra UTF-8 par d&eacute;faut.&quot;;<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;charset=&quot;UTF-8&quot;;<br />
+&nbsp;&nbsp; &nbsp;else<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;echo -e &quot;\tencodage : $charset&quot;;<br />
+&nbsp;&nbsp; &nbsp;fi</p>
 
-	if [[ $code -eq 200 ]]
-	then
-		dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
-		if [[ $charset -ne "UTF-8" && -n "$dump" ]]
-		then
-			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
-		fi
-	else
-		echo -e "\tcode différent de 200 utilisation d'un dump vide"
-		dump=""
-		charset=""
-	fi
-  echo "$dump" > "./dumps-text/$basename-$lineno.txt"
-  echo "./dumps-text/$basename-$lineno.txt"
-  
+<p>&nbsp;&nbsp; &nbsp;if [[ $code -eq 200 ]]<br />
+&nbsp;&nbsp; &nbsp;then<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;if [[ $charset -ne &quot;UTF-8&quot; &amp;&amp; -n &quot;$dump&quot; ]]<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;then<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;fi<br />
+&nbsp;&nbsp; &nbsp;else<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;echo -e &quot;\tcode diff&eacute;rent de 200 utilisation d&#39;un dump vide&quot;<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;dump=&quot;&quot;<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;charset=&quot;&quot;<br />
+&nbsp;&nbsp; &nbsp;fi<br />
+&nbsp; echo &quot;$dump&quot; &gt; &quot;./dumps-text/$basename-$lineno.txt&quot;<br />
+&nbsp; echo &quot;./dumps-text/$basename-$lineno.txt&quot;<br />
+&nbsp;</p>
 
-  # compte du nombre d'occurrences
-  NB_OCC=$(grep -E -o "$mot" ./dumps-text/$basename-$lineno.txt | wc -l)
+<p>&nbsp; # compte du nombre d&#39;occurrences<br />
+&nbsp; NB_OCC=$(grep -E -o &quot;[Ff]emmes? au foyer&quot; ./dumps-text/$basename-$lineno.txt | wc -l)</p>
 
-  # extraction des contextes
+<p>&nbsp; # extraction des contextes</p>
 
-  grep -E -A2 -B2 $mot ./dumps-text/$basename-$lineno.txt > ./contextes/$basename-$lineno.txt
+<p>&nbsp; grep -E -A2 -B2 &quot;[Ff]emmes? au foyer&quot; ./dumps-text/$basename-$lineno.txt &gt; ./contextes/$basename-$lineno.txt</p>
 
-  # construction des concordance avec une commande externe
+<p>&nbsp; # construction des concordance avec une commande externe</p>
 
-  bash ./programmes/concordance.sh ./dumps-text/$basename-$lineno.txt "$mot" > ./concordances/$basename-$lineno.html
+<p>&nbsp; bash ./programmes/concordance.sh ./dumps-text/$basename-$lineno.txt &quot;$mot&quot; &gt; ./concordances/$basename-$lineno.html</p>
 
-	echo "&lt;tr&gt;&lt;td&gt;$lineno&lt;/td&gt;&lt;td&gt;$code&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;$URL\&quot;&gt;$URL&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$charset&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./aspirations/$basename-$lineno.html\&quot;&gt;html&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./dumps-text/$basename-$lineno.txt\&quot;&gt;text&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$NB_OCC&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./contextes/$basename-$lineno.txt\&quot;&gt;contextes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;./concordances/$basename-$lineno.html\&quot;&gt;concordance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
-echo -e "\t--------------------------------"
-lineno=$((lineno+1));
-done &lt; $fichier_urls
-echo "&lt;/table&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
-</pre>
-	<h2>Script concordance</h2>
-	<p></p>
+<p>&nbsp;&nbsp; &nbsp;echo &quot;&lt;tr&gt;&lt;td&gt;$lineno&lt;/td&gt;&lt;td&gt;$code&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;$URL\&quot;&gt;$URL&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$charset&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;./aspirations/$basename-$lineno.html&quot;&gt;html&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;./dumps-text/$basename-$lineno.txt&quot;&gt;text&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$NB_OCC&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;./contextes/$basename-$lineno.txt&quot;&gt;contextes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;./concordances/$basename-$lineno.html&quot;&gt;concordance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&quot; &gt;&gt; $fichier_tableau<br />
+&nbsp;&nbsp; &nbsp;echo -e &quot;\t--------------------------------&quot;<br />
+&nbsp;&nbsp; &nbsp;lineno=$((lineno+1));<br />
+done &lt; $fichier_urls<br />
+echo &quot;&lt;/table&gt;&quot; &gt;&gt; $fichier_tableau<br />
+echo &quot;&lt;/body&gt;&lt;/html&gt;&quot; &gt;&gt; $fichier_tableau</p>
+	</div>
+	</div>
+	<center><h2><br><br>Script concordancier</h2></center>
+	<div style="border: 10px solid #456C94; box-shadow: 0 0 10px #333333;">
+	<div style="max-width: 80%; ">
+		<p>#!/usr/bin/bash</p>
+
+<p><br />
+fichier_text=$1<br />
+motif=$2</p>
+
+<p>if [[ $# -ne 2 ]]<br />
+then<br />
+&nbsp;&nbsp; &nbsp;echo &quot;Ce programme demande exactement deux arguments.&quot;<br />
+&nbsp;&nbsp; &nbsp;exit<br />
+fi</p>
+
+<p>if [[ ! -f $fichier_text ]]<br />
+then<br />
+&nbsp; echo &quot;le fichier $fichier_text n&#39;existe pas&quot;<br />
+&nbsp; exit<br />
+fi</p>
+
+<p>if [[ -z $motif ]]<br />
+then<br />
+&nbsp; echo &quot;le motif est vide&quot;<br />
+&nbsp; exit<br />
+fi</p>
+
+<p>echo &quot;<br />
+&lt;!DOCTYPE html&gt;<br />
+&lt;html lang=\&quot;en\&quot;&gt;<br />
+&lt;head&gt;<br />
+&nbsp; &lt;meta charset=\&quot;UTF-8\&quot;&gt;<br />
+&nbsp; &lt;title&gt;Concordance&lt;/title&gt;<br />
+&lt;/head&gt;<br />
+&lt;body&gt;<br />
+&lt;table&gt;<br />
+&lt;thead&gt;<br />
+&nbsp; &lt;tr&gt;<br />
+&nbsp;&nbsp;&nbsp; &lt;th class=\&quot;has-text-right\&quot;&gt;Contexte gauche&lt;/th&gt;<br />
+&nbsp;&nbsp;&nbsp; &lt;th&gt;Cible&lt;/th&gt;<br />
+&nbsp;&nbsp;&nbsp; &lt;th class=\&quot;has-text-left\&quot;&gt;Contexte droit&lt;/th&gt;<br />
+&nbsp; &lt;/tr&gt;<br />
+&lt;/thead&gt;<br />
+&lt;tbody&gt;<br />
+&quot;<br />
+##sur mac pour utiliser GUN grep il faut pr&eacute;fixer grep avec g<br />
+ggrep -P &quot;\p{Han}{0,5}$motif(\p{Han}){0,5}&quot; $fichier_text | sed -E &quot;s/(.*)($motif)(.*)/&lt;tr&gt;&lt;td class=&quot;has-text-right&quot;&gt;\1&lt;\/td&gt;&lt;td class=&quot;has-text-centre&quot;&gt;\2&lt;\/td&gt;&lt;td class=&quot;has-text-left&quot;&gt;\3&lt;\/td&gt;&lt;\/tr&gt;/&quot;</p>
+
+<p>echo &quot;<br />
+&lt;/tbody&gt;<br />
+&lt;/table&gt;<br />
+&lt;/body&gt;<br />
+&lt;/html&gt;<br />
+&quot;</p>
+		</div></div>
 	</body>
 </html>
