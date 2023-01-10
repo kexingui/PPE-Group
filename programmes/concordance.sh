@@ -40,8 +40,9 @@ echo "
 </thead>
 <tbody>
 "
-##sur mac pour utiliser GUN grep il faut préfixer grep avec g
-ggrep -P "\p{Han}{0,5}$motif(\p{Han}){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/<tr><td class="has-text-right">\1<\/td><td class="has-text-centre">\2<\/td><td class="has-text-left">\3<\/td><\/tr>/"
+
+# (.*)([Ff]emmes? au foyer)(.*)
+grep -E -o "(\w+\W+){0,5}\b$motif\b(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/"
 
 echo "
 </tbody>
