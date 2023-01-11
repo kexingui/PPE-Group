@@ -119,8 +119,7 @@
 
 <p><span style="font-size:16px">Charlotte : Abandon de certaines langues car difficult&eacute; &agrave; trouver assez de mat&eacute;riel sur le sujet dans les langues en question. </span></p>
 
-<p><span style="font-size:16px">Kexin : Une membre de notre groupe d&eacute;cide de quitter notre projet, donc nous d&eacute;cidons d&#39;ajouter l&#39;anglais et l&#39;espagnol dans notre travail. </span><span style="font-size:16px">Charlotte s&#39;occupe de trouver les URLs d&#39;espagnol et moi je pr&eacute;pare les 50 URLs d&#39;anglais.</span></p>
-
+<p><span style="font-size:16px">Kexin : Une membre de notre groupe d&eacute;cide de quitter notre projet, on d&eacute;cide d&#39;ajouter l&#39;anglais et l&#39;espagnol.<br/> Charlotte s&#39;occupe de trouver les urls d&#39;espagol et je pr&eacute;pare les 50 urls d&#39;anglais. J&#39;ai essay&eacute; d&#39;&eacute;xecuter le tableau anglais, <br/>la plupart des urls marchent mais certaines ne sont pas reconnues, il faut donc en trouver d&#39;autres.</span></p>
 <p><strong><span style="font-size:16px">22/12</span></strong></p>
 
 <p><span style="font-size:16px">Charlotte : test des tableaux avec les URLs en anglais, espagnol et fran&ccedil;ais. #23 d&eacute;cembre Charlotte : ajout du tableau en espagnol. </span></p>
@@ -165,6 +164,17 @@ les modifications d&#39;images ont &eacute;t&eacute; faites avec <a href="https:
 Kexin:<br />
 Probl&egrave;me de tableau.<br />
 Quand je v&eacute;rifiais le tableux sur notre page de site je trouve que en fait il y a des probl&egrave;me d&rsquo;affichage dans le contexte d&rsquo;espagnol et fran&ccedil;ais: Le contenu du texte s&#39;affiche sur la page, mais &agrave; l&#39;extr&ecirc;me gauche de la page, il y a des caract&egrave;re d&eacute;sagr&eacute;able comme /dumps-text/cordances/. Donc le probl&egrave;me qu&#39;on a rencontr&eacute; dans itrameur c&#39;est &agrave; cause du corpus total origine de context.</span></p>
+<p><span style="font-size:16px">C&#39;est &agrave; cause de egrep.<br />
+Egrep n&rsquo;est pas tr&egrave;s efficace&nbsp; quand il cherche des mots avec espace, ici c&rsquo;est le cas de &laquo; femme au foyer&raquo; et &laquo; ama de casa &raquo;. C&#39;est pourquoi notre script fonctionne pour trouver le mot anglais et chinois,&nbsp; mais il y a un probl&egrave;me pour le fran&ccedil;ais et espagnol.<br />
+&nbsp;Pour r&egrave;gler ce probl&egrave;me, il faut qu&rsquo;on d&eacute;clarer le mot apr&egrave;s grep:<br />
+En fran&ccedil;ais :<br />
+NB_OCC=$(grep -E -o &quot;[Ff]emmes? au foyer&quot; ./dumps-text/$basename-$lineno.txt | wc -l)<br />
+grep -E -A2 -B2 &quot;[Ff]emmes? au foyer&quot; ./dumps-text/$basename-$lineno.txt &gt; ./contextes/$basename-$lineno.txt<br />
+En espagnol :<br />
+NB_OCC=$(grep -E -o &quot;[Aa]mas? de casa&quot; ./dumps-text/$basename-$lineno.txt | wc -l)<br />
+grep -E -A2 -B2 &quot;[Aa]mas? de casa&quot; ./dumps-text/$basename-$lineno.txt &gt; ./contextes/$basename-$lineno.txt</span></p>
+
+<p><span style="font-size:16px">Apr&egrave;s ce changement, les contextes fonctionnent bien.</span></p>	
 	</div>
 	
 	</body>
