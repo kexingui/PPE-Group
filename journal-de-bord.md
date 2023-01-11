@@ -81,9 +81,7 @@ après le script marche bien et produit le corpus totale.
 Après avoir testé à la fois dumps-text et contextes, j'ai constaté que le corpus produit par contextes était de meilleure qualité, j'ai donc choisi de continuer à utiliser le texte généré par contextes.
 
  Ensuite, sur itameur le pôle source doit toujours être un mot. Dans ce cas le mot en français «femme au foyer» et le mot en espagnol «ama de casa» ne pouvons d'être identifié parce que ce sont  les constructions de trois mots. Pendant le cours le prof me donner le conseil de remplacer  «femme au foyer» par «femme_au_foyer » pourque l'itrameur peut identifier le mot, mais quand je le effectuer  il y a encore le problème d'identifier le  pôle source. Ensuite j'essaie de mettre les mots ensemble en forme «femmeaufoyer» et «amadecasa», et cette fois ça marche sur itrameur. 
- 
- Mais quand je re vérifie le cooccurrents, je trouve que il y a des mots outils qu’il nous n’intéresse pas : comme «le» «la» «une» «l’» en français ; «the»«or»«of» «A» en anglais ， après que je consulte Internet, je comprends qu’il faut effacer le stopword, cela est un étape de traiter le corpus dans le NLP.
- 
+  
 # 6 janvier
  Kexin: 
  Afin d'éliminer les mots vides, j'utilise le programme python nltk. j'installe le stop liste de nltk, cela fonnction pour anglais, beaucoup de mots vides sont éliminés. 
