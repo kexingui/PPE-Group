@@ -66,7 +66,7 @@ then<br />
 &nbsp;&nbsp; &nbsp;exit<br />
 fi</p>
 
-<p>mot=&quot;mot&quot; # &agrave; modifier espagnol: "[Aa]mas? de casa" | français:"[Ff]emmes? au foyer" | anglais "[Hh]ousewiv?f?es?"</p>
+<p>mot=&quot;mot&quot; # &agrave; modifier espagnol: "[Aa]mas? de casa" | français:"[Ff]emmes? au foyer" | anglais "[Hh]ousewiv?f?es?"| chinois "家庭主妇"</p>
 
 <p>echo $fichier_urls;<br />
 basename=$(basename -s .txt $fichier_urls)</p>
@@ -180,7 +180,7 @@ fi</p>
 &quot;<br />
 ##sur mac pour utiliser GUN grep il faut pr&eacute;fixer grep avec g<br />
 ggrep -P &quot;\p{Han}{0,5}$motif(\p{Han}){0,5}&quot; $fichier_text | sed -E &quot;s/(.*)($motif)(.*)/&lt;tr&gt;&lt;td class=&quot;has-text-right&quot;&gt;\1&lt;\/td&gt;&lt;td class=&quot;has-text-centre&quot;&gt;\2&lt;\/td&gt;&lt;td class=&quot;has-text-left&quot;&gt;\3&lt;\/td&gt;&lt;\/tr&gt;/&quot;</p>
-
+## pour l'anglais et l'espagnol on utilise: grep -E -o &quot;\w{0,10}\b$motif\b(\W+\w+){0,10}&quot; $fichier_text | sed -E &quot;s/(.)($motif)(.)/&lt;tr&gt;&lt;td&gt;\1&lt;\/td&gt;&lt;td&gt;\2&lt;\/td&gt;&lt;td&gt;\3&lt;\/td&gt;&lt;\/tr&gt;/&quot;</p>
 <p>echo &quot;<br />
 &lt;/tbody&gt;<br />
 &lt;/table&gt;<br />
